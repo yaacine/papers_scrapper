@@ -5,8 +5,11 @@ import psycopg2
 
 
 authors = []
-authors.append('Byung Kyu Kim')
-authors.append('Steven A Cholewiak')
+# authors.append('Byung Kyu Kim') this one is done
+
+authors.append('Andrea Toldy')
+authors.append('Ahmad Reza Bahramian')
+authors.append('Jens Gaitzsch')
 authors.append('Jan Feijen')
 authors.append('PWM Blom')
 authors.append('Katharina Landfester')
@@ -14,7 +17,7 @@ authors.append('Kurt Kremer')
 authors.append('Qiang Fu')
 
 csv_columns = ['id','abstract','author','cites','cites_id','journal','number','pages','publisher','title','url','volume','year']
-csv_file = "Articles.csv"
+csv_file = "articles_part2.csv"
 counter=0
 for author_name in authors:
     try:
