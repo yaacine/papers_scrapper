@@ -1,36 +1,40 @@
-from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 import json
 import psycopg2
 
 # Retrieve the author's data, fill-in, and print
-search_query = scholarly.search_author('Steven A Cholewiak')
-author = next(search_query).fill()
-# json_result= json.dumps(author)
-# print(json_result)
+# search_query = scholarly.search_author('Steven A Cholewiak')
+# author = next(search_query).fill()
 
-# # Print the titles of the author's publications
-# print([pub.bib['title'] for pub in author.publications])
 
-# # Take a closer look at the first publication
+# Take a closer look at the first publication
 # pub = author.publications[0].fill()
 # print(pub)
 
-# # Which papers cited that publication?
+# Which papers cited that publication?
 # print([citation.bib['title'] for citation in pub.citedby])
 
-search_query = scholarly.search_pubs(
-    'Perception of physical stability and center of mass of 3D objects')
+# Free Proxy
+# pg = ProxyGenerator()
+# pg.FreeProxies()
+# scholarly.use_proxy(pg)
+
+# TOR internal proxy
+pg = ProxyGenerator()
+pg.Tor_Internal(tor_cmd = "tor")
+scholarly.use_proxy(pg)
+
+search_query = scholarly.search_pubs('A Survey and Classification of Security and Privacy Research in Smart Healthcare Systems')
 publication = next(search_query)
 # print(publication)
 full_publication = publication.fill()
-print("ID is yacine  "+ full_publication.bib["ID"])
-print("ID is yacine  "+ full_publication.bib["author_id"])
+print("ID is yacine  ")
+print(full_publication.bib["ID"])
+# authors = '-'.join(full_publication.bib["author_id"])
+print("ID is yacine  ")
+print(full_publication.bib["author_id"])
 
-# # Set the json filename
-# jsonFile = 'result.json'
-# # Open a json file for writing json data
-# with open(jsonFile, 'w') as fileHandler1:
-#     json.dump(full_publication, fileHandler1, indent=None)
+
 
 try:
     connection = psycopg2.connect(user="tomee",
@@ -48,7 +52,7 @@ try:
     print("You are connected to - ", record, "\n")
 
     create_table_query = '''
-        CREATE TABLE IF NOT EXISTS article
+        CREATE TABLE IF NOT EXISTS publication
                 (	ID VARCHAR(100) PRIMARY KEY NOT NULL,
                     abstarct TEXT,
                     author VARCHAR(200),
@@ -74,7 +78,7 @@ try:
 
 
     q = """INSERT INTO article (article_id,abstarct,author,author_id,eprint,cites,gsrank,journal,nbr,pages,publisher,title,url,venue,volume,pb_year,) 
-         VALUES(%(bib["ID"])s, %(bib["abstract"])s, %(bib["author"])s, %(bib["author_id"])s)"""
+         VALUES(%(bib["ID"])s, %(bib["abstract"])s, %(bib["author"])s, %(author_name)"""
 
     cursor.execute(q, full_publication)
     connection.commit()

@@ -2,16 +2,484 @@ INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Found 1 authors
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
-INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUbB3cDEMLI61AjuWo:AAGBfm0AAAAAX60moWq4cQIg7VKAWc_YD8YRCpFRiXQR&scisig=AAGBfm0AAAAAX60moXpi5-2dwjZWvbTnji_wyEUHovi5&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got an access denied error (403).
+INFO:scholarly:No other connections possible.
+INFO:scholarly:Retrying immediately with another session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got an access denied error (403).
+INFO:scholarly:No other connections possible.
+INFO:scholarly:Will retry after 113.24774166410371 seconds (with another session).
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got an access denied error (403).
+INFO:scholarly:No other connections possible.
+INFO:scholarly:Will retry after 115.09852702474461 seconds (with another session).
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=http://167.172.16.169:80 https=http://167.172.16.169:80
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {'http': 'http://167.172.16.169:80', 'https': 'http://167.172.16.169:80'}
+INFO:scholarly:Response code 429.
+                                    Retrying...
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {'http': 'http://167.172.16.169:80', 'https': 'http://167.172.16.169:80'}
+INFO:scholarly:Response code 429.
+                                    Retrying...
+INFO:scholarly:Session proxy config is {'http': 'http://167.172.16.169:80', 'https': 'http://167.172.16.169:80'}
+INFO:scholarly:Response code 429.
+                                    Retrying...
+INFO:scholarly:Session proxy config is {'http': 'http://167.172.16.169:80', 'https': 'http://167.172.16.169:80'}
+INFO:scholarly:Response code 429.
+                                    Retrying...
+INFO:scholarly:Session proxy config is {'http': 'http://167.172.16.169:80', 'https': 'http://167.172.16.169:80'}
+INFO:scholarly:Response code 429.
+                                    Retrying...
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=http://213.105.29.14:3128 https=http://213.105.29.14:3128
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {'http': 'http://213.105.29.14:3128', 'https': 'http://213.105.29.14:3128'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {'http': 'http://213.105.29.14:3128', 'https': 'http://213.105.29.14:3128'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {'http': 'http://213.105.29.14:3128', 'https': 'http://213.105.29.14:3128'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {'http': 'http://213.105.29.14:3128', 'https': 'http://213.105.29.14:3128'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception ProxyError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33 (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1106: The handshake operation timed out')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=http://193.22.159.250:3128 https=http://193.22.159.250:3128
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {'http': 'http://193.22.159.250:3128', 'https': 'http://193.22.159.250:3128'}
+INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Exception ProxyError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {'http': 'http://193.22.159.250:3128', 'https': 'http://193.22.159.250:3128'}
+INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUR1vV6GAA:AAGBfm0AAAAAX603yNvY678h2_dwHtZRcJf0iD5fK5ri&scisig=AAGBfm0AAAAAX603yJadmjLmmQu-S0kiZwGH6ZaqkAQ_&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Session proxy config is {'http': 'http://193.22.159.250:3128', 'https': 'http://193.22.159.250:3128'}
+INFO:scholarly:Got an access denied error (403).
+INFO:scholarly:No other connections possible.
+INFO:scholarly:Retrying immediately with another session.
+INFO:scholarly:Exception ProxyError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.googleusercontent.com', port=443): Max retries exceeded with url: /scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUR1vV6GAA:AAGBfm0AAAAAX603yNvY678h2_dwHtZRcJf0iD5fK5ri&scisig=AAGBfm0AAAAAX603yJadmjLmmQu-S0kiZwGH6ZaqkAQ_&scisf=4&ct=citation&cd=-1&hl=en (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {'http': 'http://193.22.159.250:3128', 'https': 'http://193.22.159.250:3128'}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Exception while testing proxy: ('Connection aborted.', InvalidURL("URL can't contain control characters. 'there are no working proxies at this time' (found at least ' ')"))
+INFO:scholarly:Proxy There are no working proxies at this time. does not seem to work.
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=http://193.22.159.250:3128 https=http://193.22.159.250:3128
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {'http': 'http://193.22.159.250:3128', 'https': 'http://193.22.159.250:3128'}
+INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Exception ProxyError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {'http': 'http://193.22.159.250:3128', 'https': 'http://193.22.159.250:3128'}
+INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUhCrKmGAA:AAGBfm0AAAAAX607fIW2aHEr_o-FuF5OMVJJV4ub7y9W&scisig=AAGBfm0AAAAAX607fIeRq3IxAN9H2VaGmoORINFy_CEc&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Session proxy config is {'http': 'http://193.22.159.250:3128', 'https': 'http://193.22.159.250:3128'}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Exception while testing proxy: ('Connection aborted.', InvalidURL("URL can't contain control characters. 'there are no working proxies at this time' (found at least ' ')"))
+INFO:scholarly:Proxy There are no working proxies at this time. does not seem to work.
+INFO:scholarly:Exception while testing proxy: HTTPConnectionPool(host='165.232.110.83', port=8004): Read timed out. (read timeout=5)
+INFO:scholarly:Proxy http://165.232.110.83:8004 does not seem to work.
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=http://165.232.110.83:8004 https=http://165.232.110.83:8004
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Exception SSLError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception SSLError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception SSLError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception ProxyError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33 (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception ProxyError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10bce1af0>: Failed to establish a new connection: [Errno 61] Connection refused')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Exception while testing proxy: HTTPConnectionPool(host='213.105.29.14', port=3128): Max retries exceeded with url: http://assets.nflxext.com/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x111910eb0>, 'Connection to 213.105.29.14 timed out. (connect timeout=5)'))
+INFO:scholarly:Proxy http://213.105.29.14:3128 does not seem to work.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Proxy http://161.202.226.194:8123 does not seem to work.
+INFO:scholarly:Proxy http://161.202.226.194:8123 does not seem to work.
+INFO:scholarly:Proxy http://161.202.226.194:8123 does not seem to work.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?cites=18104797610932568627
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?cites=18104797610932568627
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?cites=18104797610932568627
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
 INFO:scholarly:Retrying with a new session.
 INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
 INFO:scholarly:Increasing timeout and retrying within same session.
 INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
-INFO:scholarly:Increasing timeout and retrying within same session.
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=10)"),)
-INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?cites=18104797610932568627
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?cites=18104797610932568627
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?cites=18104797610932568627
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?cites=18104797610932568627
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?start=10&hl=fr&as_sdt=0,5&sciodt=0,5&cites=18104797610932568627&scipsc=
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?start=20&hl=fr&as_sdt=0,5&sciodt=0,5&cites=18104797610932568627&scipsc=
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?start=30&hl=fr&as_sdt=0,5&sciodt=0,5&cites=18104797610932568627&scipsc=
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?start=40&hl=fr&as_sdt=0,5&sciodt=0,5&cites=18104797610932568627&scipsc=
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?start=50&hl=fr&as_sdt=0,5&sciodt=0,5&cites=18104797610932568627&scipsc=
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=http://200.73.128.239:8080 https=http://200.73.128.239:8080
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {'http': 'http://200.73.128.239:8080', 'https': 'http://200.73.128.239:8080'}
+INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Session proxy config is {'http': 'http://200.73.128.239:8080', 'https': 'http://200.73.128.239:8080'}
+INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgVJN-3vEMSXkU6LB4M:AAGBfm0AAAAAX7OOH4Mosx298QM7kDrk7Co8i7k8n5Id&scisig=AAGBfm0AAAAAX7OOH-5pIOOmSj_D9UwZ1ccR_as4ytop&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Session proxy config is {'http': 'http://200.73.128.239:8080', 'https': 'http://200.73.128.239:8080'}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Getting https://scholar.google.com/scholar?cites=18104797610932568627
 INFO:scholarly:Session proxy config is {}
@@ -26,34 +494,364 @@ INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Getting https://scholar.google.com/scholar?start=50&hl=fr&as_sdt=0,5&sciodt=0,5&cites=18104797610932568627&scipsc=
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
-INFO:scholarly:Increasing timeout and retrying within same session.
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Found 1 authors
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
-INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?cites=18104797610932568627
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?start=10&hl=fr&as_sdt=0,5&sciodt=0,5&cites=18104797610932568627&scipsc=
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?start=20&hl=fr&as_sdt=0,5&sciodt=0,5&cites=18104797610932568627&scipsc=
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?start=30&hl=fr&as_sdt=0,5&sciodt=0,5&cites=18104797610932568627&scipsc=
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?start=40&hl=fr&as_sdt=0,5&sciodt=0,5&cites=18104797610932568627&scipsc=
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/scholar?start=50&hl=fr&as_sdt=0,5&sciodt=0,5&cites=18104797610932568627&scipsc=
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Attempting to start owned Tor as the proxy
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=socks5://127.0.0.1:9319 https=socks5://127.0.0.1:9319
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0002)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9319', 'https': 'socks5://127.0.0.1:9319'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
 INFO:scholarly:Retrying with a new session.
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
-INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9319', 'https': 'socks5://127.0.0.1:9319'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
 INFO:scholarly:Retrying with a new session.
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
-INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9319', 'https': 'socks5://127.0.0.1:9319'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
 INFO:scholarly:Retrying with a new session.
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
-INFO:scholarly:Increasing timeout and retrying within same session.
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
-INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0002)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9319', 'https': 'socks5://127.0.0.1:9319'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0002)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9319', 'https': 'socks5://127.0.0.1:9319'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Attempting to start owned Tor as the proxy
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=socks5://127.0.0.1:9193 https=socks5://127.0.0.1:9193
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0002)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9193', 'https': 'socks5://127.0.0.1:9193'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9193', 'https': 'socks5://127.0.0.1:9193'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9193', 'https': 'socks5://127.0.0.1:9193'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9193', 'https': 'socks5://127.0.0.1:9193'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9193', 'https': 'socks5://127.0.0.1:9193'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0046)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:scholarly:Attempting to start owned Tor as the proxy
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=socks5://127.0.0.1:9416 https=socks5://127.0.0.1:9416
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0002)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9416', 'https': 'socks5://127.0.0.1:9416'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9416', 'https': 'socks5://127.0.0.1:9416'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9416', 'https': 'socks5://127.0.0.1:9416'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9416', 'https': 'socks5://127.0.0.1:9416'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9416', 'https': 'socks5://127.0.0.1:9416'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0020)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:scholarly:Attempting to start owned Tor as the proxy
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=socks5://127.0.0.1:9220 https=socks5://127.0.0.1:9220
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9220', 'https': 'socks5://127.0.0.1:9220'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9220', 'https': 'socks5://127.0.0.1:9220'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9220', 'https': 'socks5://127.0.0.1:9220'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9220', 'https': 'socks5://127.0.0.1:9220'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9220', 'https': 'socks5://127.0.0.1:9220'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Attempting to start owned Tor as the proxy
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+INFO:scholarly:Attempting to start owned Tor as the proxy
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=socks5://127.0.0.1:9352 https=socks5://127.0.0.1:9352
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9352', 'https': 'socks5://127.0.0.1:9352'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0002)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9352', 'https': 'socks5://127.0.0.1:9352'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9352', 'https': 'socks5://127.0.0.1:9352'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0002)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9352', 'https': 'socks5://127.0.0.1:9352'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9352', 'https': 'socks5://127.0.0.1:9352'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0004)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Attempting to start owned Tor as the proxy
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=socks5://127.0.0.1:9059 https=socks5://127.0.0.1:9059
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0002)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9059', 'https': 'socks5://127.0.0.1:9059'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0002)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9059', 'https': 'socks5://127.0.0.1:9059'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9059', 'https': 'socks5://127.0.0.1:9059'}
+INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9059', 'https': 'socks5://127.0.0.1:9059'}
+INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgWyrJ9lEJnNkU6t65c:AAGBfm0AAAAAX7Oo85ebGDb8j6bIjUn6WLI1zo6bPIfB&scisig=AAGBfm0AAAAAX7Oo82gO_nz3JTAR_wOMNJ8sCmhWNjpC&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9059', 'https': 'socks5://127.0.0.1:9059'}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Refreshing Tor ID...
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "[Errno 9] Bad file descriptor"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9059', 'https': 'socks5://127.0.0.1:9059'}
+INFO:scholarly:Attempting to start owned Tor as the proxy
+DEBUG:stem:System call: tor --version (runtime: 0.05)
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=socks5://127.0.0.1:9347 https=socks5://127.0.0.1:9347
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "[Errno 9] Bad file descriptor"
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=A%20Survey%20and%20Classification%20of%20Security%20and%20Privacy%20Research%20in%20Smart%20Healthcare%20Systems&as_vis=0&as_sdt=0,33
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9347', 'https': 'socks5://127.0.0.1:9347'}
+INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:qoKIBSZ_NRwJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9347', 'https': 'socks5://127.0.0.1:9347'}
+INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:qoKIBSZ_NRwJ:scholar.google.com/&output=citation&scisdr=CgVBVBkXEI-GhUuAchU:AAGBfm0AAAAAX7aFahX2ZyVILtqPtUzOhsh1fJkQlnBy&scisig=AAGBfm0AAAAAX7aFagEgwOaG2IkhHfTbpa-zAg9GAurd&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Session proxy config is {'http': 'socks5://127.0.0.1:9347', 'https': 'socks5://127.0.0.1:9347'}
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Found 1 authors
@@ -76,390 +874,353 @@ INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Found 1 authors
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Found 1 authors
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Found 1 authors
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Found 1 authors
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAU1aQEMSd71EUPYc:AAGBfm0AAAAAX6wRJYdovJzHu01Eg7oI7DrAnZnuBsGS&scisig=AAGBfm0AAAAAX6wRJSEQipnf9e_COxN74fBYHMv02VmF&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Found 1 authors
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u-x6o8ySG0sC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAU1aQENGf71EXKNc:AAGBfm0AAAAAX6wSMNchO42G_BiE5O2VCzQOfK2a574M&scisig=AAGBfm0AAAAAX6wSMPwBiL72KM5u0K6LnxPDGVLn0ASI&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:LI9QrySNdTsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:ufrVoPGSRksC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:roLk4NBRz8UC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:hMsQuOkrut0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:kz9GbA2Ns4gC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:eQOLeE2rZwMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:k8Z6L05lTy4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:9yKSN-GCB0IC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:TIZ-Mc8IlK0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:LkGwnXOMwfcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:i2xiXl-TujoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:MLfJN-KU85MC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:zYLM7Y9cAGgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:KUbvn5osdkgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:EYYDruWGBe4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:d1gkVwhDpl0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:_FxGoFyzp5QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:tuHXwOkdijsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:lmc2jWPfTJgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:g3aElNc5_aQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:L7CI7m0gUJcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:WF5omc3nYNoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:YsMSGLbcyi4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:AvfA0Oy_GE0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:xtoqd-5pKcoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:Dip1O2bNi0gC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:PoWvk5oyLR8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:SpbeaW3--B0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:S16KYo8Pm5AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:e_rmSamDkqQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:-FonjvnnhkoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:oNZyr7d5Mn4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:M7yex6snE4oC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:b1wdh0AR-JQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:ILKRHgRFtOwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:vbGhcppDl1QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:4MWp96NkSFoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:ML0RJ9NH7IQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:Z5m8FVwuT1cC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:kuK5TVdYjLIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:W7OEmFMy1HYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:2osOgNQ5qMEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:Y0pCki6q_DkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:IjCSPb-OGe4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:WZBGuue-350C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:UeHWp8X0CEIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:BUYA1_V_uYcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:BwyfMAYsbu0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:p__nRnzSRKYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:tYavs44e6CUC
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Found 1 authors
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u-x6o8ySG0sC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAU1aQEKSg71EXnHA:AAGBfm0AAAAAX6wShHBYl7id--9wDBIJEN_8TVRz6zfS&scisig=AAGBfm0AAAAAX6wShMHcmakpzETAJ7UfgSd91lgSp4Uf&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:LI9QrySNdTsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:ufrVoPGSRksC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:roLk4NBRz8UC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:hMsQuOkrut0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:kz9GbA2Ns4gC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:eQOLeE2rZwMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:k8Z6L05lTy4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:9yKSN-GCB0IC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:TIZ-Mc8IlK0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:LkGwnXOMwfcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:i2xiXl-TujoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:MLfJN-KU85MC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:zYLM7Y9cAGgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:KUbvn5osdkgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:EYYDruWGBe4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:d1gkVwhDpl0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:_FxGoFyzp5QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:tuHXwOkdijsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:lmc2jWPfTJgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:g3aElNc5_aQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:L7CI7m0gUJcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:WF5omc3nYNoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:YsMSGLbcyi4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:AvfA0Oy_GE0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:xtoqd-5pKcoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:Dip1O2bNi0gC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:PoWvk5oyLR8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:SpbeaW3--B0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:S16KYo8Pm5AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:e_rmSamDkqQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:-FonjvnnhkoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:oNZyr7d5Mn4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:M7yex6snE4oC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:b1wdh0AR-JQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:ILKRHgRFtOwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:vbGhcppDl1QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:4MWp96NkSFoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:ML0RJ9NH7IQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:Z5m8FVwuT1cC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:kuK5TVdYjLIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:W7OEmFMy1HYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:2osOgNQ5qMEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:Y0pCki6q_DkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:IjCSPb-OGe4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:WZBGuue-350C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:UeHWp8X0CEIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:BUYA1_V_uYcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:BwyfMAYsbu0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:p__nRnzSRKYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:tYavs44e6CUC
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Found 1 authors
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u-x6o8ySG0sC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAU1aQEN6k71ERpik:AAGBfm0AAAAAX6wUvikJdv1EeMTQqkLW-GvECedykmb1&scisig=AAGBfm0AAAAAX6wUvqiY7gj-DW3JZ-0ZogmXlyUu6k8Z&scisf=4&ct=citation&cd=-1&hl=en
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.googleusercontent.com', port=443): Read timed out. (read timeout=5)"),)
-INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:LI9QrySNdTsC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:ufrVoPGSRksC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:roLk4NBRz8UC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:hMsQuOkrut0C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:kz9GbA2Ns4gC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAU1aQELKn71ETCGc:AAGBfm0AAAAAX6wWEGci0-OnEcm0z13vOAL35rxulbNE&scisig=AAGBfm0AAAAAX6wWELofkvI5uLiBieL4WHzeXlCm5zaU&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:eQOLeE2rZwMC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Retrying immediately with another session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:k8Z6L05lTy4C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 93.06480524608963 seconds (with another session).
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:9yKSN-GCB0IC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 87.5318266660701 seconds (with another session).
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:TIZ-Mc8IlK0C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:LkGwnXOMwfcC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:i2xiXl-TujoC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:MLfJN-KU85MC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAU1aQEL-571EaBc8:AAGBfm0AAAAAX6wfHc-yaSjVlk5af4x4lfSkUdwlwO4S&scisig=AAGBfm0AAAAAX6wfHey2YA-hm-xjPph8e41k3WldmGVU&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:zYLM7Y9cAGgC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Retrying immediately with another session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:KUbvn5osdkgC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 93.30135553203836 seconds (with another session).
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:EYYDruWGBe4C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 62.029095470100145 seconds (with another session).
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:d1gkVwhDpl0C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 83.57058436210588 seconds (with another session).
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:_FxGoFyzp5QC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 69.8299886432059 seconds (with another session).
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:tuHXwOkdijsC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 113.12819992434909 seconds (with another session).
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:lmc2jWPfTJgC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:g3aElNc5_aQC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:L7CI7m0gUJcC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:WF5omc3nYNoC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAU1aQELq871Elgf4:AAGBfm0AAAAAX6wgmf5_b4FsgTu7nMebsBq_RMp9MOd5&scisig=AAGBfm0AAAAAX6wgmdKazUJMtA0OlflEPGtY0jfI04V0&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:YsMSGLbcyi4C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Retrying immediately with another session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:AvfA0Oy_GE0C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 73.4597078518799 seconds (with another session).
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:xtoqd-5pKcoC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 86.8022477884779 seconds (with another session).
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:Dip1O2bNi0gC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 115.15758645578046 seconds (with another session).
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:PoWvk5oyLR8C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 83.79934471717166 seconds (with another session).
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:SpbeaW3--B0C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 82.20019421988005 seconds (with another session).
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:S16KYo8Pm5AC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 100.29935259785462 seconds (with another session).
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 79.71118002132263 seconds (with another session).
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 110.06586373781082 seconds (with another session).
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 116.59371036820727 seconds (with another session).
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 63.35733232376767 seconds (with another session).
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 99.81438065834492 seconds (with another session).
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.googleusercontent.com', port=443): Read timed out. (read timeout=5)"),)
-INFO:scholarly:Increasing timeout and retrying within same session.
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.googleusercontent.com', port=443): Read timed out. (read timeout=10)"),)
-INFO:scholarly:Increasing timeout and retrying within same session.
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 62.94889051274755 seconds (with another session).
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 116.56158242839795 seconds (with another session).
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 111.82176677436448 seconds (with another session).
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 118.13863244500354 seconds (with another session).
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 117.86070844109955 seconds (with another session).
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 60.29174905452556 seconds (with another session).
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 109.3902297459963 seconds (with another session).
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 77.74111988265597 seconds (with another session).
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
-INFO:scholarly:Increasing timeout and retrying within same session.
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:e_rmSamDkqQC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:-FonjvnnhkoC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
-INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
-INFO:scholarly:Retrying with a new session.
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
-INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:oNZyr7d5Mn4C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUbB3G6GAA:AAGBfm0AAAAAX6xI95gHMc3QdpxOMxA8mqw05j3SR73_&scisig=AAGBfm0AAAAAX6xI93E-J_7xcAKuZm7cpn7j2cemZipC&scisf=4&ct=citation&cd=-1&hl=en
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.googleusercontent.com', port=443): Read timed out. (read timeout=5)"),)
-INFO:scholarly:Increasing timeout and retrying within same session.
-INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.googleusercontent.com', port=443): Read timed out."),)
-INFO:scholarly:Retrying with a new session.
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.googleusercontent.com', port=443): Read timed out. (read timeout=10)"),)
-INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:M7yex6snE4oC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Retrying immediately with another session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:b1wdh0AR-JQC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 94.60798247394338 seconds (with another session).
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:ILKRHgRFtOwC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 110.42410863477424 seconds (with another session).
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.googleusercontent.com', port=443): Read timed out. (read timeout=15)"),)
-INFO:scholarly:Giving up this session.
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.googleusercontent.com', port=443): Read timed out. (read timeout=15)"),)
-INFO:scholarly:Giving up this session.
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.googleusercontent.com', port=443): Read timed out. (read timeout=15)"),)
-INFO:scholarly:Giving up this session.
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.googleusercontent.com', port=443): Read timed out. (read timeout=15)"),)
-INFO:scholarly:Giving up this session.
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
-INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
-INFO:scholarly:Retrying with a new session.
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
-INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:vbGhcppDl1QC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:4MWp96NkSFoC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:ML0RJ9NH7IQC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got a captcha request.
-INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
-INFO:scholarly:Retrying with a new session.
-INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
-INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:Z5m8FVwuT1cC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got a captcha request.
-INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
-INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:kuK5TVdYjLIC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got a captcha request.
-INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
-INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:W7OEmFMy1HYC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got a captcha request.
-INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
-INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:2osOgNQ5qMEC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got a captcha request.
-INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
-INFO:scholarly:Retrying with a new session.
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:Y0pCki6q_DkC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:IjCSPb-OGe4C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:WZBGuue-350C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:UeHWp8X0CEIC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAUyD6EPey7lFewew:AAGBfm0AAAAAX6xb2ewySWD1iYk962Qg02OsIDwQ0s46&scisig=AAGBfm0AAAAAX6xb2TEC9s4whwYxonegaaLH4i7RF_31&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:BUYA1_V_uYcC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:BwyfMAYsbu0C
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:p__nRnzSRKYC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:tYavs44e6CUC
 INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAUzsuEL-z61AZBuo:AAGBfm0AAAAAX60cHuqvfNBi07GT8az8s480W0Ht0jm7&scisig=AAGBfm0AAAAAX60cHrFCubpo-oARwtBOAG0rIElk71Kx&scisf=4&ct=citation&cd=-1&hl=en
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAUzsuELq061AZj6E:AAGBfm0AAAAAX60cl6HYmTRhJwdbZVwDUU8aa_SKLeLq&scisig=AAGBfm0AAAAAX60clxjI7TvrYRQEzBwXoZqIpXtZMcP8&scisf=4&ct=citation&cd=-1&hl=en
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAUzsuEIvA61AncYc:AAGBfm0AAAAAX60iaYe54qyQ46BTPQdrCmJ2Q97nzAFG&scisig=AAGBfm0AAAAAX60iaTk0DPxATrtv9X1S1WgnsBYLjuBN&scisf=4&ct=citation&cd=-1&hl=en
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAUzsuEOnA61An3rc:AAGBfm0AAAAAX60ixrdhsR93dlzPnA0DM6nOggtD4lXt&scisig=AAGBfm0AAAAAX60ixg_TyQuk8NRrj_OsalUWEjFddVPy&scisf=4&ct=citation&cd=-1&hl=en
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAUzsuEKnC61Amkj4:AAGBfm0AAAAAX60jij64H6EiiSECFweCv0fCy3_rUxoT&scisig=AAGBfm0AAAAAX60jikMhIJcbEj8UgqGMIKE8hm0DamRr&scisf=4&ct=citation&cd=-1&hl=en
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Retrying immediately with another session.
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 84.62983934325672 seconds (with another session).
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 85.47461647639281 seconds (with another session).
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Found 1 authors
-INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Perception%20of%20physical%20stability%20and%20center%20of%20mass%20of%203D%20objects&as_vis=0&as_sdt=0,33
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=cite&scirp=0&hl=en
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:K8ZpoI6hZNoJ:scholar.google.com/&output=citation&scisdr=CgUAUzsuELzE61AhhUw:AAGBfm0AAAAAX60knUz-kqQBvL-yI2Z_LmnwmFvLETIa&scisig=AAGBfm0AAAAAX60kndY4GimEbt67RpshBF0kW9s2sxCP&scisf=4&ct=citation&cd=-1&hl=en
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Retrying immediately with another session.
-INFO:scholarly:Session proxy config is {}
-INFO:scholarly:Got an access denied error (403).
-INFO:scholarly:No other connections possible.
-INFO:scholarly:Will retry after 80.87787019340685 seconds (with another session).

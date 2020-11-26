@@ -2,14 +2,12 @@ from scholarly import scholarly
 import json
 import psycopg2
 
-class DB_Manager:
-
-class BB_manager(object):
+class db_manager(object):
     """
     docstring
     """
     
-    def connect():
+    def connect(self):
         """
         docstring
         """
@@ -37,6 +35,31 @@ class BB_manager(object):
         #         cursor.close()
         #         connection.close()
         #         print("PostgreSQL connection is closed"
+        pass
+
+
+    def insert_publication(self, publication):
+        """
+        docstring
+        """
+        pass
+
+    def find_publication(self, publication_id):
+        """
+        docstring
+        """
+        pass
+
+    def get_publication(self, publication_id):
+        """
+        docstring
+        """
+        pass
+
+    def delete_publicaiton(self, publication_id):
+        """
+        docstring
+        """
         pass
 
     pass
