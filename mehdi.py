@@ -8,18 +8,18 @@ import psycopg2
 # authors.append('Byung Kyu Kim') this one is done
 
 authors = [
-    'Andrea Toldy', 
-    'Ahmad Reza Bahramian', 
-    'Jens Gaitzsch', 
-    'Jan Feijen',
-    'PWM Blom',
-    'Katharina Landfester',
-    'Kurt Kremer',
-    'Qiang Fu'
+    'Antti Rajala', 
+    'Nancy Worth', 
+    'Mubarek Tamiru Gemtessa', 
+    'Muhammad Ikram (M.Ikram), Ph.D.',
+    'Federico Flego',
+    'Ronald C Kessler',
+    'Tom Maniatis',
+    'Dr. JoAnn E. Manson'
 ]
 csv_columns = ['id','abstract','author','cites','cites_id','journal','number','pages','publisher','title','url','volume','year']
-csv_file = "articles_part2.csv"
-counter=1000
+csv_file = "datasets/articles_part10.csv"
+counter=100000
 for author_name in authors:
     try:
         with open(csv_file, 'w') as csvfile:
