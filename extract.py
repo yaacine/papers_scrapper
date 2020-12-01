@@ -51,7 +51,7 @@ for author_name in authors:
                
                 if (pub_filled.citations_link):
                     pub_filled.bib['citation_link']= pub_filled.citations_link
-                if (pub_filled[id_citations]): 
+                if (pub_filled.id_citations): 
                     pub_filled.bib['id_citations']= pub_filled.id_citations
 
                 dict_data.append(pub_filled.bib)
