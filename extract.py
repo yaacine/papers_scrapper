@@ -17,8 +17,8 @@ authors = [
     #'Katharina Landfester', not found
     # 'Kurt Kremer', done partition 3
     # 'Qiang Fu' done partition 5
-    'Carlo Dallapiccola',
-    # 'Francisco Matorras',
+    # 'Carlo Dallapiccola', done partition 6
+     'Francisco Matorras',
     # 'Haijun Yang',
     # 'Martin Grunewald'
 ]
