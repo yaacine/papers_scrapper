@@ -18,9 +18,12 @@ authors = [
     # 'Kurt Kremer', done partition 3
     # 'Qiang Fu' done partition 5
     # 'Carlo Dallapiccola', done partition 6
-     'Francisco Matorras',
-    # 'Haijun Yang',
-    # 'Martin Grunewald'
+    # 'Francisco Matorras', done partiton 7
+    # 'Haijun Yang', done
+    # 'Martin Grunewald', done
+    # 'Robert M Roser', done partition 8
+    # 'Tamleek Ali Tanveer', done partition 9
+    'HR Rao'
 ]
 
 csv_columns = ['id','abstract','author','cites','cites_id','journal','number','pages','publisher','title','url','volume','year','citation_link' , 'id_citations']
