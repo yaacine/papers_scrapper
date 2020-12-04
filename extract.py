@@ -23,7 +23,45 @@ authors = [
     # 'Martin Grunewald', done
     # 'Robert M Roser', done partition 8
     # 'Tamleek Ali Tanveer', done partition 9
-    'HR Rao'
+    'HR Rao' ,
+    'stefan thor smith' ,
+    'Leroy Hood' ,
+    'Bernhard Schölkopf' ,
+    'Ana Valeria Barros Castro' ,
+    'Larry R Squire' 
+    'Michael H Jones' 
+    'Henning Hermjakob' 
+    'James C. Bezdek' 
+    'Eric Finkelstein' 
+    'Petre (Peter) Stoica' 
+    'Edmond K Kabagambe' 
+    'Stuart Kauffman' 
+    'Graesser' 
+    'Mark Handley' 
+    'Michael Busch' 
+    'Michael Busch' 
+
+    ## mehdi authors down ⬇️
+    'Prof. Dr. Hameed Ullah Khan' 
+    'Luis A. Nunes Amaral' 
+    'Nebojsa Nakicenovic' 
+    'Nikolaus Rajewsky' 
+    'Jeffrey Cohn' 
+    'Giovanni Santin' 
+    'Gerard Muyzer' 
+    'JP Casas' 
+    'Andrzej Cichocki' 
+    'Michael J. Black' 
+    'Simon B. Eickhoff' 
+    'James Randerson' 
+    'Harry J. Wang' 
+    'Sheldon Ross' 
+    'Stuart C Gordon' 
+    'Peter Cox' 
+    'Fred Hirsch' 
+    'Bev Law' 
+
+    
 ]
 
 csv_columns = ['id','abstract','author','cites','cites_id','journal','number','pages','publisher','title','url','volume','year','citation_link' , 'id_citations']
@@ -51,10 +89,11 @@ for author_name in authors:
                 pub_filled = pub.fill()
                 print(pub_filled)
                 pub_filled.bib['id']= idx+counter
-               
-                if (pub_filled.citations_link):
+
+                if hasattr(pub_filled, 'citations_link'):
                     pub_filled.bib['citation_link']= pub_filled.citations_link
-                if (pub_filled.id_citations): 
+
+                if hasattr(pub_filled, 'id_citations'):
                     pub_filled.bib['id_citations']= pub_filled.id_citations
 
                 dict_data.append(pub_filled.bib)
