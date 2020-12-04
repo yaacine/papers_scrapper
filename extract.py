@@ -24,42 +24,42 @@ authors = [
     # 'Robert M Roser', done partition 8
     # 'Tamleek Ali Tanveer', done partition 9
     'HR Rao' ,
-    'stefan thor smith' ,
-    'Leroy Hood' ,
-    'Bernhard Schölkopf' ,
-    'Ana Valeria Barros Castro' ,
-    'Larry R Squire' 
-    'Michael H Jones' 
-    'Henning Hermjakob' 
-    'James C. Bezdek' 
-    'Eric Finkelstein' 
-    'Petre (Peter) Stoica' 
-    'Edmond K Kabagambe' 
-    'Stuart Kauffman' 
-    'Graesser' 
-    'Mark Handley' 
-    'Michael Busch' 
-    'Michael Busch' 
+    # 'stefan thor smith' ,
+    # 'Leroy Hood' ,
+    # 'Bernhard Schölkopf' ,
+    # 'Ana Valeria Barros Castro' ,
+    # 'Larry R Squire' 
+    # 'Michael H Jones' 
+    # 'Henning Hermjakob' 
+    # 'James C. Bezdek' 
+    # 'Eric Finkelstein' 
+    # 'Petre (Peter) Stoica' 
+    # 'Edmond K Kabagambe' 
+    # 'Stuart Kauffman' 
+    # 'Graesser' 
+    # 'Mark Handley' 
+    # 'Michael Busch' 
+    # 'Michael Busch' 
 
     ## mehdi authors down ⬇️
-    'Prof. Dr. Hameed Ullah Khan' 
-    'Luis A. Nunes Amaral' 
-    'Nebojsa Nakicenovic' 
-    'Nikolaus Rajewsky' 
-    'Jeffrey Cohn' 
-    'Giovanni Santin' 
-    'Gerard Muyzer' 
-    'JP Casas' 
-    'Andrzej Cichocki' 
-    'Michael J. Black' 
-    'Simon B. Eickhoff' 
-    'James Randerson' 
-    'Harry J. Wang' 
-    'Sheldon Ross' 
-    'Stuart C Gordon' 
-    'Peter Cox' 
-    'Fred Hirsch' 
-    'Bev Law' 
+    # 'Prof. Dr. Hameed Ullah Khan' 
+    # 'Luis A. Nunes Amaral' 
+    # 'Nebojsa Nakicenovic' 
+    # 'Nikolaus Rajewsky' 
+    # 'Jeffrey Cohn' 
+    # 'Giovanni Santin' 
+    # 'Gerard Muyzer' 
+    # 'JP Casas' 
+    # 'Andrzej Cichocki' 
+    # 'Michael J. Black' 
+    # 'Simon B. Eickhoff' 
+    # 'James Randerson' 
+    # 'Harry J. Wang' 
+    # 'Sheldon Ross' 
+    # 'Stuart C Gordon' 
+    # 'Peter Cox' 
+    # 'Fred Hirsch' 
+    # 'Bev Law' 
 
     
 ]
