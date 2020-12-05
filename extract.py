@@ -23,8 +23,8 @@ authors = [
     # 'Martin Grunewald', done
     # 'Robert M Roser', done partition 8
     # 'Tamleek Ali Tanveer', done partition 9
-    'HR Rao' ,
-    # 'stefan thor smith' ,
+    # 'HR Rao' ,
+    'stefan thor smith' ,
     # 'Leroy Hood' ,
     # 'Bernhard Schölkopf' ,
     # 'Ana Valeria Barros Castro' ,
