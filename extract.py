@@ -8,6 +8,8 @@ import psycopg2
 # authors.append('Byung Kyu Kim') this one is done
 
 authors = [
+    #  'Michael Busch' done ins partition 2
+     'Michael Busch' 
     # 'Byung Kyu Kim' done 
     # 'Andrea Toldy', not found
     # 'Ahmad Reza Bahramian', not found
@@ -24,11 +26,11 @@ authors = [
     # 'Robert M Roser', done partition 8
     # 'Tamleek Ali Tanveer', done partition 9
     # 'HR Rao' ,
-    'stefan thor smith' ,
-    # 'Leroy Hood' ,
-    # 'Bernhard Schölkopf' ,
-    # 'Ana Valeria Barros Castro' ,
-    # 'Larry R Squire' 
+    # 'stefan thor smith' , done partition 12
+    # 'Leroy Hood' , done in partition 13
+    # 'Bernhard Schölkopf' , done in partitoin 14
+    # 'Ana Valeria Barros Castro' , done in partition 15
+    # 'Larry R Squire'  done in partition 16
     # 'Michael H Jones' 
     # 'Henning Hermjakob' 
     # 'James C. Bezdek' 
