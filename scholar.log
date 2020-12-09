@@ -31523,3 +31523,1459 @@ INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Got a captcha request.
 INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
 INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Michael%20H%20Jones
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 2 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&pagesize=100
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=300&pagesize=100
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=400&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=500&pagesize=100
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=600&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=700&pagesize=100
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=800&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=900&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=1000&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=1100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=1200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=1300&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=1400&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=1500&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=1600&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=1700&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=1800&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=1900&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=2000&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=2100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=2200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=2300&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=2400&pagesize=100
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=2500&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=2600&pagesize=100
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=2700&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=2800&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qNS0hDAAAAAJ&cstart=2900&pagesize=100
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:x3BrfUtjctIC
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:Pt-7zvD_C1MC
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=10)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:D0NosnH9lYgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:3eDEwZmXtlkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:4VOskzd1i_wC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:MStqg_gSLBcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:9nEbuwLZtFEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:gyhANspY9yIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:r0ARIG2f-gUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:9kBY04P_Y_YC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:4EsMycecMEYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:u5HHmVD_uO8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:QYmifXMdJWgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:_Er3Mst9YeEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:cLTuqPntt3wC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:UqWtYh3YZQwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:sFh2DmJudxsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:MGzV0Qdvj_oC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:C14xlUzwkXEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:oYc2ogjtvagC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:A7YAGoNtr34C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:dj1AAMDQi3QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:d1gkVwhDpl0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:OvCsJ6o9tOQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:uem4clYotCgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:QppYajJO_VYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:t2c9fUEjrewC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:A5mcrx2i-EUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:QnvtoSqgJXcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:ExyEeTBbt7kC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:dnWPDgH667kC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:X4tkdjqa-loC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:E6rqZ6_0n1EC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:mERG2dqBER4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:5ct2hXp9qB4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:IQTLpiDzPJAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:C-SEpTPhZ1wC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:ClN-LZ0IzgkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:5Hj2J4YjVXQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:BvbJ36a9xgsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:3utUx_xxzcoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:A7-hzOuI2KQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:lPNvfOEJVFUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:L7JqRCIhofwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:kMwF0kOiZPMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:zBs7CkPFb0QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:SuREjsGmJT0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:yor2SLS1ZLQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=qNS0hDAAAAAJ:2SmvwDDsShQC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Michael%20H%20Jones
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Michael%20Busch
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 8 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=300&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=400&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=500&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=600&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=700&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=800&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=900&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=1000&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=1100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=1200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=1300&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=11F_c5oAAAAJ&cstart=1400&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:u-x6o8ySG0sC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:u5HHmVD_uO8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:d1gkVwhDpl0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:qjMakFHDy7sC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:LjlpjdlvIbIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:2osOgNQ5qMEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:9yKSN-GCB0IC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Y0pCki6q_DkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:IjCSPb-OGe4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:UeHWp8X0CEIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:W7OEmFMy1HYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:zYLM7Y9cAGgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Tyk-4Ss8FVUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:YsMSGLbcyi4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:eQOLeE2rZwMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ufrVoPGSRksC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:_FxGoFyzp5QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:mlAyqtXpCwEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:LkGwnXOMwfcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:8k81kl-MbHgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:roLk4NBRz8UC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ULOm3_A8WrAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:QIV2ME_5wuYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:UebtZRa9Y70C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:VL0QpB8kHFEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:yD5IFk8b50cC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:5nxA0vEk-isC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Se3iqnhoufwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:kNdYIx-mwKoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:HoB7MX3m0LUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:j8SEvjWlNXcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ZM__uENUXnMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:bFI3QPDXJZMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:hqOjcs7Dif8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Wp0gIr-vW9MC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:j3f4tGmQtD8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:0EnyYjriUFMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:yNlG6JgpFqoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:BqipwSGYUEgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:aqlVkmm33-oC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:738O_yMBCRsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Np1obAXpBq8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:TQgYirikUcIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ZeXyd9-uunAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:MXK_kJrjxJIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:M3ejUd6NZC8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:3fE2CSJIrl8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:YOwf2qJgpHMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:tkaPQYYpVKoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:olpn-zPbct0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:IWHjjKOFINEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:MDBbo4b0KHEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:NMxIlDl6LWMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:KlAtU1dfN6UC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:PELIpwtuRlgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ns9cj8rnVeAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:NaGl4SEjCO4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:qxL8FJ1GzNcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Zph67rFs4hoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:yB1At4FlUx8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:epqYDVWIO7EC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:4TOpqqG69KYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:mVmsd5A6BfQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:_kc_bZDykSQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:L8Ckcad2t8MC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:AXPGKjj_ei8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:hC7cP41nSMkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:dhFuZR0502QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:4DMP91E08xMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Tiz5es2fbqcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:hMod-77fHWUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:vbGhcppDl1QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:OU6Ihb5iCvQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:lSLTfruPkqcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:dfsIfKJdRG4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:I__7AI8a974C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ldfaerwXgEUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:RHpTSmoSYBkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:bEWYMUwI8FkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:7PzlFSSx8tAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:hFOr9nPyWt4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:RYcK_YlVTxYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:R3hNpaxXUhUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:TFP_iSt0sucC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:fPk4N6BV_jEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:njp6nI0QjqAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:O3NaXMp0MMsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:4Wrxgq2JVp0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:GO5CT2y9xrEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:CHSYGLWDkRkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:vRqMK49ujn8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:4JMBOYKVnBMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:-f6ydRqryjwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:HDshCWvjkbEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:9ZlFYXVOiuMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:mB3voiENLucC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:_Qo2XoVZTnwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:iH-uZ7U-co4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:SeFeTyx0c_EC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:KxtntwgDAa4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:J_g5lzvAfSwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:k_IJM867U9cC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:__bU50VfleQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:r0BpntZqJG4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:artPoR2Yc-kC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:qUcmZB5y_30C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:b0M2c_1WBrUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:hkOj_22Ku90C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:blknAaTinKkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:isC4tDSrTZIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:DrR-2ekChdkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:M3NEmzRMIkIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:maZDTaKrznsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:35N4QoGY0k4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:4fKUyHm3Qg0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:zA6iFVUQeVQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:0KyAp5RtaNEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:g5m5HwL7SMYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:XJogQLJr2CkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:vV6vV6tmYwMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:1qzjygNMrQYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:B3FOqHPlNUQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ZHo1McVdvXMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:cFHS6HbyZ2cC
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:5Ul4iDaHHb8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:pqnbT2bcN3wC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:a0OBvERweLwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:JV2RwH3_ST0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:2P1L_qKh6hAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:8d8msizDQcsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:5ugPr518TE4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:QSG1pgF8pGAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:abG-DnoFyZgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:GnPB-g6toBAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:NhqRSupF_l8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:YFjsv_pBGBYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:mnAcAzq93VMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:EUQCXRtRnyEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:tOudhMTPpwUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:eflP2zaiRacC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:70eg2SAEIzsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:D03iK_w7-QYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:P7Ujq4OLJYoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:8AbLer7MMksC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:u_35RYKgDlwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:p2g8aNsByqUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:xtRiw3GOFMkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:RGFaLdJalmkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:M05iB0D1s5AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:XoXfffV-tXoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:XiVPGOgt02cC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:_xSYboBqXhAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:3s1wT3WcHBgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:rO6llkc54NcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:4OULZ7Gr8RgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:pbQCAAeKvsAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:t9Ks5LMjN0QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:08ZZubdj9fEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:fQNAKQ3IYiAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:_Ybze24A_UAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:P5F9QuxV20EC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:eMMeJKvmdy0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:V3AGJWp-ZtQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:WbkHhVStYXYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:UxriW0iASnsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:f2IySw72cVMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:1sJd4Hv_s6UC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:oAywNP-vUhwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:u9iWguZQMMsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:eG7oJ4UONFcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:GDem9OnCwu8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:VOx2b1Wkg3QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:SP6oXDckpogC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:mvPsJ3kp5DgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:4_yl7nwqy4oC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:pyW8ca7W8N0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:XiSMed-E-HIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:b9WrW9Envh0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:sSrBHYA8nusC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:dshw04ExmUIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:tKAzc9rXhukC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:0klj8wIChNAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:O0nohqN1r9EC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:_B80troHkn4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:uWQEDVKXjbEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:tzM49s52ZIMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:wbdj-CoPYUoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:nb7KW1ujOQ8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Jxw8hHINxX0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:bz8QjSJIRt4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Fu2w8maKXqMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ZuybSZzF8UAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:1yQoGdGgb4wC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:JoZmwDi-zQgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:tS2w5q8j5-wC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:K3LRdlH-MEoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:it4f3qIuXWYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ye4kPcJQO24C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:SdhP9T11ey4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:WA5NYHcadZ8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:i2xiXl-TujoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:geHnlv5EZngC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:_Re3VWB3Y0AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:LPZeul_q3PIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:t6usbXjVLHcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:eJjLl3UG7CkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Mojj43d5GZwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:OBSaB-F7qqsC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:SNyOjmPOlygC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:q3oQSFYPqjQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:l7t_Zn2s7bgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:I-2NeQpV75MC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:_5tno0g5mFcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:BUYA1_V_uYcC
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:WqliGbK-hY8C
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:BrmTIyaxlBUC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:kRWSkSYxWN8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:eJXPG6dFmWUC
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:D_sINldO8mEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Dmoar05iI2YC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Z5m8FVwuT1cC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:x7obfLuV8acC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:rrpmhsargb8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:vDijr-p_gm4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:J-pR_7NvFogC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ZfRJV9d4-WMC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:NJ774b8OgUMC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:3NQIlFlcGxIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:otzGkya1bYkC
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:JQOojiI6XY0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:eq2jaN3J8jMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:edDO8Oi4QzsC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:W5xh706n7nkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:LgRImbQfgY4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:foquWX3nUaYC
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:JTqpx9DYBaYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ClCfbGk0d_YC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:PR6Y55bgFSsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:h-xndbdg2koC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:7BrZ7Jt4UNcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:4fGpz3EwCPoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:dTyEYWd-f8wC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:cocyvO7vrcwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:4X0JR2_MtJMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:4MWp96NkSFoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:N5tVd3kTz84C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:86PQX7AUzd4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:g3aElNc5_aQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:35r97b3x0nAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:UHK10RUVsp4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:QxtoOqDH1aQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:y7JhAc_VBLgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ALROH1vI_8AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:v1_lew4L6wgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:t7zJ5fGR-2UC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:XvxMoLDsR5gC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:HE397vMXCloC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:BwyfMAYsbu0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:SoGhKUJvMTQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:UEFpDhwOD2kC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:o0eFlWRwRSUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:FPJr55Dyh1AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Y5dfb0dijaUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:LGh1lRt-7sUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:6xXPb0EiZccC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:QUX0mv85b1cC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:8xutWZnSdmoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:kh2fBNsKQNwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:fEOibwPWpKIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:bnK-pcrLprsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:J-ba04ztB30C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:F9fV5C73w3QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:lmc2jWPfTJgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:mKu_rENv82IC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:rHJHxKgnXwkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:5qfkUJPXOUwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:tYavs44e6CUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ILKRHgRFtOwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:YXPZ0dOdYS4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:-qpA3cGbmHsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:naSTrk-c4S8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:4uoR24qA-WYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:6ZxmRoH8BuwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:DUooU5lO8OsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:-FonjvnnhkoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:5awf1xo2G04C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:dQ2og3OwTAUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:AvfA0Oy_GE0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:EYYDruWGBe4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ndLnGcHYRF0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Aul-kAQHnToC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:0N-VGjzr574C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:z_wVstp3MssC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:EkHepimYqZsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:p-HGrieyzrAC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:KNjnJ3z-R6IC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:jE2MZjpN3IcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:9vf0nzSNQJEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:OR75R8vi5nAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:bKqednn6t2AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:LhH-TYMQEocC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:xtoqd-5pKcoC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:XD-gHx7UXLsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:k8Z6L05lTy4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:kuK5TVdYjLIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:evX43VCCuoAC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ipzZ9siozwsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ibZ2AwG9z6wC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:tH6gc1N1XXoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:-_dYPAW6P2MC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:VLnqNzywnoUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:kz9GbA2Ns4gC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:kzcrU_BdoSEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:uc_IGeMz5qoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:FtNbRaqWXr4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:M7C5BM2v8n8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:0Kh4an1R61UC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:zfsRRabFVBUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:U4n9YNQMCAIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:TlpoogIpr_IC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:uLbwQdceFCQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Xxrp-jDxsD4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:MSzX15-gZgkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:rmuvC79q63oC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Ehil0879vHcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:PoWvk5oyLR8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:hMsQuOkrut0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ML0RJ9NH7IQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:gsN89kCJA0AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:7T2F9Uy0os0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:LpHykl0McycC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:qzPvQt7yPGwC
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:An6A6Jpfc1oC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:uDGL6kOW6j0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:FAceZFleit8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Cy13deThEpcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Dip1O2bNi0gC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:S16KYo8Pm5AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:_axFR9aDTf0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:L7CI7m0gUJcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:nrtMV_XWKgEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:QYdC8u9Cj1oC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:PuYkdpj8xa4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:LNjCCq68lIgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:WZBGuue-350C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:URolC5Kub84C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:KUbvn5osdkgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:M7yex6snE4oC
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ymY9cBF3mdcC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:WJVC3Jt7v1AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:vDZJ-YLwNdEC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:uJ-U7cs_P_0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:LI9QrySNdTsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:MLfJN-KU85MC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:p__nRnzSRKYC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=10)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Exception ConnectionError while fetching page: (ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:9Nmd_mFXekcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:TIZ-Mc8IlK0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:DBa1UEJaJKAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:oi2SiIJ9l4AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:OcBU2YAGkTUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:MpfHP-DdYjUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:HbR8gkJAVGIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:zLWjf1WUPmwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:M8meJADSprsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:b1wdh0AR-JQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:9pM33mqn1YgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Qy-rCirNo-8C
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:WHdLCjDvYFkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:nZcligLrVowC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:HmWvvuJwtxYC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Fx13dKtzC7kC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:oNZyr7d5Mn4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:fFSKOagxvKUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:uWiczbcajpAC
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:SpbeaW3--B0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:mNrWkgRL2YcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:QoJ_w57xiyAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Ri6SYOTghG4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:tuHXwOkdijsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Ug5p-4gJ2f0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:rUnQDpM0TEQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:lu5AzqVF4qYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:xXdmTUQ9lisC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:DkZNVXde3BIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ZzlSgRqYykMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:cWzG1nlazyYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:vrnMIr82eJkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Ic1VZgkJnDsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:c_xDhezhKKUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:iWL_APfBKHwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:yxmsSjX2EkcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:w1MjKQ0l0TYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:e_rmSamDkqQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:LO7wyVUgiFcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:-152x6qmK5kC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:q82PccF7nXcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:vnF2_uLGgtgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:RJOyoaXV5v8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:1taIhTC69MYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:KaMxkj08jr0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:4vMrXwiscB8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:VaXvl8Fpj5cC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:PVjk1bu6vJQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:oi8PhiKYDwsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:YohjEiUPhakC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:BrOSOlqYqPUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:-mN3Mh-tlDkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:NXb4pA-qfm4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:umqufdRvDiIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:4hFrxpcac9AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:anf4URPfarAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:IRz6iEL74y4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:U_h31ocWZrQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:w2UhwfzvF0QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:kzcSZmkxUKAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:-95Q15plzcUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:kWvqk_afx_IC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ruyezt5ZtCIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:HIFyuExEbWQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Vxkav03X4woC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:GtLg2Ama23sC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:QsaTk4IG4EwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:FiytvqdAVhgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Q_E8KsG3g9MC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:a9-T7VOCCH8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:sNmaIFBj_lkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:6TexfgwXQfYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:aK62MiYD7mUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:vYYylRVofzEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:wTekDMGr9GkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Bg7qf7VwUHIC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:C-SEpTPhZ1wC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:u-coK7KVo8oC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:MaiMEk8tZqMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:5o6HiIVP414C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Ade32sEp0pkC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ConnectTimeout while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Ade32sEp0pkC (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10e7d7be0>, 'Connection to scholar.google.com timed out. (connect timeout=5)'))"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=10)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:XUvXOeBm_78C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:SjuI4pbJlxcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:9c2xU6iGI7YC
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:hCrLmN-GePgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:dBIO0h50nwkC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:0izLItjtcgwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:8xglSJ46CyEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ifOnle78iJkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:SEKBqlyTJecC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:F1b5ZUV5XREC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:jU7OWUQzBzMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:pZ2CosqRuhkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:HtEfBTGE9r8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:nVrZBo8bIpAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:HeT0ZceujKMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:BzfGm06jWhQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:HtS1dXgVpQUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:kVjdVfd2voEC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:cTy_cm4PQvYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:5MTHONV0fEkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:WTkkuPxyGkUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:v7SMsomtfXcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:G887dSk7Sz8C
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:w9ZB08sdvuUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:sfnaS5RM6jYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:L_l9e5I586QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:HJSXoJQnj-YC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:QyXJ3EUuO1IC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:lvd772isFD0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:AHdEip9mkN0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:CaZNVDsoPx4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:OP4eGU-M3BUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:yMeIxYmEMEAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:3htObqc8RwsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:OTTXONDVkokC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:r_AWSJRzSzQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:v7LLNfYe7h0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:RoXSNcbkSzsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:lgwcVrK6X84C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:2VqYfGB8ITEC
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:IUKN3-7HHlwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Ak0FvsSvgGUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:wyCGhLAOp5UC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:xm1hsP5ya-EC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:v_tt_AnqfNMC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:-7ulzOJl1JYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:_OXeSy2IsFwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:QD3KBmkZPeQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ODE9OILHJdcC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:q3CdL3IzO_QC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:yqoGN6RLRZoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:KbBQZpvPDL4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:AbS6eEh_b9AC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:9PmR9Y676FQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:FwTEoIZreccC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:lOG7zRu2uA8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:eGYfIraVYiQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:ubry08Y2EpUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:uGrg30pLAbkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:a3BOlSfXSfwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Br1UauaknNIC
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:SFU-2amZ4xQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:gKiMpY-AVTkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:yFnVuubrUp4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:SC9kKMAi-DoC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:48xauSegjOkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:q7LczdTNAjsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:PVgj2kMGcgYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:buQ7SEKw-1sC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:j7_hQOaDUrUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:CB2v5VPnA5kC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:0CzhzZyukY4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:nRpfm8aw39MC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:L1USKYWJimsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:V63Ir2N1OTwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:oYLFIHfuHKwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:M_lZXyI38BkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:Vno172sVVMwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:1DsIQWDZLl8C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:SIv7DqKytYAC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:kw52XkFRtyQC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:cK4Rrx0J3m0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:yaBp1wUtcLsC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:BFeJNCPbDVwC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:zmHQPunddckC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:EcS_2O1c4Q0C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:vefPE_iVbj4C
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:G1UMdFYMoxkC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:uVUOdF_882EC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:sJsF-0ZLhtgC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:fbc8zXXH2BUC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:wMgC3FpKEyYC
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=11F_c5oAAAAJ:GFxP56DSvIMC
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='www.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Michael%20H%20Jones
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='www.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=10)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.

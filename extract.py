@@ -9,7 +9,7 @@ import psycopg2
 
 authors = [
     #  'Michael Busch' done ins partition 2
-     'Michael Busch' 
+    #  'Michael Busch' done in partition 4
     # 'Byung Kyu Kim' done 
     # 'Andrea Toldy', not found
     # 'Ahmad Reza Bahramian', not found
@@ -31,7 +31,7 @@ authors = [
     # 'Bernhard Schölkopf' , done in partitoin 14
     # 'Ana Valeria Barros Castro' , done in partition 15
     # 'Larry R Squire'  done in partition 16
-    # 'Michael H Jones' 
+    'Michael H Jones' 
     # 'Henning Hermjakob' 
     # 'James C. Bezdek' 
     # 'Eric Finkelstein' 
@@ -40,8 +40,7 @@ authors = [
     # 'Stuart Kauffman' 
     # 'Graesser' 
     # 'Mark Handley' 
-    # 'Michael Busch' 
-    # 'Michael Busch' 
+ 
 
     ## mehdi authors down ⬇️
     # 'Prof. Dr. Hameed Ullah Khan' 
