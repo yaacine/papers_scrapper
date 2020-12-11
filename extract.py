@@ -31,9 +31,9 @@ authors = [
     # 'Bernhard Schölkopf' , done in partitoin 14
     # 'Ana Valeria Barros Castro' , done in partition 15
     # 'Larry R Squire'  done in partition 16
-    'Michael H Jones' 
-    # 'Henning Hermjakob' 
-    # 'James C. Bezdek' 
+    # 'Michael H Jones' done is partition 17
+    # 'Henning Hermjakob'  done in partition 18
+    'James C. Bezdek' 
     # 'Eric Finkelstein' 
     # 'Petre (Peter) Stoica' 
     # 'Edmond K Kabagambe' 
