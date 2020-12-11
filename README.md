@@ -74,5 +74,10 @@ Enter the ending partition number: 12
 ```  
 will gather the files from `datasets/articles_part1.csv` to `datasets/articles_part12.csv`
 
+The result will be stored in the followinf file 
+```
+datasets/cleaned/articles_1_12_clean.csv
+```
+
 
 ### FEATURE 3 : Topic extraction from cleaned data
