@@ -36,9 +36,9 @@ authors = [
     # 'James C. Bezdek' done in partition 19
     # 'Eric Finkelstein'  done in partition 20
     # 'Petre (Peter) Stoica' done in partition 21
-    'Edmond K Kabagambe' 
-    # 'Stuart Kauffman' 
-    # 'Graesser' 
+    # 'Edmond K Kabagambe'  done in partition 22
+    # 'Stuart Kauffman' done in partition 23
+    'Graesser' 
     # 'Mark Handley' 
  
 
