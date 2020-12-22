@@ -38,8 +38,8 @@ authors = [
     # 'Petre (Peter) Stoica' done in partition 21
     # 'Edmond K Kabagambe'  done in partition 22
     # 'Stuart Kauffman' done in partition 23
-    'Graesser' 
-    # 'Mark Handley' 
+    # 'Graesser' done in partition 24
+    'Mark Handley' 
  
 
     ## mehdi authors down ⬇️
