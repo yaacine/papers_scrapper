@@ -41,9 +41,9 @@ authors = [
     # 'Graesser' done in partition 24
     # 'Mark Handley'  done in partition 25
     #  'challal yacine' # done in partition 26
-    'David Swofford'
+    # 'David Swofford'  # done in partition 27
     # 'Doug Soltis'
-    # 'Jari Oksanen'
+    'Jari Oksanen'
     # 'Paul D Ryan'
     # 'Stringer C'
     # 'Stephen M. Barnett'
