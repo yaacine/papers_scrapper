@@ -39,8 +39,15 @@ authors = [
     # 'Edmond K Kabagambe'  done in partition 22
     # 'Stuart Kauffman' done in partition 23
     # 'Graesser' done in partition 24
-    'Mark Handley' 
- 
+    # 'Mark Handley'  done in partition 25
+    #  'challal yacine' # done in partition 26
+    'David Swofford'
+    # 'Doug Soltis'
+    # 'Jari Oksanen'
+    # 'Paul D Ryan'
+    # 'Stringer C'
+    # 'Stephen M. Barnett'
+    # 'David D. Breshears'
 
     ## mehdi authors down ⬇️
     # 'Prof. Dr. Hameed Ullah Khan' 
