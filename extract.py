@@ -42,11 +42,11 @@ authors = [
     # 'Mark Handley'  done in partition 25
     #  'challal yacine' # done in partition 26
     # 'David Swofford'  # done in partition 27
-    # 'Doug Soltis'
-    'Jari Oksanen'
-    # 'Paul D Ryan'
-    # 'Stringer C'
-    # 'Stephen M. Barnett'
+    # 'Doug Soltis' done in partition 28
+    # 'Jari Oksanen' # done in partiotion 29
+    # 'Paul D Ryan' # done in partition 30
+    # 'Stringer C' # done in partition 31
+    'Stephen M. Barnett'
     # 'David D. Breshears'
 
     ## mehdi authors down ⬇️
