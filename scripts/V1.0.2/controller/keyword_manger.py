@@ -1,15 +1,14 @@
-
-
+import os.path
 
 def get_next_keyword():
-    keywords_file = open('keywords.txt', 'r') 
+    keywords_file = open(os.path.dirname(__file__) +'/keywords.txt', 'r') 
     lines = keywords_file.readlines()
     i =0
     stop = False
     while i< len(lines) and not stop:
-        i+=1
         if lines[i][0]!="#": 
             stop = True
+        else: i+=1
     # check if all the keywords are done
     if i == len(lines) -1:
         print ('ERROR: all keywords are done. Add some keywords to the keyword.txt file')
@@ -22,8 +21,10 @@ def get_next_keyword():
 
 
 def mark_line_as_done(line_index):
-    keywords_file = open('keywords.txt', 'w') 
+    keywords_file = open(os.path.dirname(__file__) +'/keywords.txt', 'r') 
     lines = keywords_file.readlines()
+    keywords_file.close()
+    keywords_file = open(os.path.dirname(__file__) +'/keywords.txt', 'w') 
     lines[line_index] = "#"+ lines[line_index] 
     keywords_file.writelines(lines) 
     keywords_file.close()
