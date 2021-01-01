@@ -17,7 +17,8 @@ author = {
  '3D Shape', 
  'Shape from Texture & Shading', 
  'Naive Physics', 
- 'Haptics'], 'citedby': 318, 'citedby5y': 240, 'hindex': 9, 'hindex5y': 9, 'i10index': 8, 'i10index5y': 8, 'coauthors': [{'container_type': 'Author', 
+ 'Haptics'], 'citedby': 318, 'citedby5y': 240, 'hindex': 9, 'hindex5y': 9, 'i10index': 8, 'i10index5y': 8, 'coauthors': 
+ [{'container_type': 'Author', 
  'filled': set(), 'scholar_id': 'ruUKktgAAAAJ', 
  'source': <AuthorSource.CO_AUTHORS_LIST: 3>, 'name': 'Roland Fleming', 
  'affiliation': 'Kurt Koffka Professor of Experimental Psychology, University of Giessen'}, {'container_type': 'Author', 
@@ -77,7 +78,10 @@ author = {
  'affiliation': 'Assistant Professor, Boston University'}, {'container_type': 'Author', 
  'filled': set(), 'scholar_id': 'nHx9IgYAAAAJ', 
  'source': <AuthorSource.CO_AUTHORS_LIST: 3>, 'name': 'Peter Shirley', 
- 'affiliation': 'Nvidia Corporation'}], 'cites_per_year': {2008: 2, 2009: 5, 2010: 7, 2011: 9, 2012: 21, 2013: 15, 2014: 17, 2015: 16, 2016: 38, 2017: 31, 2018: 31, 2019: 61, 2020: 63}, 'publications': [{'container_type': 'Publication', 
+ 'affiliation': 'Nvidia Corporation'}], 'cites_per_year': {2008: 2, 2009: 5, 2010: 7, 2011: 9, 2012: 21, 2013: 15, 2014: 17, 2015: 16, 2016: 38, 2017: 31, 2018: 31, 2019: 61, 2020: 63}, 
+ 
+ 
+ 'publications': [{'container_type': 'Publication', 
  'source': <PublicationSource.AUTHOR_PUBLICATION_ENTRY: 2>, 'bib': {'title': 'A frequency-domain analysis of haptic gratings', 
  'pub_year': '2009'}, 'filled': False, 'author_pub_id': '4bahYMkAAAAJ:u5HHmVD_uO8C', 
  'num_citations': 54}, {'container_type': 'Publication', 

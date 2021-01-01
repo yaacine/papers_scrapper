@@ -78,7 +78,7 @@ partition_number =int(partition_str)
 counter = partition_number * 1000
 # counter=5000
 partition= str(round(counter/1000) ) 
-csv_file = "datasets/articles_part"+partition_str+".csv"
+csv_file = "../datasets/articles_part"+partition_str+".csv"
 for author_name in authors:
     try:
         with open(csv_file, 'w') as csvfile:

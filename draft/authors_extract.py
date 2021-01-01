@@ -80,7 +80,7 @@ partition_number =int(partition_str)
 counter = partition_number * 1000
 # counter=5000
 partition= str(round(counter/1000) ) 
-csv_file = "datasets/authors/author_part"+partition_str+".csv"
+csv_file = "authors/author_part"+partition_str+".csv"
 all_authors_df = pd.DataFrame()
 
 author_row= {}

@@ -4,17 +4,25 @@ from scholarly import scholarly, ProxyGenerator
 # Retrieve the author's data, fill-in, and print
 search_query = scholarly.search_author('Steven A Cholewiak')
 
-author =scholarly.fill(next(search_query)) 
+author =next(search_query)
+author_filled =scholarly.fill(author) 
+
+scholarly.pprint(author)
 
 print(author)
 
 # Take a closer look at the first publication
-pub =  scholarly.fill(author.publications[0])
+publication =author["publications"][0]
+pub =  scholarly.fill(publication)
 
 # citations= pub.citedby()
-citations= scholarly.citedby(pub)
-with open('citedby.txt', 'w') as file:
-    print(citations, file=file)
+citations_iterator= scholarly.citedby(pub)
+i=0
+while i<100:
+    i+=1
+    citations = next(citations_iterator)
+    with open('citedby.txt', 'w+') as file:
+        print(citations, file=file)
 
 
 

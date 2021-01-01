@@ -10,7 +10,7 @@ import random
 
 # get the folder that contains the cleaned csv files 
 foldername= input('Introduce the name of the cleaned folder, eg: 2_17 :  ')
-papers_datasets = pd.read_csv('datasets/cleaned/'+foldername+'/articles_'+foldername+'_clean.csv')
+papers_datasets = pd.read_csv('../datasets/cleaned/'+foldername+'/articles_'+foldername+'_clean.csv')
 
 # get the number of topics from the user 
 nb_topics_str = input('Itroduce the number of Topics to use in LDA (recommanded 10 percent of the number of papers in the dataset) : ')
@@ -53,8 +53,8 @@ topic_values.shape
 
 # save the new dataframe that includes topics into another file 
 reviews_datasets['Topic'] = topic_values.argmax(axis=1)
-reviews_datasets.to_csv('datasets/cleaned/'+foldername+'/articles_'+foldername+'_clean_topic.csv')
+reviews_datasets.to_csv('../datasets/cleaned/'+foldername+'/articles_'+foldername+'_clean_topic.csv')
 
 # save the topics into another file
 df = pd.DataFrame.from_dict(topics, orient="index")
-df.to_csv('datasets/cleaned/'+foldername+'/topics_'+foldername+'.csv')
+df.to_csv('../datasets/cleaned/'+foldername+'/topics_'+foldername+'.csv')
