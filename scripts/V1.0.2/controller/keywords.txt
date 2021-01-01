@@ -1,6 +1,8 @@
 #algorithms
-machine learning
-deep leaning 
+machine
+learning
+deep
+leaning 
 recommender
 system
 nanotechnology
