@@ -18,7 +18,9 @@ jobs:
         with:
           python-version: "3.8"
 
+      
 
       - name: scrap 
         run: |
+          python3 -m pip install scholarly
           python3 scripts/V1.0.2/main.py
