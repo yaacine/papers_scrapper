@@ -1,5 +1,6 @@
 import os.path
 
+
 def get_next_keyword():
     keywords_file = open(os.path.dirname(__file__) +'/keywords.txt', 'r') 
     lines = keywords_file.readlines()
@@ -29,9 +30,12 @@ def mark_line_as_done(line_index):
     keywords_file.writelines(lines) 
     keywords_file.close()
 
+""" 
+    A code example below
 
-(index, word ) = get_next_keyword()
-print (index)
-print(word)
+    (index, word ) = get_next_keyword()
+    print (index)
+    print(word)
 
-mark_line_as_done(index)
+    mark_line_as_done(index)
+"""

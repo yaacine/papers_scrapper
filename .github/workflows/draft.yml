@@ -1,0 +1,24 @@
+name: Scrap Authors
+
+on:
+  push:
+    branches: [yacine]
+
+jobs:
+  runs-on: ubuntu-latest
+  Scrap:
+    steps:
+
+      - name: Check out source repository
+        uses: actions/checkout@v2
+
+      
+      - name: Set up Python environment
+        uses: actions/setup-python@v1
+        with:
+          python-version: "3.8"
+
+
+      - name: scrap 
+        run: |
+          python3 scripts/V1.0.2/main.py
