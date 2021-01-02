@@ -1,7 +1,7 @@
 import csv
 from scholarly import scholarly, ProxyGenerator
 from  .keyword_manger import mark_line_as_done , get_next_keyword
-from csv_manager import *
+from .csv_manager import write_author
 
 # pg = ProxyGenerator() 
 # pg.FreeProxies()
@@ -16,8 +16,12 @@ def get_author_generator_from_keyword(keyword):
     return author_gen
 
 
-def get_list_coauthors(author_id):
+def get_list_coauthors_generator(author_id):
+    """
+        Get a generator of the coauthors 
+    """
     pass
+
 
 def register_authors(author_generator):
     """
@@ -30,7 +34,7 @@ def register_authors(author_generator):
         print(author)
         print (type(author))
         mydict: dict = author_to_dict(author)
-        
+        write_author(mydict ,'scripts/V1.0.2/datasets/articles/authors.csv')
         print(mydict)
         break
     # filled_author = scholarly.fill(author)
@@ -72,6 +76,7 @@ def author_to_dict(author):
         transforms an author object to a dict
     """
     author_dict: dict ={}
+    
     if hasattr(author, 'affiliation'): author_dict['affiliation'] = author.affiliation
     if hasattr(author, 'email'): author_dict['email'] = author.email
     if hasattr(author, 'citedby'): author_dict['citedby'] = author.citedby
@@ -80,7 +85,8 @@ def author_to_dict(author):
     if hasattr(author, 'interests'): author_dict['interests'] = ('|').join(author.interests)
     if hasattr(author, 'name'): author_dict['name'] = author.name
     if hasattr(author, 'url_picture'): author_dict['url_picture'] = author.url_picture
-
+    author_dict['got_publications'] = 0
+    author_dict['got_coauthors']= 0 
     return author_dict
 
 

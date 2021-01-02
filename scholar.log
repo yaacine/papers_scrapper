@@ -46096,3 +46096,176 @@ INFO:scholarly:Found 1 authors
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:recommender%0A
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Found 9 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:system%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:nanotechnology%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:medicine%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:databases%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:graph%20%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:electronics%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:astronomy%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:astrophysics%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:atom%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:beaker%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 0 authors
+INFO:scholarly:No more author pages
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biochemistry%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biology%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:botany%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:Bunsen%20%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 0 authors
+INFO:scholarly:No more author pages
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:burner%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 6 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:burette%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 0 authors
+INFO:scholarly:No more author pages
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cell%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:chemical%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:chemistry%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:climate%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:climatologist%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 0 authors
+INFO:scholarly:No more author pages
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:control%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cuvette%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 0 authors
+INFO:scholarly:No more author pages
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data%0A
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:datum%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:electricity%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:electrochemist%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:element%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 0 authors
+INFO:scholarly:No more author pages
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:energy%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:entomology%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:evolution%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:experiment%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:fact%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 2 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:flask%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:fossil%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 5 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:funnel%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 0 authors
+INFO:scholarly:No more author pages
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:genetics%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:geology%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:geophysics%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:glassware%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 0 authors
+INFO:scholarly:No more author pages
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:graduated%20%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 0 authors
+INFO:scholarly:No more author pages
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cylinder%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 0 authors
+INFO:scholarly:No more author pages
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:gravity%0A
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:herpetology%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:hypothesis%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 0 authors
+INFO:scholarly:No more author pages
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:ichthyology%0A
+INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out. (read timeout=5)"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
