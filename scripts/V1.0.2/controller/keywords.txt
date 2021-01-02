@@ -1,9 +1,9 @@
 #algorithms
-machine
-learning
-deep
-leaning 
-recommender
+#machine
+#learning
+#deep
+#leaning 
+#recommender
 system
 nanotechnology
 medicine
@@ -297,7 +297,8 @@ Gestation
 Global
 Gravitation
 Green
-Greenhouse effect
+Greenhouse
+effect
 Grotto
 Groundwater
 Habitat

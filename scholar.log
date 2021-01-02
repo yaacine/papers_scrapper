@@ -46040,3 +46040,59 @@ INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine
+INFO:scholarly:Proxy http://165.139.252.55:8080 does not seem to work.
+INFO:scholarly:Proxy works!
+INFO:scholarly:Enabling proxies: http=http://88.99.149.188:31288 https=http://88.99.149.188:31288
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine%0A
+INFO:scholarly:Exception ProxyError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /citations?hl=en&view_op=search_authors&mauthors=label:machine%0A (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1107: The handshake operation timed out')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception ProxyError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /citations?hl=en&view_op=search_authors&mauthors=label:machine%0A (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1107: The handshake operation timed out')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception ProxyError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /citations?hl=en&view_op=search_authors&mauthors=label:machine%0A (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1107: The handshake operation timed out')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception ProxyError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /citations?hl=en&view_op=search_authors&mauthors=label:machine%0A (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1107: The handshake operation timed out')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception ProxyError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /citations?hl=en&view_op=search_authors&mauthors=label:machine%0A (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1107: The handshake operation timed out')))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:learning%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:learning%0A&after_author=t909AMpI__8J&astart=10
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:learning%0A&after_author=1lMUAb-F__8J&astart=20
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:learning%0A&after_author=n3pPACya__8J&astart=30
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:learning%0A&after_author=RRMLACG0__8J&astart=40
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:learning%0A&after_author=Y84IAFXC__8J&astart=50
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:learning%0A&after_author=3lErAKDK__8J&astart=60
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:learning%0A&after_author=9wsIAATT__8J&astart=70
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:learning%0A&after_author=kAkDAJHX__8J&astart=80
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:deep%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 4 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:leaning%20%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:recommender%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 9 authors
