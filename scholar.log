@@ -46269,3 +46269,317 @@ INFO:scholarly:Timeout Exception ReadTimeout while fetching page: (ReadTimeoutEr
 INFO:scholarly:Increasing timeout and retrying within same session.
 INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Found 10 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:immunology%0A
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=_MeBAIov_v8J&astart=10
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=EQcGAEF2_v8J&astart=20
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=XEMIAB6w_v8J&astart=30
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=IagDAKDW_v8J&astart=40
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=v_sDALPm_v8J&astart=50
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=4weNANoR__8J&astart=60
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=VnoBAGEg__8J&astart=70
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=H1qNAGEv__8J&astart=80
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=SvdAANk-__8J&astart=90
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=J7gNAQ9O__8J&astart=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=WENnAPJW__8J&astart=110
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=JxMAADVe__8J&astart=120
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=yqGSAGJk__8J&astart=130
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=jeNoABVt__8J&astart=140
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=i6yNAP9y__8J&astart=150
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=Wg8wAHZ5__8J&astart=160
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=EEAUAPN8__8J&astart=170
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=Jh04ABKC__8J&astart=180
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=gYKaAEGF__8J&astart=190
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=PAkSAPuJ__8J&astart=200
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=RAIuAJaN__8J&astart=210
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=GngAANWP__8J&astart=220
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=-Wi9AGeS__8J&astart=230
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=RO27AIaU__8J&astart=240
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=70ICANGX__8J&astart=250
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=RFIhABid__8J&astart=260
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=YggGAFaf__8J&astart=270
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=TYYEADai__8J&astart=280
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=sUoUADyk__8J&astart=290
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=AeoJAAKn__8J&astart=300
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=zIz4AMWo__8J&astart=310
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=SFHKANCq__8J&astart=320
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=8MNFADiu__8J&astart=330
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=Nr4KAJ6v__8J&astart=340
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=RiAWAPOw__8J&astart=350
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=PQILAFqy__8J&astart=360
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=klSKABy0__8J&astart=370
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=lM8tAPq1__8J&astart=380
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=z0MbAHu3__8J&astart=390
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=-pcPAE25__8J&astart=400
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=oKTEAHC6__8J&astart=410
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=1mBrAIi7__8J&astart=420
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=JtiKAIy8__8J&astart=430
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=t-IbAEW9__8J&astart=440
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=v_RUAHS-__8J&astart=450
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=3LWLANS___8J&astart=460
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=RNBzALXA__8J&astart=470
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=WzKyAGzB__8J&astart=480
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=xA4AAETC__8J&astart=490
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=ukeHAKnD__8J&astart=500
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=XB7-AFTE__8J&astart=510
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=iNTHALrF__8J&astart=520
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=UMYPAG3G__8J&astart=530
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=y4pOABrH__8J&astart=540
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=2HiRANrH__8J&astart=550
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=zsWkAJ_I__8J&astart=560
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=3KSRAHzJ__8J&astart=570
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=HuAEACHK__8J&astart=580
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 10 authors
+INFO:scholarly:Loading next page of authors
+INFO:scholarly:Getting https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=YiAgAMTK__8J&astart=590
+INFO:scholarly:Exception ConnectionError while fetching page: (ReadTimeoutError("HTTPSConnectionPool(host='scholar.google.com', port=443): Read timed out."),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Timeout Exception ConnectTimeout while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=YiAgAMTK__8J&astart=590 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10da56520>, 'Connection to scholar.google.com timed out. (connect timeout=5)'))"),)
+INFO:scholarly:Increasing timeout and retrying within same session.
+INFO:scholarly:Exception ConnectionError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=YiAgAMTK__8J&astart=590 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10da56970>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception ConnectionError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=YiAgAMTK__8J&astart=590 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10d944ca0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception ConnectionError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=YiAgAMTK__8J&astart=590 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10d9446d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Exception ConnectionError while fetching page: (MaxRetryError("HTTPSConnectionPool(host='scholar.google.com', port=443): Max retries exceeded with url: /citations?view_op=search_authors&hl=en&mauthors=label:immunology%0A&after_author=YiAgAMTK__8J&astart=590 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10d944b20>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"),)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=8csgm4cAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=8csgm4cAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=8csgm4cAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Got a captcha request.
+INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
+INFO:scholarly:Retrying with a new session.
