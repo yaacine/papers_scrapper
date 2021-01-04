@@ -1,14 +1,22 @@
 import csv
 from scholarly import scholarly, ProxyGenerator
-from  .keyword_manger import mark_line_as_done , get_next_keyword
+from .keyword_manger import mark_line_as_done, get_next_keyword
 from .csv_manager import write_author, insert_co_authering
 
-# pg = ProxyGenerator() 
+# pg = ProxyGenerator()
 # pg.FreeProxies()
 # scholarly.use_proxy(pg)
 
-AUTHORS_CSV_FILE= 'scripts/V1.0.2/datasets/articles/authors2.csv'
-CO_AUTHORING_FILE= 'scripts/V1.0.2/datasets/co_authoring/coauthor.csv'
+AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors2.csv'
+CO_AUTHORING_FILE = 'scripts/V1.0.2/datasets/co_authoring/coauthor.csv'
+
+"""
+ #############################
+ Extract authors from keywords
+ #############################
+"""
+
+
 def get_author_generator_from_keyword(keyword):
     """
         This method gets a generator of the authors with a keyword
@@ -17,29 +25,42 @@ def get_author_generator_from_keyword(keyword):
     return author_gen
 
 
-
-
 def register_authors_from_generator(author_generator):
     """
-        This method goes throught the author generator and gets all 
+        This method goes throught the author generator and gets all
         the authors and registre them in the authors dataset
     """
     while True:
         author = next(author_generator)
         filled_author = scholarly.fill(author, ['indices'])
         mydict = filled_author_to_dict(filled_author)
-        write_author(mydict , AUTHORS_CSV_FILE)
-
+        write_author(mydict, AUTHORS_CSV_FILE)
 
 
 def extract_authors():
-    (index, word) = get_next_keyword()
-    mark_line_as_done(index)
-    author_generator = get_author_generator_from_keyword(word)
-    register_authors_from_generator(author_generator)
-    
+    while True:
+        try:
+            (index, word) = get_next_keyword()
+            mark_line_as_done(index)
+            author_generator = get_author_generator_from_keyword(word)
+            register_authors_from_generator(author_generator)
+        except StopIteration:
+            print("Stop Iterator happened for word" + word)
 
 
+
+
+
+
+"""
+ #############################
+ Extract authors from coauthors
+ #############################
+"""
+
+def extract_coauthors():
+    #TODO: define this function that goes throughout the fetched authors and gets the coauthors
+    pass
 
 
 def extract_coauthors_sequencially(author_id):
@@ -58,50 +79,12 @@ def extract_coauthors_sequencially(author_id):
         write_author(mydict , AUTHORS_CSV_FILE)
         
 
-
-
-
-def check_author_exists(author_id):
-    """
-        Check if the author exists in the csv file 
-    """
-    pass
-
-
-def insert_authors(author):
-    """
-        insert the author to the  csv file 
-    """
-
-    pass
-
-
 def register_coauthering(author_id1, author_id2):
     """
         register a coauthering between two authors by ids
     """
     insert_co_authering(author_id1, author_id2,CO_AUTHORING_FILE )
     
-
-
-def author_to_dict(author):
-    """
-        transforms an author object to a dict
-    """
-    author_dict: dict ={}
-    
-    if hasattr(author, 'affiliation'): author_dict['affiliation'] = author.affiliation
-    if hasattr(author, 'email'): author_dict['email'] = author.email
-    if hasattr(author, 'citedby'): author_dict['citedby'] = author.citedby
-    if hasattr(author, 'id'): author_dict['scholar_id'] = author.id
-    if hasattr(author, 'filled'): author_dict['filled'] = author.filled
-    if hasattr(author, 'interests'): author_dict['interests'] = ('|').join(author.interests)
-    if hasattr(author, 'name'): author_dict['name'] = author.name
-    if hasattr(author, 'url_picture'): author_dict['url_picture'] = author.url_picture
-    author_dict['got_publications'] = 0
-    author_dict['got_coauthors']= 0 
-    return author_dict
-
 
 
 def filled_author_to_dict(author):
@@ -140,3 +123,39 @@ def filled_author_to_dict(author):
     author_dict['got_publications'] = 0
     author_dict['got_coauthors']= 0 
     return author_dict
+
+
+def check_author_exists(author_id):
+    """
+        Check if the author exists in the csv file 
+    """
+    pass
+
+
+def insert_authors(author):
+    """
+        insert the author to the  csv file 
+    """
+
+    pass
+
+
+
+def author_to_dict(author):
+    """
+        transforms an author object to a dict
+    """
+    author_dict: dict ={}
+    
+    if hasattr(author, 'affiliation'): author_dict['affiliation'] = author.affiliation
+    if hasattr(author, 'email'): author_dict['email'] = author.email
+    if hasattr(author, 'citedby'): author_dict['citedby'] = author.citedby
+    if hasattr(author, 'id'): author_dict['scholar_id'] = author.id
+    if hasattr(author, 'filled'): author_dict['filled'] = author.filled
+    if hasattr(author, 'interests'): author_dict['interests'] = ('|').join(author.interests)
+    if hasattr(author, 'name'): author_dict['name'] = author.name
+    if hasattr(author, 'url_picture'): author_dict['url_picture'] = author.url_picture
+    author_dict['got_publications'] = 0
+    author_dict['got_coauthors']= 0 
+    return author_dict
+
