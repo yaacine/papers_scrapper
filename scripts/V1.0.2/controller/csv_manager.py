@@ -19,11 +19,15 @@ def write_publication(publication_dict, file_name):
     # os.makedirs(os.path.dirname(file_name), exist_ok=True)
     next_index = get_next_publication_index("scripts/V1.0.2/datasets/counter.ini")
     array_of_single_publication = [publication_dict]
+    print("array =======>")
+    print(array_of_single_publication)
     df = pd.DataFrame(array_of_single_publication, index=[next_index])
     needs_header = not file_has_header(file_name)
     print("needs header ===> " + str(needs_header))
     df.to_csv(file_name, mode='a', header=needs_header)
     update_last_publication_index("scripts/V1.0.2/datasets/counter.ini")
+
+
 
 def file_has_header(filename):
     sniffer = csv.Sniffer()
@@ -118,6 +122,7 @@ def update_last_publication_index(config_file_name):
         config_object.write(conf)
 
 
+
 def remove_duplicates_authors(file_name):
     df_dirty = pd.read_csv(file_name)
     df_clean = df_dirty.drop_duplicates(subset=['scholar_id'])
@@ -130,3 +135,12 @@ def insert_co_authering(id1, id2, file_name):
     print("needs header ===> " + str(needs_header))
     df.to_csv(file_name, mode='a', header=needs_header)
     update_last_coauthor_index("scripts/V1.0.2/datasets/counter.ini")
+
+
+def get_authors_dataframe(file_name):
+    df = pd.read_csv(file_name)
+    return df
+
+
+def update_authors_dataframe(file_name, dataframe):
+    dataframe.to_csv(file_name, mode='w', header=True)
