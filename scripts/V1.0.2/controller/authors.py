@@ -66,7 +66,7 @@ def extract_coauthors():
             print(row['got_coauthors'])
             extract_coauthors_by_id(row['scholar_id'])
             row['got_coauthors'] = 1
-    
+    update_authors_dataframe(df)
         
 
 

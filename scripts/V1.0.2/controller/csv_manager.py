@@ -37,7 +37,10 @@ def file_has_header(filename):
     if file_empty:
         return False
     else:
-        has_header = sniffer.has_header(open(filename).read(sample_bytes))
+        try:
+             has_header = sniffer.has_header(open(filename).read(sample_bytes))
+        except Exception as identifier:
+            has_header = True
         return has_header
 
 
