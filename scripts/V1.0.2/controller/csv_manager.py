@@ -20,7 +20,6 @@ def write_publication(publication_dict, file_name):
     next_index = get_next_publication_index(
         "scripts/V1.0.2/datasets/counter.ini")
     array_of_single_publication = [publication_dict]
-    print("array =======>")
     print(array_of_single_publication)
     df = pd.DataFrame(array_of_single_publication, index=[next_index])
     needs_header = not file_has_header(file_name)
@@ -172,7 +171,7 @@ def insert_citation(cites_id1, cites_id2, file_name):
     next_index = get_next_citation_index("scripts/V1.0.2/datasets/counter.ini")
     df = pd.DataFrame([{
         "cited_paper": cites_id1,
-        "author_2": cites_id1
+        "source_paper": cites_id2
     }],
         index=[next_index])
     needs_header = not file_has_header(file_name)

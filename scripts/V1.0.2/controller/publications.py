@@ -62,7 +62,11 @@ def get_papers_from_paper_citations(paper_title: str):
         print('dictionary ===>')
         print(mydict)
         write_publication(mydict, PUBLICATIONS_CSV_FILE)
-        register_citation(target_paper.id_citations , mydict['cites_id'])
+        print("=====>target")
+        print(target_paper['citedby_url'] )
+        print("=====>sourcce")
+        print(mydict['citedby_url'])
+        register_citation(target_paper['citedby_url'] , mydict['citedby_url'])
 
         break
     pass
