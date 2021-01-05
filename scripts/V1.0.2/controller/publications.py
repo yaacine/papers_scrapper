@@ -1,19 +1,21 @@
 import csv
 from scholarly import scholarly, ProxyGenerator
 from .keyword_manger import mark_line_as_done, get_next_keyword
-from .csv_manager import write_author, insert_co_authering, write_publication ,get_authors_dataframe ,update_authors_dataframe
+from .csv_manager import  write_author, insert_co_authering, write_publication, get_authors_dataframe, update_authors_dataframe, insert_citation , get_publications_dataframe, update_publications_dataframe
 
 PUBLICATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/articles/articles.csv'
 AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors.csv'
+CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 
 # pg = ProxyGenerator()
 # pg.FreeProxies()
 # scholarly.use_proxy(pg)
 
+
 def get_papers_for_author(author_id):
     author = scholarly.search_author_id(author_id)
     filled_publications = scholarly.fill(author, ['publications'])
-    
+
     publications_list = filled_publications['publications']
     print("TYPE  =>>>")
     print(type(publications_list))
@@ -30,26 +32,26 @@ def get_papers_for_author(author_id):
         write_publication(mydict, PUBLICATIONS_CSV_FILE)
 
 
-
-
-
 def extract_papers_from_authors():
-    # TODO: define this function that goes throughout the fetched authors and gets the coauthors
-    df =get_authors_dataframe(AUTHORS_CSV_FILE)
+    # TODO: define this function that goes throughout the fetched authors and
+    # gets the coauthors
+    df = get_authors_dataframe(AUTHORS_CSV_FILE)
     for index, row in df.iterrows():
         if row['got_publications'] == 0:
             print(row['got_publications'])
             get_papers_for_author(row['scholar_id'])
             row['got_publications'] = 1
     update_authors_dataframe(df)
-        
 
 
 def get_papers_from_paper_citations(paper_title: str):
-    # search by title as a keyword
-    target_paper_generator = scholarly.search_pubs(paper_title)
-    # get the first result
-    target_paper = next(target_paper_generator)
+    """
+        gets the papers that cited the paper given as a parameter
+        it registers the found papers in articles folder and registres the citation 
+        relationship in the citations folder 
+    """
+    target_paper_generator = scholarly.search_pubs(paper_title)     # search by title as a keyword
+    target_paper = next(target_paper_generator)     # get the first result
     print(target_paper)
     print('##########################')
     publications_generator = scholarly.citedby(target_paper)
@@ -60,18 +62,37 @@ def get_papers_from_paper_citations(paper_title: str):
         print('dictionary ===>')
         print(mydict)
         write_publication(mydict, PUBLICATIONS_CSV_FILE)
+        register_citation(target_paper.id_citations , mydict['cites_id'])
 
         break
     pass
 
 
 
+def extract_papers_from_citations():
+    # TODO: define this function that goes throughout the fetched authors and
+    # gets the coauthors
+    df = get_publications_dataframe(PUBLICATIONS_CSV_FILE)
+    for index, row in df.iterrows():
+        if row['got_citations'] == 0:
+            print(row['got_citations'])
+            get_papers_from_paper_citations(row['title'])
+            row['got_citations'] = 1
+    update_publications_dataframe(df)
+
+def register_citation(cited_paper, paper):
+    """
+        register a coauthering between two authors by ids
+    """
+    insert_citation(cited_paper, paper,CITATIONS_CSV_FILE )
+    
 
 
 def publication_to_dict(publication):
     publication_dict = {}
     if 'title' in publication['bib'].keys():
-        publication_dict['title'] = publication['bib']['title'].replace(',', '.')
+        publication_dict['title'] = publication['bib']['title'].replace(
+            ',', '.')
     else:
         publication_dict['title'] = ''
     if 'pub_year' in publication['bib'].keys():
@@ -87,11 +108,13 @@ def publication_to_dict(publication):
     else:
         publication_dict['volume'] = ''
     if 'publisher' in publication['bib'].keys():
-        publication_dict['publisher'] = publication['bib']['publisher'].replace(',', '.')
+        publication_dict['publisher'] = publication['bib']['publisher'].replace(
+            ',', '.')
     else:
         publication_dict['publisher'] = ''
     if 'abstract' in publication['bib'].keys():
-        publication_dict['abstract'] = publication['bib']['abstract'].replace(',', '.')
+        publication_dict['abstract'] = publication['bib']['abstract'].replace(
+            ',', '.')
     else:
         publication_dict['abstract'] = ''
     if 'filled' in publication.keys():
@@ -126,4 +149,3 @@ def publication_to_dict(publication):
     # if 'cites_per_year' in publication.keys(): publication_dict['cites_per_year'] = ' | '.join('='.join((key,val)) for (key,val) in publication['cites_per_year'] )
     # else: publication_dict['cites_per_year'] =''
     return publication_dict
-

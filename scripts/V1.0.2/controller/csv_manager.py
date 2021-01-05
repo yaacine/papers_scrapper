@@ -17,7 +17,8 @@ def write_author(author_dict, file_name):
 
 def write_publication(publication_dict, file_name):
     # os.makedirs(os.path.dirname(file_name), exist_ok=True)
-    next_index = get_next_publication_index("scripts/V1.0.2/datasets/counter.ini")
+    next_index = get_next_publication_index(
+        "scripts/V1.0.2/datasets/counter.ini")
     array_of_single_publication = [publication_dict]
     print("array =======>")
     print(array_of_single_publication)
@@ -28,17 +29,16 @@ def write_publication(publication_dict, file_name):
     update_last_publication_index("scripts/V1.0.2/datasets/counter.ini")
 
 
-
 def file_has_header(filename):
     sniffer = csv.Sniffer()
-    sample_bytes = 1024
+    sample_bytes = 2048
     file_empty = is_file_empty(filename)
     print("empty ===> " + str(file_empty))
     if file_empty:
         return False
     else:
         try:
-             has_header = sniffer.has_header(open(filename).read(sample_bytes))
+            has_header = sniffer.has_header(open(filename).read(sample_bytes))
         except Exception as identifier:
             has_header = True
         return has_header
@@ -75,6 +75,7 @@ def get_next_coauthor_index(config_file_name):
     print(last_index)
     return int(last_index) + 1
 
+
 def get_next_publication_index(config_file_name):
     """
         It gets the next index in a given csv file
@@ -82,6 +83,18 @@ def get_next_publication_index(config_file_name):
     config_object = ConfigParser()
     config_object.read(config_file_name)
     authorinfo = config_object["PUBLICATIONINFO"]
+    last_index = authorinfo["last_index"]
+    print(last_index)
+    return int(last_index) + 1
+
+
+def get_next_citation_index(config_file_name):
+    """
+        It gets the next index in a given csv file
+    """
+    config_object = ConfigParser()
+    config_object.read(config_file_name)
+    authorinfo = config_object["CITATIONINFO"]
     last_index = authorinfo["last_index"]
     print(last_index)
     return int(last_index) + 1
@@ -112,6 +125,7 @@ def update_last_coauthor_index(config_file_name):
     with open(config_file_name, 'w') as conf:
         config_object.write(conf)
 
+
 def update_last_publication_index(config_file_name):
     """
         It updtes the last index of the author
@@ -124,6 +138,18 @@ def update_last_publication_index(config_file_name):
     with open(config_file_name, 'w') as conf:
         config_object.write(conf)
 
+
+def update_last_citation_index(config_file_name):
+    """
+        It updtes the last index of the author
+    """
+    config_object = ConfigParser()
+    config_object.read(config_file_name)
+    authorinfo = config_object["CITATIONINFO"]
+    last_index = authorinfo["last_index"]
+    authorinfo["last_index"] = str(int(last_index) + 1)
+    with open(config_file_name, 'w') as conf:
+        config_object.write(conf)
 
 
 def remove_duplicates_authors(file_name):
@@ -140,10 +166,34 @@ def insert_co_authering(id1, id2, file_name):
     update_last_coauthor_index("scripts/V1.0.2/datasets/counter.ini")
 
 
+# cites_id1 : the cites id of the cited paper
+# cites_id2 : the cites id of the paper that cited the other paper
+def insert_citation(cites_id1, cites_id2, file_name):
+    next_index = get_next_citation_index("scripts/V1.0.2/datasets/counter.ini")
+    df = pd.DataFrame([{
+        "cited_paper": cites_id1,
+        "author_2": cites_id1
+    }],
+        index=[next_index])
+    needs_header = not file_has_header(file_name)
+    print("needs header ===> " + str(needs_header))
+    df.to_csv(file_name, mode='a', header=needs_header)
+    update_last_citation_index("scripts/V1.0.2/datasets/counter.ini")
+
+
 def get_authors_dataframe(file_name):
     df = pd.read_csv(file_name)
     return df
 
 
 def update_authors_dataframe(file_name, dataframe):
-    dataframe.to_csv(file_name, mode='w', header=True)
+    dataframe.to_csv(file_name, mode='w', header=False)
+
+
+def get_publications_dataframe(file_name):
+    df = pd.read_csv(file_name)
+    return df
+
+
+def update_publications_dataframe(file_name, dataframe):
+    dataframe.to_csv(file_name, mode='w', header=False)
