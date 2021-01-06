@@ -18,7 +18,6 @@ jobs:
 
       - name: run tor
         run: |
-          tor
           ss -nlt
 
 
