@@ -46705,3 +46705,5 @@ DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0002)
 INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
 DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
 INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
