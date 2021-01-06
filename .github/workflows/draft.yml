@@ -42,7 +42,13 @@ jobs:
       - name: scrap 
         run: |
           python3 scripts/V1.0.2/main.py
+        continue-on-error: true
 
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: my-artifact
+          path: scripts/V1.0.2/datasets/articles/articles2.csv
 
             
       # push the formatting changes to the PR itself
