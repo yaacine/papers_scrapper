@@ -7,7 +7,7 @@ from .csv_manager import write_author, insert_co_authering ,get_authors_datafram
 # pg.FreeProxies()
 # scholarly.use_proxy(pg)
 
-AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors.csv'
+AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors2.csv'
 CO_AUTHORING_FILE = 'scripts/V1.0.2/datasets/co_authoring/coauthor.csv'
 
 """
