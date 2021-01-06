@@ -165,15 +165,19 @@ def insert_co_authering(id1, id2, file_name):
     update_last_coauthor_index("scripts/V1.0.2/datasets/counter.ini")
 
 
-# cites_id1 : the cites id of the cited paper
-# cites_id2 : the cites id of the paper that cited the other paper
 def insert_citation(cites_id1, cites_id2, file_name):
+    """
+        Insert citation relationship between two papers in the citations csv file
+        Args:
+            cites_id1 (str) : the cites id of the cited paper
+            cites_id2 (str) : the cites id of the paper that cited the other paper
+    """
     next_index = get_next_citation_index("scripts/V1.0.2/datasets/counter.ini")
     df = pd.DataFrame([{
         "cited_paper": cites_id1,
         "source_paper": cites_id2
     }],
-        index=[next_index])
+                      index=[next_index])
     needs_header = not file_has_header(file_name)
     print("needs header ===> " + str(needs_header))
     df.to_csv(file_name, mode='a', header=needs_header)
