@@ -10,7 +10,7 @@
 #databases
 #graph 
 #electronics
-astronomy
+#astronomy
 astrophysics
 atom
 beaker

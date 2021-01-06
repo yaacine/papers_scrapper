@@ -13,7 +13,15 @@ jobs:
       - name: Check out source repository
         uses: actions/checkout@v2
 
-        
+      - name: install tor proxy
+        run: sudo apt install tor
+
+      - name: run tor
+        run: |
+          tor
+          ss -nlt
+
+
       - name: Set up Python environment
         uses: actions/setup-python@v1
         with:
