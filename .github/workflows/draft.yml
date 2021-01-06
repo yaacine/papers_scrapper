@@ -12,6 +12,9 @@ jobs:
 
       - name: Check out source repository
         uses: actions/checkout@v2
+        with:
+          token: ${{secrets.GH_ACCESS_TOKEN}}
+
 
       - name: install tor proxy
         run: sudo apt install tor
@@ -39,3 +42,13 @@ jobs:
       - name: scrap 
         run: |
           python3 scripts/V1.0.2/main.py
+
+
+            
+      # push the formatting changes to the PR itself
+      - name: Commit autopep8 changes
+        run: |
+          git config --global user.name 'Mehyac Scrapper'
+          git config --global user.email 'mehyac_scrapper@users.noreply.github.com'
+          git commit -am "Automated scrapping"
+          git push
