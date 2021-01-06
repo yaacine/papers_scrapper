@@ -46583,3 +46583,56 @@ INFO:scholarly:Session proxy config is {}
 INFO:scholarly:Got a captcha request.
 INFO:scholarly:Exception WebDriverException while fetching page: ("'geckodriver' executable needs to be in PATH. ",)
 INFO:scholarly:Retrying with a new session.
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0002)
+INFO:stem:Error while receiving a control message (SocketClosed): empty socket content
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "[Errno 9] Bad file descriptor"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0003)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:GETCONF __owningcontrollerprocess (runtime: 0.0005)
+INFO:stem:Error while receiving a control message (SocketClosed): received exception "read of closed file"
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:System call: tor --version (runtime: 0.04)
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:System call: tor --version (runtime: 0.02)
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:System call: tor --version (runtime: 0.01)
+DEBUG:stem:System call: tor --version (runtime: 0.01)

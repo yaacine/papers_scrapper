@@ -85,7 +85,7 @@ def get_next_publication_index(config_file_name):
     last_index = authorinfo["last_index"]
     print(last_index)
     return int(last_index) + 1
-
+ 
 
 def get_next_citation_index(config_file_name):
     """
