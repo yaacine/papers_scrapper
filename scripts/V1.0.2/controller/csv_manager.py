@@ -3,29 +3,31 @@ import pandas as pd
 import os
 from configparser import ConfigParser
 
+COUNTER_CONFIG_FILE="scripts/V1.0.2/datasets/counter.ini"
+
 
 def write_author(author_dict, file_name):
     # os.makedirs(os.path.dirname(file_name), exist_ok=True)
-    next_index = get_next_author_index("scripts/V1.0.2/datasets/counter.ini")
+    next_index = get_next_author_index(COUNTER_CONFIG_FILE)
     array_of_single_author = [author_dict]
     df = pd.DataFrame(array_of_single_author, index=[next_index])
     needs_header = not file_has_header(file_name)
     print("needs header ===> " + str(needs_header))
     df.to_csv(file_name, mode='a', header=needs_header)
-    update_last_author_index("scripts/V1.0.2/datasets/counter.ini")
+    update_last_author_index(COUNTER_CONFIG_FILE)
 
 
 def write_publication(publication_dict, file_name):
     # os.makedirs(os.path.dirname(file_name), exist_ok=True)
     next_index = get_next_publication_index(
-        "scripts/V1.0.2/datasets/counter.ini")
+        COUNTER_CONFIG_FILE)
     array_of_single_publication = [publication_dict]
     print(array_of_single_publication)
     df = pd.DataFrame(array_of_single_publication, index=[next_index])
     needs_header = not file_has_header(file_name)
     print("needs header ===> " + str(needs_header))
     df.to_csv(file_name, mode='a', header=needs_header)
-    update_last_publication_index("scripts/V1.0.2/datasets/counter.ini")
+    update_last_publication_index(COUNTER_CONFIG_FILE)
 
 
 def file_has_header(filename):
@@ -151,18 +153,47 @@ def update_last_citation_index(config_file_name):
         config_object.write(conf)
 
 
+
+def get_last_scrapped_author_id(config_file_name):
+    """
+        It gets the scholar id of the last author to whom the papers have beed scrapped
+    """
+    config_object = ConfigParser()
+    config_object.read(config_file_name)
+    authorinfo = config_object["PUBLICATIONINFO"]
+    last_scholar_id = authorinfo["last_scrapped_author_id"]
+    return last_scholar_id 
+
+
+def update_last_scrapped_author_id(config_file_name, author_id):
+    """
+        It updates the scholar id of the last author to whom the papers have beed scrapped
+    """
+    config_object = ConfigParser()
+    config_object.read(config_file_name)
+    authorinfo = config_object["PUBLICATIONINFO"]
+    last_index = authorinfo["last_scrapped_author_id"]
+    authorinfo["last_scrapped_author_id"] = author_id
+    with open(config_file_name, 'w') as conf:
+        config_object.write(conf)
+
+
+
+
+
+
 def remove_duplicates_authors(file_name):
     df_dirty = pd.read_csv(file_name)
     df_clean = df_dirty.drop_duplicates(subset=['scholar_id'])
 
 
 def insert_co_authering(id1, id2, file_name):
-    next_index = get_next_coauthor_index("scripts/V1.0.2/datasets/counter.ini")
+    next_index = get_next_coauthor_index(COUNTER_CONFIG_FILE)
     df = pd.DataFrame([{"author_1": id1, "author_2": id2}], index=[next_index])
     needs_header = not file_has_header(file_name)
     print("needs header ===> " + str(needs_header))
     df.to_csv(file_name, mode='a', header=needs_header)
-    update_last_coauthor_index("scripts/V1.0.2/datasets/counter.ini")
+    update_last_coauthor_index(COUNTER_CONFIG_FILE)
 
 
 def insert_citation(cites_id1, cites_id2, file_name):
@@ -172,7 +203,7 @@ def insert_citation(cites_id1, cites_id2, file_name):
             cites_id1 (str) : the cites id of the cited paper
             cites_id2 (str) : the cites id of the paper that cited the other paper
     """
-    next_index = get_next_citation_index("scripts/V1.0.2/datasets/counter.ini")
+    next_index = get_next_citation_index(COUNTER_CONFIG_FILE)
     df = pd.DataFrame([{
         "cited_paper": cites_id1,
         "source_paper": cites_id2
@@ -181,7 +212,7 @@ def insert_citation(cites_id1, cites_id2, file_name):
     needs_header = not file_has_header(file_name)
     print("needs header ===> " + str(needs_header))
     df.to_csv(file_name, mode='a', header=needs_header)
-    update_last_citation_index("scripts/V1.0.2/datasets/counter.ini")
+    update_last_citation_index(COUNTER_CONFIG_FILE)
 
 
 def get_authors_dataframe(file_name):
@@ -190,7 +221,8 @@ def get_authors_dataframe(file_name):
 
 
 def update_authors_dataframe(file_name, dataframe):
-    dataframe.to_csv(file_name, mode='w', header=False)
+    os.remove(file_name)
+    dataframe.to_csv(file_name, mode='w', header=True , index= False)
 
 
 def get_publications_dataframe(file_name):
