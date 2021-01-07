@@ -10,9 +10,9 @@ import controller.publications as pubs
 
 
 
-pg = ProxyGenerator() 
-pg.Tor_Internal(tor_cmd = 'tor')
-scholarly.use_proxy(pg)
+# pg = ProxyGenerator() 
+# pg.Tor_Internal(tor_cmd = 'tor')
+# scholarly.use_proxy(pg)
 
 
 # author.extract_authors()

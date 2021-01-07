@@ -3,13 +3,11 @@ from scholarly import scholarly, ProxyGenerator
 from .keyword_manger import mark_line_as_done, get_next_keyword
 from .csv_manager import  write_author, insert_co_authering, write_publication, get_authors_dataframe, update_authors_dataframe, insert_citation , get_publications_dataframe, update_publications_dataframe
 import time
-PUBLICATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/articles/articles4.csv'
+
+PUBLICATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/articles/articles6.csv'
 AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors2.csv'
 CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 
-# pg = ProxyGenerator()
-# pg.FreeProxies()
-# scholarly.use_proxy(pg)
 
 
 def get_papers_for_author(author_id):
@@ -19,7 +17,6 @@ def get_papers_for_author(author_id):
     publications_list = filled_publications['publications']
     print("TYPE  =>>>")
     print(type(publications_list))
-
     for publication in publications_list:
         scholarly.pprint(publication)
         filled_publication = scholarly.fill(publication)
@@ -43,14 +40,15 @@ def extract_papers_from_authors():
         #     exit(0)
         #     break
         if row['got_publications'] == 0:
+            print ("Getting publications of author :" + row['scholar_id'] )
             print(row['got_publications'])
+            row['got_publications'] = 1 
             try:
                 get_papers_for_author(row['scholar_id'])
             except Exception as identifier:
                 row['got_publications'] = 1               
-                update_authors_dataframe(df)
-    row['got_publications'] = 1               
-    update_authors_dataframe(df)
+                update_authors_dataframe(AUTHORS_CSV_FILE, df)                  
+    update_authors_dataframe(AUTHORS_CSV_FILE ,df)
 
 
 def get_papers_from_paper_citations(paper_title: str):
