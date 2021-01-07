@@ -52,7 +52,7 @@ jobs:
         with:
           skicka-tokencache-json: ${{ secrets.SKICKA_TOKENCACHE_JSON }}
           upload-from: scripts/V1.0.2/datasets
-          upload-to: /PFE [Recommender System]/Datasets/Generated_from_github_actions
+          upload-to: /PFE/datasets/genetared_from_gh_actions
           # For those who set up Google Drive API client ID and secret themselves
           google-client-id: ${{ secrets.GOOGLE_CLIENT_ID }}
           google-client-secret: ${{ secrets.GOOGLE_CLIENT_SECRET }}
