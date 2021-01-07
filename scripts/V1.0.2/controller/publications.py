@@ -43,6 +43,7 @@ def extract_papers_from_authors():
             print ("Getting publications of author :" + row['scholar_id'] )
             print(row['got_publications'])
             row['got_publications'] = 1 
+            update_authors_dataframe(AUTHORS_CSV_FILE, df) 
             try:
                 get_papers_for_author(row['scholar_id'])
             except Exception as identifier:
