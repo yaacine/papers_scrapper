@@ -3,8 +3,8 @@ from scholarly import scholarly, ProxyGenerator
 from .keyword_manger import mark_line_as_done, get_next_keyword
 from .csv_manager import  write_author, insert_co_authering, write_publication, get_authors_dataframe, update_authors_dataframe, insert_citation , get_publications_dataframe, update_publications_dataframe
 import time
-PUBLICATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/articles/articles2.csv'
-AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors.csv'
+PUBLICATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/articles/articles3.csv'
+AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors2.csv'
 CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 
 # pg = ProxyGenerator()
