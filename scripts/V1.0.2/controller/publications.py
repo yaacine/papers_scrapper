@@ -36,7 +36,7 @@ def extract_papers_from_authors():
     # TODO: define this function that goes throughout the fetched authors and
     # gets the coauthors
     start = time.time()
-    PERIOD_OF_TIME = 18000 # 5min
+    PERIOD_OF_TIME = 18000 # 5hours
     df = get_authors_dataframe(AUTHORS_CSV_FILE)
     for index, row in df.iterrows():
         if time.time() > start + PERIOD_OF_TIME : break

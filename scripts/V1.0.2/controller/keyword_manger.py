@@ -1,8 +1,10 @@
 import os.path
 
 
+KEYWORD_FILE_PATH="scripts/V1.0.2/datasets/keywords.txt"
+
 def get_next_keyword():
-    keywords_file = open(os.path.dirname(__file__) + '/keywords.txt', 'r')
+    keywords_file = open(KEYWORD_FILE_PATH, 'r')
     lines = keywords_file.readlines()
     i = 0
     stop = False
