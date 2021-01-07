@@ -2,7 +2,7 @@ name: Scrap Authors
 
 on:
   push:
-    branches: [yacine]
+    branches: [gh-actions-scrapper]
 
 jobs:
   Scrap:
@@ -44,7 +44,7 @@ jobs:
           python3 scripts/V1.0.2/main.py
         continue-on-error: true
         timeout-minutes: 310
-
+        
 
      
       - name: Upload to Google Drive
@@ -56,13 +56,13 @@ jobs:
           # For those who set up Google Drive API client ID and secret themselves
           google-client-id: ${{ secrets.GOOGLE_CLIENT_ID }}
           google-client-secret: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+        continue-on-error: true
 
       - uses: actions/upload-artifact@v2
         with:
           name: my-artifact
           path: scripts/V1.0.2/datasets/articles/articles2.csv
-
-            
+        continue-on-error: true
       # push the formatting changes to the PR itself
       - name: Commit autopep8 changes
         run: |
@@ -70,3 +70,5 @@ jobs:
           git config --global user.email 'mehyac_scrapper@users.noreply.github.com'
           git commit -am "Automated scrapping"
           git push
+
+        continue-on-error: true

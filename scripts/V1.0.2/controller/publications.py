@@ -39,7 +39,9 @@ def extract_papers_from_authors():
     PERIOD_OF_TIME = 18000 # 5hours
     df = get_authors_dataframe(AUTHORS_CSV_FILE)
     for index, row in df.iterrows():
-        if time.time() > start + PERIOD_OF_TIME : break
+        if time.time() > start + PERIOD_OF_TIME : 
+            exit(0)
+            break
         if row['got_publications'] == 0:
             print(row['got_publications'])
             try:
