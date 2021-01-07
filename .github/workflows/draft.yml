@@ -39,12 +39,23 @@ jobs:
 
           
 
-      - name: scrap 
-        run: |
-          python3 scripts/V1.0.2/main.py
-        continue-on-error: true
-        timeout-minutes: 310
+      # - name: scrap 
+      #   run: |
+      #     python3 scripts/V1.0.2/main.py
+      #   continue-on-error: true
+      #   timeout-minutes: 310
 
+
+     
+      - name: Upload to Google Drive
+        uses: satackey/action-google-drive@v1
+        with:
+          skicka-tokencache-json: ${{ secrets.SKICKA_TOKENCACHE_JSON }}
+          upload-from: scripts/V1.0.2/datasets
+          upload-to: /PFE [Recommender System]/Datasets/Generated_from_github_actions
+          # For those who set up Google Drive API client ID and secret themselves
+          google-client-id: ${{ secrets.GOOGLE_CLIENT_ID }}
+          google-client-secret: ${{ secrets.GOOGLE_CLIENT_SECRET }}
 
       - uses: actions/upload-artifact@v2
         with:
