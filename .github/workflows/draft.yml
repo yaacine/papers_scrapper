@@ -64,7 +64,7 @@ jobs:
           path: scripts/V1.0.2/datasets/articles/
         continue-on-error: true
       # push the formatting changes to the PR itself
-      - name: Commit  changes
+      - name: Commit changes
         run: |
           git config --global user.name 'Mehyac Scrapper'
           git config --global user.email 'mehyac_scrapper@users.noreply.github.com'
