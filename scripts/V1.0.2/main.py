@@ -15,7 +15,7 @@ pg.Tor_Internal(tor_cmd = 'tor')
 scholarly.use_proxy(pg)
 
 
-author.extract_authors()
+# author.extract_authors()
 # pubs.get_papers_for_author("4Hme0r8AAAAJ")
 
 # pubs.extract_papers_from_authors()
