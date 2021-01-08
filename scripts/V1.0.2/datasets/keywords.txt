@@ -12,9 +12,9 @@
 #electronics
 #astronomy
 #astrophysics
-atom
-beaker
-biochemistry
+#atom
+#beaker
+#biochemistry
 biology
 botany
 Bunsen 
