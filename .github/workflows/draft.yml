@@ -43,7 +43,7 @@ jobs:
         run: |
           python3 scripts/V1.0.2/main.py
         continue-on-error: true
-        timeout-minutes: 310
+        timeout-minutes: 350
         
 
      
