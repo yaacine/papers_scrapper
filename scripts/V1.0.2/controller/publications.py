@@ -11,9 +11,9 @@ COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
 
 
 def get_papers_for_author(author_id):
+    print("getting paper for author " +author_id )
     author = scholarly.search_author_id(author_id)
     filled_publications = scholarly.fill(author, ['publications'])
-
     publications_list = filled_publications['publications']
     print("TYPE  =>>>")
     print(type(publications_list))
@@ -41,6 +41,7 @@ def extract_papers_from_authors():
             update_last_scrapped_author_id(COUNTER_CONFIG_FILE,
                                            row['scholar_id'])
             try:
+                
                 get_papers_for_author(row['scholar_id'])
             except Exception as identifier:
                 row['got_publications'] = 1
