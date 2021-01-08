@@ -177,6 +177,28 @@ def update_last_scrapped_author_id(config_file_name, author_id):
     with open(config_file_name, 'w') as conf:
         config_object.write(conf)
 
+def get_last_scrapped_author_id_coauthoring(config_file_name):
+    """
+        It gets the scholar id of the last author to whom co_authors have beed scrapped
+    """
+    config_object = ConfigParser()
+    config_object.read(config_file_name)
+    authorinfo = config_object["COAUTHORINFO"]
+    last_scholar_id = authorinfo["last_scrapped_author_id_coauthering"]
+    return last_scholar_id 
+
+
+def update_last_scrapped_author_id_coauthoring(config_file_name, author_id):
+    """
+        It updates the scholar id of the last author to whom the coauthors have beed scrapped
+    """
+    config_object = ConfigParser()
+    config_object.read(config_file_name)
+    authorinfo = config_object["COAUTHORINFO"]
+    last_index = authorinfo["last_scrapped_author_id_coauthering"]
+    authorinfo["last_scrapped_author_id_coauthering"] = author_id
+    with open(config_file_name, 'w') as conf:
+        config_object.write(conf)
 
 
 

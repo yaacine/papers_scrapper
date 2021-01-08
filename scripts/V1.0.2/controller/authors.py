@@ -56,11 +56,18 @@ def extract_coauthors():
     df = get_authors_dataframe(AUTHORS_CSV_FILE)
     for index, row in df.iterrows():
         if row['got_coauthors'] == 0:
+            print("Getting co_authors of author :" + row['scholar_id'])
+            print(row['got_publications'])
             print(row['got_coauthors'])
-            extract_coauthors_by_id(row['scholar_id'])
-            row['got_coauthors'] = 1
-    update_authors_dataframe(df)
+            df.at[index, 'got_coauthors'] = 1
+            update_authors_dataframe(AUTHORS_CSV_FILE,df)
+            update_last_scrapped_author_id_coauthoring(COUNTER_CONFIG_FILE,row['scholar_id'])
+            try:
+                extract_coauthors_by_id(row['scholar_id'])
+            except Exception as identifier:
+                update_authors_dataframe(AUTHORS_CSV_FILE, df)
 
+   
 
 def extract_coauthors_by_id(author_id):
     """

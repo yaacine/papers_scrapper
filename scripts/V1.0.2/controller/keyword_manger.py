@@ -24,10 +24,10 @@ def get_next_keyword():
 
 
 def mark_line_as_done(line_index):
-    keywords_file = open(os.path.dirname(__file__) + '/keywords.txt', 'r')
+    keywords_file = open(KEYWORD_FILE_PATH, 'r')
     lines = keywords_file.readlines()
     keywords_file.close()
-    keywords_file = open(os.path.dirname(__file__) + '/keywords.txt', 'w')
+    keywords_file = open(KEYWORD_FILE_PATH, 'w')
     lines[line_index] = "#" + lines[line_index]
     keywords_file.writelines(lines)
     keywords_file.close()
