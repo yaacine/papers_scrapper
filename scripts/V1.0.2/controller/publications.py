@@ -3,8 +3,19 @@ from scholarly import scholarly, ProxyGenerator
 from .keyword_manger import mark_line_as_done, get_next_keyword
 from .csv_manager import write_author, insert_co_authering, write_publication, get_authors_dataframe, update_authors_dataframe, insert_citation, get_publications_dataframe, update_publications_dataframe, update_last_scrapped_author_id
 import time
+from datetime import datetime
 
-PUBLICATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/articles/articles6.csv'
+
+# get unique time for author file name
+now = datetime.now().time() # time object
+print("now =", now)
+
+# get unique time for author file name (used when scrapping authors based on the co-authors relationship)
+now = datetime.now()
+current_time = now.strftime("%H:%M:%S")
+
+PUBLICATIONS_CSV_FILE_OUTPUT = 'scripts/V1.0.2/datasets/articles/articles'+str(now)+'.csv'
+PUBLICATIONS_CSV_FILE_INPUT= 'scripts/V1.0.2/datasets/articles/articles2.csv'
 AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors2.csv'
 CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
@@ -26,24 +37,26 @@ def get_papers_for_author(author_id):
         mydict = publication_to_dict(filled_publication)
         print('dictionary ===>')
         print(mydict)
-        write_publication(mydict, PUBLICATIONS_CSV_FILE)
+        write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
 
 
 def extract_papers_from_authors():
     # TODO: define this function that goes throughout the fetched authors andgets the papers
     df = get_authors_dataframe(AUTHORS_CSV_FILE)
     for index, row in df.iterrows():
+
+        print(row['got_publications']) 
         if row['got_publications'] == 0:
-            print("Getting publications of author :" + row['scholar_id'])
+            print("Getting publications of author : " + row['scholar_id'])
             print(row['got_publications'])
             df.at[index, 'got_publications'] = 1
             update_authors_dataframe(AUTHORS_CSV_FILE, df)
             update_last_scrapped_author_id(COUNTER_CONFIG_FILE,
                                            row['scholar_id'])
             try:
-                
                 get_papers_for_author(row['scholar_id'])
             except Exception as identifier:
+                print(identifier)
                 row['got_publications'] = 1
                 update_authors_dataframe(AUTHORS_CSV_FILE, df)
     update_authors_dataframe(AUTHORS_CSV_FILE, df)
@@ -67,7 +80,7 @@ def get_papers_from_paper_citations(paper_title: str):
         mydict = publication_to_dict(filled_publication)
         print('dictionary ===>')
         print(mydict)
-        write_publication(mydict, PUBLICATIONS_CSV_FILE)
+        write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
         print("=====>target")
         print(target_paper['citedby_url'])
         print("=====>sourcce")
@@ -75,19 +88,19 @@ def get_papers_from_paper_citations(paper_title: str):
         register_citation(target_paper['citedby_url'], mydict['citedby_url'])
 
         break
-    pass
+    
 
 
 def extract_papers_from_citations():
     # TODO: define this function that goes throughout the fetched authors and
     # gets the coauthors
-    df = get_publications_dataframe(PUBLICATIONS_CSV_FILE)
+    df = get_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT)
     for index, row in df.iterrows():
         if row['got_citations'] == 0:
             print(row['got_citations'])
             get_papers_from_paper_citations(row['title'])
             row['got_citations'] = 1
-    update_publications_dataframe(df)
+    update_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT ,df )
 
 
 def register_citation(cited_paper, paper):
