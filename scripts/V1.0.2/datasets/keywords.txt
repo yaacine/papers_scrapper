@@ -16,6 +16,7 @@
 #beaker
 #biochemistry
 #biology
+<<<<<<< HEAD
 botany
 Bunsen 
 burner
@@ -23,6 +24,15 @@ burette
 cell
 chemical
 chemistry
+=======
+#botany
+#Bunsen 
+#burner
+#burette
+#cell
+#chemical
+#chemistry
+>>>>>>> gh-actions-scrapper
 climate
 climatologist
 control

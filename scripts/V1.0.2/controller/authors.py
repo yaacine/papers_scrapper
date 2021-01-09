@@ -54,6 +54,7 @@ def extract_authors():
         try:
             (index, word) = get_next_keyword()
             mark_line_as_done(index)
+            print("Getting authors of keyword: "+ word)
             author_generator = get_author_generator_from_keyword(word)
             register_authors_from_generator(author_generator)
         except StopIteration:
