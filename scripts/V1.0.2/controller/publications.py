@@ -14,12 +14,13 @@ print("now =", now)
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 
-
-PUBLICATIONS_CSV_FILE_OUTPUT = 'scripts/V1.0.2/datasets/articles/articles'+str(now)+'.csv'
+publication_file_name_output='articles'+str(now).replace(' ','_')+'.csv'
+PUBLICATIONS_CSV_FILE_OUTPUT =os.path.join('scripts','V1.0.2','datasets','articles', publication_file_name_output) 
 #create the file if is does not exist
-if not os.path.exists(PUBLICATIONS_CSV_FILE_OUTPUT):
-    os.mknod(PUBLICATIONS_CSV_FILE_OUTPUT)
-
+print(PUBLICATIONS_CSV_FILE_OUTPUT)
+os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT), exist_ok=True)
+open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
+print('file created')
 
 PUBLICATIONS_CSV_FILE_INPUT= 'scripts/V1.0.2/datasets/articles/articles2.csv'
 AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors2.csv'

@@ -13,18 +13,17 @@ print("now =", now)
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 
-
-AUTHORS_CSV_FILE_OUTPUT = 'scripts/V1.0.2/datasets/authors/authors' + \
-    str(now)+'.csv'
+fine_name_output_authors= 'authors' +str(now).replace(' ','_')+'.csv'
+AUTHORS_CSV_FILE_OUTPUT =os.path.join('scripts','V1.0.2','datasets','authors', fine_name_output_authors) 
 #create the file if is does not exist
-if not os.path.exists(AUTHORS_CSV_FILE_OUTPUT):
-    os.mknod(AUTHORS_CSV_FILE_OUTPUT)
+os.makedirs(os.path.dirname(AUTHORS_CSV_FILE_OUTPUT), exist_ok=True)
+open(AUTHORS_CSV_FILE_OUTPUT ,'w')
 
-AUTHORS_CSV_FILE_OUTPUT_COAUTHORS = 'scripts/V1.0.2/datasets/authors/authors' + \
-    str(current_time)+'.csv'
+fine_name_output_coauthors= 'authors' +str(current_time).replace(' ','_')+'.csv'
+AUTHORS_CSV_FILE_OUTPUT_COAUTHORS = os.path.join('scripts','V1.0.2','datasets','authors', fine_name_output_coauthors) 
 #create the file if is does not exist
-if not os.path.exists(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS):
-    os.mknod(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS)
+os.makedirs(os.path.dirname(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS), exist_ok=True)
+open(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS,'w')
 
 # the file from where to start scrapping coauthering relationship
 AUTHORS_CSV_FILE_INPUT_COAUTHORS = 'scripts/V1.0.2/datasets/authors/authors2.csv'
