@@ -1,0 +1,31 @@
+Date : 2021-01-09 08:03:42
+Directory : /Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors
+Total : 7 files,  34757 codes, 0 comments, 8 blanks, all 34765 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| CSV      |          7 |     34,757 |          0 |          8 |     34,765 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                        | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                           |          7 |     34,757 |          0 |          8 |     34,765 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                    | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors.csv   | CSV      |        591 |          0 |          1 |        592 |
+| /Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors10.csv | CSV      |      1,364 |          0 |          2 |      1,366 |
+| /Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors2.csv  | CSV      |      1,315 |          0 |          1 |      1,316 |
+| /Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors3.csv  | CSV      |      7,922 |          0 |          1 |      7,923 |
+| /Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors4.csv  | CSV      |      9,002 |          0 |          1 |      9,003 |
+| /Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors5.csv  | CSV      |     14,563 |          0 |          1 |     14,564 |
+| /Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors6.csv  | CSV      |          0 |          0 |          1 |          1 |
+| Total                                                                       |          |     34,757 |          0 |          8 |     34,765 |
++-----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
