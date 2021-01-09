@@ -5,7 +5,7 @@ import controller.publications as pubs
 import sys
 
 
-
+print("Started connection to tor !")
 
 pg = ProxyGenerator()
 pg.Tor_Internal(tor_cmd='tor')
