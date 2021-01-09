@@ -11,8 +11,11 @@ pg = ProxyGenerator()
 pg.Tor_Internal(tor_cmd='tor')
 scholarly.use_proxy(pg)
 
-if (len(sys.argv) != 2):
-    # TODO replace this print with Exception
+print("Connection to tor done successfully !")
+
+
+if (len(sys.argv) < 2):
+    # TODO: replace this print with Exception
     print("Number of argument is wrong")
 else:
     scrap_type = sys.argv[1]
@@ -23,9 +26,9 @@ else:
     elif scrap_type == "publication":
         pubs.extract_papers_from_authors()
     elif scrap_type == "citation":
-        pass
+        pubs.extract_papers_from_citations()
     else:
-        # TODO replace this print with Exception
+        # TODO: replace this print with Exception
         print("Wrong parameter")
 
 
@@ -35,8 +38,8 @@ else:
 
 
 
-# author.extract_authors()
-print("hello")
-pubs.extract_papers_from_authors()
-print("salam")
-# author.extract_coauthors()
+# # author.extract_authors()
+# print("hello")
+# pubs.extract_papers_from_authors()
+# print("salam")
+# # author.extract_coauthors()
