@@ -17,13 +17,12 @@ fine_name_output_authors= 'authors' +str(now).replace(' ','_')+'.csv'
 AUTHORS_CSV_FILE_OUTPUT =os.path.join('scripts','V1.0.2','datasets','authors', fine_name_output_authors) 
 #create the file if is does not exist
 os.makedirs(os.path.dirname(AUTHORS_CSV_FILE_OUTPUT), exist_ok=True)
-open(AUTHORS_CSV_FILE_OUTPUT ,'w')
 
 fine_name_output_coauthors= 'authors' +str(current_time).replace(' ','_')+'.csv'
 AUTHORS_CSV_FILE_OUTPUT_COAUTHORS = os.path.join('scripts','V1.0.2','datasets','authors', fine_name_output_coauthors) 
 #create the file if is does not exist
 os.makedirs(os.path.dirname(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS), exist_ok=True)
-open(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS,'w')
+
 
 # the file from where to start scrapping coauthering relationship
 AUTHORS_CSV_FILE_INPUT_COAUTHORS = 'scripts/V1.0.2/datasets/authors/authors2.csv'
@@ -49,6 +48,8 @@ def register_authors_from_generator(author_generator):
         This method goes throught the author generator and gets all
         the authors and registre them in the authors dataset
     """
+    # create the file
+    open(AUTHORS_CSV_FILE_OUTPUT ,'w')
     while True:
         author = next(author_generator)
         filled_author = scholarly.fill(author, ['indices'])
@@ -98,6 +99,9 @@ def extract_coauthors_by_id(author_id):
     """
         extracts the co-authors of the currently existing authors in the dataset
     """
+    # create the output file
+    open(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS,'w')
+    
     author = scholarly.search_author_id(author_id)
     filled_coauthors = scholarly.fill(author, ['coauthors'])
 

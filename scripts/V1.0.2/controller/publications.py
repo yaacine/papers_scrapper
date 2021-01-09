@@ -19,7 +19,7 @@ PUBLICATIONS_CSV_FILE_OUTPUT =os.path.join('scripts','V1.0.2','datasets','articl
 #create the file if is does not exist
 print(PUBLICATIONS_CSV_FILE_OUTPUT)
 os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT), exist_ok=True)
-open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
+
 print('file created')
 
 PUBLICATIONS_CSV_FILE_INPUT= 'scripts/V1.0.2/datasets/articles/articles2.csv'
@@ -32,6 +32,10 @@ COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
 
 
 def get_papers_for_author(author_id):
+
+    # create the file
+    open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
+
     print("getting paper for author " +author_id )
     author = scholarly.search_author_id(author_id)
     filled_publications = scholarly.fill(author, ['publications'])
@@ -78,6 +82,9 @@ def get_papers_from_paper_citations(paper_title: str):
         it registers the found papers in articles folder and registres the citation 
         relationship in the citations folder 
     """
+    # create the file
+    open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
+    
     target_paper_generator = scholarly.search_pubs(
         paper_title)  # search by title as a keyword
     target_paper = next(target_paper_generator)  # get the first result
