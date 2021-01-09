@@ -15,8 +15,8 @@
 #atom
 #beaker
 #biochemistry
-biology
-botany
+#biology
+#botany
 Bunsen 
 burner
 burette
