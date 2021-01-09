@@ -3,7 +3,7 @@ from scholarly import scholarly, ProxyGenerator
 from .keyword_manger import mark_line_as_done, get_next_keyword
 from .csv_manager import write_author, insert_co_authering, get_authors_dataframe, update_authors_dataframe, update_last_scrapped_author_id_coauthoring
 from datetime import datetime
-
+import os 
 
 # get unique time for author file name
 now = datetime.now().time()  # time object
@@ -16,8 +16,16 @@ current_time = now.strftime("%H:%M:%S")
 
 AUTHORS_CSV_FILE_OUTPUT = 'scripts/V1.0.2/datasets/authors/authors' + \
     str(now)+'.csv'
+#create the file if is does not exist
+if not os.path.exists(AUTHORS_CSV_FILE_OUTPUT):
+    os.mknod(AUTHORS_CSV_FILE_OUTPUT)
+
 AUTHORS_CSV_FILE_OUTPUT_COAUTHORS = 'scripts/V1.0.2/datasets/authors/authors' + \
     str(current_time)+'.csv'
+#create the file if is does not exist
+if not os.path.exists(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS):
+    os.mknod(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS)
+
 # the file from where to start scrapping coauthering relationship
 AUTHORS_CSV_FILE_INPUT_COAUTHORS = 'scripts/V1.0.2/datasets/authors/authors2.csv'
 CO_AUTHORING_FILE = 'scripts/V1.0.2/datasets/co_authoring/coauthor.csv'
