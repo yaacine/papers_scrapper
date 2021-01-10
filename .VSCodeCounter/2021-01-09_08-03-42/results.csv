@@ -1,9 +1,0 @@
-"filename", "language", "CSV", "comment", "blank", "total"
-"/Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors.csv", "CSV", 591, 0, 1, 592
-"/Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors10.csv", "CSV", 1364, 0, 2, 1366
-"/Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors2.csv", "CSV", 1315, 0, 1, 1316
-"/Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors3.csv", "CSV", 7922, 0, 1, 7923
-"/Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors4.csv", "CSV", 9002, 0, 1, 9003
-"/Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors5.csv", "CSV", 14563, 0, 1, 14564
-"/Users/mac/Documents/PFE/Code/scripts/V1.0.2/datasets/authors/authors6.csv", "CSV", 0, 0, 1, 1
-"Total", "-", 34757, 0, 8, 34765
