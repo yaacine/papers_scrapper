@@ -1,84 +1,44 @@
-# Paper Extractor
+# Author scrapping 
 
-## Description
-
-This projects extracts papers information from google scholar and stores them in csv files
-
-The resulted csv files are stored in `./datasets/` folder and partitionned over different files of 1000 papers max for a file
-
-***
-
-## Requirements
--  Scholarly package 
+To start scrapping authors based on the keywords available on `scripts/V1.0.2/datasets/keywords.txt`  run the following command
 
 ```
-pip3 install scholarly
+python3 scripts/V1.0.2/main.py  author
 ```
+2. To start scrapping authors based on the co-authoring and build the co-authoring relationship , run the following command
+```
+python3 scripts/V1.0.2/main.py  coauthor
+```
+# Articles scrapping
 
-## How to use it
+3. To start scrapping articles of authors, follow these steps
 
-### FEATURE 1 : Data scrapping
-
-#### 1. Enter the author names 
-
-In the `extract.py` file you will find an array called authors
+change the source of authors that you want to use to get articles by changing this variable AUTHORS_CSV_FILE  in `scripts/V1.0.2/controller/publications.py`
+ example:
 
 ```
-authors = [
-    # 'Byung Kyu Kim' done 
-    # 'Andrea Toldy', not found
-    # 'Ahmad Reza Bahramian', not found
-    # 'Jens Gaitzsch', not found
-    # 'Jan Feijen',  done
-    #'PWM Blom', done
-    #'Katharina Landfester', not found
-    # 'Kurt Kremer', done partition 3
-    # 'Qiang Fu' done partition 5
-    'Carlo Dallapiccola',
-    # 'Francisco Matorras',
-    # 'Haijun Yang',
-    # 'Martin Grunewald'
-]
-```
+AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors2.csv'`
+``` 
 
-You can add other names to the list but make sure to uncomment one or two authors at a time and comment the name of the author once his papers are extracted and mention which partition contains his papers.
+**ps: the url should exist and have authors with `got_publications=0`**
+  
+
+run the following command
+```
+python3 scripts/V1.0.2/main.py  publication
+```
+4. To start scrapping articles based on the citations relationship follow these steps 
+
+Edit the file link to the file from which you want to get the citation relationship in the by changing this variable `PUBLICATIONS_CSV_FILE_INPUT` in 
+`scripts/V1.0.2/controller/publications.py` 
+example: 
+
+```
+PUBLICATIONS_CSV_FILE_INPUT= 'scripts/V1.0.2/datasets/articles/articles2.csv'
+```  
+
+run the following command 
+```
+python3 scripts/V1.0.2/main.py  citation
+```
  
-
-#### 2. Start the extraction
-to start the extraction run 
-```
-python3 extract.py
-```
-You will be prompted to enter the partition number. To avoid conflicts, yacine starts from 1 to 999 and Mehdi starts from 1000 to 2000
-
-
-A csv file will be created based on the partition number chosen , for example if you choose `partition = 1001 ` the file `datasets/articles_part1001.csv` will be created and the index will start at `1001000`
-
-
-### FEATURE 2 : Clean the scrapped data
-
-This feature allows to gather a number of partitions together and eliminate the duplicates. To do this follow these steps
-
-1. Run the script
-```
-python3 clean.py
-```
-2. You will be promted to enter the number of start and the number of end of the papers you want to group
-for example 
-
-```
-Enter the starting partition number: 1
-```  
-```
-Enter the ending partition number: 12
-```  
-will gather the files from `datasets/articles_part1.csv` to `datasets/articles_part12.csv`
-
-The result will be stored in the followinf file 
-```
-datasets/cleaned/articles_1_12_clean.csv
-```
-
-
-### FEATURE 3 : Topic extraction from cleaned data
-
