@@ -23,7 +23,7 @@ os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT), exist_ok=True)
 print('file created')
 
 PUBLICATIONS_CSV_FILE_INPUT= 'scripts/V1.0.2/datasets/articles/articles2.csv'
-AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors2.csv'
+AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors3.csv'
 CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
 
@@ -73,6 +73,7 @@ def extract_papers_from_authors():
                 print(identifier)
                 row['got_publications'] = 1
                 update_authors_dataframe(AUTHORS_CSV_FILE, df)
+                raise identifier
     update_authors_dataframe(AUTHORS_CSV_FILE, df)
 
 
