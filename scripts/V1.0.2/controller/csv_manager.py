@@ -243,7 +243,7 @@ def get_authors_dataframe(file_name):
 
 
 def update_authors_dataframe(file_name, dataframe):
-    os.remove(file_name)
+    # os.remove(file_name)
     dataframe.to_csv(file_name, mode='w', header=True , index= False)
 
 
