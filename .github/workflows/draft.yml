@@ -41,7 +41,7 @@ jobs:
 
       - name: scrap 
         run: |
-          python3 scripts/V1.0.2/main.py publication
+          python3 scripts/V1.0.2/main.py author
         continue-on-error: true
         timeout-minutes: 350
         
