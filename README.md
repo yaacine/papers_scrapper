@@ -30,7 +30,6 @@ AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors2.csv'`
 
 **ps: the url should exist and have authors with `got_publications=0`**
 
-
 run the following command
 ```
 python3 scripts/V1.0.2/main.py  publication
