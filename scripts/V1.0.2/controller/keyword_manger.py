@@ -1,7 +1,11 @@
 import os.path
 
 
+<<<<<<< HEAD
 KEYWORD_FILE_PATH="scripts/V1.0.2/datasets/keywords_colab.txt"
+=======
+KEYWORD_FILE_PATH="scripts/V1.0.2/datasets/keywords_gh.txt"
+>>>>>>> gh-actions-scrapper
 
 def get_next_keyword():
     keywords_file = open(KEYWORD_FILE_PATH, 'r')
