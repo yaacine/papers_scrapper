@@ -1,6 +1,6 @@
 #geology
-geophysics
-glassware
-graduated 
-cylinder
+#geophysics
+#glassware
+#graduated 
+#cylinder
 end***
