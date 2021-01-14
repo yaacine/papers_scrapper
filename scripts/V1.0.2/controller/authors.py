@@ -25,7 +25,7 @@ os.makedirs(os.path.dirname(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS), exist_ok=True)
 
 
 # the file from where to start scrapping coauthering relationship
-AUTHORS_CSV_FILE_INPUT_COAUTHORS = 'scripts/V1.0.2/datasets/authors/authors3.csv'
+AUTHORS_CSV_FILE_INPUT_COAUTHORS = 'scripts/V1.0.2/datasets/authors/authors2.csv'
 CO_AUTHORING_FILE = 'scripts/V1.0.2/datasets/co_authoring/coauthor.csv'
 COUNTER_CONFIG_FILE = 'scripts/V1.0.2/datasets/counter.ini'
 """
@@ -84,7 +84,7 @@ def extract_coauthors():
         if row['got_coauthors'] == 0:
             print("Getting co_authors of author :" + row['scholar_id'])
             df.at[index, 'got_coauthors'] = 1
-            update_authors_dataframe(AUTHORS_CSV_FILE_OUTPUT, df)
+            update_authors_dataframe(AUTHORS_CSV_FILE_INPUT_COAUTHORS, df)
             update_last_scrapped_author_id_coauthoring(
                 COUNTER_CONFIG_FILE, row['scholar_id'])
             try:
@@ -92,7 +92,7 @@ def extract_coauthors():
             except Exception as identifier:
                 print("An exception happened while getting co-authors of : "+ row['scholar_id'])
                 print(identifier)
-                update_authors_dataframe(AUTHORS_CSV_FILE_OUTPUT, df)
+                update_authors_dataframe(AUTHORS_CSV_FILE_INPUT_COAUTHORS, df)
 
 
 def extract_coauthors_by_id(author_id):
