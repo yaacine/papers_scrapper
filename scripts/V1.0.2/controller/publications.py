@@ -4,31 +4,29 @@ from .keyword_manger import mark_line_as_done, get_next_keyword
 from .csv_manager import write_author, insert_co_authering, write_publication, get_authors_dataframe, update_authors_dataframe, insert_citation, get_publications_dataframe, update_publications_dataframe, update_last_scrapped_author_id
 import time
 from datetime import datetime
-import os 
+import os
 
 # get unique time for author file name
-now = datetime.now().time() # time object
+now = datetime.now().time()  # time object
 print("now =", now)
 
 # get unique time for author file name (used when scrapping authors based on the co-authors relationship)
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 
-publication_file_name_output='articles'+str(now).replace(' ','_')+'.csv'
-PUBLICATIONS_CSV_FILE_OUTPUT =os.path.join('scripts','V1.0.2','datasets','articles', publication_file_name_output) 
-#create the file if is does not exist
+publication_file_name_output = 'articles'+str(now).replace(' ', '_')+'.csv'
+PUBLICATIONS_CSV_FILE_OUTPUT = os.path.join(
+    'scripts', 'V1.0.2', 'datasets', 'articles', publication_file_name_output)
+# create the file if is does not exist
 print(PUBLICATIONS_CSV_FILE_OUTPUT)
 os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT), exist_ok=True)
 
 print('file created')
 
-PUBLICATIONS_CSV_FILE_INPUT= 'scripts/V1.0.2/datasets/articles/articles3.csv'
+PUBLICATIONS_CSV_FILE_INPUT = 'scripts/V1.0.2/datasets/articles/articles3.csv'
 AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors3.csv'
 CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
-
-
-
 
 
 def get_papers_for_author(author_id):
@@ -36,7 +34,7 @@ def get_papers_for_author(author_id):
     # create the file
     open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
 
-    print("getting paper for author " +author_id )
+    print("getting paper for author " + author_id)
     author = scholarly.search_author_id(author_id)
     filled_publications = scholarly.fill(author, ['publications'])
     publications_list = filled_publications['publications']
@@ -59,7 +57,7 @@ def extract_papers_from_authors():
     df = get_authors_dataframe(AUTHORS_CSV_FILE)
     for index, row in df.iterrows():
 
-        print(row['got_publications']) 
+        print(row['got_publications'])
         if row['got_publications'] == 0:
             print("Getting publications of author : " + row['scholar_id'])
             print(row['got_publications'])
@@ -85,7 +83,7 @@ def get_papers_from_paper_citations(paper_title: str):
     """
     # create the file
     open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
-    
+
     target_paper_generator = scholarly.search_pubs(
         paper_title)  # search by title as a keyword
     target_paper = next(target_paper_generator)  # get the first result
@@ -106,7 +104,6 @@ def get_papers_from_paper_citations(paper_title: str):
         register_citation(target_paper['citedby_url'], mydict['citedby_url'])
 
         break
-    
 
 
 def extract_papers_from_citations():
@@ -118,7 +115,7 @@ def extract_papers_from_citations():
             print(row['got_citations'])
             get_papers_from_paper_citations(row['title'])
             row['got_citations'] = 1
-    update_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT ,df )
+    update_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT, df)
 
 
 def register_citation(cited_paper, paper):
