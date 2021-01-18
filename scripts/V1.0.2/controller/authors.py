@@ -93,6 +93,7 @@ def extract_coauthors():
                 print("An exception happened while getting co-authors of : "+ row['scholar_id'])
                 print(identifier)
                 update_authors_dataframe(AUTHORS_CSV_FILE_INPUT_COAUTHORS, df)
+    update_authors_dataframe(AUTHORS_CSV_FILE_INPUT_COAUTHORS, df)
 
 
 def extract_coauthors_by_id(author_id):
