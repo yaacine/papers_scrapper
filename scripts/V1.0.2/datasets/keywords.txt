@@ -133,6 +133,8 @@ Anodize
 Anomaly
 Anther
 Antigen
+deep_learning
+neuron_network
 Apiary
 Apparatus
 Application
