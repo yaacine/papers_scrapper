@@ -52,6 +52,7 @@ def get_id_of_author(author_name):
     """
     # clean the name :remove any single letters in the author name
     author_name = ' '.join( [w for w in author_name.split() if len(w)>1] )
+    print ('Getting the id of authors:  ' + author_name)
     
     status_code = 0  # return this status code to know if the action succeeded or not
     try:
@@ -84,6 +85,7 @@ def get_author_ids_for_file(input_file_name):
     df = get_publications_dataframe(input_file_path)
     for index, row in df.iterrows():
         if row['got_author_ids'] == 0:
+            print ('Getting the id of authors of publicaton: ' + row['title'])
             new_row = publication_author_name_to_id(row)
             df.at[index, 'got_author_ids'] = 1
             update_authors_dataframe(PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS, df)
@@ -108,6 +110,7 @@ def get_ids():
     for file in files_list:
         get_author_ids_for_file(file)
         break
+
 
 
 
