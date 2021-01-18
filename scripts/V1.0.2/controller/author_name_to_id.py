@@ -49,6 +49,9 @@ def get_id_of_author(author_name):
     """
         This method takes the author name [eventually clean the name] and returns his id 
     """
+    # remove any single letters in the author name
+    author_name = ' '.join( [w for w in author_name.split() if len(w)>1] )
+    
     status_code = 0  # return this status code to know if the action succeeded or not
     try:
         search_query = scholarly.search_author(author_name)
@@ -70,9 +73,14 @@ def get_author_ids_for_file(input_file_name):
     # create the output file
     PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS = os.path.join(
         ARTICLES_OUTPUT_FOLDER, input_file_name)
+
+    os.makedirs(os.path.dirname(
+        PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS), exist_ok=True)
+
     open(PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS, 'w')
 
-    df = get_publications_dataframe(input_file_name)
+    input_file_path = os.path.join(ARTICLES_INPUT_FOLDER, input_file_name)
+    df = get_publications_dataframe(input_file_path)
     for index, row in df.iterrows():
         if row['got_author_ids'] == 0:
             new_row = publication_author_name_to_id(row)
@@ -94,7 +102,11 @@ def get_articles_files_list(directory_in_str):
 
 
 def get_ids():
-    files_list = get_articles_files_list(ARTICLES_FOLDER)
+    files_list = get_articles_files_list(ARTICLES_INPUT_FOLDER)
+    print(files_list)
     for file in files_list:
         get_author_ids_for_file(file)
-        pass
+        break
+
+
+get_ids()
