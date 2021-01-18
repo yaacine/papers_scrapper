@@ -4,6 +4,7 @@ from csv_manager import write_author, insert_co_authering, write_publication, ge
 import time
 from datetime import datetime
 import os
+import pandas as pd
 
 # get unique time for author file name
 now = datetime.now().time()  # time object
@@ -49,7 +50,7 @@ def get_id_of_author(author_name):
     """
         This method takes the author name [eventually clean the name] and returns his id 
     """
-    # remove any single letters in the author name
+    # clean the name :remove any single letters in the author name
     author_name = ' '.join( [w for w in author_name.split() if len(w)>1] )
     
     status_code = 0  # return this status code to know if the action succeeded or not
@@ -109,4 +110,21 @@ def get_ids():
         break
 
 
-get_ids()
+
+"""
+### the following seciton adds the missing columns to the publications csv files
+"""
+
+
+def add_columns_to_publications():
+    files_list = get_articles_files_list(ARTICLES_INPUT_FOLDER)
+    for file in files_list:
+        file_path= os.path.join(ARTICLES_INPUT_FOLDER, file)
+        add_columns_to_publications_file(file_path)
+
+def add_columns_to_publications_file(file_path):
+    df = pd.read_csv(file_path)
+    df["got_author_ids"] = 0
+    df["author_ids"] = 0
+    df.to_csv(file_path, index=False)
+
