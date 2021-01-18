@@ -18,24 +18,26 @@ PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS = os.path.join(
     'scripts', 'V1.0.2', 'datasets', 'clean_articles', publication_file_name_output)
 # create the file if is does not exist
 print(PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS)
-os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS), exist_ok=True)
+os.makedirs(os.path.dirname(
+    PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS), exist_ok=True)
 
 PUBLICATIONS_CSV_FILE_INPUT = 'scripts/V1.0.2/datasets/articles/articles3.csv'
 
-ARTICLES_INPUT_FOLDER= 'scripts/V1.0.2/datasets/articles'
-ARTICLES_OUTPUT_FOLDER= 'scripts/V1.0.2/datasets/clean_articles'
+ARTICLES_INPUT_FOLDER = 'scripts/V1.0.2/datasets/articles'
+ARTICLES_OUTPUT_FOLDER = 'scripts/V1.0.2/datasets/clean_articles'
+
 
 def publication_author_name_to_id(publication_row):
     """
         This method takes the old publication row and outputs the new row with the authors id array
     """
     authors_array_names = publication_row['authors'].split('|')
-    authors_array_ids= []
+    authors_array_ids = []
     for author_name in authors_array_names:
         (status_code, scholar_id) = get_id_of_author(author_name)
-        if status_code==0: # if success (no stopIterator happened)
+        if status_code == 0:  # if success (no stopIterator happened)
             authors_array_ids.append(scholar_id)
-            
+
         else:
             authors_array_ids.append('')
     publication_row['author_ids'] = (' | ').join(authors_array_ids)
@@ -47,16 +49,16 @@ def get_id_of_author(author_name):
     """
         This method takes the author name [eventually clean the name] and returns his id 
     """
-    status_code= 0 #  return this status code to know if the action succeeded or not 
+    status_code = 0  # return this status code to know if the action succeeded or not
     try:
         search_query = scholarly.search_author(author_name)
         author = next(search_query)
         scholar_id = author['scholar_id']
         status_code = 1
     except StopIteration as identifier:
-        print('stopIterator while getting the id of the author : ' +author_name)
-        status_code= 2
-    
+        print('stopIterator while getting the id of the author : ' + author_name)
+        status_code = 2
+
     return status_code, scholar_id
 
 
@@ -66,7 +68,8 @@ def get_author_ids_for_file(input_file_name):
         and creates the output files that contains the ids of the authors
     """
     # create the output file
-    PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS =  os.path.join(ARTICLES_OUTPUT_FOLDER, input_file_name) 
+    PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS = os.path.join(
+        ARTICLES_OUTPUT_FOLDER, input_file_name)
     open(PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS, 'w')
 
     df = get_publications_dataframe(input_file_name)
@@ -76,14 +79,13 @@ def get_author_ids_for_file(input_file_name):
             df.at[index, 'got_author_ids'] = 1
             update_authors_dataframe(PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS, df)
 
-   
 
 def get_articles_files_list(directory_in_str):
-    file_list =[]
+    file_list = []
     directory = os.fsencode(directory_in_str)
     for file in os.listdir(directory):
         filename = os.fsdecode(file)
-        if filename.endswith(".csv"): 
+        if filename.endswith(".csv"):
             file_list.append(filename)
             continue
         else:
