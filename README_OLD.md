@@ -7,7 +7,6 @@ This projects extracts papers information from google scholar and stores them in
 The resulted csv files are stored in `./datasets/` folder and partitionned over different files of 1000 papers max for a file
 
 
-
 ***
 
 ## Requirements
