@@ -26,7 +26,7 @@ os.makedirs(os.path.dirname(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS), exist_ok=True)
 
 # the file from where to start scrapping coauthering relationship
 AUTHORS_CSV_FILE_INPUT_COAUTHORS = 'scripts/V1.0.2/datasets/authors/authors4.csv'
-CO_AUTHORING_FILE = 'scripts/V1.0.2/datasets/co_authoring/coauthor.csv'
+CO_AUTHORING_FILE = 'scripts/V1.0.2/datasets/co_authoring/coauthor2.csv'
 COUNTER_CONFIG_FILE = 'scripts/V1.0.2/datasets/counter.ini'
 """
  #############################
@@ -79,6 +79,7 @@ def extract_authors():
 
 def extract_coauthors():
     # TODO: define this function that goes throughout the fetched authors and gets the coauthors
+    open(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS,'w')
     df = get_authors_dataframe(AUTHORS_CSV_FILE_INPUT_COAUTHORS)
     for index, row in df.iterrows():
         if row['got_coauthors'] == 0:
@@ -101,7 +102,7 @@ def extract_coauthors_by_id(author_id):
         extracts the co-authors of the currently existing authors in the dataset
     """
     # create the output file
-    open(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS,'w')
+
     
     author = scholarly.search_author_id(author_id)
     filled_coauthors = scholarly.fill(author, ['coauthors'])
