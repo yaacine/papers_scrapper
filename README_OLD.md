@@ -15,6 +15,7 @@ The resulted csv files are stored in `./datasets/` folder and partitionned over 
 pip3 install scholarly
 ```
 
+
 ## How to use it
 
 ### FEATURE 1 : Data scrapping
