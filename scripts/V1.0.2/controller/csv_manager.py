@@ -19,7 +19,7 @@ def write_author(author_dict, file_name):
 
 def write_publication(publication_dict, file_name):
     # os.makedirs(os.path.dirname(file_name), exist_ok=True)
-    next_index = get_next_clean_publication_index(
+    next_index = get_next_publication_index(
         COUNTER_CONFIG_FILE)
     array_of_single_publication = [publication_dict]
     print(array_of_single_publication)
