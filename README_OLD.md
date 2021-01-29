@@ -6,7 +6,6 @@ This projects extracts papers information from google scholar and stores them in
 
 The resulted csv files are stored in `./datasets/` folder and partitionned over different files of 1000 papers max for a file
 
-
 ***
 
 ## Requirements
@@ -16,6 +15,7 @@ The resulted csv files are stored in `./datasets/` folder and partitionned over 
 pip3 install scholarly
 ```
 
+
 ## How to use it
 
 ### FEATURE 1 : Data scrapping
@@ -23,6 +23,8 @@ pip3 install scholarly
 #### 1. Enter the author names 
 
 In the `extract.py` file you will find an array called authors
+
+
 
 ```
 authors = [
