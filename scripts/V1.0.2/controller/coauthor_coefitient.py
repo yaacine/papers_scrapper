@@ -16,7 +16,7 @@ current_time = now.strftime("%H:%M:%S")
 
 author_file_name_output = 'author_nbpubs_'+str(now).replace(' ', '_')+'.csv'
 AUTHORS_CSV_FILE_OUTPUT_WITH_NBPUBS = os.path.join(
-    'scripts', 'V1.0.2', 'datasets','authors','authors_nbpubs', publication_file_name_output)
+    'scripts', 'V1.0.2', 'datasets','authors','authors_nbpubs', author_file_name_output)
 # create the file if is does not exist
 print(AUTHORS_CSV_FILE_OUTPUT_WITH_NBPUBS)
 os.makedirs(os.path.dirname(
@@ -63,7 +63,10 @@ def add_columns_to_authors():
 
 
 def add_columns_to_author_file(file_name):
-    file_path = os.path.join(AUTHORS_OUTPUT_FOLDER, file_name)
+    file_path = os.path.join(AUTHORS_INPUT_FOLDER, file_name)
     df = pd.read_csv(file_path)
     df["nb_pubs"] = 0
     df.to_csv(file_path, index=False)
+
+
+add_columns_to_authors()
