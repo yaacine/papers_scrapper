@@ -1,0 +1,77 @@
+name: Scrap Authors IDS
+
+on:
+  push:
+    branches: [ids-authors]
+
+jobs:
+  Scrap:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'Automated scrapping')"
+    steps:
+
+      - name: Check out source repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{secrets.GH_ACCESS_TOKEN}}
+
+
+      - name: install tor proxy
+        run: sudo apt install tor
+
+      - name: run tor
+        run: |
+          ss -nlt
+
+
+      - name: Set up Python environment
+        uses: actions/setup-python@v1
+        with:
+          python-version: "3.8"
+
+        
+
+      - name: install dependencies 
+        run: |
+          python3 -m pip install scholarly
+          python3 -m pip install pandas
+          python3 -m pip install configparser
+
+          
+
+      - name: scrap 
+        run: |
+          python3 scripts/V1.0.2/controller/author_name_to_id.py  
+        continue-on-error: true
+        timeout-minutes: 350
+        
+
+     
+      - name: Upload to Google Drive
+        uses: satackey/action-google-drive@v1
+        with:
+          skicka-tokencache-json: ${{ secrets.SKICKA_TOKENCACHE_JSON }}
+          upload-from: scripts/V1.0.2/datasets
+          upload-to: /PFE/datasets/genetared_from_gh_actions
+          # For those who set up Google Drive API client ID and secret themselves
+          google-client-id: ${{ secrets.GOOGLE_CLIENT_ID }}
+          google-client-secret: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+        continue-on-error: true
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: my-artifact
+          path: scripts/V1.0.2/datasets/articles/
+        continue-on-error: true
+
+        
+      # push the formatting changes to the PR itself
+      - name: Commit changes
+        run: |
+          git config --global user.name 'Mehyac Scrapper'
+          git config --global user.email 'mehyac_scrapper@users.noreply.github.com'
+          git add .
+          git commit -am "Automated scrapping"
+          git push
+
+        continue-on-error: true

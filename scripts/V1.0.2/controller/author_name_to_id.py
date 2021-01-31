@@ -16,7 +16,7 @@ current_time = now.strftime("%H:%M:%S")
 
 publication_file_name_output = 'articles'+str(now).replace(' ', '_')+'.csv'
 PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS = os.path.join(
-    'scripts', 'V1.0.2', 'datasets', 'clean_articles', publication_file_name_output)
+    'scripts', 'V1.0.2', 'datasets','articles', 'articles_withids', publication_file_name_output)
 # create the file if is does not exist
 print(PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS)
 os.makedirs(os.path.dirname(
@@ -122,7 +122,18 @@ def get_ids():
         break
 
 
-get_ids()
+
+print("Started connection to tor !")
+
+pg = ProxyGenerator()
+pg.Tor_Internal(tor_cmd='tor')
+scholarly.use_proxy(pg)
+
+
+print("Connection to tor done successfully !")
+get_author_ids_for_file('articles3.csv')
+
+# get_ids()
 
 """
 ### the following seciton adds the missing columns to the publications csv files
