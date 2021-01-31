@@ -122,7 +122,18 @@ def get_ids():
         break
 
 
-get_ids()
+
+print("Started connection to tor !")
+
+pg = ProxyGenerator()
+pg.Tor_Internal(tor_cmd='tor')
+scholarly.use_proxy(pg)
+
+
+print("Connection to tor done successfully !")
+get_author_ids_for_file('articles3.csv')
+
+# get_ids()
 
 """
 ### the following seciton adds the missing columns to the publications csv files
