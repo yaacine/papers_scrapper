@@ -25,7 +25,7 @@ os.makedirs(os.path.dirname(AUTHORS_CSV_FILE_OUTPUT_COAUTHORS), exist_ok=True)
 
 
 # the file from where to start scrapping coauthering relationship
-AUTHORS_CSV_FILE_INPUT_COAUTHORS = 'scripts/V1.0.2/datasets/authors/authors10.csv'
+AUTHORS_CSV_FILE_INPUT_COAUTHORS = 'scripts/V1.0.2/datasets/authors/authors2021-01-11_07:18:03.279576.csv'
 CO_AUTHORING_FILE = 'scripts/V1.0.2/datasets/co_authoring/coauthor3.csv'
 COUNTER_CONFIG_FILE = 'scripts/V1.0.2/datasets/counter.ini'
 """
