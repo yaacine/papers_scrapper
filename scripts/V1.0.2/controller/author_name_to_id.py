@@ -89,6 +89,7 @@ def get_author_ids_for_file(input_file_name):
             try:
                 print('Getting the id of authors of publicaton: ' +
                       row['title'])
+                
                 new_row = publication_author_name_to_id(row)
                 df.at[index, 'got_author_ids'] = 1
                 # df.at[index] = new_row
@@ -134,7 +135,7 @@ scholarly.use_proxy(pg)
 
 
 print("Connection to tor done successfully !")
-get_author_ids_for_file('articles3.csv')
+get_author_ids_for_file('articles3_.csv')
 
 # get_ids()
 
