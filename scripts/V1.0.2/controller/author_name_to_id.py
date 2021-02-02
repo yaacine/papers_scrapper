@@ -75,7 +75,7 @@ def get_author_ids_for_file(input_file_name):
     """
     # create the output file
     PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS = os.path.join(
-        ARTICLES_OUTPUT_FOLDER, input_file_name)
+        ARTICLES_OUTPUT_FOLDER, current_time+'_'+input_file_name)
 
     os.makedirs(os.path.dirname(
         PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS), exist_ok=True)
@@ -91,7 +91,10 @@ def get_author_ids_for_file(input_file_name):
                       row['title'])
                 new_row = publication_author_name_to_id(row)
                 df.at[index, 'got_author_ids'] = 1
-                df.at[index] = new_row
+                # df.at[index] = new_row
+                print("new row ========>")
+                print(new_row)
+                update_publications_dataframe(input_file_path,df)
                 write_publication_with_ids(
                     new_row, PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS)
             except Exception as identifier:
