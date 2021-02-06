@@ -297,5 +297,4 @@ def get_publications_dataframe(file_name):
 
 
 def update_publications_dataframe(file_name, dataframe):
-    needs_header = not file_has_header(file_name)
-    dataframe.to_csv(file_name, mode='w', header=needs_header)
+    dataframe.to_csv(file_name, mode='w', header=True , index= False)
