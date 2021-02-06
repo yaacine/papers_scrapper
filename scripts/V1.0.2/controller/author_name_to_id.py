@@ -85,7 +85,7 @@ def get_author_ids_for_file(input_file_name):
     input_file_path = os.path.join(ARTICLES_INPUT_FOLDER, input_file_name)
     df = get_publications_dataframe(input_file_path)
     for index, row in df.iterrows():
-        if row['got_author_ids'] == 0:
+        if row['got_author_ids'] == 0 and row['got_author_ids'] not in (None, ""):
             try:
                 print('Getting the id of authors of publicaton: ' +
                       row['title'])
