@@ -32,7 +32,6 @@ COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
 def get_papers_for_author(author_id):
 
     # create the file
-    open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
 
     print("getting paper for author " + author_id)
     author = scholarly.search_author_id(author_id)
@@ -53,6 +52,7 @@ def get_papers_for_author(author_id):
 
 
 def extract_papers_from_authors():
+    open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
     # TODO: define this function that goes throughout the fetched authors andgets the papers
     df = get_authors_dataframe(AUTHORS_CSV_FILE)
     for index, row in df.iterrows():

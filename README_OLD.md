@@ -15,6 +15,8 @@ The resulted csv files are stored in `./datasets/` folder and partitionned over 
 pip3 install scholarly
 ```
 
+
+
 ## How to use it
 
 ### FEATURE 1 : Data scrapping
@@ -22,6 +24,7 @@ pip3 install scholarly
 #### 1. Enter the author names 
 
 In the `extract.py` file you will find an array called authors
+
 
 ```
 authors = [
@@ -41,7 +44,12 @@ authors = [
 ]
 ```
 
+
+
+
 You can add other names to the list but make sure to uncomment one or two authors at a time and comment the name of the author once his papers are extracted and mention which partition contains his papers.
+ 
+ 
  
 
 #### 2. Start the extraction
