@@ -16,7 +16,7 @@ current_time = now.strftime("%H:%M:%S")
 
 publication_file_name_output = 'articles'+str(now).replace(' ', '_')+'.csv'
 PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS = os.path.join(
-    'scripts', 'V1.0.2', 'datasets','articles', 'articles_withids', publication_file_name_output)
+    'scripts', 'V1.0.2', 'datasets', 'articles', 'articles_withids', publication_file_name_output)
 # create the file if is does not exist
 print(PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS)
 os.makedirs(os.path.dirname(
@@ -32,6 +32,8 @@ def publication_author_name_to_id(publication_row):
     """
         This method takes the old publication row and outputs the new row with the authors id array
     """
+    print("authors ====>")
+    print(publication_row['author'])
     authors_array_names = publication_row['author'].split(' and ')
     authors_array_ids = []
     print(authors_array_names)
@@ -89,13 +91,13 @@ def get_author_ids_for_file(input_file_name):
             try:
                 print('Getting the id of authors of publicaton: ' +
                       row['title'])
-                
+
                 new_row = publication_author_name_to_id(row)
                 df.at[index, 'got_author_ids'] = 1
                 # df.at[index] = new_row
                 print("new row ========>")
                 print(new_row)
-                update_publications_dataframe(input_file_path,df)
+                update_publications_dataframe(input_file_path, df)
                 write_publication_with_ids(
                     new_row, PUBLICATIONS_CSV_FILE_OUTPUT_WITH_IDS)
             except Exception as identifier:
@@ -124,7 +126,6 @@ def get_ids():
     for file in files_list:
         get_author_ids_for_file(file)
         break
-
 
 
 print("Started connection to tor !")

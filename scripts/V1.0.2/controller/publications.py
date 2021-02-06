@@ -210,6 +210,8 @@ def publication_to_dict(publication):
     else:
         publication_dict['eprint_url'] = ''
     publication_dict['got_citations'] = 0
+    publication_dict['got_author_ids'] = 0
+    publication_dict['author_ids'] = 0
     # if 'cites_per_year' in publication.keys(): publication_dict['cites_per_year'] = ' | '.join('='.join((key,val)) for (key,val) in publication['cites_per_year'] )
     # else: publication_dict['cites_per_year'] =''
     return publication_dict
