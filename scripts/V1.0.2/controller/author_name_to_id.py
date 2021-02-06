@@ -135,7 +135,7 @@ scholarly.use_proxy(pg)
 
 
 print("Connection to tor done successfully !")
-get_author_ids_for_file('articles3_.csv')
+get_author_ids_for_file('articles3_copy.csv')
 
 # get_ids()
 

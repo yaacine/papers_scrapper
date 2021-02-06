@@ -34,8 +34,14 @@ def write_publication_with_ids(publication_dict, file_name):
     # os.makedirs(os.path.dirname(file_name), exist_ok=True)
     next_index = get_next_clean_publication_index_ids(
         COUNTER_CONFIG_FILE)
+
+    # get the old index of the item to reuse the same one 
+    old_index = publication_dict['Unnamed: 0.1']
+    del publication_dict['Unnamed: 0.1']
     array_of_single_publication = [publication_dict]
-    df = pd.DataFrame(array_of_single_publication, index=[next_index])
+
+
+    df = pd.DataFrame(array_of_single_publication, index=[old_index])
     needs_header = not file_has_header(file_name)
     print("needs header ===> " + str(needs_header))
     df.to_csv(file_name, mode='a', header=needs_header)
