@@ -717,7 +717,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570632,Université de Bordeaux,,56529.0,F4sXGuMAAAAJ,{'indices'},chimie|nanosciences|catalyse|capteurs|macromolécules,Didier Astruc,nan,21215.0,93,54,421,208,0,0
 570633,Université  Bordeaux,,14199.0,HaLF1gYAAAAJ,{'indices'},nan,Jaime Ruiz Aranzaes,nan,5320.0,57,34,180,114,0,0
 570634,Alcami Corporation,,375.0,Vodjn4MAAAAJ,{'indices'},Organic and Polymer chemist,Rajasekhar Reddy Naredla,nan,293.0,7,7,7,5,0,0
-570635,,,1101.0,XYHk0ywAAAAJ,{'indices'},,Sten Nilsson Lill,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XYHk0ywAAAAJ&citpid=2,499.0,20,13,34,16,0,0
+570635,,,1101.0,XYHk0ywAAAAJ,{'indices'},nan,Sten Nilsson Lill,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XYHk0ywAAAAJ&citpid=2,499.0,20,13,34,16,0,0
 570636,LCC/CNRS Toulouse,,818.0,y7hvWNYAAAAJ,{'indices'},Nanomaterials (CNTs/2D) engineering|polymers|metal nanoparticles,Amalia Rapakousiou,nan,509.0,13,11,16,12,0,0
 570637,"Postdoc Research Associate, The university of Manchester, United kingdom",,510.0,Dqsl2aMAAAAJ,{'indices'},Membrane|CO2 separation|polymeric ionic liquids|gas separation|Mixed Matrix Membranes,Rupesh Bhavsar,nan,447.0,12,12,12,12,0,0
 570638,"Assistant professor, Department of Life Sciences, University of Modena and Reggio Emilia",,1862.0,WYcOipsAAAAJ,{'indices'},Biophysical chemistry|organic bioelectronics|electron transfer|experimental and theoretical electrochemistry,Carlo A. Bortolotti,nan,1310.0,24,17,49,36,0,0
@@ -756,7 +756,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570671,Colorado School of Mines,,9091.0,r5LbaV4AAAAJ,{'indices'},Nanomaterials|catalysis|green chemistry|recycling|energy,Ryan M. Richards,nan,3857.0,48,31,120,94,0,0
 570672,"Professor of Chemistry, University of Bath",,21051.0,ByrZikwAAAAJ,{'indices'},Fluorescence|Sensors|Boronic acids|Saccharides,Tony D James,nan,10267.0,71,46,264,189,0,0
 570673,University of Bath,,5026.0,8DPpbOwAAAAJ,{'indices'},Solar cells|perovskite cells|self-assembled materials|photo-microbial fuel cells,PJ Cameron,nan,3124.0,32,29,60,52,0,0
-570674,"University of Bath, UK",,1289.0,xVp_kOAAAAAJ,{'indices'},,Jannis Wenk,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xVp_kOAAAAAJ&citpid=3,1037.0,13,13,16,16,0,0
+570674,"University of Bath, UK",,1289.0,xVp_kOAAAAAJ,{'indices'},nan,Jannis Wenk,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xVp_kOAAAAAJ&citpid=3,1037.0,13,13,16,16,0,0
 570675,"Centre for Sustainable Chemical Technologies, University of Bath",,106.0,qS_CbGcAAAAJ,{'indices'},Organic Chemistry|Organic Synthesis|Sustainable Chemistry|Analytical Chemistry,Carlos M. López-Alled,nan,106.0,5,5,4,4,0,0
 570676,Agilent Technologies,,208.0,LSnmOJ8AAAAJ,{'indices'},Spectroscopy|Raman|Pharmaceutical analysis,Julia Griffen,nan,156.0,8,7,7,6,0,0
 570677,Teaching Fellow - University of Bath,,2093.0,AQMQAzMAAAAJ,{'indices'},Computational Chemistry - Organometallic Chemistry,Claire L. McMullin,nan,1517.0,24,20,41,33,0,0
@@ -767,7 +767,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570682,"Senior Lecturer (Associate Professor) of Pharmacy & Pharmacology, University of Bath, United Kingdom",,3147.0,vHMKheYAAAAJ,{'indices'},Chemical biology|enzyme kinetics|lipids|phytanic acid|cancer,Matthew D. Lloyd,nan,882.0,31,18,61,32,0,0
 570683,University of Bath,,7619.0,KqmIkf0AAAAJ,{'indices'},Synthesis|Catalysis|Medicinal chemistry|Green chemistry|Chemical sensing,Professor Steven D Bull,nan,3414.0,46,29,151,75,0,0
 570684,Lund University,,382.0,NI-23uEAAAAJ,{'indices'},Physical chemistry|Colloids|Neutron scattering|Self-assembly,Adrian Sanchez-Fernandez,nan,381.0,10,10,10,10,0,0
-570685,"University of Bath, Department of Chemistry",,3562.0,bwuHVbUAAAAJ,{'indices'},,G. Dan Pantoș,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=bwuHVbUAAAAJ&citpid=1,1349.0,34,21,55,41,0,0
+570685,"University of Bath, Department of Chemistry",,3562.0,bwuHVbUAAAAJ,{'indices'},nan,G. Dan Pantoș,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=bwuHVbUAAAAJ&citpid=1,1349.0,34,21,55,41,0,0
 570686,"Applied Physics Department,  Cinvestav, Merida. Mexico",,6688.0,qRD50m4AAAAJ,{'indices'},Computational Chemistry|Boron clusters|Nonclassical carbon molecules|Aromaticity|Theoretical Chemistry,Gabriel Merino,nan,3915.0,43,32,143,121,0,0
 570687,"Profesor Investigador, Universidad Autónoma del Carmen",,105.0,2TPuvBUAAAAJ,{'indices'},Celdas solares sensibilizadas por colorante|recombinación en celdas solares orgánicas|diseño de colorantes bajo el enfoque,Humberto Mandujano,nan,62.0,4,4,4,3,0,0
 570688,Professor of Physical Chemistry,,8232.0,p_yl5KEAAAAJ,{'indices'},Nanomaterials|third-generation solar cells|photoelectrochemistry,Gerko Oskam,nan,2775.0,43,24,85,58,0,0
@@ -796,14 +796,14 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570711,Alagappa University and Kyungpook National University,,11050.0,HnfrgkcAAAAJ,{'indices'},Electrochemistry|Polymer Science|Nanomaterials,Gopalan Anantha Iyengar,nan,4770.0,59,34,214,102,0,0
 570712,,,1324.0,69C7K5gAAAAJ,{'indices'},nan,Hiroki Kuyama,nan,284.0,21,9,35,8,0,0
 570713,"Department of Infection Metagenomics, Research Institute for Microbial Diseases, Osaka University",,27100.0,AuiInXQAAAAJ,{'indices'},Infectious Diseases|Metagenomics|Crystallography,Shota Nakamura,nan,11182.0,66,42,632,280,0,0
-570714,"Associate Professor, Case Western Reserve University",,6985.0,uYlIkk0AAAAJ,{'indices'},,"Masaru Miyagi, Ph.D.",https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uYlIkk0AAAAJ&citpid=5,2008.0,40,21,83,39,0,0
+570714,"Associate Professor, Case Western Reserve University",,6985.0,uYlIkk0AAAAJ,{'indices'},nan,"Masaru Miyagi, Ph.D.",https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uYlIkk0AAAAJ&citpid=5,2008.0,40,21,83,39,0,0
 570715,Department of Chemistry and Biochemistry University of Oklahoma,,8207.0,oF-t5OIAAAAJ,{'indices'},Protein Folding Interaction and Aggregation|Simulation of Complex Systems|Global Optimization,Ulrich H.E. Hansmann,nan,1507.0,42,19,121,44,0,0
 570716,"Postdoctoral Researcher, Stanford University",,1118.0,UXTy1J8AAAAJ,{'indices'},Biotechnology|Enzymes|Spectroscopy|Computational Chemistry|Density Functional Theory,Shaun D. Wong,nan,689.0,14,13,15,13,0,0
 570717,Argonne National Laboratory,,10885.0,ScV8a8IAAAAJ,{'indices'},solid state physics,Esen Ercan Alp,nan,3975.0,55,30,227,102,0,0
 570718,Sookmyung Women's University,,1389.0,n37LgXIAAAAJ,{'indices'},Bioinorganic Chemistry,Seungwoo Hong,nan,909.0,20,18,23,23,0,0
 570719,"Professor, Indian Association for the Cultivation of Science",,4994.0,SKGnKkEAAAAJ,{'indices'},Inorganic Chemistry|Renewable Energy|Inorganic Reaction Mechanism,Abhishek Dey,nan,2792.0,44,31,97,83,0,0
 570720,Q-Chem Inc.,,825.0,6xWnh7gAAAAJ,{'indices'},DFT|TDDFT|X-ray spectroscopy simulation|XFEL spectroscopy|Quantum Chemistry Programming,Yu Zhang,nan,572.0,16,13,26,21,0,0
-570721,Sanyo-Onoda City University,,2970.0,ks8K_igAAAAJ,{'indices'},,Takehiro Ohta,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ks8K_igAAAAJ&citpid=1,1139.0,31,19,67,36,0,0
+570721,Sanyo-Onoda City University,,2970.0,ks8K_igAAAAJ,{'indices'},nan,Takehiro Ohta,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ks8K_igAAAAJ&citpid=1,1139.0,31,19,67,36,0,0
 570722,Institute of Chemical Research of Catalonia,,11411.0,veLB3CkAAAAJ,{'indices'},Supramolecular Chemistry|Self-Assembly|Molecular Recognition,Pablo Ballester,nan,4615.0,54,32,175,121,0,0
 570723,"School of Chemistry, University of Manchester, UK",,28929.0,jLubszkAAAAJ,{'indices'},molecular machines|chemical topology|supramolecular chemistry|organic chemistry|nanotechnology,David A. Leigh,nan,11813.0,91,54,240,170,0,0
 570724,ICIQ,,6687.0,4ZUj03YAAAAJ,{'indices'},Charge Density|X-Ray Diffraction,Eduardo C. Escudero-Adán,nan,4166.0,47,34,125,98,0,0
@@ -837,10 +837,10 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570752,"Institut of Inorganic chemistry, Slovak Academy of Sciences",,191.0,hqqM5IUAAAAJ,{'indices'},corrosion|high-temperature|fluorides|glass-ceramics|electropolishing and DES,Viliam Pavlík,nan,122.0,7,4,6,2,0,0
 570753,Украинский государственный химико-технологический университет,,24.0,U-wF-XcAAAAJ,{'indices'},электрохимия|коррозия|литиевые источники тока,Наталья Банник Natalia Bannyk Ната...,nan,17.0,3,2,0,0,0,0
 570754,"Institute of Physics, Chinese Academy of Sciences",,6773.0,xnXHVPMAAAAJ,{'indices'},Two-dimensional  materials/devices|Scanning probe techniques|Epitaxial growth&properties|vdW heterostructures,Yeliang Wang,nan,5315.0,33,26,57,45,0,0
-570755,"Institute of Physics, Chinese Academy of Sciences",,8938.0,xgXsRW8AAAAJ,{'indices'},,Shixuan Du,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xgXsRW8AAAAJ&citpid=2,5656.0,48,37,120,100,0,0
+570755,"Institute of Physics, Chinese Academy of Sciences",,8938.0,xgXsRW8AAAAJ,{'indices'},nan,Shixuan Du,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xgXsRW8AAAAJ&citpid=2,5656.0,48,37,120,100,0,0
 570756,"Oak Ridge National Laboratory; University of Tennessee, Knoxville;University of Utah",,2683.0,-rUJWnEAAAAJ,{'indices'},Condensed matter physics|Material science,Lizhi Zhang(张礼智),nan,1761.0,21,18,26,26,0,0
 570757,Newcastle University,,7777.0,bmIZmYUAAAAJ,{'indices'},theoretical physics,Werner Hofer,nan,2425.0,45,21,114,50,0,0
-570758,"Vanderbilt University; The Institute of Physics, Chinese Academy of Sciences",,355.0,64cP2E4AAAAJ,{'indices'},,De-Liang Bao,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=64cP2E4AAAAJ&citpid=6,339.0,11,11,13,12,0,0
+570758,"Vanderbilt University; The Institute of Physics, Chinese Academy of Sciences",,355.0,64cP2E4AAAAJ,{'indices'},nan,De-Liang Bao,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=64cP2E4AAAAJ&citpid=6,339.0,11,11,13,12,0,0
 570759,Hunan University,,1011.0,bD2yBgMAAAAJ,{'indices'},High Pressure Physics|Phase Transition Physics|Two-Dimensional Semiconductor Physics,Sheng-Yi Xie（谢声意）,nan,835.0,14,13,15,15,0,0
 570760,Rensselaer Polytechnic Institute,,32475.0,J4NR2VAAAAAJ,{'indices'},Condensed Matter Theory,SB Zhang (Shengbai Zhang),nan,11755.0,82,57,306,193,0,0
 570761,"Institute of Physics, Chinese Academy of Sciences",,403.0,V365Ja0AAAAJ,{'indices'},Condensed Matter Physics,Yan-Fang Zhang,nan,386.0,10,10,10,10,0,0
@@ -859,7 +859,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570774,Halliburton,,634.0,XLuK_FUAAAAJ,{'indices'},nan,Jay Deville,nan,417.0,12,9,16,9,0,0
 570775,"Researcher, Alan G. MacDiarmid NanoTech Institute at UTD",,4283.0,RsWsGkoAAAAJ,{'indices'},Actuator|Artificial muscle|Carbon Nanotube|Graphene|Supercapacitor,Oh Jiyoung,nan,2641.0,19,14,27,17,0,0
 570776,University of British Columbia (Canada) and Aalto University (Finland),,24528.0,10Tfs5cAAAAJ,{'indices'},Cellulose Nanomaterials|Surfaces and Colloids|Cellulose nanocrystals|Emulsions|Biobased Materials,Orlando J. Rojas,nan,16880.0,72,60,311,271,0,0
-570777,"ARC Future Fellow and Professor, Deakin University",,9063.0,9xKxFLkAAAAJ,{'indices'},,Joselito M Razal,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9xKxFLkAAAAJ&citpid=2,5073.0,48,38,97,90,0,0
+570777,"ARC Future Fellow and Professor, Deakin University",,9063.0,9xKxFLkAAAAJ,{'indices'},nan,Joselito M Razal,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9xKxFLkAAAAJ&citpid=2,5073.0,48,38,97,90,0,0
 570778,California Institute of Technology,,17685.0,bNac9TgAAAAJ,{'indices'},Nanomechanics|Nano structures|Nano fabrication|Mechanical Properties|Microstructure,Julia Greer,nan,11056.0,63,51,151,139,0,0
 570779,Assistant Professor - University of Illinois Urbana-Champaign,,608.0,L4MO8sMAAAAJ,{'indices'},soft materials|physico-chemo-mechanics|polymers|carbon nanotubes,Shelby B. Hutchens,nan,371.0,12,10,13,10,0,0
 570780,"Professor of Chemistry, University of North Carolina - Chapel Hill",,16766.0,sunV6QwAAAAJ,{'indices'},Soft Matter|Polymers|Molecular Imaging|Shape Memory|Atomic Force Microscopy,Sergei Sheiko,nan,5370.0,67,35,178,109,0,0
@@ -870,7 +870,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570785,University of North Carolina at Chapel Hill,,704.0,DR61S2sAAAAJ,{'indices'},polymer|materials|chemistry,Qiaoxi Li,nan,670.0,11,10,11,11,0,0
 570786,Pittsburg State University,,5440.0,6QwWKBEAAAAJ,{'indices'},polymers|photovoltaic|water splitting|nano materials|green polymers,R.K. Gupta,nan,3493.0,43,32,141,113,0,0
 570787,Fort Hays State University,,371.0,AHakNvUAAAAJ,{'indices'},Inorganic Chemistry|Photochemistry|Quantum Chemistry|Materials Science and Coordination Chemistry,Arvin John Cruz,nan,138.0,8,6,8,6,0,0
-570788,Clarkson University,,560.0,9i0SBnQAAAAJ,{'indices'},,Charith K. Ranaweera,https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=9i0SBnQAAAAJ&citpid=6,557.0,15,15,16,16,0,0
+570788,Clarkson University,,560.0,9i0SBnQAAAAJ,{'indices'},nan,Charith K. Ranaweera,https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=9i0SBnQAAAAJ&citpid=6,557.0,15,15,16,16,0,0
 570789,"Assistant Professor, Department of Chemistry, City University of Hong Kong",,1865.0,3102ZDwAAAAJ,{'indices'},RNA Biology|Chemical Biology|Nucleic Acids|Gene Regulation|G-quadruplex,Chun Kit Kwok,nan,1624.0,19,19,24,24,0,0
 570790,Associate Professor at Atomic Energy Authority of Egypt,,1070.0,_gCZqfwAAAAJ,{'indices'},Radioanalytical chemistry|Nuclear Chemistry|Inorganic Chemistry,M.F. Attallah,nan,888.0,19,18,34,29,0,0
 570791,"Atomic Energy Authority, Egypt",,911.0,Cm7AdyMAAAAJ,{'indices'},chemistry,"Nayl, A.A.",nan,684.0,16,16,20,19,0,0
@@ -910,7 +910,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570825,"Investigadora Principal, CICECO, Universidade de Aveiro",,8142.0,I49zidEAAAAJ,{'indices'},Catálise|Conversão catalítica da biomassa vegetal|Engenharia das reações químicas,Anabela Valente,nan,3030.0,50,26,152,94,0,0
 570826,"1Department of Physics and CICECO, University of Aveiro",,14313.0,a03S-sgAAAAJ,{'indices'},Luminescence|Organic-Inorganic Hybrids|Photonics|Photophysics|Solar Energy,Rute A S Ferreira,nan,6465.0,61,36,243,159,0,0
 570827,"Bolseiro de Pós-Doutoramento, CICECO - Departamento de Química, Universidade de Aveiro, Aveiro",,1874.0,WmGS2nIAAAAJ,{'indices'},Química Inorgânica|Química de Coordenação|Química Orgânica,Sérgio Vilela,nan,1280.0,17,13,25,16,0,0
-570828,Departamento de Química - Universidade de Aveiro,,1245.0,FtJHGKoAAAAJ,{'indices'},,Teresa M Santos,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FtJHGKoAAAAJ&citpid=2,223.0,21,7,36,5,0,0
+570828,Departamento de Química - Universidade de Aveiro,,1245.0,FtJHGKoAAAAJ,{'indices'},nan,Teresa M Santos,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FtJHGKoAAAAJ&citpid=2,223.0,21,7,36,5,0,0
 570829,University of Aveiro,,843.0,RDqpN3kAAAAJ,{'indices'},Organometallic chemistry|Catalysis,Sofia M Bruno,nan,325.0,17,11,22,11,0,0
 570830,"Dipartimento di Scienza e Alta Tecnologia, Università dell'Insubria",,5315.0,VBEsOGgAAAAJ,{'indices'},nan,Simona Galli,nan,2178.0,42,24,94,52,0,0
 570831,"Centre de Recherche Scientifique et Technique en Analyses Physico Chimiques, Algiers, Algeria",,433.0,heVNEQUAAAAJ,{'indices'},Chemistry|Biochemistry|Genetics and Molecular Biology,Oualid Talhi,nan,376.0,11,10,12,11,0,0
@@ -957,7 +957,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570872,Professor of Plant Pathology,,3592.0,sH9Z4y4AAAAJ,{'indices'},Plant Pathology|Mycology|Natural Products|Post Harvest Biology,Ravi Wijesundera,nan,2341.0,27,16,54,34,0,0
 570873,"Professor of Immunology, Director, IBMBB, University of Colombo",,2430.0,jfN382gAAAAJ,{'indices'},Cell Biology|Immunology|Bioactivities of medicinal plants|Infectious diseases and Vaccinology,Shiroma Handunnetti,nan,782.0,26,16,45,26,0,0
 570874,University of Colombo,,1169.0,JP__Lb4AAAAJ,{'indices'},Natural products|Chemical Biology|Biochemistry|Biotechnology|Pharmacology,G.A.S. Premakumara,nan,701.0,16,12,27,14,0,0
-570875,Doutor em Enfermagem pela Enfermagem na Universidade de São Paulo,,11792.0,e1w_Qj8AAAAJ,{'indices'},,Rodrigo Marques da Silva,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=e1w_Qj8AAAAJ&citpid=2,6912.0,45,31,326,199,0,0
+570875,Doutor em Enfermagem pela Enfermagem na Universidade de São Paulo,,11792.0,e1w_Qj8AAAAJ,{'indices'},nan,Rodrigo Marques da Silva,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=e1w_Qj8AAAAJ&citpid=2,6912.0,45,31,326,199,0,0
 570876,"Senior Deputy Director, Industrial Technology Institute",,314.0,uQ0Vo38AAAAJ,{'indices'},BIOLOGICAL PEST CONTROL|PLANT SYSTEMATIC|MEDICINAL PLANTS|BIOACTIVE SECONDARY METABOLITES|TISSUE CULTURE  AND ANTHROPOLOGY,Dr. RM Dharmadasa,nan,250.0,11,9,11,9,0,0
 570877,"Institute of Indigenous Medicine, University of Colombo",,13.0,31EmoyUAAAAJ,{'indices'},Herbal drug standardization|product development|Pharmacognosy,Jeevani Dahanayake,nan,12.0,2,2,0,0,0,0
 570878,Professor,,555.0,ZkQdCZ0AAAAJ,{'indices'},Biochemistry|Pharmacognosy,Kamani Jayatilaka,nan,324.0,12,11,15,12,0,0
@@ -982,7 +982,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570897,Hellenic Mediterranean University - Department of Electronic Engineering,,3395.0,oZqQ5a8AAAAJ,{'indices'},Biochar|hydrochar|hydrothermal carbonization|agricultural waste valorization,Dimitrios Kalderis,nan,2439.0,25,22,35,35,0,0
 570898,Aarhus University,,6759.0,kkXJOawAAAAJ,{'indices'},Chemical analyses|atmospheric chemistry|hydrothermal liquefaction,Marianne Glasius,nan,3787.0,45,35,104,92,0,0
 570899,DuPont,,500.0,8NLlC80AAAAJ,{'indices'},gas chromatography|hydrothermal liquefaction,René B. Madsen,nan,498.0,12,12,12,12,0,0
-570900,Rijksmuseum Amsterdam,,332.0,c6erjeoAAAAJ,{'indices'},,Annelies van Hoesel,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=c6erjeoAAAAJ&citpid=4,261.0,8,8,8,8,0,0
+570900,Rijksmuseum Amsterdam,,332.0,c6erjeoAAAAJ,{'indices'},nan,Annelies van Hoesel,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=c6erjeoAAAAJ&citpid=4,261.0,8,8,8,8,0,0
 570901,Walter Reed Army Institute of Research,,1336.0,vwidjMcAAAAJ,{'indices'},biochemistry|infectious disease|neuroscience,Karen Peterson,nan,345.0,14,8,16,7,0,0
 570902,University of Michigan,,6642.0,8C0gxn8AAAAJ,{'indices'},nan,David Kohn,nan,2235.0,44,28,85,63,0,0
 570903,MSD Singapore,,3915.0,G0aOfrkAAAAJ,{'indices'},Raman and FTIR Spectroscopy|Chemometrics|PAT|Analytical Science|Solid State Characterization,Dr. Effendi Widjaja,nan,1263.0,37,21,69,40,0,0
@@ -995,11 +995,11 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570910,IUPUI: Indiana University-Purdue University at Indianapolis,,2054.0,hJbuTMUAAAAJ,{'indices'},bone|collagen|mineral|mechanics|AFM,Joseph Wallace,nan,1319.0,27,23,42,40,0,0
 570911,"Head, Material Resource Efficiency Division (MRED), CSIR-IIP",,7499.0,wh5NdbkAAAAJ,{'indices'},Heterogeneous Catalysis|Biomass & Lignin Value addition|Biofuels & Biochar|Waste Plastics (e-waste)  Conversion,Thallada Bhaskar,nan,4755.0,48,38,126,101,0,0
 570912,CSIR-Indian Institute of Petroleum,,1104.0,bgH_pvAAAAAJ,{'indices'},Biomass thermo-chemical methods of conversion,Bhavya B Krishna,nan,1028.0,19,19,26,26,0,0
-570913,Los Alamos National Laboratory,,22471.0,jxaMcQoAAAAJ,{'indices'},,Piotr Zelenay,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jxaMcQoAAAAJ&citpid=3,11788.0,55,37,123,76,0,0
+570913,Los Alamos National Laboratory,,22471.0,jxaMcQoAAAAJ,{'indices'},nan,Piotr Zelenay,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jxaMcQoAAAAJ&citpid=3,11788.0,55,37,123,76,0,0
 570914,Los Alamos National Laboratory,,1767.0,hlX7O4MAAAAJ,{'indices'},Electrocatalysis|Fuel Cells|Nanomaterials,Ulises Martinez,nan,1525.0,23,23,32,28,0,0
 570915,"Los Alamos National Laboratory, University of Illinois at Urbana-Champaign",,1163.0,SndZMB8AAAAJ,{'indices'},Energy & Water|Organic Molecular Electrocatalysts|Fuel Cell|Molecular Simulations|Machine Learning,Xi Yin,nan,1043.0,14,13,15,15,0,0
 570916,"MIT, HHMI",,37410.0,q2rHA5QAAAAJ,{'indices'},neurotechnology|neural circuits|neuroscience|neuroengineering|ground-truthing biology and medicine,Ed Boyden,nan,25541.0,86,77,340,267,0,0
-570917,Pfizer Internal Medicine,,1721.0,faL3pc4AAAAJ,{'indices'},,Shoh Asano,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=faL3pc4AAAAJ&citpid=1,1582.0,18,16,21,21,0,0
+570917,Pfizer Internal Medicine,,1721.0,faL3pc4AAAAJ,{'indices'},nan,Shoh Asano,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=faL3pc4AAAAJ&citpid=1,1582.0,18,16,21,21,0,0
 570918,"CTO and co-founder, Modern Electron",,912.0,Hkm9jsAAAAAJ,{'indices'},Energy|Materials Science|Electron Microscopy|Surface Chemistry|Vacuum Electronics,Max Mankin,nan,675.0,13,11,14,12,0,0
 570919,The University of Chicago,,15559.0,EggUEWgAAAAJ,{'indices'},Materials Science|Physical Chemistry|Biophysics|Bioengineering,Bozhi Tian,nan,5082.0,53,37,91,72,0,0
 570920,Korea University,,7340.0,HaDfMXUAAAAJ,{'indices'},Photonics,Hong-Gyu Park,nan,3011.0,40,29,81,62,0,0
@@ -1048,7 +1048,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570963,"Professor of Pharmacokinetic, Biopharmaceutic and Drug Design. Center of Chemical Bioactive. Central",,1808.0,pJgOkYoAAAAJ,{'indices'},ADME|drug absorption|permeability|bioequivalence|BCS,Miguel Angel Cabrera-Pérez,nan,381.0,24,11,44,16,0,0
 570964,Universidad de Chile,,1626.0,PF4yHIEAAAAJ,{'indices'},ciencia de materiales|simulación computacional,Eduardo Menendez-Proupin,nan,817.0,20,14,37,23,0,0
 570965,DIPC & UPV/EHU & IKERBASQUE,,2273.0,FzQm91AAAAAJ,{'indices'},Theoretical Chemistry,Mario Piris,nan,980.0,28,18,63,31,0,0
-570966,Universidad Autónoma de Chihuahua,,625.0,gcfJOd0AAAAJ,{'indices'},,Maria Elena Fuentes Montero,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gcfJOd0AAAAJ&citpid=2,261.0,13,9,20,9,0,0
+570966,Universidad Autónoma de Chihuahua,,625.0,gcfJOd0AAAAJ,{'indices'},nan,Maria Elena Fuentes Montero,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gcfJOd0AAAAJ&citpid=2,261.0,13,9,20,9,0,0
 570967,Full Professor UAM,,10655.0,Bpd6j9AAAAAJ,{'indices'},Theoretical Chemistry,Annia Galano,nan,6753.0,54,39,158,127,0,0
 570968,"Institute of Materials Science and Technology (IMRE), University of Havana",,244.0,55ssIGQAAAAJ,{'indices'},zeolites|clays|porous materials|simulations,Anabel Lam,nan,122.0,10,7,10,7,0,0
 570969,"Senior Researcher, University of Havana",,1261.0,x3sxceQAAAAJ,{'indices'},Zeolites|Clays|Drug delivery composites|Environmental|Soft matter,Aramis Rivera,nan,514.0,20,14,25,17,0,0
@@ -1083,15 +1083,15 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570998,university of texas,,18271.0,eGlURRYAAAAJ,{'indices'},reservoir engineering|enhanced oil recovery|petroleum engineering,Larry Lake,nan,6645.0,64,36,215,128,0,0
 570999,"Professor of Chemistry, Emeritus, University of Illinois, Urbana-Champaign",,14965.0,ge6a3_QAAAAJ,{'indices'},Philosophy of Science|Metaphor theory|Conceptual Metaphor,Theodore Brown,nan,1792.0,64,14,225,20,0,0
 571000,Ohio University,,1351.0,sm1NGREAAAAJ,{'indices'},Institute for Corrosion and Multiphase Technology,Marc Singer,nan,967.0,20,16,39,31,0,0
-571001,"Dept. of Physical Chemistry and Electrochemistry,Faculty of Technology and Metallurgy",,4322.0,Q7M2blcAAAAJ,{'indices'},,Vesna Miskovic-Stankovic,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Q7M2blcAAAAJ&citpid=1,2334.0,38,24,101,73,0,0
-571002,SINTEF Industry - Corrosion and tribology group,,392.0,ykSV1ZoAAAAJ,{'indices'},,Ivana Jevremovic,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ykSV1ZoAAAAJ&citpid=9,336.0,9,9,9,9,0,0
+571001,"Dept. of Physical Chemistry and Electrochemistry,Faculty of Technology and Metallurgy",,4322.0,Q7M2blcAAAAJ,{'indices'},nan,Vesna Miskovic-Stankovic,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Q7M2blcAAAAJ&citpid=1,2334.0,38,24,101,73,0,0
+571002,SINTEF Industry - Corrosion and tribology group,,392.0,ykSV1ZoAAAAJ,{'indices'},nan,Ivana Jevremovic,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ykSV1ZoAAAAJ&citpid=9,336.0,9,9,9,9,0,0
 571003,Russ Professor of Chemical Engineering at Ohio University,,13849.0,gqRwGPQAAAAJ,{'indices'},corrosion|erosion|elechtrochemistry|fluid mechanics|thermodynamics,Srdjan Nesic,nan,7772.0,61,44,228,182,0,0
 571004,"Baker Petrolite, Nalco, University of Michigan, ENNOVA",,1520.0,ZpfojA4AAAAJ,{'indices'},chemistry|asphaltenes|petroleum,Andrew Yen,nan,708.0,21,15,31,22,0,0
 571005,"Institute for Corrosion & Multiphase Technology, Ohio University",,2455.0,kteCeWAAAAAJ,{'indices'},Corrosion|Inhibitor Synthesis|Carbon Capture & Storage|Zeolites & Molecular Sieves|Materials,David Young,nan,1340.0,32,23,52,32,0,0
 571006,Cranfield University,,6431.0,1HjqgvYAAAAJ,{'indices'},smart materials|graphene|nanotubes|composites|nanotechnology,Professor Krzysztof Koziol,nan,3638.0,43,32,101,87,0,0
 571007,Silesian University of Technology,,1242.0,CLCzP2gAAAAJ,{'indices'},Carbon Nanotubes|Nanochemistry|Nanocomposites|Hybrid materials|Drug Delivery,Slawomir Boncel,nan,933.0,19,15,36,29,0,0
 571008,"D.Sc (Tech), Aalto University",,178.0,mbRw5UwAAAAJ,{'indices'},electrochemistry|carbon nanotubes|composites|copper|electrodeposition,Pyry-Mikko Hannula,nan,177.0,7,7,6,6,0,0
-571009,Silesian University of Technology,,388.0,5ODTucEAAAAJ,{'indices'},,Bogumiła Kumanek,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5ODTucEAAAAJ&citpid=2,376.0,7,7,7,7,0,0
+571009,Silesian University of Technology,,388.0,5ODTucEAAAAJ,{'indices'},nan,Bogumiła Kumanek,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5ODTucEAAAAJ&citpid=2,376.0,7,7,7,7,0,0
 571010,"Wroclaw University of Science and Technology, Department of Semiconductor Materials Enginnering",,346.0,_5yb5jEAAAAJ,{'indices'},Low-dimensional nanostructures|Hybrid materials|Interfacial phenomena|Nanocomposites,Artur Herman,nan,317.0,9,9,9,9,0,0
 571011,-,,335.0,KVj1MkcAAAAJ,{'indices'},Optical spectroscopy|Archaeometry|Electronics|Python,Nikodem Czechowski,nan,175.0,9,8,9,7,0,0
 571012,"School of Aerospace, Transport & Manufacturing, Cranfield University",,2041.0,dt0NkxwAAAAJ,{'indices'},Sustainable Mateirals|Composites|Nanomaterials|Cellulose|Fibre Spinning,Sameer Rahatekar,nan,1096.0,24,21,36,34,0,0
@@ -1113,7 +1113,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571028,"Postdoctoral Fellow, Marshall University, West Virginia",,566.0,Mjg-1EcAAAAJ,{'indices'},Biomedical Sciences- Cardiovascular Disease|atherosclerosis|anti-platelet drug developement,"Abu Hasanat Md Zulfiker, PhD",nan,367.0,13,10,15,12,0,0
 571029,University of Georgia,,332.0,CYw0n4YAAAAJ,{'indices'},Glycosaminoglycans|Heparan sulfate|Carbohydrate chemistry|Medicinal Chemistry|Glycobiomaterial,Pradeep Chopra,nan,218.0,9,8,9,6,0,0
 571030,"Centre for Microscopy and Microanalysis, The University of Queensland",,2546.0,L2PZPUMAAAAJ,{'indices'},Structural Biology|X-ray crystallography|X-ray diffraction|Robotics,Karl A Byriel,nan,317.0,29,10,76,10,0,0
-571031,"Institute for Glycomics, Griffith University",,1638.0,Xi3_MvQAAAAJ,{'indices'},,Joe Tiralongo,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Xi3_MvQAAAAJ&citpid=1,843.0,22,14,42,25,0,0
+571031,"Institute for Glycomics, Griffith University",,1638.0,Xi3_MvQAAAAJ,{'indices'},nan,Joe Tiralongo,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Xi3_MvQAAAAJ&citpid=1,843.0,22,14,42,25,0,0
 571032,The University of Queensland,,7077.0,l0wkcSwAAAAJ,{'indices'},Crystallography,Colin Kennard,nan,716.0,41,11,214,16,0,0
 571033,Griffith University,,2780.0,xDiK8dcAAAAJ,{'indices'},nan,Christopher J. Day,nan,1706.0,29,24,48,39,0,0
 571034,The University of Queensland,,1928.0,uloqRicAAAAJ,{'indices'},NMR,Greg Pierens,nan,753.0,23,16,47,27,0,0
@@ -1185,7 +1185,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571100,"Researcher at Department of Pharmacy, Health and Nutritional Science, University of Calabria",,8074.0,Hp7O_eYAAAAJ,{'indices'},Phytochemistry|Medicinal Plant|Nutraceuticals|Phytocosmetics,Rosa Tundis,nan,5334.0,47,38,142,124,0,0
 571101,"Ricercatore di Chimica Analitica, Università della Calabria",,527.0,4OA_4lwAAAAJ,{'indices'},Chimica Analitica,Emilia Furia,nan,421.0,15,13,20,17,0,0
 571102,"Professor of Chemistry, University of Texas",,44959.0,icjwvPIAAAAJ,{'indices'},computational chemistry|catalysis|transition state theory|density functional theory,Graeme Henkelman,nan,27234.0,64,53,189,168,0,0
-571103,Los Alamos National Lab,,2665.0,09RFn2UAAAAJ,{'indices'},,Daniel Sheppard,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=09RFn2UAAAAJ&citpid=2,1624.0,15,12,15,14,0,0
+571103,Los Alamos National Lab,,2665.0,09RFn2UAAAAJ,{'indices'},nan,Daniel Sheppard,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=09RFn2UAAAAJ&citpid=2,1624.0,15,12,15,14,0,0
 571104,VP of Software & Systems Integration at Lantha Inc.,,1163.0,zCrKf8IAAAAJ,{'indices'},Theoretical Chemistry|Materials Science|Density Functional Theory|Accelerated Dynamics|EXAFS,Samuel T Chill,nan,779.0,13,11,13,11,0,0
 571105,Singapore University of Technology and Design,,25780.0,rrf1x0gAAAAJ,{'indices'},Rapid Prototyping|Additive Manufacturing|3D Printing|CAD|CAM,Chee Kai Chua,nan,14559.0,76,58,211,175,0,0
 571106,"UNESCO Membrane Centre, UNSW  & SMTC, NTU",,50454.0,OkYbE0AAAAAJ,{'indices'},Membrane Technology,A.G.(Tony)Fane,nan,23726.0,119,74,482,368,0,0
@@ -1199,7 +1199,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571114,Associate professor of Mathematics (Fac. Ciencias Exactas-UNLP). Associate Investigator (CONICET) at,,567.0,-HmDjc4AAAAJ,{'indices'},Nanoscience and Nanotechnology,Leandro Andrini,nan,281.0,12,8,12,8,0,0
 571115,"Professor of Chemistry, The James Franck Institute, and The Institute for Biophysical Dynamics, The",,8321.0,jvQOKToAAAAJ,{'indices'},Chemistry|Biophysics|Physical Chemistry|Spectroscopy|Photosynthesis,Gregory S Engel,nan,4059.0,37,28,67,56,0,0
 571116,"Scientist, Los Alamos National Laboratory",,46367.0,V8bIp74AAAAJ,{'indices'},quantum dots|semiconductor nanocrystals|ultrafast spectroscopy|sinlge-dot spectroscopy|solar energy,Victor I. Klimov,nan,18954.0,111,74,238,189,0,0
-571117,"Group Leader for Inorganic, Isotope and Actinide Chemistry, Los Alamos National Laboratory",,9141.0,-XLjnegAAAAJ,{'indices'},,Jeffrey M. Pietryga,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-XLjnegAAAAJ&citpid=3,5042.0,45,37,55,52,0,0
+571117,"Group Leader for Inorganic, Isotope and Actinide Chemistry, Los Alamos National Laboratory",,9141.0,-XLjnegAAAAJ,{'indices'},nan,Jeffrey M. Pietryga,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-XLjnegAAAAJ&citpid=3,5042.0,45,37,55,52,0,0
 571118,"Postdoc, Stanford University",,815.0,hkOwmQ0AAAAJ,{'indices'},Cryogenic Super-resolution|CLEM|Ultrafast Photosynthetic Energy Transfer|Nonlinear Spectrosocpy|2DES,Peter Dahlberg,nan,723.0,17,17,21,21,0,0
 571119,"Assistant Professor, University of California, Los Angeles",,2483.0,5ffNf08AAAAJ,{'indices'},Chemistry|Excitons|Shortwave Infrared|Photon Correlation|Microscopy,Justin Caram,nan,1509.0,20,17,23,23,0,0
 571120,"The Department of Chemistry, JFI and IBD at The University of Chicago & Janelia Research Campus",,666.0,F_fAxUAAAAAJ,{'indices'},Ultrafast spectroscopy|Microscopy|Single molecule dynamics|Single molecule imaging,Ved Singh,nan,586.0,10,9,10,9,0,0
@@ -1235,7 +1235,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571150,Universitatea din Oradea,,188.0,A8xSRwEAAAAJ,{'indices'},nan,Alexandrina Fodor,nan,54.0,7,3,5,1,0,0
 571151,"Western University ""Vasile Goldis"" Arad",,187.0,u9o2QRQAAAAJ,{'indices'},Obstetrics|Gynecology,Cristian Furau,nan,173.0,7,7,5,5,0,0
 571152,UNIVERSITATEA DIN ORADEA,,105.0,DHiAKuYAAAAJ,{'indices'},nan,Lazar Liviu,nan,69.0,5,4,2,2,0,0
-571153,University of Oradea,,267.0,rEAvylQAAAAJ,{'indices'},,Constantin Bungau,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rEAvylQAAAAJ&citpid=2,211.0,9,8,7,5,0,0
+571153,University of Oradea,,267.0,rEAvylQAAAAJ,{'indices'},nan,Constantin Bungau,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rEAvylQAAAAJ&citpid=2,211.0,9,8,7,5,0,0
 571154,Transilvania University of Brasov,,905.0,whVsE7YAAAAJ,{'indices'},analytical biochemistry|food safety|environmental control|public health,Mihaela Badea,nan,648.0,14,13,25,22,0,0
 571155,"Researcher at INIFTA, UNLP",,721.0,AJ2z9zoAAAAJ,{'indices'},photobiology|photochemistry,Mariana Vignoni,nan,533.0,14,12,20,17,0,0
 571156,Docente-Investigador (UNLP-FCE-INIFTA),,150.0,ahdyV2cAAAAJ,{'indices'},Análisis multivariado|Interacción luz-ligandos biológicos-macromoléculas|Fotofísica|Fotoquímica|Fotobiología,Federico A. O. Rasse-Suriani,nan,127.0,7,7,7,7,0,0
@@ -1283,10 +1283,10 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571198,Soochow University,,3460.0,b9Sn8AgAAAAJ,{'indices'},Materials and Interfaces,Tao Qian (钱涛),nan,3207.0,30,29,55,55,0,0
 571199,University of electronic science and technology of China,,753.0,rTjSMsIAAAAJ,{'indices'},Carbon Materials|Lithium sulfur battery|Carbon dots,Yin Hu,nan,746.0,16,16,20,19,0,0
 571200,max planck institute for brain research,,26565.0,HV-dZdMAAAAJ,{'indices'},neurobiology|synaptic plasticity|learning|proteostasis,erin schuman,nan,8683.0,78,53,143,115,0,0
-571201,"Professor of Neurosciences and Bioengineering, UCSD",,59359.0,589hxLAAAAAJ,{'indices'},,Mark Ellisman,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=589hxLAAAAAJ&citpid=2,20517.0,124,69,473,292,0,0
+571201,"Professor of Neurosciences and Bioengineering, UCSD",,59359.0,589hxLAAAAAJ,{'indices'},nan,Mark Ellisman,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=589hxLAAAAAJ&citpid=2,20517.0,124,69,473,292,0,0
 571202,Georgia Institute of Technology,,6689.0,jvuWIW4AAAAJ,{'indices'},Protein materials|drug delivery,Julie Champion,nan,3670.0,25,25,39,38,0,0
 571203,"Associate Scientist, Cedars-Sinai Medical Center",,227.0,j3fyrugAAAAJ,{'indices'},Neuroscience|Biomedical Sciences,Sakina Palida Lemieux,nan,216.0,4,4,4,4,0,0
-571204,UCSD,,18783.0,zu8saRsAAAAJ,{'indices'},,Stephen Adams,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zu8saRsAAAAJ&citpid=1,4139.0,43,30,64,48,0,0
+571204,UCSD,,18783.0,zu8saRsAAAAJ,{'indices'},nan,Stephen Adams,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zu8saRsAAAAJ&citpid=1,4139.0,43,30,64,48,0,0
 571205,Georgia Institute of Technology,,43393.0,H0fC2pEAAAAJ,{'indices'},chemical biology|synthetic and materials chemistry|immunology,M.G. Finn,nan,15482.0,87,50,229,159,0,0
 571206,"Professor of Chemical and Biological Engineering, Princeton University",,6408.0,pDne8EQAAAAJ,{'indices'},nan,A. James Link,nan,3198.0,28,25,55,43,0,0
 571207,Princeton University,,668.0,1YaaWXMAAAAJ,{'indices'},Chemical Biology|Molecular Biology|Proteomics|Protein Engineering,John D. Bagert,nan,530.0,9,9,9,9,0,0
@@ -1294,12 +1294,12 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571209,"Associate Professor of Chemical Biology, Oregon Health & Science University",,1327.0,xAxF0hMAAAAJ,{'indices'},chemical biology|infectious disease|molecular imaging|biomedical sciences,Kimberly Beatty,nan,534.0,17,13,18,15,0,0
 571210,Ajou University,,1303.0,kcxr7XsAAAAJ,{'indices'},Protein Engineering|Chemical Biology|Therapeutic Protein|Bioconjugation,Tae Hyeon Yoo,nan,771.0,19,15,30,24,0,0
 571211,UCSD,,3154.0,ztNqcs8AAAAJ,{'indices'},Neuroscience|Cellular and Molecular Biology,Daniela Boassa,nan,2100.0,27,23,33,30,0,0
-571212,California Institute of Technology,,1880.0,liQXF_cAAAAJ,{'indices'},,Kai P. Yuet,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=liQXF_cAAAAJ&citpid=2,889.0,12,10,12,11,0,0
+571212,California Institute of Technology,,1880.0,liQXF_cAAAAJ,{'indices'},nan,Kai P. Yuet,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=liQXF_cAAAAJ&citpid=2,889.0,12,10,12,11,0,0
 571213,caltech,,36674.0,kSPhZMMAAAAJ,{'indices'},genetics systems biology neural circuits,Paul Sternberg,nan,12118.0,108,58,342,239,0,0
 571214,California Institute of Technology,,38143.0,C7T_UdYAAAAJ,{'indices'},Microbiome|Neurobiology|Inflammatory Bowel Disease|Autism|Parkinson's disease,Sarkis K. Mazmanian,nan,24642.0,64,57,100,94,0,0
 571215,"Associate Development Engineer, University of California, San Diego",,525.0,zFzgOIsAAAAJ,{'indices'},Electron Microscopy|Ion Microscopy|Material Science|Biotechnology,Ranjan Ramachandra,nan,356.0,13,10,14,12,0,0
-571216,Boston University,,79.0,09SR-I0AAAAJ,{'indices'},,David Christopher Sloas,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=09SR-I0AAAAJ&citpid=4,73.0,5,5,3,3,0,0
-571217,Boston University,,13.0,rQt8-YcAAAAJ,{'indices'},,Elliot Tague,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rQt8-YcAAAAJ&citpid=2,13.0,1,1,1,1,0,0
+571216,Boston University,,79.0,09SR-I0AAAAJ,{'indices'},nan,David Christopher Sloas,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=09SR-I0AAAAJ&citpid=4,73.0,5,5,3,3,0,0
+571217,Boston University,,13.0,rQt8-YcAAAAJ,{'indices'},nan,Elliot Tague,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rQt8-YcAAAAJ&citpid=2,13.0,1,1,1,1,0,0
 571218,Oak Ridge National Laboratary/University of Tennessee,,65452.0,SBZpIYwAAAAJ,{'indices'},Mesoporous Materials|Ionic Liquids,Sheng Dai,nan,36367.0,124,90,725,604,0,0
 571219,Oak Ridge National Laboratory,,13019.0,IwBKmykAAAAJ,{'indices'},energy storage|catalysis|liquid-solid interfaces,Gabriel M. Veith,nan,9465.0,66,51,170,156,0,0
 571220,"Texas A&M University, Department of Nuclear Engineering",,8164.0,Ur0S26AAAAAJ,{'indices'},nan,Pasquale F Fulvio,nan,5007.0,37,32,64,56,0,0
@@ -1311,7 +1311,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571226,"University of Tennessee, Knoxville, TN 37996",,2929.0,zywmUGAAAAAJ,{'indices'},Heterogeneous Catalysis|Materials Chemistry|CO2 Capture & Separation,Song-Hai Chai,nan,1828.0,26,23,37,36,0,0
 571227,"Distinguished R&D Scientist, Oak Ridge National Laboratory",,3182.0,BMSo8GsAAAAJ,{'indices'},catalysis|emissions control|fuel cells|advanced energy technologies,Todd J. Toops,nan,1928.0,32,25,76,59,0,0
 571228,Oak Ridge National Laboratory,,3501.0,olN-O-QAAAAJ,{'indices'},catalysis|emission control|spectroscopy|combustion,James Edgar Parks II,nan,1485.0,28,21,57,39,0,0
-571229,Galbraith Laboratories,,1345.0,IwWcnzgAAAAJ,{'indices'},,Andrew J. (Binder) Lincoln,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=IwWcnzgAAAAJ&citpid=1,1061.0,19,18,24,21,0,0
+571229,Galbraith Laboratories,,1345.0,IwWcnzgAAAAJ,{'indices'},nan,Andrew J. (Binder) Lincoln,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=IwWcnzgAAAAJ&citpid=1,1061.0,19,18,24,21,0,0
 571230,"Center for Nanophase Materials Sciences, Oak Ridge National Lab",,20820.0,LLnw868AAAAJ,{'indices'},Electron Microscopy|Energy Materials,Miaofang Chi,nan,14436.0,71,63,179,169,0,0
 571231,Center for Nanophase Materials Sciences Oak Ridge National Laboratory,,8834.0,Dep1Q8gAAAAJ,{'indices'},Materials Science|Nanotechnology|In situ Electron Microscopy,Raymond R. Unocic,nan,6950.0,48,43,109,105,0,0
 571232,Lawrence Livermore National Laboratory,,2846.0,Heo_7awAAAAJ,{'indices'},Physical Chemistry,Joseph Zaug,nan,1244.0,28,18,52,34,0,0
@@ -1346,7 +1346,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571261,"Professor of Chemistry, Facultad de Química, Universidad Nacional Autónoma de México",,2167.0,lx0WdIYAAAAJ,{'indices'},quantum chemistry|energy,Carlos Amador-Bedolla,nan,1056.0,18,11,28,13,0,0
 571262,University of Toronto,,66.0,j3yJGWgAAAAJ,{'indices'},Theoretical Chemistry,Martha M Flores Leonar,nan,60.0,5,5,2,1,0,0
 571263,Facultad de Quimica UNAM,,1018.0,VhGWt14AAAAJ,{'indices'},Steroid Synthesis|Steroid dimers|Spiroketals|Rearrangements|Hypervalent Iodine compounds,Martin A. Iglesias Arteaga,nan,324.0,19,10,37,10,0,0
-571264,INSTITUTO DE INVESTIGACIONES EN MATERIALES,,28533.0,NaCBR0wAAAAJ,{'indices'},,Ana Martinez,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NaCBR0wAAAAJ&citpid=2,11340.0,73,45,695,339,0,0
+571264,INSTITUTO DE INVESTIGACIONES EN MATERIALES,,28533.0,NaCBR0wAAAAJ,{'indices'},nan,Ana Martinez,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NaCBR0wAAAAJ&citpid=2,11340.0,73,45,695,339,0,0
 571265,"Universidad Autónoma de Querétaro, UAQ",,388.0,CUFXlXsAAAAJ,{'indices'},Cancer Biology|Neuroblastoma|Chemotherapeutics|Apoptosis|Autophagy,Carmen Mejía,nan,229.0,12,9,15,8,0,0
 571266,"Facultad de Farmacia, Universidad Autónoma del Estado de Morelos. Química Farmacéutica",,3253.0,eT6Urf0AAAAJ,{'indices'},Medicinal Chemistry|Organic Chemistry|Drug Design|Diseño de fármacos|Química Farmacéutica,Gabriel Navarrete-Vazquez,nan,1651.0,30,23,60,54,0,0
 571267,Área Académica de Química,,1797.0,EHCHcTcAAAAJ,{'indices'},DFT and Ab initio,Julián Cruz Borbolla,nan,829.0,19,12,28,17,0,0
@@ -1384,7 +1384,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571299,GSK,,825.0,pDKDvYAAAAAJ,{'indices'},Medicinal Chemistry|Nanotechnology|Analytical Chemistry|Molecular Biology,Simone Alidori,nan,415.0,15,10,19,10,0,0
 571300,Stanford University,,1776.0,a-bql8AAAAAJ,{'indices'},Deep Learning|Computational Biology|Nanotechnology|Computational Biophysics|Bioinformatics,Evan N. Feinberg,nan,1712.0,10,10,10,10,0,0
 571301,National Cancer Institute,,1423.0,UsVTgbAAAAAJ,{'indices'},Radiation Oncology|GI malignancies|tumor targeted radionuclides|cancer therapy|cancer imaging,"Freddy E Escorcia, MD, PhD",nan,553.0,11,11,11,11,0,0
-571302,Memorial Sloan Kettering Cancer Center,,3684.0,VW5XhW0AAAAJ,{'indices'},,Robert L Bowman,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=VW5XhW0AAAAJ&citpid=2,3299.0,21,21,23,23,0,0
+571302,Memorial Sloan Kettering Cancer Center,,3684.0,VW5XhW0AAAAJ,{'indices'},nan,Robert L Bowman,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=VW5XhW0AAAAJ&citpid=2,3299.0,21,21,23,23,0,0
 571303,Assistant Professor at Washington University School of Medicine,,3832.0,-vRIdXAAAAAJ,{'indices'},Theranostics,Daniel LJ Thorek,nan,2217.0,30,26,51,47,0,0
 571304,Memorial Sloan-Kettering Cancer Center,,9374.0,ADhgjaQAAAAJ,{'indices'},Nanomedicine|Nanotechnology,Daniel Heller,nan,4191.0,44,35,68,63,0,0
 571305,"Rutgers State University, Robert Wood Johnson Medical School, New Brunswick, NJ",,163.0,r-C9mtgAAAAJ,{'indices'},Hematopathology|Immunology,Rahul Matnani,nan,107.0,7,5,5,4,0,0
@@ -1402,7 +1402,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571317,NMR Staff Scientist,,1574.0,-J7emjUAAAAJ,{'indices'},NMR|organic chemistry|organometallic chemistry|small molecules,Paul B White,nan,1284.0,17,16,23,23,0,0
 571318,Harvard University,,48989.0,nxb5xhMAAAAJ,{'indices'},chemistry|evolution|genome editing|DNA|RNA,David R. Liu,nan,30222.0,98,73,295,223,0,0
 571319,California Institute of Technology,,100.0,1lWGrk0AAAAJ,{'indices'},Chemistry|Material Science,Joshua D Wiensch PhD,nan,71.0,3,3,2,2,0,0
-571320,,,1452.0,A9eQvmUAAAAJ,{'indices'},,Christopher Scarborough,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=A9eQvmUAAAAJ&citpid=2,584.0,17,14,18,18,0,0
+571320,,,1452.0,A9eQvmUAAAAJ,{'indices'},nan,Christopher Scarborough,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=A9eQvmUAAAAJ&citpid=2,584.0,17,14,18,18,0,0
 571321,Vishay Precision Group,,573.0,C1wfDmsAAAAJ,{'indices'},Nanomaterials|PVD|CVD|Thin Films|Nanoindentation,Sudheer Neralla,nan,270.0,7,5,7,5,0,0
 571322,"Professor of Mechanical Emgineering, North Carolina A & T State University",,18174.0,fbilXvgAAAAJ,{'indices'},Thin films|electronic and magentic materials|biomaterials|corrosion,Dhananjay Kumar,nan,8624.0,58,36,404,237,0,0
 571323,"Ariel University, Associate Professor",,1442.0,diiH-1wAAAAJ,{'indices'},Organic chemistry|molecular and fluorescence spectroscopy|organic dyes and luminophores for biomedical applications,Leonid Patsenker,nan,503.0,21,12,41,15,0,0
@@ -1430,7 +1430,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571345,"Professor of Condensed Matter Physics, TIFRH, TCIS, IACS, SNBNCBS, IGCAR",,2351.0,Zmg5YtwAAAAJ,{'indices'},Condensed Matter Theory|Statistical Physics|Material Science|Elasticity|Plasticity,Surajit Sengupta,nan,549.0,26,11,62,15,0,0
 571346,Naval Research Laboratory,,1242.0,yQGavLwAAAAJ,{'indices'},nanomaterials|nanophotonics|quantum information|ultrafast laser spectroscopy|radiation detectors,Joel Q. Grim,nan,860.0,16,13,20,15,0,0
 571347,"Researcher, Universitat Jaume I",,1957.0,73XYhS0AAAAJ,{'indices'},low-dimensional semiconductors,Juan Ignacio Climente,nan,824.0,26,16,52,23,0,0
-571348,Bilkent University,,17605.0,q74-lMgAAAAJ,{'indices'},,Engin Umut Akkaya,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=q74-lMgAAAAJ&citpid=4,6425.0,61,43,109,81,0,0
+571348,Bilkent University,,17605.0,q74-lMgAAAAJ,{'indices'},nan,Engin Umut Akkaya,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=q74-lMgAAAAJ&citpid=4,6425.0,61,43,109,81,0,0
 571349,"Izmir Institute of Technology, Department of Chemistry",,2480.0,gnGm3SEAAAAJ,{'indices'},Porous Organic Materials|Supramolecular Chemistry|Self-Assembling Systems|Gas Storage|Energy Storage and Conversion,Onur Buyukcakir,nan,1628.0,23,21,35,34,0,0
 571350,"Professor of Organic Chemistry, Atatürk University",,2558.0,Qmfa7UkAAAAJ,{'indices'},Fluorescent Dyes|Dendrimers|Interlocked molecules and supramolecular chemistry|Energy transfer,Özgür Altan Bozdemir,nan,943.0,21,16,22,20,0,0
 571351,Koç University,,2708.0,D0GIeuEAAAAJ,{'indices'},nan,Safacan Kölemen,nan,1777.0,18,18,21,21,0,0
@@ -1438,7 +1438,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571353,Arbutus Biopharma,,368.0,bZtUiBIAAAAJ,{'indices'},Drug Discovery,Seyma Ozturk,nan,247.0,6,6,4,4,0,0
 571354,Konya Food and Agriculture University,,1562.0,GZ78Kp4AAAAJ,{'indices'},Organic Solar Cells|Dye Solar Cells|Photodynamic Therapy|Functional Organic Materials,Yusuf Çakmak,nan,765.0,13,12,13,13,0,0
 571355,Google New York,,890.0,jIAh6HoAAAAJ,{'indices'},Surfaces & Interfaces|Photocatalysis|Computational Materials Science,Sencer Selcuk,nan,614.0,10,10,11,11,0,0
-571356,Konya Food and Agriculture University,,543.0,ROQe6KoAAAAJ,{'indices'},,Gülcihan Gülseren,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ROQe6KoAAAAJ&citpid=4,300.0,7,7,6,6,0,0
+571356,Konya Food and Agriculture University,,543.0,ROQe6KoAAAAJ,{'indices'},nan,Gülcihan Gülseren,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ROQe6KoAAAAJ&citpid=4,300.0,7,7,6,6,0,0
 571357,The Rockefeller University,,636.0,hTWw1MEAAAAJ,{'indices'},nan,Hande Boyaci,nan,326.0,6,6,6,6,0,0
 571358,University of Auckland,,2478.0,5lJO-kEAAAAJ,{'indices'},MRI contrast agents|biomaterials|antimicrobial peptides,Luis De Leon Rodriguez,nan,1145.0,24,18,42,33,0,0
 571359,University of Bern,,14963.0,Ej5zrbcAAAAJ,{'indices'},chemistry,martin albrecht,nan,5668.0,55,37,158,121,0,0
@@ -1500,7 +1500,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571415,"Professor, Dept Oncology, University of Alberta and Cross Cancer Institute",,14323.0,uIt8vdQAAAAJ,{'indices'},oncology|multiple myeloma|B cell malignancies|genetic changes in cancer patients|minaturized diagnostic devices,Linda M. Pilarski,nan,3196.0,63,23,183,66,0,0
 571416,"KIST Europe, & Saarland University, Saarbrücken",,42397.0,7xNoyCMAAAAJ,{'indices'},microfluidics|lab on a chip|µTAS|analytical chemistry,Andreas Manz,nan,7624.0,86,40,189,107,0,0
 571417,University of Balamand,,679.0,xf3wytwAAAAJ,{'indices'},environmental science|chemistry|toxicology,Pierre J Obeid,nan,166.0,9,6,9,6,0,0
-571418,"University of Patras, Depart. of Chemistry, FORTH / ICE-HT",,5223.0,PSRxFj4AAAAJ,{'indices'},,Theodore Christopoulos,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PSRxFj4AAAAJ&citpid=2,1063.0,32,15,81,26,0,0
+571418,"University of Patras, Depart. of Chemistry, FORTH / ICE-HT",,5223.0,PSRxFj4AAAAJ,{'indices'},nan,Theodore Christopoulos,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PSRxFj4AAAAJ&citpid=2,1063.0,32,15,81,26,0,0
 571419,"Assistant Professor, University of Calgary",,1298.0,AMd_qwwAAAAJ,{'indices'},microfluidics|lab-on-a-chip|brain machine interfaces|micro/nano technology|biomedical microdevices,Colin Dalton,nan,453.0,16,13,21,16,0,0
 571420,"Professor of Biology, University of Waterloo",,4492.0,0nXJ4GsAAAAJ,{'indices'},cell biology|mitochondria|cytochrome oxidase,D Moira Glerum,nan,678.0,29,14,40,20,0,0
 571421,"Senior Research Scientist, Canadian Blood Services; Professor, University of Alberta",,5773.0,7w9C9aQAAAAJ,{'indices'},cryobiology|cryopreservation|blood cell quality|blood component production|oxidative injury,Jason P. Acker,nan,3060.0,42,28,115,84,0,0
@@ -1516,12 +1516,12 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571431,"Professor Molecular and Cell Biology, University of California, Berkeley",,31745.0,-had2Q8AAAAJ,{'indices'},cell biology|genetics|biochemistry|proteins|imaging,David G. DRUBIN,nan,6638.0,103,42,205,147,0,0
 571432,Principal Investigator at Italian Institute of Technology,,810.0,0MlXlF4AAAAJ,{'indices'},Nanotechnology|bioelectronics|electron microscopy|bioelectronics|tissue engineering,Francesca Santoro,nan,765.0,14,14,21,21,0,0
 571433,"University of California, Berkeley",,323.0,uNrsMygAAAAJ,{'indices'},Cell biology|biophysics,Matthew Akamatsu,nan,297.0,9,8,8,7,0,0
-571434,"University of California, Berkeley",,554.0,_Hnjpa4AAAAJ,{'indices'},,Matthew A. Koc,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_Hnjpa4AAAAJ&citpid=1,532.0,7,7,6,6,0,0
+571434,"University of California, Berkeley",,554.0,_Hnjpa4AAAAJ,{'indices'},nan,Matthew A. Koc,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_Hnjpa4AAAAJ&citpid=1,532.0,7,7,6,6,0,0
 571435,"School of Electrical and Electronic Engineering, Nanyang Technological University",,9669.0,-qmD_aQAAAAJ,{'indices'},MEMS|Lithium-ion battery|Electrochemistry|Energy storage and harvesting,Seok Woo Lee,nan,6834.0,32,30,39,36,0,0
-571436,"Professor of Chemistry, UC Berkeley; Director, Lawrence Berkeley National Lab",,167124.0,uzbKuXAAAAAJ,{'indices'},,Paul Alivisatos,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uzbKuXAAAAAJ&citpid=2,44529.0,174,100,393,347,0,0
-571437,"Assistant Professor, Department of Mechanical Engineering, Stanford University",,786.0,EZ3_dV8AAAAJ,{'indices'},,X. Wendy Gu,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EZ3_dV8AAAAJ&citpid=6,600.0,13,13,16,13,0,0
+571436,"Professor of Chemistry, UC Berkeley; Director, Lawrence Berkeley National Lab",,167124.0,uzbKuXAAAAAJ,{'indices'},nan,Paul Alivisatos,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uzbKuXAAAAAJ&citpid=2,44529.0,174,100,393,347,0,0
+571437,"Assistant Professor, Department of Mechanical Engineering, Stanford University",,786.0,EZ3_dV8AAAAJ,{'indices'},nan,X. Wendy Gu,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EZ3_dV8AAAAJ&citpid=6,600.0,13,13,16,13,0,0
 571438,"Assistant Professor, Department of Chemical and Biomolecular Engineering, UCLA",,273.0,5ce78ssAAAAJ,{'indices'},Chemical and Biomolecular Engineering|photovoltaics|nanophotonics|semiconductor passivation,Carissa N. Eisler,nan,202.0,10,9,10,8,0,0
-571439,Amherst College,,732.0,H3H18jwAAAAJ,{'indices'},,Jacob Olshansky,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=H3H18jwAAAAJ&citpid=4,681.0,13,12,13,13,0,0
+571439,Amherst College,,732.0,H3H18jwAAAAJ,{'indices'},nan,Jacob Olshansky,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=H3H18jwAAAAJ&citpid=4,681.0,13,12,13,13,0,0
 571440,University of California at Merced,,1315.0,U6ey8WsAAAAJ,{'indices'},Nanoparticle Photocatalyst|Ultrafast spectroscopy|In situ TEM,Son C. Nguyen,nan,1084.0,19,14,27,19,0,0
 571441,Montana State University,,1998.0,AA4JNhMAAAAJ,{'indices'},condensed matter physics|nano-optics|nano-science|material science|optical physics,Nicholas J Borys,nan,1578.0,23,21,33,27,0,0
 571442,"Graduate Student, UC Berkeley",,1355.0,-lu7XJkAAAAJ,{'indices'},Nanoscience,Joseph K. Swabeck,nan,1268.0,10,10,10,10,0,0
@@ -1543,14 +1543,14 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571458,Assistant Professor,,4211.0,Xgb3soUAAAAJ,{'indices'},Bioelectronics|Organic Electronics|Organic Bioelectronics,Sahika Inal,nan,3767.0,30,29,51,48,0,0
 571459,Cornell University OR University of Toronto,,1110.0,ykv6jeAAAAAJ,{'indices'},Microfluidics|Bioelectronics|Biosensors|Conducting Polymers|Materials Science,Alwin Wan,nan,893.0,10,10,10,10,0,0
 571460,Ecole des Mines de Saint Etienne,,2871.0,0ywCcA8AAAAJ,{'indices'},Neurosciences|Microengineering|Organic Bioelectronics,Pierre LELEUX,nan,2373.0,20,20,21,21,0,0
-571461,University of Dayton Research Institute,,3022.0,Q-RD3NAAAAAJ,{'indices'},,Luis Estevez,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Q-RD3NAAAAAJ&citpid=2,2066.0,28,24,36,32,0,0
+571461,University of Dayton Research Institute,,3022.0,Q-RD3NAAAAAJ,{'indices'},nan,Luis Estevez,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Q-RD3NAAAAAJ&citpid=2,2066.0,28,24,36,32,0,0
 571462,University of Valencia - Instituto de Ciencia Molecular (ICMol),,7427.0,BeJVZa0AAAAJ,{'indices'},Organic Electronics|Perovskite solar cells|Vacuum deposition|Perovskite evaporation,Michele Sessolo,nan,5749.0,45,40,88,86,0,0
 571463,Universitat de València,,12088.0,VNIwSaUAAAAJ,{'indices'},photovoltaics,Pablo P. Boix,nan,9636.0,55,49,84,82,0,0
 571464,"PhD, University of Groningen",,671.0,nVPJtQYAAAAJ,{'indices'},Electrostatics|Ferroelectric Photovoltaics|Perovskite Solar Cells,Tejas S. Sherkar,nan,671.0,7,7,6,6,0,0
 571465,"Professor (Associate), Zernike Institute for Advanced Materials, University of Groningen",,16677.0,oEeVsRkAAAAJ,{'indices'},perovskite solar cells|organic photovoltaics|organic thermoelectrics|device physics|charge transport,L. J. A. (Jan Anton) Koster,nan,7623.0,48,41,84,78,0,0
 571466,"Institute of Chemistry, Chinese Academy of Sciences",,21941.0,Epl4zPQAAAAJ,{'indices'},Catalysis|Adsorption,Wei-Guo Song,nan,11482.0,74,55,205,176,0,0
 571467,Xiamen University / 厦门大学,,1535.0,FjESBWsAAAAJ,{'indices'},Green Chemistry/Green Solvents/Porous Functional Material,Li Peng (彭丽),nan,1418.0,23,22,35,35,0,0
-571468,"Assitant Professor of Chemical Engineering, EPFL",,6287.0,JJ7XG5QAAAAJ,{'indices'},,Wendy L. Queen,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JJ7XG5QAAAAJ&citpid=6,4663.0,27,27,44,39,0,0
+571468,"Assitant Professor of Chemical Engineering, EPFL",,6287.0,JJ7XG5QAAAAJ,{'indices'},nan,Wendy L. Queen,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JJ7XG5QAAAAJ&citpid=6,4663.0,27,27,44,39,0,0
 571469,EPFL,,1937.0,g_LXazMAAAAJ,{'indices'},Electron microscopy|Materials science and chemistry,Emad Oveisi,nan,1890.0,22,22,33,32,0,0
 571470,EPFL,,546.0,ovjCmEEAAAAJ,{'indices'},Design|Synthesis|Water Purification|Metal Ion Capture|Precious Metal Recovery,Daniel T. Sun,nan,543.0,12,12,12,12,0,0
 571471,"Postdoctoral researcher, EPFL",,304.0,NtevW_YAAAAJ,{'indices'},Materials|Sustainability|Adsorption|Catalysis|Process design,Mehrdad Asgari,nan,289.0,12,11,12,11,0,0
@@ -1559,7 +1559,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571474,Beijing Jiaotong University,,1683.0,edVDKpYAAAAJ,{'indices'},energy/catalysis nanomaterials,Yu Yu,nan,1404.0,24,22,30,30,0,0
 571475,"Ph. D. student, École Polytechnique Fédérale de Lausanne",,341.0,L3wioHMAAAAJ,{'indices'},Inorganic Chemistry|Porous materials|Ligand synthesis,Ilia Kochetygov,nan,340.0,4,4,2,2,0,0
 571476,"Doctoral Assistant, EPFL",,18.0,IjmqZK4AAAAJ,{'indices'},Porous materials|heterogeneous catalysis|biomass conversion|Composites for environmental applications,Vikram V. Karve,nan,18.0,2,2,1,1,0,0
-571477,University of Tehran,,237.0,NvXSpwwAAAAJ,{'indices'},,Abbas Jamali,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NvXSpwwAAAAJ&citpid=3,237.0,6,6,5,5,0,0
+571477,University of Tehran,,237.0,NvXSpwwAAAAJ,{'indices'},nan,Abbas Jamali,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NvXSpwwAAAAJ&citpid=3,237.0,6,6,5,5,0,0
 571478,"College of Chemistry, UC Berkeley and EPFL",,55354.0,-GxdGBQAAAAJ,{'indices'},molecular simulation|carbon capture|zeolites|Monte Carlo,Berend Smit,nan,21084.0,101,62,321,235,0,0
 571479,EPFL,,136830.0,j4rH8MkAAAAJ,{'indices'},solar energy,Nazeeruddin,nan,72707.0,165,114,650,549,0,0
 571480,University of Kentucky,,809.0,vLc7HY0AAAAJ,{'indices'},Organic Chemistry|Organometallic Chemistry|Inorganic Chemistry|Renewable Energy,Aron Huckaba,nan,737.0,19,18,25,25,0,0
@@ -1601,7 +1601,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571516,Kaust Solar Center,,2051.0,uoO0wV0AAAAJ,{'indices'},Physical Chemistry|Materials Chemistry|Solar Energy,Michael Salvador,nan,1680.0,24,22,38,33,0,0
 571517,Northwestern University,,8468.0,QpdfkggAAAAJ,{'indices'},transmission electron microscopy|materials characterization,Jinsong Wu,nan,5341.0,51,41,123,96,0,0
 571518,Northwestern University,,45115.0,mj365oIAAAAJ,{'indices'},Imaging|microscopy|materials science|nanoscience & nanotechnology|policy,Vinayak Dravid,nan,26736.0,102,76,431,286,0,0
-571519,"Assistant Professor of Chemistry, Colorado School of Mines",,1044.0,fQzmzy0AAAAJ,{'indices'},,C. Michael McGuirk,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fQzmzy0AAAAJ&citpid=4,950.0,15,14,18,17,0,0
+571519,"Assistant Professor of Chemistry, Colorado School of Mines",,1044.0,fQzmzy0AAAAJ,{'indices'},nan,C. Michael McGuirk,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fQzmzy0AAAAJ&citpid=4,950.0,15,14,18,17,0,0
 571520,Nanyang Technological University,,597.0,x3uBZLcAAAAJ,{'indices'},Thermal management in space and aviation Electroniccs|Nanotribology|Physics of thin films deposition|Materials characterisati,maziar SHAKERZADEH,nan,241.0,13,8,14,8,0,0
 571521,"Intel Corporation, University of Illinois at Urbana Champaign",,1253.0,0pVMzBUAAAAJ,{'indices'},Micro/Nano Fabrication|Failure Analysis|Nano Material|Surface Science and Material Characterization|Ceramics,Mohammad Ryan Ghaffari,nan,804.0,20,16,38,37,0,0
 571522,Institute of materials research and engineering,,680.0,jumPsBIAAAAJ,{'indices'},photocatalyst|water splitting|hydrogen production|sol-gel deposition,Chin Sheng Chua,nan,626.0,12,12,13,12,0,0
@@ -1626,7 +1626,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571541,"Professor of Chemical and Petroleum Engineering, University of Kansas",,8847.0,mV7LK7gAAAAJ,{'indices'},Cataysis|benign solvents|reactor engineering|crystallization,Bala Subramaniam,nan,3503.0,48,31,162,112,0,0
 571542,"School of Chemistry, the University of Nottingham",,6609.0,QAphPkQAAAAJ,{'indices'},Chemistry,Peter Licence,nan,3045.0,44,29,104,85,0,0
 571543,Carnegie Mellon University,,159107.0,TSkli5EAAAAJ,{'indices'},Chemistry|Polymers|Polymer Chemistry|Polymer Science|Materials,Krzysztof Matyjaszewski,nan,48847.0,191,91,1199,857,0,0
-571544,Rzeszow University of Technology,,113.0,Atsi3UYAAAAJ,{'indices'},,Izabela Zaborniak,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Atsi3UYAAAAJ&citpid=1,113.0,6,6,5,5,0,0
+571544,Rzeszow University of Technology,,113.0,Atsi3UYAAAAJ,{'indices'},nan,Izabela Zaborniak,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Atsi3UYAAAAJ&citpid=1,113.0,6,6,5,5,0,0
 571545,"Department of Chemical Sciences, University of Padova",,6372.0,gfj0ZUMAAAAJ,{'indices'},Electrochemistry|Electrocatalysis|Polymer Chemistry,Abdirisak Ahmed Isse,nan,3645.0,46,32,100,86,0,0
 571546,PPG Industries,,2103.0,-5Y-caYAAAAJ,{'indices'},Polymers|Coatings|Electrochemistry,Marco Fantin,nan,2050.0,25,25,45,45,0,0
 571547,PPG,,1414.0,UZia9W8AAAAJ,{'indices'},Polymer Chemistry|Polymer Science|Polymers|Chemistry,Pawel Krys,nan,1122.0,19,19,22,22,0,0
@@ -1647,13 +1647,13 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571562,"Fudan University, Carnegie Mellon University, University of Pittsburgh",,2480.0,6xDvoKsAAAAJ,{'indices'},Polymer chemistry|radical chemistry,Xiangcheng Pan,nan,2318.0,25,25,31,31,0,0
 571563,Los Alamos National Laboratory,,10143.0,CMQPeIkAAAAJ,{'indices'},inorganic chemistry|actinide chemistry|actinides|radiochemistry,David L Clark,nan,2571.0,56,27,140,58,0,0
 571564,"Associate Professor of Chemistry, Colgate University",,1419.0,mQeoIk8AAAAJ,{'indices'},Computational Chemistry|Inorganic Chemistry|Oxygen Activation|Electronic Structure|Density Functional Theory,Jason M. Keith,nan,789.0,19,15,31,24,0,0
-571565,Lawrence Berkeley National Laboratory,,1778.0,AqK2RcYAAAAJ,{'indices'},,Stefan Minasian,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=AqK2RcYAAAAJ&citpid=2,1172.0,24,21,33,28,0,0
+571565,Lawrence Berkeley National Laboratory,,1778.0,AqK2RcYAAAAJ,{'indices'},nan,Stefan Minasian,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=AqK2RcYAAAAJ&citpid=2,1172.0,24,21,33,28,0,0
 571566,Los Alamos National Laboratory,,2980.0,2v-VWOsAAAAJ,{'indices'},Theoretical Chemistry,Ping Yang,nan,1757.0,31,23,59,49,0,0
 571567,"Physicist, Lawrence Livermore National Lab",,747.0,8NgPDU0AAAAJ,{'indices'},Condensed Matter,Joe Bradley,nan,368.0,18,12,21,16,0,0
 571568,BASF Corporation,,1131.0,KnAwo9QAAAAJ,{'indices'},solid state chemistry|crystallography|inorganic materials|effect pigments,Russell Feller,nan,372.0,12,8,12,6,0,0
 571569,"Chemical Engineering, University of Waterloo",,126.0,AYi3yVkAAAAJ,{'indices'},Process Systems Engineering|Energy Optimization|Wettability|Asphaltene,Syed Taha Taqvi,nan,119.0,5,5,3,3,0,0
 571570,University of Maryland,,11685.0,7dix8tUAAAAJ,{'indices'},nan,Ashwani K. Gupta,nan,5035.0,49,33,199,124,0,0
-571571,"Graduate Student, University of Maryland, College Park",,408.0,Dh1-GQ4AAAAJ,{'indices'},,K.G Burra,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Dh1-GQ4AAAAJ&citpid=2,407.0,11,11,13,13,0,0
+571571,"Graduate Student, University of Maryland, College Park",,408.0,Dh1-GQ4AAAAJ,{'indices'},nan,K.G Burra,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Dh1-GQ4AAAAJ&citpid=2,407.0,11,11,13,13,0,0
 571572,Khalifa University,,225.0,0UvHZx0AAAAJ,{'indices'},nan,Mirella Elkadi,nan,108.0,8,6,6,4,0,0
 571573,"Faculty of Science, Ain Shams University, Cairo, Egypt",,793.0,GH8tjs4AAAAJ,{'indices'},Radiation Dosimetry|TL dosimetry|EPR dosimetry|Gamma Spectroscopy.,Nabil El-Faramawy,nan,294.0,16,10,30,11,0,0
 571574,"Associate Professor, Design and Production engineering Dept. Ain Shams University, Faculty of",,180.0,9YC1EoUAAAAJ,{'indices'},Materials engineering,N.A. Azab,nan,129.0,6,6,5,5,0,0
@@ -1709,7 +1709,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571624,"Professor of Neurology, University of Michigan",,40991.0,nQSboD0AAAAJ,{'indices'},basal ganglia|movement disorders|positron emission tomography,"Roger Albin, Roger L. Albin",nan,16112.0,84,51,247,156,0,0
 571625,"Graduate Research Fellow, University of Wisconsin-Madison",,82.0,eWyI_A0AAAAJ,{'indices'},nan,Brian P. Cary,nan,78.0,5,5,2,2,0,0
 571626,"Research Assistant, University of Michigan",,14.0,uvuJY18AAAAJ,{'indices'},Organic Chemistry|Medicinal Chemistry|Radiochemistry|PET,Wade P. Winton,nan,14.0,3,3,0,0,0,0
-571627,"Professor of Medicinal Chemistry, University of Michigan",,2446.0,PouIGTAAAAAJ,{'indices'},,George A. Garcia,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PouIGTAAAAAJ&citpid=1,636.0,28,12,55,16,0,0
+571627,"Professor of Medicinal Chemistry, University of Michigan",,2446.0,PouIGTAAAAAJ,{'indices'},nan,George A. Garcia,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PouIGTAAAAAJ&citpid=1,636.0,28,12,55,16,0,0
 571628,University of Michigan,,3422.0,VLZuduYAAAAJ,{'indices'},nan,Benjamin L. Viglianti,nan,1765.0,25,17,35,28,0,0
 571629,"Senior Principal Scientist, Merck Research Laboratories",,4507.0,03QWoHoAAAAJ,{'indices'},Catalysis|high-throughput experimentation|pharmaceutical synthesis|drug discovery|process chemistry,Shane W. Krska,nan,2714.0,35,24,56,39,0,0
 571630,Merck & Co inc.,,1236.0,GPtCLcAAAAAJ,{'indices'},nan,Stefan Verhoog,nan,817.0,13,13,14,14,0,0
@@ -1722,7 +1722,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571637,University of Cambridge,,1429.0,zKmH0NcAAAAJ,{'indices'},Radiochemistry|Organic Chemistry|Inorganic Chemistry,Lei Li,nan,486.0,8,7,8,7,0,0
 571638,"Sun Yat-sen University, University of Warwick",,2392.0,SswGNBkAAAAJ,{'indices'},metal medicine,PINGYU ZHANG,nan,2277.0,27,26,37,37,0,0
 571639,Okinawa Institute of Science and Technology Graduate University (OIST),,1377.0,Tm6KZiYAAAAJ,{'indices'},chemistry|biology|materials,Ye Zhang,nan,643.0,21,14,24,18,0,0
-571640,Sun Yat-sen University,,864.0,zjmvVT0AAAAJ,{'indices'},,Jingheng Wu,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zjmvVT0AAAAJ&citpid=2,652.0,14,13,14,13,0,0
+571640,Sun Yat-sen University,,864.0,zjmvVT0AAAAJ,{'indices'},nan,Jingheng Wu,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zjmvVT0AAAAJ&citpid=2,652.0,14,13,14,13,0,0
 571641,"Chimie ParisTech, PSL University, CNRS, Institute of Chemistry of Life and Health Sciences",,8451.0,mFmyscAAAAAJ,{'indices'},Inorganic Chemical Biology|Medicinal Inorganic Chemistry|Photodynamic Therapy|Antiparasitic Research,Gilles Gasser,nan,6076.0,45,38,132,110,0,0
 571642,NUS,,19233.0,_qa33qIAAAAJ,{'indices'},nan,Jishan Wu (NUS),nan,10325.0,69,47,216,187,0,0
 571643,POSTECH,,23626.0,q6s4ZzAAAAAJ,{'indices'},Bioimaging|Fluorescence Library|Sensor|Chemical Cellomics|Chemical Biology,Young-Tae Chang,nan,11729.0,75,50,389,241,0,0
@@ -1733,16 +1733,16 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571648,,,1642.0,0rZq0GEAAAAJ,{'indices'},Chemistry,Hoa Phan,nan,1466.0,25,24,43,43,0,0
 571649,National University of Singapore,,5597.0,qHGB3e4AAAAJ,{'indices'},pi-Conjugated molecules and materials,Chunyan Chi,nan,3237.0,42,30,86,68,0,0
 571650,"Professor of Chemistry, Yonsei University",,30717.0,V0tSOaYAAAAJ,{'indices'},Time-resolved spectroscopy|Single-molecule spectroscopy,Dongho Kim,nan,13152.0,95,50,505,359,0,0
-571651,,,4493.0,ZaFnTQEAAAAJ,{'indices'},,Dongdong Su,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZaFnTQEAAAAJ&citpid=3,2655.0,27,25,38,34,0,0
+571651,,,4493.0,ZaFnTQEAAAAJ,{'indices'},nan,Dongdong Su,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZaFnTQEAAAAJ&citpid=3,2655.0,27,25,38,34,0,0
 571652,"Department of Chemistry and Biochemistry, Graduate School of Engineering, Kyushu University",,2151.0,sBwwtnIAAAAJ,{'indices'},Organic Chemistry|Coordination Chemistry,Masatoshi Ishida,nan,1583.0,26,25,59,53,0,0
-571653,Yonsei University,,1441.0,sDzBhI4AAAAJ,{'indices'},,Sangsu Lee,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sDzBhI4AAAAJ&citpid=5,1225.0,25,23,36,35,0,0
-571654,Universidad de Málaga,,9500.0,kM_PG3YAAAAJ,{'indices'},,J Casado Cordon,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kM_PG3YAAAAJ&citpid=2,4600.0,51,34,199,115,0,0
+571653,Yonsei University,,1441.0,sDzBhI4AAAAJ,{'indices'},nan,Sangsu Lee,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sDzBhI4AAAAJ&citpid=5,1225.0,25,23,36,35,0,0
+571654,Universidad de Málaga,,9500.0,kM_PG3YAAAAJ,{'indices'},nan,J Casado Cordon,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kM_PG3YAAAAJ&citpid=2,4600.0,51,34,199,115,0,0
 571655,National University of Singapore,,3065.0,BANt3vsAAAAJ,{'indices'},3D printing|Magnetism|multiferroicity|spintronics & superconductivity. Key materials: Fe3O4|YBCO and ZnO,Tun Seng Herng,nan,2126.0,32,28,80,68,0,0
 571656,Max Planck Institute for medical research,,2034.0,NB8s-KQAAAAJ,{'indices'},protein imaging|fluorescence probe|super-resolution imaging,Lu Wang,nan,1827.0,20,20,23,23,0,0
 571657,Hunan University,,10329.0,RUVtASwAAAAJ,{'indices'},Functional dye|fluorescent probe|Bioimaging,Lin Yuan,nan,7433.0,50,46,91,88,0,0
 571658,"Roche Diagnostics GmbH, Penzberg, Germany",,827.0,LSMr1yoAAAAJ,{'indices'},Chemical Biology|Antibody drug conjugate|Fluorescent Probe Development|Site specific Protein Labeling|Organelle directing ph,Bikram Keshari Agrawalla,nan,771.0,10,10,11,10,0,0
 571659,Korea Brain Research Institute,,1016.0,uyFUEi0AAAAJ,{'indices'},Neuroscience|Fluorescent small molecules|Immunology|Stem Cells|Molecular & Chemical Biology,Beomsue KIM,nan,740.0,15,14,18,16,0,0
-571660,National University of Singapore,,2468.0,1tF6VfwAAAAJ,{'indices'},,Wangdong Zeng,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1tF6VfwAAAAJ&citpid=5,1455.0,20,19,27,27,0,0
+571660,National University of Singapore,,2468.0,1tF6VfwAAAAJ,{'indices'},nan,Wangdong Zeng,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1tF6VfwAAAAJ&citpid=5,1455.0,20,19,27,27,0,0
 571661,Institute of Materials Research and Engineering,,5230.0,_Gyl6rsAAAAJ,{'indices'},Materials,Jianwei XU,nan,3502.0,42,33,135,103,0,0
 571662,The University of Iowa,,270.0,FvgLFRMAAAAJ,{'indices'},Analytical Chemistry,Chathurika M Rathnayake,nan,266.0,7,7,7,7,0,0
 571663,"Johns Hopkins University, Environmental Health and Engineering",,21760.0,c7okJ9gAAAAJ,{'indices'},Atmospheric Chemistry|Environmental Engineering|Field Measurements,Peter DeCarlo,nan,10076.0,63,47,96,87,0,0
@@ -1768,10 +1768,10 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571683,"Full Professor, CICECO, Chemistry Department, University of Aveiro",,34923.0,X80HM_YAAAAJ,{'indices'},Chemical Engineering|Sustainability|Biorefinery|Circular Economy,Joao A. P. Coutinho,nan,20022.0,99,67,512,459,0,0
 571684,"Centro de Química Estrutural, Instituto Superior Técnico, Universidade de Lisboa",,17663.0,bkwQ9CMAAAAJ,{'indices'},ionic liquids|deep eutectic solvents|CO2 separation|membranes,Isabel M. Marrucho,nan,9555.0,75,53,207,183,0,0
 571685,"Investigadora Coordenadora, Universidade de Aveiro",,16407.0,6VPkeO0AAAAJ,{'indices'},Biofármacos|Biomarcadores Tumorais|Líquidos Iónicos|Processos de Separação e Purificação|Eng. Química-Biotecnologia,Mara G. Freire,nan,10088.0,74,55,187,180,0,0
-571686,Engenharia Química - UNICAMP ,,1578.0,qWQXy8YAAAAJ,{'indices'},,Roberta Ceriani,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=qWQXy8YAAAAJ&citpid=4,892.0,22,16,34,24,0,0
-571687,"CICECO, Departamento de Química, Universidade de Aveiro",,4092.0,2VBf_B8AAAAJ,{'indices'},,Catarina M. S. S. Neves,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2VBf_B8AAAAJ&citpid=2,2284.0,29,27,42,41,0,0
+571686,Engenharia Química - UNICAMP ,,1578.0,qWQXy8YAAAAJ,{'indices'},nan,Roberta Ceriani,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=qWQXy8YAAAAJ&citpid=4,892.0,22,16,34,24,0,0
+571687,"CICECO, Departamento de Química, Universidade de Aveiro",,4092.0,2VBf_B8AAAAJ,{'indices'},nan,Catarina M. S. S. Neves,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2VBf_B8AAAAJ&citpid=2,2284.0,29,27,42,41,0,0
 571688,Instituto de Materiais de Aveiro & Universidade de Aveiro,,5058.0,MOrj7HsAAAAJ,{'indices'},nan,Sónia P. M. Ventura,nan,3662.0,40,35,88,86,0,0
-571689,"Universidade de Vigo, Spain",,4317.0,7lyMVXcAAAAJ,{'indices'},,Manuel M Piñeiro (ORCID:0000-0002-...,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7lyMVXcAAAAJ&citpid=2,2302.0,37,26,86,53,0,0
+571689,"Universidade de Vigo, Spain",,4317.0,7lyMVXcAAAAJ,{'indices'},nan,Manuel M Piñeiro (ORCID:0000-0002-...,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7lyMVXcAAAAJ&citpid=2,2302.0,37,26,86,53,0,0
 571690,"Professor of Chemistry, NC State University",,3424.0,xqSRELwAAAAJ,{'indices'},Metal Complexes of Paramagnetic Ligands|Electronic Structure|Magnetochemistry|Photochemistry,David A. Shultz,nan,927.0,37,16,78,36,0,0
 571691,"Институт ""Международный томографический центр"" СО РАН",,3730.0,NOLq61YAAAAJ,{'indices'},кристаллохимия|молекулярные магнетики,Galina Romanenko,nan,1380.0,31,17,109,45,0,0
 571692,Università degli Studi di Firenze,,32088.0,jQy46m0AAAAJ,{'indices'},chimica,Andrea Caneschi,nan,6768.0,90,34,336,148,0,0
@@ -1785,7 +1785,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571700,"Postdoc Research Associate,Los Alamos National Laboratory",,714.0,Uy3lyOMAAAAJ,{'indices'},Ultrafast Fluorescence Spectroscopy and Microscopy|Soft Materials|Carbon Nanotube|Structure and Chemical Dynamics.,Rajib Pramanik,nan,247.0,17,11,23,12,0,0
 571701,Post Doctoral Fellow at Vanderbilt University,,649.0,53fKByUAAAAJ,{'indices'},Single molecule dynamics|optical tweezers|T cells|Fluorescence,Debasis Banik,nan,586.0,17,16,26,23,0,0
 571702,Tata Steel,,715.0,mNkgY6oAAAAJ,{'indices'},ultrafast and single molecule spectroscopy,Dr. Niloy Kundu,nan,650.0,18,17,30,27,0,0
-571703,"Graduate student, Georgia Tech",,110.0,1G1rBT4AAAAJ,{'indices'},,Udita Brahmachari,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1G1rBT4AAAAJ&citpid=2,67.0,5,4,2,2,0,0
+571703,"Graduate student, Georgia Tech",,110.0,1G1rBT4AAAAJ,{'indices'},nan,Udita Brahmachari,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1G1rBT4AAAAJ&citpid=2,67.0,5,4,2,2,0,0
 571704,Heyrovsky Institute of physical chemistry,,1498.0,mhrhrscAAAAJ,{'indices'},chemistry,Shamzhy,nan,1158.0,19,17,32,31,0,0
 571705,UiO,,515.0,r9I2QO4AAAAJ,{'indices'},porous materials,Nataliia Kasian,nan,287.0,11,8,11,8,0,0
 571706,J. Heyrovsky Institute of physical chemistry,,2531.0,93dBvjkAAAAJ,{'indices'},nan,Opanasenko Maksym,nan,2054.0,26,25,50,49,0,0
@@ -1855,7 +1855,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571770,Stanford University,,2496.0,kQOs_sEAAAAJ,{'indices'},Chemical Engineering,Shucheng Chen,nan,2475.0,20,20,25,25,0,0
 571771,"Electrochemical & Thermal Systems Scientist, Stealth-Mode Start-Up",,842.0,Sl9Od7cAAAAJ,{'indices'},Flexible Electronics|Energy Harvesting|Organic Electronics|Sensors|Alternative Energy,Allison Hinckley,nan,778.0,10,10,10,10,0,0
 571772,"Researcher, Stockholm University",,1181.0,DRuBvvUAAAAJ,{'indices'},Inorganic Synthesis|Metal-Organic Frameworks|Structure Determination|In situ X-ray diffraction|Synchrotron Radiation,A. Ken Inge,nan,965.0,18,17,26,20,0,0
-571773,Stanford University,,11285.0,hXSGJC0AAAAJ,{'indices'},,Jeffrey BH Tok,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hXSGJC0AAAAJ&citpid=2,9103.0,47,37,78,59,0,0
+571773,Stanford University,,11285.0,hXSGJC0AAAAJ,{'indices'},nan,Jeffrey BH Tok,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hXSGJC0AAAAJ&citpid=2,9103.0,47,37,78,59,0,0
 571774,"Materials Science and Engineering, Peking University",,7547.0,GkVRR2YAAAAJ,{'indices'},Organic and Polymer Materials|Flexible Electronics,Ting Lei,nan,5716.0,40,34,65,59,0,0
 571775,"University of California, Davis",,2124.0,3_GjmYAAAAAJ,{'indices'},Molecular simulations|catalysis|adsorption,Ambarish Kulkarni,nan,1994.0,20,20,22,22,0,0
 571776,ETH Zürich,,13987.0,IVhZuv8AAAAJ,{'indices'},Energy Storage|Supercapacitors|2D materials|Electrochemistry|Electrolytes,Maria Lukatskaya,nan,13375.0,29,28,32,30,0,0
@@ -1931,9 +1931,9 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571846,Institute of Soil Science，Chinese Academy of Sciences,,3961.0,wYTfvNoAAAAJ,{'indices'},Soil remediation,Fang guodong,nan,3615.0,32,31,55,55,0,0
 571847,University of Bayreuth,,31398.0,ukerzlIAAAAJ,{'indices'},Electrospinning|microplastic|polymer synthesis|parylene|filration,Andreas Greiner,nan,11822.0,77,45,271,158,0,0
 571848,"Professor of Chemistry, Kent State University",,99163.0,frukVO4AAAAJ,{'indices'},Interfacial Chemistry|Materials Science|Adsorption|Nanomaterials,Mietek Jaroniec,nan,54308.0,138,95,724,348,0,0
-571849,"Department of Chemistry, University of California, Berkeley",,73376.0,XCP3qr0AAAAJ,{'indices'},,Jeffrey R LONG,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XCP3qr0AAAAJ&citpid=4,38555.0,121,89,312,280,0,0
+571849,"Department of Chemistry, University of California, Berkeley",,73376.0,XCP3qr0AAAAJ,{'indices'},nan,Jeffrey R LONG,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XCP3qr0AAAAJ&citpid=4,38555.0,121,89,312,280,0,0
 571850,"Emerging Technologies, DuPont Electronics & Imaging",,787.0,Jdb4HiEAAAAJ,{'indices'},Chemistry|Materials Science,Rebecca L Siegelman,nan,786.0,13,13,15,15,0,0
-571851,"Assistant Professor of Chemistry, University of Wisconsin–Madison",,2839.0,xiIJwfYAAAAJ,{'indices'},,Jeffrey D. Martell,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xiIJwfYAAAAJ&citpid=2,2469.0,15,13,16,15,0,0
+571851,"Assistant Professor of Chemistry, University of Wisconsin–Madison",,2839.0,xiIJwfYAAAAJ,{'indices'},nan,Jeffrey D. Martell,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xiIJwfYAAAAJ&citpid=2,2469.0,15,13,16,15,0,0
 571852,"Professor of Chemistry, Massachusetts Institute of Technology",,108365.0,Kkjq1vMAAAAJ,{'indices'},organic synthesis|organometallic chemistry|catalysis|asymmetric catalysis|flow chemistry,Stephen L. Buchwald,nan,33244.0,180,91,571,462,0,0
 571853,"Professor of Chemical Engineering, University of California Berkeley",,13978.0,kx1O-t8AAAAJ,{'indices'},chemistry|materials physics|chemical engineering,Jeffrey A. REIMER,nan,5537.0,63,31,175,80,0,0
 571854,"University of Cambridge, Department of Chemistry",,2392.0,AkyuNFMAAAAJ,{'indices'},CO2 Capture|Supercapacitors|Porous Materials|NMR,Alexander C. Forse,nan,2284.0,22,22,25,25,0,0
@@ -1945,26 +1945,26 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571860,"Assistant Professor, SMU",,1564.0,SJtvZ8IAAAAJ,{'indices'},Physical Chemistry|Materials Science,Tomče Runčevski,nan,1431.0,20,19,28,26,0,0
 571861,"Computational Science Research Center, Korea Institute of Science and Technology (KIST)",,1604.0,nXc8WREAAAAJ,{'indices'},Condensed Matter Physics|DFT|Perovskites|MOFs|vdW functionals,Jung-Hoon Lee,nan,1237.0,18,16,28,25,0,0
 571862,Harvard University,,13710.0,6wNuVPEAAAAJ,{'indices'},nan,Jarad A Mason,nan,10101.0,40,38,44,44,0,0
-571863,"Graduate Student, University of California, Berkeley",,86.0,KuC7eS4AAAAJ,{'indices'},,Eugene Kim,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KuC7eS4AAAAJ&citpid=1,80.0,4,4,3,3,0,0
-571864,Columbia University,,661.0,WHgm9xgAAAAJ,{'indices'},,Douglas A. Reed,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WHgm9xgAAAAJ&citpid=1,616.0,9,9,9,9,0,0
+571863,"Graduate Student, University of California, Berkeley",,86.0,KuC7eS4AAAAJ,{'indices'},nan,Eugene Kim,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KuC7eS4AAAAJ&citpid=1,80.0,4,4,3,3,0,0
+571864,Columbia University,,661.0,WHgm9xgAAAAJ,{'indices'},nan,Douglas A. Reed,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WHgm9xgAAAAJ&citpid=1,616.0,9,9,9,9,0,0
 571865,ExxonMobil Research & Engineering,,691.0,sr9eYBwAAAAJ,{'indices'},Inorganic Chemistry|Materials Chemistry|Gas Storage and Separations|Porous Materials|Catalysis,Matthew T Kapelewski,nan,661.0,11,10,12,11,0,0
-571866,"Graduate Student Researcher, University of California, Berkeley",,298.0,eoex6MoAAAAJ,{'indices'},,Kristen Colwell,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=eoex6MoAAAAJ&citpid=2,298.0,6,6,6,6,0,0
+571866,"Graduate Student Researcher, University of California, Berkeley",,298.0,eoex6MoAAAAJ,{'indices'},nan,Kristen Colwell,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=eoex6MoAAAAJ&citpid=2,298.0,6,6,6,6,0,0
 571867,"Graduate Student, Massachusetts Institute of Technology",,39.0,WsS9zRAAAAAJ,{'indices'},nan,Bhavish Dinakar,nan,39.0,1,1,1,1,0,0
 571868,Mosaic Materials,,8145.0,1QQjyTMAAAAJ,{'indices'},Chemistry|Materials Science,Thomas M. McDonald,nan,5331.0,15,14,15,14,0,0
 571869,University of Oxford,,2607.0,iHQmbvsAAAAJ,{'indices'},Spectroscopy|reaction dynamics|metal clusters|cavity-enhanced spectroscopy|velocity map imaging,Stuart R Mackenzie,nan,1002.0,30,20,73,36,0,0
 571870,"Founder, Bedrock Scientific;  CTO, Watermine Innovation; Adjunct Prof. (Chem.) U Waterloo",,2096.0,tKOoyRoAAAAJ,{'indices'},analytical chemistry|bioanalytical chemistry|mass spectrometry|ion-molecule reactions|differential mobility spectrometry,"J. Larry Campbell, Ph.D.",nan,1441.0,27,23,41,37,0,0
 571871,University Nijmegen,,33219.0,0DlPkG4AAAAJ,{'indices'},physics,Gerard Meijer,nan,7620.0,94,38,366,211,0,0
-571872,"Research group leader, Institute for Optics and Atomic Physics, Technical University Berlin",,5313.0,EjlARGwAAAAJ,{'indices'},,André Fielicke,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EjlARGwAAAAJ&citpid=2,2294.0,44,27,102,83,0,0
+571872,"Research group leader, Institute for Optics and Atomic Physics, Technical University Berlin",,5313.0,EjlARGwAAAAJ,{'indices'},nan,André Fielicke,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EjlARGwAAAAJ&citpid=2,2294.0,44,27,102,83,0,0
 571873,"Dept. of Chemical Engineering, KTH Royal Institute of Technology,  Stockholm",,1174.0,q8eTB8gAAAAJ,{'indices'},nan,Dan J Harding,nan,674.0,20,17,33,27,0,0
 571874,"Vanier Scholar, University of Waterloo",,138.0,ZdrDEmQAAAAJ,{'indices'},Differential Mobility Spectrometry|Ion Mobility|Gas-phase ion chemistry|Physical chemistry,Christian Ieritano,nan,138.0,4,4,4,4,0,0
-571875,Deakin University,,4990.0,iRLs7ycAAAAJ,{'indices'},,Prof. Tiffany Walsh,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=iRLs7ycAAAAJ&citpid=2,2707.0,42,30,97,75,0,0
+571875,Deakin University,,4990.0,iRLs7ycAAAAJ,{'indices'},nan,Prof. Tiffany Walsh,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=iRLs7ycAAAAJ&citpid=2,2707.0,42,30,97,75,0,0
 571876,"Sessional Lecturer, University of Waterloo",,77.0,ynko7jYAAAAJ,{'indices'},Spectroscopy|Density Functional Theory|Mass Spectrometry,"Patrick JJ Carr, Ph. D.",nan,77.0,5,5,4,4,0,0
 571877,Fraunhofer Institute for Applied Solid State Physics,,876.0,2tnRzysAAAAJ,{'indices'},nan,Marko Haertelt,nan,475.0,15,15,19,17,0,0
 571878,Sciex,,689.0,QDegLqAAAAAJ,{'indices'},Analytical Chemistry|Sample Preparation|Mass Spectrometry|Drug Discovery|High Throughput Analysis,Chang Liu,nan,501.0,13,12,17,12,0,0
 571879,"The Department of Chemistry, University of Oxford",,453.0,X9QPuYkAAAAJ,{'indices'},Physical Chemistry|Mass Spectrometry,Michael Burt,nan,378.0,16,13,21,17,0,0
 571880,"Associate Chief Research Scientist, SCIEX",,1671.0,CTAqsXEAAAAJ,{'indices'},LC-MS|Mass Spectrometry|Bioanalytical Chemistry|Differential Mobilty,J.C.Yves Le Blanc,nan,629.0,24,15,36,24,0,0
 571881,"ETH Zürich, Roche",,210.0,Nr8K750AAAAJ,{'indices'},Single Cell Methods|Drug Development|Gas Phase Cluster Dynamics,Moaraj Hasan,nan,199.0,6,6,6,6,0,0
-571882,University of Victoria (Queen's University 1999-2019),,3806.0,BiBkYDEAAAAJ,{'indices'},,Hans-Peter Loock,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BiBkYDEAAAAJ&citpid=3,1523.0,33,18,73,38,0,0
+571882,University of Victoria (Queen's University 1999-2019),,3806.0,BiBkYDEAAAAJ,{'indices'},nan,Hans-Peter Loock,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BiBkYDEAAAAJ&citpid=3,1523.0,33,18,73,38,0,0
 571883,University of Waterloo,,43.0,n-SLpsgAAAAJ,{'indices'},Mass Spec|Spectroscopy|VMI|Computational Chemistry,Jeff Crouse,nan,41.0,4,4,3,3,0,0
 571884,University of St Andrews,,17701.0,6loHKWoAAAAJ,{'indices'},StAWT4YPhD,David O'Hagan,nan,7291.0,59,33,226,134,0,0
 571885,"Postdoctoral Research Fellow, University of St Andrews",,297.0,rMK-ULcAAAAJ,{'indices'},Organic Chemistry|Inositols|Organofluorine Chemistry|Hexafluorocyclohexane,Neil S. Keddie,nan,233.0,9,7,9,6,0,0
@@ -2000,9 +2000,9 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571915,Research Fellow at Sabic Technology and Innovation,,2197.0,Y_xfYOsAAAAJ,{'indices'},chemical mechanisms|computational chemistry|kinetics modeling,Istvan Lengyel,nan,496.0,21,10,32,10,0,0
 571916,Applied Materials,,559.0,zvzGLEkAAAAJ,{'indices'},nan,Karthik Ramanathan,nan,226.0,11,7,14,7,0,0
 571917,"Professor in Chemical Reaction Engineering, Ghent University",,28502.0,gW9gJTIAAAAJ,{'indices'},chemical kinetics|catalysis|chemical engineering|modeling,Guy B. Marin,nan,14383.0,82,50,538,393,0,0
-571918,"Chemical and Biological Engineering, Iowa State University",,13719.0,A8v1sFAAAAAJ,{'indices'},,Rodney O. Fox,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=A8v1sFAAAAAJ&citpid=3,5864.0,62,37,178,124,0,0
+571918,"Chemical and Biological Engineering, Iowa State University",,13719.0,A8v1sFAAAAAJ,{'indices'},nan,Rodney O. Fox,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=A8v1sFAAAAAJ&citpid=3,5864.0,62,37,178,124,0,0
 571919,"Professor, University of Michigan",,2884.0,7nqLVm0AAAAJ,{'indices'},Combustion|Turbulence|Extreme Events in Nonlinear Systems|Digitalization,Venkat Raman,nan,1676.0,28,22,59,52,0,0
-571920,universiteit gent,,5112.0,zYQg_LoAAAAJ,{'indices'},,kevin van geem,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zYQg_LoAAAAJ&citpid=2,3859.0,37,31,90,87,0,0
+571920,universiteit gent,,5112.0,zYQg_LoAAAAJ,{'indices'},nan,kevin van geem,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zYQg_LoAAAAJ&citpid=2,3859.0,37,31,90,87,0,0
 571921,"SABIC (Previous MIT, GE Global Research, Schlumberger)",,1511.0,xMfw4VcAAAAJ,{'indices'},Coal|Combustion|Gasification|Carbon Capture|Mercury,Lei Chen,nan,870.0,13,10,14,12,0,0
 571922,"Oregon State University; dynamic penguin, LLC.",,3505.0,lAbMlTwAAAAJ,{'indices'},Ocean & Fresh Water Optics|Nonlinear Dynamics,Nicholas Tufillaro,nan,759.0,29,15,51,19,0,0
 571923,Dow Chemical Company,,785.0,lyn_rt4AAAAJ,{'indices'},Chemical Engineering,Ravi Dixit,nan,449.0,14,11,20,13,0,0
@@ -2013,7 +2013,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571928,The University of Chicago,,642.0,YMZv4UAAAAAJ,{'indices'},RNA methylation|Chemical biology,Li-Sheng Zhang,nan,450.0,10,10,10,10,0,0
 571929,"Department of Chemistry, Faculty of Science, Ain Shams University, Egypt",,2454.0,3jpIdz8AAAAJ,{'indices'},photochemistry|nanomaterials|solar chemistry|renewables|quantum chemistry,M. S. A. Abdel-Mottaleb,nan,1210.0,25,19,59,37,0,0
 571930,"Professor of Analytical Chemistry, Chemistry Department, Faculty of Science, Ain Shams University",,2030.0,iGObJIsAAAAJ,{'indices'},Diagnosis of Diseases,M. S. Attia,nan,1263.0,25,19,64,47,0,0
-571931,king fasial university,,263.0,NMvlLKMAAAAJ,{'indices'},,Esam Bakir,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NMvlLKMAAAAJ&citpid=2,173.0,9,7,9,6,0,0
+571931,king fasial university,,263.0,NMvlLKMAAAAJ,{'indices'},nan,Esam Bakir,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NMvlLKMAAAAJ&citpid=2,173.0,9,7,9,6,0,0
 571932,Professor of Inorganic Chemistry,,826.0,uoRM7PAAAAAJ,{'indices'},Chemistry,Ramadan M Ramadan,nan,222.0,19,7,26,7,0,0
 571933,Associate Professor at Atomic Energy Authority of Egypt,,1070.0,_gCZqfwAAAAJ,{'indices'},Radioanalytical chemistry|Nuclear Chemistry|Inorganic Chemistry,M.F. Attallah,nan,888.0,19,18,34,29,0,0
 571934,"Professor at  Cairo University, Egypt.",,1228.0,Efh1NeAAAAAJ,{'indices'},Inorganic Chemistry,Ahmed Soliman Abdellah,nan,478.0,19,14,33,21,0,0
@@ -2022,7 +2022,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 571937,"Professor of Chemistry, Faculty of Science, Al Azhar University, Nasr City, cairo, Egypt",,668.0,wEl7rcwAAAAJ,{'indices'},Structural Chemistry|Molecular Spectroscopy|Computational Chemistry,Tarek A. Mohamed,nan,287.0,16,10,29,10,0,0
 571938,University of Greenwich (Professor),,4541.0,SZd8p6EAAAAJ,{'indices'},3D printing|Hot Melt Extrusion|Medical Devices|Nanotechnology,Dennis Douroumis,nan,3055.0,38,32,80,74,0,0
 571939,"Department of Pediatric and Preventive Dentistry, Faculty of Dentistry, University ""Ss Cyril and",,617.0,tNGWEHsAAAAJ,{'indices'},dental materials|de/remineralization|lasers in dentistry,Elizabeta Gjorgievska,nan,415.0,13,11,15,13,0,0
-571940,"Greenwich University, King's College London, St Mary's University, Laboratory of the Government",,8250.0,k1IwlSkAAAAJ,{'indices'},,John W. Nicholson,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=k1IwlSkAAAAJ&citpid=1,2750.0,44,25,133,66,0,0
+571940,"Greenwich University, King's College London, St Mary's University, Laboratory of the Government",,8250.0,k1IwlSkAAAAJ,{'indices'},nan,John W. Nicholson,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=k1IwlSkAAAAJ&citpid=1,2750.0,44,25,133,66,0,0
 571941,"Professor of Biochemistry/Chemical Biology, Greenwich University, UK",,8636.0,BflHyL0AAAAJ,{'indices'},Spectroscopy|Calorimetry|Analytical Chemistry|Molecular Structure|Molecular Pharmacology,Dr B. Z. Chowdhry,nan,2795.0,45,27,153,72,0,0
 571942,University of Texas at Austin,,1798.0,CbKvQVEAAAAJ,{'indices'},Pharmaceutical technology|continuous manufacturing|drug delivery|hot-melt extrusion|3D printing,Mohammed Maniruzzaman,nan,1342.0,21,19,34,34,0,0
 571943,University of Greenwich + Queen Mary College + Imperial College + University of Surrey,,4553.0,ErFeHOUAAAAJ,{'indices'},Solidification/Stabilisation|Mineralisation of CO2|Waste Technology,CD Hills,nan,2116.0,32,22,54,35,0,0
