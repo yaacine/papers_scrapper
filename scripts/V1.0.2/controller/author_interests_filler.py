@@ -12,14 +12,16 @@ import pandas as pd
  #############################
 """
 
-AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/authors/authors06:36:25.csv'
+AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/authors/authors06:58:07.csv'
 
 def extract_interests(input_output_file):
     df = get_authors_dataframe(input_output_file)
+    df= df.astype({"interests": str})
+    df= df.astype({"url_picture": str})
     print("file readed successfully")
     for index, row in df.iterrows():
         print('interest====>'+  str(row['interests']))
-        if row['interests'] in ("", None) or pd.isna(row['interests']):
+        if row['interests'] in ("", None, "nan") or pd.isna(row['interests']):
             print("Getting interests of author :" + row['scholar_id'])
             try:
                 author = scholarly.search_author_id(row['scholar_id'])
