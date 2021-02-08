@@ -36,9 +36,10 @@ def extract_interests(input_output_file):
             except Exception as identifier:
                 print(
                     "An exception happened while getting interests of : " + row['scholar_id'])
+                df.at[index, 'interests'] = 'error'
                 print(identifier)
                 update_authors_dataframe(input_output_file, df)
-            update_authors_dataframe(input_output_file, df)
+            # update_authors_dataframe(input_output_file, df)
 
 
 print("Started connection to tor !")
