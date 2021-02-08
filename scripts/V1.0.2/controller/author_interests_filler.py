@@ -26,8 +26,8 @@ def extract_interests(input_output_file):
                 interests = '|'.join(author['interests'])
                 url_picture = author['url_picture']
                 #convert the type of interests into str
-                df= df.astype({"interests": str})
-                df= df.astype({"url_picture": str})
+                # df= df.astype({"interests": str})
+                # df= df.astype({"url_picture": str})
                 df.at[index, 'interests'] = interests
                 df.at[index, 'url_picture'] = url_picture
                 update_authors_dataframe(input_output_file, df)
