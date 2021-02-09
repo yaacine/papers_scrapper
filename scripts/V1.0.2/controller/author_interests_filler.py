@@ -12,33 +12,33 @@ import pandas as pd
  #############################
 """
 
-AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/authors/authors06:58:07.csv'
+AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/authors/authors07:38:36.csv'
+
 
 def extract_interests(input_output_file):
     df = get_authors_dataframe(input_output_file)
-    df= df.astype({"interests": str})
-    df= df.astype({"url_picture": str})
+    df = df.astype({"interests": str})
+    df = df.astype({"url_picture": str})
     print("file readed successfully")
     for index, row in df.iterrows():
-        print('interest====>'+  str(row['interests']))
+        print('interest====>' + str(row['interests']))
         if row['interests'] in ("", None, "nan") or pd.isna(row['interests']):
             print("Getting interests of author :" + row['scholar_id'])
             try:
                 author = scholarly.search_author_id(row['scholar_id'])
-                interests = '|'.join(author['interests'])
-                url_picture = author['url_picture']
-                #convert the type of interests into str
-                # df= df.astype({"interests": str})
-                # df= df.astype({"url_picture": str})
+                if 'interests' in author: interests = '|'.join(author['interests'])
+                if 'url_picture' in author: url_picture = author['url_picture']
+
                 df.at[index, 'interests'] = interests
                 df.at[index, 'url_picture'] = url_picture
                 update_authors_dataframe(input_output_file, df)
             except Exception as identifier:
                 print(
                     "An exception happened while getting interests of : " + row['scholar_id'])
-                print(identifier)
+                df.at[index, 'interests'] = 'error'
+                print(identifier.args)
                 update_authors_dataframe(input_output_file, df)
-            update_authors_dataframe(input_output_file, df)
+            # update_authors_dataframe(input_output_file, df)
 
 
 print("Started connection to tor !")

@@ -28,27 +28,30 @@ AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors4.csv'
 CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
 
+NB_MAX_PAPERS_PER_AUTHOR = 1000
+
 
 def get_papers_for_author(author_id):
-
-    # create the file
-
+    '''
+        Gets and registers the papers of an author
+    '''
     print("getting paper for author " + author_id)
     author = scholarly.search_author_id(author_id)
     filled_publications = scholarly.fill(author, ['publications'])
     publications_list = filled_publications['publications']
-    print("TYPE  =>>>")
-    print(type(publications_list))
+    nbpubs_counter = 0
     for publication in publications_list:
         scholarly.pprint(publication)
         filled_publication = scholarly.fill(publication)
         # register_coauthering(author_id , filled_author['scholar_id'])
         print(filled_publication)
-        print(type(filled_publication))
         mydict = publication_to_dict(filled_publication)
-        print('dictionary ===>')
-        print(mydict)
         write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
+        nbpubs_counter+= 1
+        print("nbpubs_counter =====>")
+        print(nbpubs_counter)
+        if nbpubs_counter > NB_MAX_PAPERS_PER_AUTHOR:
+            break
 
 
 def extract_papers_from_authors():
@@ -57,10 +60,8 @@ def extract_papers_from_authors():
     df = get_authors_dataframe(AUTHORS_CSV_FILE)
     for index, row in df.iterrows():
 
-        print(row['got_publications'])
         if row['got_publications'] == 0:
             print("Getting publications of author : " + row['scholar_id'])
-            print(row['got_publications'])
             df.at[index, 'got_publications'] = 1
             update_authors_dataframe(AUTHORS_CSV_FILE, df)
             update_last_scrapped_author_id(COUNTER_CONFIG_FILE,
