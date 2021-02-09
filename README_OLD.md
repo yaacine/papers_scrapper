@@ -51,7 +51,6 @@ You can add other names to the list but make sure to uncomment one or two author
  
  
  
-
 #### 2. Start the extraction
 to start the extraction run 
 ```
