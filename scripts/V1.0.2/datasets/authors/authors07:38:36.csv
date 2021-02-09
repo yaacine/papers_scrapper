@@ -7,33 +7,33 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 610519,"Assistant Professor, National Tsing Hua University, Taiwan",,1125,TG3mBAkAAAAJ,{'indices'},Population genetics|Evolution|Infectious diseases|Drug resistance,Hsiao-Han Chang,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=TG3mBAkAAAAJ&citpid=3,969,18,17,19,19,0,0
 610520,"Associate Professor, Boston University",,48503,T2UE00sAAAAJ,{'indices'},error,James Galagan,nan,13986,56,42,79,73,0,0
 610521,"Computational Biologist, Broad Institute",,282,LhdJRMQAAAAJ,{'indices'},Evolution|Population Genetics|Host-Microbe Interactions|Malaria|Drosophila,Angela M. Early,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LhdJRMQAAAAJ&citpid=3,237,10,9,10,9,0,0
-610522,"PharmD, PhD, Institut Pasteur de la Guyane",,1966,Go5cQOUAAAAJ,{'indices'},nan,Lise Musset,nan,1461,25,20,34,33,0,0
-610523,Harvard T.H. Chan School of Public Health,,424,IaJwGawAAAAJ,{'indices'},nan,Aimee Taylor,nan,417,10,10,10,10,0,0
-610524,Virginia Tech,,3402,vWqS5GMAAAAJ,{'indices'},nan,Igor Sharakhov,nan,2286,27,22,65,46,0,0
-610525,"Professor of Biology and Computer Science, Indiana University",,22341,ShySYTIAAAAJ,{'indices'},nan,Matthew W. Hahn,nan,11157,69,55,140,122,0,0
-610526,CNRS researcher at MIVEGEC,,2699,rvFE0t4AAAAJ,{'indices'},nan,Michael C. Fontaine,nan,1845,26,21,40,37,0,0
-610527,Broad Institute,,7523,jCnD0tYAAAAJ,{'indices'},nan,Bronwyn MacInnis,nan,5423,35,29,46,41,0,0
-610528,"Associate Professor, University of Tennessee (EECS)",,9969,QiYAB0wAAAAJ,{'indices'},nan,Scott Emrich,nan,5410,33,24,62,46,0,0
-610529,"Dept. Ecology & Evolution & Swiss Institute of Bioinformatics, University of Lausanne",,14825,4FnFU4oAAAAJ,{'indices'},nan,Robert M. Waterhouse,nan,11660,42,39,64,62,0,0
-610530,"Professor, University of California, Berkeley",,147455,bMK_K2cAAAAJ,{'indices'},nan,John W. Taylor,nan,67201,127,69,715,365,0,0
-610531,"Associate Professor, Oregon State University",,10695,0g2z34EAAAAJ,{'indices'},nan,Thomas J. Sharpton,nan,7770,24,24,37,37,0,0
-610532,"Silver Professor; Professor of Biology, and Global Public Health, New York University",,21191,mCpDQqYAAAAJ,{'indices'},nan,Jane M Carlton,nan,6825,62,37,116,87,0,0
-610533,"Professor of Biology, Temple University",,10956,nWhT1u8AAAAJ,{'indices'},nan,Ananias A. Escalante,nan,3944,55,33,125,107,0,0
-610534,Lawrence Berkeley National Laboratory,,19848,lV5kfioAAAAJ,{'indices'},nan,Henrik V. Scheller,nan,8436,73,45,191,136,0,0
-610535,"Professor, Newcastle University",,13899,LlEZSU4AAAAJ,{'indices'},nan,William Willats,nan,6569,55,42,143,128,0,0
-610536,University of Copenhagen,,1953,6rVK0ZoAAAAJ,{'indices'},nan,Naomi Geshi,nan,767,22,17,27,19,0,0
-610537,"Professor of Plant Cell Biology, University of Leeds",,20431,vsYeCHMAAAAJ,{'indices'},nan,Paul Knox,nan,6958,75,43,191,140,0,0
-610538,Postdoc,,447,c05vs28AAAAJ,{'indices'},nan,Christian Poulsen,nan,348,10,10,13,11,0,0
-610539,"Professor, Dept Plant Pathology and the Genome Center, UC Davis",,30981,DzHPx8IAAAAJ,{'indices'},nan,Pamela Ronald,nan,11655,88,55,207,164,0,0
-610540,Fundacion Instituto Leloir (FIL)-IIBBA CONICET/ CBV-UNAB iBIO,,2931,TSIZsX8AAAAJ,{'indices'},nan,Jose M. Estevez,nan,1695,28,23,44,41,0,0
-610541,"Professor of Chemical & Biomolecular Engineering and of Bioengineering, University of California",,53697,MO3BwFMAAAAJ,{'indices'},nan,Jay Keasling,nan,26953,117,81,463,377,0,0
-610542,"AFINGEN® Astalake Biosystems, Inc.",,682,K9xd3nAAAAAJ,{'indices'},nan,Ai Oikawa,nan,375,10,9,10,9,0,0
-610543,University of Cambridge,,16920,xzsPxXoAAAAJ,{'indices'},nan,Paul Dupree,nan,7036,73,46,140,109,0,0
-610544,Postdoc at GMI,,216,8dQLTJMAAAAJ,{'indices'},nan,Eva Knoch,nan,183,7,7,6,6,0,0
-610545,The University of Melbourne,,1545,jAb0JR0AAAAJ,{'indices'},nan,Carsten Rautengarten,nan,947,17,17,21,20,0,0
-610546,"CEO, Fortiphyte",,1206,xHU3aJ8AAAAJ,{'indices'},nan,Alex Schultink,nan,860,13,13,13,13,0,0
-610547,Westerdijk Fungal biodiversity Institute,,1062,BA7MEFMAAAAJ,{'indices'},nan,Adiphol Dilokpimol,nan,742,21,18,27,23,0,0
-610548,Lawrence Berkeley National Laboratory,,23765,c-RPud4AAAAJ,{'indices'},nan,Blake A. Simmons,nan,14437,79,61,303,267,0,0
+610522,"PharmD, PhD, Institut Pasteur de la Guyane",,1966,Go5cQOUAAAAJ,{'indices'},error,Lise Musset,nan,1461,25,20,34,33,0,0
+610523,Harvard T.H. Chan School of Public Health,,424,IaJwGawAAAAJ,{'indices'},error,Aimee Taylor,nan,417,10,10,10,10,0,0
+610524,Virginia Tech,,3402,vWqS5GMAAAAJ,{'indices'},Genomics|Cytogenetics|Evolutionary Biology|Vector Biology,Igor Sharakhov,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vWqS5GMAAAAJ&citpid=4,2286,27,22,65,46,0,0
+610525,"Professor of Biology and Computer Science, Indiana University",,22341,ShySYTIAAAAJ,{'indices'},Evolution|Population genetics|Molecular evolution|Phylogenetics|Bioinformatics,Matthew W. Hahn,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ShySYTIAAAAJ&citpid=2,11157,69,55,140,122,0,0
+610526,CNRS researcher at MIVEGEC,,2699,rvFE0t4AAAAJ,{'indices'},Evolutionary Biology|Population Genetics|Genomics|Marine Mammals|Mosquitoes & Human Evolution,Michael C. Fontaine,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rvFE0t4AAAAJ&citpid=3,1845,26,21,40,37,0,0
+610527,Broad Institute,,7523,jCnD0tYAAAAJ,{'indices'},infectious disease|genomics|evolution|epidemiology|global health,Bronwyn MacInnis,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jCnD0tYAAAAJ&citpid=1,5423,35,29,46,41,0,0
+610528,"Associate Professor, University of Tennessee (EECS)",,9969,QiYAB0wAAAAJ,{'indices'},bioinformatics|non-model genomics|high-throughput computing,Scott Emrich,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=QiYAB0wAAAAJ&citpid=4,5410,33,24,62,46,0,0
+610529,"Dept. Ecology & Evolution & Swiss Institute of Bioinformatics, University of Lausanne",,14825,4FnFU4oAAAAJ,{'indices'},Arthropod Evolutionary-Functional Genomics,Robert M. Waterhouse,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4FnFU4oAAAAJ&citpid=5,11660,42,39,64,62,0,0
+610530,"Professor, University of California, Berkeley",,147455,bMK_K2cAAAAJ,{'indices'},fungi|mycology|evolution|phylogeny,John W. Taylor,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=bMK_K2cAAAAJ&citpid=2,67201,127,69,715,365,0,0
+610531,"Associate Professor, Oregon State University",,10695,0g2z34EAAAAJ,{'indices'},Gut Microbiome Systems Biology,Thomas J. Sharpton,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0g2z34EAAAAJ&citpid=4,7770,24,24,37,37,0,0
+610532,"Silver Professor; Professor of Biology, and Global Public Health, New York University",,21191,mCpDQqYAAAAJ,{'indices'},Comparative genomics|evolutionary biology|protists|malaria|trichomonads,Jane M Carlton,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=mCpDQqYAAAAJ&citpid=2,6825,62,37,116,87,0,0
+610533,"Professor of Biology, Temple University",,10956,nWhT1u8AAAAJ,{'indices'},Malaria|Evolution|Phylogeny|Parasitology|Drug Resistance,Ananias A. Escalante,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nWhT1u8AAAAJ&citpid=5,3944,55,33,125,107,0,0
+610534,Lawrence Berkeley National Laboratory,,19848,lV5kfioAAAAJ,{'indices'},photosynthesis|plant cell walls|polysaccharides|biofuels|glycosyltransferases,Henrik V. Scheller,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=lV5kfioAAAAJ&citpid=3,8436,73,45,191,136,0,0
+610535,"Professor, Newcastle University",,13899,LlEZSU4AAAAJ,{'indices'},Plants cell walls,William Willats,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LlEZSU4AAAAJ&citpid=2,6569,55,42,143,128,0,0
+610536,University of Copenhagen,,1953,6rVK0ZoAAAAJ,{'indices'},error,Naomi Geshi,nan,767,22,17,27,19,0,0
+610537,"Professor of Plant Cell Biology, University of Leeds",,20431,vsYeCHMAAAAJ,{'indices'},Plant cell walls|polysaccharides|plant-soil interactions|plant cell biology|plant biology,Paul Knox,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vsYeCHMAAAAJ&citpid=6,6958,75,43,191,140,0,0
+610538,Postdoc,,447,c05vs28AAAAJ,{'indices'},Bioimaging|Molecular dynamics|Molecular Biology,Christian Poulsen,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=c05vs28AAAAJ&citpid=2,348,10,10,13,11,0,0
+610539,"Professor, Dept Plant Pathology and the Genome Center, UC Davis",,30981,DzHPx8IAAAAJ,{'indices'},error,Pamela Ronald,nan,11655,88,55,207,164,0,0
+610540,Fundacion Instituto Leloir (FIL)-IIBBA CONICET/ CBV-UNAB iBIO,,2931,TSIZsX8AAAAJ,{'indices'},cell and molecular biology of the plant cell,Jose M. Estevez,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=TSIZsX8AAAAJ&citpid=3,1695,28,23,44,41,0,0
+610541,"Professor of Chemical & Biomolecular Engineering and of Bioengineering, University of California",,53697,MO3BwFMAAAAJ,{'indices'},Metabolic Engineering|Synthetic Biology,Jay Keasling,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MO3BwFMAAAAJ&citpid=2,26953,117,81,463,377,0,0
+610542,"AFINGEN® Astalake Biosystems, Inc.",,682,K9xd3nAAAAAJ,{'indices'},Biology|Molecular Biology|Genetic Engineering,Ai Oikawa,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=K9xd3nAAAAAJ&citpid=4,375,10,9,10,9,0,0
+610543,University of Cambridge,,16920,xzsPxXoAAAAJ,{'indices'},Plant biochemistry|Plant cell walls|polysaccharides|glycosyltransferases|Golgi apparatus,Paul Dupree,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xzsPxXoAAAAJ&citpid=1,7036,73,46,140,109,0,0
+610544,Postdoc at GMI,,216,8dQLTJMAAAAJ,{'indices'},Plant Biology|Plant Biochemistry|Molecular Biology,Eva Knoch,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8dQLTJMAAAAJ&citpid=2,183,7,7,6,6,0,0
+610545,The University of Melbourne,,1545,jAb0JR0AAAAJ,{'indices'},,Carsten Rautengarten,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jAb0JR0AAAAJ&citpid=2,947,17,17,21,20,0,0
+610546,"CEO, Fortiphyte",,1206,xHU3aJ8AAAAJ,{'indices'},Plant Biology,Alex Schultink,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xHU3aJ8AAAAJ&citpid=1,860,13,13,13,13,0,0
+610547,Westerdijk Fungal biodiversity Institute,,1062,BA7MEFMAAAAJ,{'indices'},error,Adiphol Dilokpimol,nan,742,21,18,27,23,0,0
+610548,Lawrence Berkeley National Laboratory,,23765,c-RPud4AAAAJ,{'indices'},Biofuels|Biomanufacturing|Biocatalysis|Synthetic Biology|Biomaterials,Blake A. Simmons,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=c-RPud4AAAAJ&citpid=2,14437,79,61,303,267,0,0
 610549,Associate Professor University of Copenhagen,,1100,89EenXQAAAAJ,{'indices'},nan,Henrik De Fine Licht,nan,662,16,15,23,21,0,0
 610550,"Professor of Evolutionary Biology, University of Copenhagen",,19127,QhbO4ggwbZkC,{'indices'},nan,Jacobus J. Boomsma,nan,6752,76,42,261,167,0,0
 610551,The University of Melbourne,,1433,NIyr9JYAAAAJ,{'indices'},nan,Berit Ebert,nan,971,20,18,27,25,0,0

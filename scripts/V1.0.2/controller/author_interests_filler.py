@@ -26,8 +26,8 @@ def extract_interests(input_output_file):
             print("Getting interests of author :" + row['scholar_id'])
             try:
                 author = scholarly.search_author_id(row['scholar_id'])
-                interests = '|'.join(author['interests'])
-                url_picture = author['url_picture']
+                if 'interests' in author: interests = '|'.join(author['interests'])
+                if 'url_picture' in author: url_picture = author['url_picture']
 
                 df.at[index, 'interests'] = interests
                 df.at[index, 'url_picture'] = url_picture
