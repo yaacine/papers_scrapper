@@ -28,12 +28,13 @@ AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors3.csv'
 CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
 
-NB_MAX_PAPERS_PER_AUTHOR =1000
+NB_MAX_PAPERS_PER_AUTHOR = 1000
+
 
 def get_papers_for_author(author_id):
-
-    # create the file
-    
+    '''
+        Gets and registers the papers of an author
+    '''
     print("getting paper for author " + author_id)
     author = scholarly.search_author_id(author_id)
     filled_publications = scholarly.fill(author, ['publications'])
@@ -46,7 +47,10 @@ def get_papers_for_author(author_id):
         print(filled_publication)
         mydict = publication_to_dict(filled_publication)
         write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
-        if nbpubs_counter> NB_MAX_PAPERS_PER_AUTHOR: break
+        nbpubs_counter+=nbpubs_counter
+        if nbpubs_counter > NB_MAX_PAPERS_PER_AUTHOR:
+            break
+
 
 def extract_papers_from_authors():
     open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
