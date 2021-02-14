@@ -3,6 +3,10 @@ name: Scrap Authors
 on:
   push:
     branches: [gh-actions-scrapper]
+    
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 */3 * * *'
 
 jobs:
   Scrap:
@@ -10,10 +14,22 @@ jobs:
     if: "!contains(github.event.head_commit.message, 'Automated scrapping')"
     steps:
 
+      - name: Notify slack Start
+        if: success()
+        id: slack
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        uses: voxmedia/github-action-slack-notify-build@v1
+        with:
+          channel_id: C01KUCG5820
+          status: Scrapping started
+          color: warning
+
       - name: Check out source repository
         uses: actions/checkout@v2
         with:
           token: ${{secrets.GH_ACCESS_TOKEN}}
+          ref: gh-actions-scrapper
 
 
       - name: install tor proxy
@@ -72,6 +88,41 @@ jobs:
           git config --global user.email 'mehyac_scrapper@users.noreply.github.com'
           git add .
           git commit -am "Automated scrapping"
-          git push
+          git push origin gh-actions-scrapper
 
         continue-on-error: true
+
+      
+      - name: Notify slack success
+        if: success()
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        uses: voxmedia/github-action-slack-notify-build@v1
+        with:
+          message_id: ${{ steps.slack.outputs.message_id }}
+          channel_id: C01KUCG5820
+          status: Staging PR_Review Succeeded
+          color: good
+
+      - name: Notify slack fail
+        if: failure()
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        uses: voxmedia/github-action-slack-notify-build@v1
+        with:
+          message_id: ${{ steps.slack.outputs.message_id }}
+          channel_id: C01KUCG5820
+          status: Scrapping Failed
+          color: danger
+      
+      - name: Notify slack cancelled 
+        if: cancelled()
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        uses: voxmedia/github-action-slack-notify-build@v1
+        with:
+          message_id: ${{ steps.slack.outputs.message_id }}
+          channel_id: C01KUCG5820
+          status: Scrapping Cancelled
+          color: "#FFFFFF"
+
