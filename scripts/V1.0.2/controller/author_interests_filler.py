@@ -12,7 +12,7 @@ import pandas as pd
  #############################
 """
 
-AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/authors/authors09:17:44.csv'
+AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/authors/authors08:58:09.csv'
 
 # authors08:15:21.csv
 # authors08:23:48.csv
