@@ -12,14 +12,17 @@ import pandas as pd
  #############################
 """
 
-AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/authors/authors08:35:38.csv'
+AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/authors/authors09:17:44.csv'
 
 # authors08:15:21.csv
 # authors08:23:48.csv
 # authors08:26:12.csv
 # authors08:28:03.csv
-# parallel
 # authors08:35:38.csv
+# authors08:54:08.csv
+# authors08:58:09.csv
+# authors09:08:50.csv
+# authors09:17:44.csv
 def extract_interests(input_output_file):
     df = get_authors_dataframe(input_output_file)
     df = df.astype({"interests": str})
