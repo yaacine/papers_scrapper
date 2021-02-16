@@ -24,9 +24,9 @@ AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/authors/authors13:11
 # authors09:08:50.csv  
 # authors09:17:44.csv  
 # authors09:32:01.csv  
-# authors09:56:06.csv -->
-# authors12:46:13.csv -->
-# authors13:11:52.csv --> 
+# authors09:56:06.csv 
+# authors12:46:13.csv 
+# authors13:11:52.csv  
 
 def extract_interests(input_output_file):
     df = get_authors_dataframe(input_output_file)
