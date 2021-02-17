@@ -12,7 +12,7 @@ import pandas as pd
  #############################
 """
 
-AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/authors/authors13:55:51.csv'
+AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/authors/authors22:34:10.csv'
 
 # authors08:15:21.csv
 # authors08:23:48.csv
@@ -32,6 +32,18 @@ AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/authors/authors13:55
 # authors14:52:50.csv 
 # authors15:40:15.csv 
 # authors15:28:07.csv 
+
+# authors15:42:02.csv --> 1 done
+# authors16:46:09.csv --> 2
+# authors17:33:36.csv --> 3
+# authors18:20:59.csv --> 4 done
+# authors20:05:30.csv --> 5 done
+# authors21:07:54.csv --> 6
+# authors21:28:08.csv --> 7
+# authors21:28:20.csv --> 8
+# authors22:34:10.csv --> 9
+
+
 def extract_interests(input_output_file):
     df = get_authors_dataframe(input_output_file)
     df = df.astype({"interests": str})
