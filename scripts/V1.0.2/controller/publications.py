@@ -23,7 +23,7 @@ os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT), exist_ok=True)
 
 print('file created')
 
-PUBLICATIONS_CSV_FILE_INPUT = 'scripts/V1.0.2/datasets/articles/articles3.csv'
+PUBLICATIONS_CSV_FILE_INPUT = 'scripts/V1.0.2/datasets/articles/articles2.csv'
 AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors3.csv'
 CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
@@ -47,7 +47,7 @@ def get_papers_for_author(author_id):
         print(filled_publication)
         mydict = publication_to_dict(filled_publication)
         write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
-        nbpubs_counter+= 1
+        nbpubs_counter += 1
         print("nbpubs_counter =====>")
         print(nbpubs_counter)
         if nbpubs_counter > NB_MAX_PAPERS_PER_AUTHOR:
@@ -83,6 +83,15 @@ def get_papers_from_paper_citations(paper_title: str):
         relationship in the citations folder 
     """
     # create the file
+    now = datetime.now()
+    current_time = now.strftime("%H:%M:%S")
+
+    publication_file_name_output = 'citations_articles' + \
+        str(now).replace(' ', '_')+'.csv'
+    PUBLICATIONS_CSV_FILE_OUTPUT = os.path.join(
+        'scripts', 'V1.0.2', 'datasets', 'articles', publication_file_name_output)
+    os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT), exist_ok=True)
+
     open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
 
     target_paper_generator = scholarly.search_pubs(
@@ -91,20 +100,20 @@ def get_papers_from_paper_citations(paper_title: str):
     print(target_paper)
     print('##########################')
     publications_generator = scholarly.citedby(target_paper)
-    while True:
-        publication = next(publications_generator)
-        filled_publication = scholarly.fill(publication)
-        mydict = publication_to_dict(filled_publication)
-        print('dictionary ===>')
-        print(mydict)
-        write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
-        print("=====>target")
-        print(target_paper['citedby_url'])
-        print("=====>sourcce")
-        print(mydict['citedby_url'])
-        register_citation(target_paper['citedby_url'], mydict['citedby_url'])
+    try:
+        while True:
+            publication = next(publications_generator)
+            filled_publication = scholarly.fill(publication)
+            mydict = publication_to_dict(filled_publication)
+            write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
+            print("=====>target")
+            print(target_paper['citedby_url'])
+            print("=====>sourcce")
+            print(mydict['citedby_url'])
+            register_citation(target_paper['citedby_url'], mydict['citedby_url'])
 
-        break
+    except Exception as e:
+        raise e
 
 
 def extract_papers_from_citations():
@@ -114,6 +123,13 @@ def extract_papers_from_citations():
     for index, row in df.iterrows():
         if row['got_citations'] == 0:
             print(row['got_citations'])
+            try:
+                row['got_citations'] = 1
+                get_papers_from_paper_citations(row['title'])
+                update_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT, df)
+            except Exception as e:
+                update_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT, df)
+                raise e
             get_papers_from_paper_citations(row['title'])
             row['got_citations'] = 1
     update_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT, df)
