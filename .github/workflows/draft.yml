@@ -84,8 +84,8 @@ jobs:
       # push the formatting changes to the PR itself
       - name: Commit changes
         run: |
-          git config --global user.name 'Mehyac Scrapper'
-          git config --global user.email 'mehyac_scrapper@users.noreply.github.com'
+          git config --global user.name 'yaacine'
+          git config --global user.email 'gy_zidelmal@esi.dz'
           git add .
           git commit -am "Automated scrapping"
           git push origin gh-actions-scrapper
