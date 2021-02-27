@@ -974,21 +974,21 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 570889,NWU,,4300.0,Vrk9_ikAAAAJ,{'indices'},Chemistry,Tomoaki Tanase,,1066.0,35,16,125,29,1,0
 570890,Osaka University,,6260.0,FrH_bqAAAAAJ,{'indices'},Quantum Chemistry|Theoretical Chemistry|Inorganic Chemistry|Bio-inorganic Chemistry,Yasutaka Kitagawa,,2871.0,40,25,141,72,1,0
 570891,Seikei University,,2281.0,krCZMYEAAAAJ,{'indices'},photochemistry and photophysics of metal complexes,Taro Tsubomura,,730.0,27,16,62,25,1,0
-570892,,,2895.0,d1DLMswAAAAJ,{'indices'},Chemistry,Hiroshi Sakiyama,,967.0,30,15,86,31,0,0
-570893,University of Leeds,,8637.0,anWW0u4AAAAJ,{'indices'},Thermochemical Processing of Biomass|Biorefining|Algal biotechnology|Waste to Energy|Resource recovery,Andrew Ross,,5668.0,44,37,72,64,0,0
-570894,Aarhus University,,3867.0,wA6RpbYAAAAJ,{'indices'},Microalgae|hydrothermal processing|biofuel,Patrick Biller,,2883.0,22,20,28,27,0,0
-570895,Aberystwyth University/Hodgson-Green & associates,,872.0,MsrozbUAAAAJ,{'indices'},biorefining|bioenergy|Low-Carbon|biotechnology|pyrolysis,Edward M Hodgson,,505.0,12,11,14,14,0,0
-570896,"Senior Research Scientist, Aberystwyth University",,941.0,iIDSgOsAAAAJ,{'indices'},Biofuels and biorefining,Dr Jessica Adams,,578.0,10,9,10,9,0,0
-570897,Hellenic Mediterranean University - Department of Electronic Engineering,,3395.0,oZqQ5a8AAAAJ,{'indices'},Biochar|hydrochar|hydrothermal carbonization|agricultural waste valorization,Dimitrios Kalderis,,2439.0,25,22,35,35,0,0
-570898,Aarhus University,,6759.0,kkXJOawAAAAJ,{'indices'},Chemical analyses|atmospheric chemistry|hydrothermal liquefaction,Marianne Glasius,,3787.0,45,35,104,92,0,0
-570899,DuPont,,500.0,8NLlC80AAAAJ,{'indices'},gas chromatography|hydrothermal liquefaction,René B. Madsen,,498.0,12,12,12,12,0,0
-570900,Rijksmuseum Amsterdam,,332.0,c6erjeoAAAAJ,{'indices'},,Annelies van Hoesel,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=c6erjeoAAAAJ&citpid=4,261.0,8,8,8,8,0,0
-570901,Walter Reed Army Institute of Research,,1336.0,vwidjMcAAAAJ,{'indices'},biochemistry|infectious disease|neuroscience,Karen Peterson,,345.0,14,8,16,7,0,0
-570902,University of Michigan,,6642.0,8C0gxn8AAAAJ,{'indices'},,David Kohn,,2235.0,44,28,85,63,0,0
-570903,MSD Singapore,,3915.0,G0aOfrkAAAAJ,{'indices'},Raman and FTIR Spectroscopy|Chemometrics|PAT|Analytical Science|Solid State Characterization,Dr. Effendi Widjaja,,1263.0,37,21,69,40,0,0
-570904,Rutherford Appleton Laboratory,,14274.0,kpWHhsUAAAAJ,{'indices'},Raman spectroscopy|RCAHQQR,Pavel Matousek,,4517.0,67,36,208,125,0,0
-570905,Tennessee Technological University,,278.0,3wSz_yoAAAAJ,{'indices'},Chemistry,Andrew F Callender,,138.0,5,4,5,3,0,0
-570906,Lithium ion battery consultant,,2696.0,ScmTVB8AAAAJ,{'indices'},solid-state battery|energy storage|low-cobalt cathode materials,Larry Beck,,485.0,25,13,28,18,0,0
+570892,,,2895.0,d1DLMswAAAAJ,{'indices'},Chemistry,Hiroshi Sakiyama,,967.0,30,15,86,31,1,0
+570893,University of Leeds,,8637.0,anWW0u4AAAAJ,{'indices'},Thermochemical Processing of Biomass|Biorefining|Algal biotechnology|Waste to Energy|Resource recovery,Andrew Ross,,5668.0,44,37,72,64,1,0
+570894,Aarhus University,,3867.0,wA6RpbYAAAAJ,{'indices'},Microalgae|hydrothermal processing|biofuel,Patrick Biller,,2883.0,22,20,28,27,1,0
+570895,Aberystwyth University/Hodgson-Green & associates,,872.0,MsrozbUAAAAJ,{'indices'},biorefining|bioenergy|Low-Carbon|biotechnology|pyrolysis,Edward M Hodgson,,505.0,12,11,14,14,1,0
+570896,"Senior Research Scientist, Aberystwyth University",,941.0,iIDSgOsAAAAJ,{'indices'},Biofuels and biorefining,Dr Jessica Adams,,578.0,10,9,10,9,1,0
+570897,Hellenic Mediterranean University - Department of Electronic Engineering,,3395.0,oZqQ5a8AAAAJ,{'indices'},Biochar|hydrochar|hydrothermal carbonization|agricultural waste valorization,Dimitrios Kalderis,,2439.0,25,22,35,35,1,0
+570898,Aarhus University,,6759.0,kkXJOawAAAAJ,{'indices'},Chemical analyses|atmospheric chemistry|hydrothermal liquefaction,Marianne Glasius,,3787.0,45,35,104,92,1,0
+570899,DuPont,,500.0,8NLlC80AAAAJ,{'indices'},gas chromatography|hydrothermal liquefaction,René B. Madsen,,498.0,12,12,12,12,1,0
+570900,Rijksmuseum Amsterdam,,332.0,c6erjeoAAAAJ,{'indices'},,Annelies van Hoesel,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=c6erjeoAAAAJ&citpid=4,261.0,8,8,8,8,1,0
+570901,Walter Reed Army Institute of Research,,1336.0,vwidjMcAAAAJ,{'indices'},biochemistry|infectious disease|neuroscience,Karen Peterson,,345.0,14,8,16,7,1,0
+570902,University of Michigan,,6642.0,8C0gxn8AAAAJ,{'indices'},,David Kohn,,2235.0,44,28,85,63,1,0
+570903,MSD Singapore,,3915.0,G0aOfrkAAAAJ,{'indices'},Raman and FTIR Spectroscopy|Chemometrics|PAT|Analytical Science|Solid State Characterization,Dr. Effendi Widjaja,,1263.0,37,21,69,40,1,0
+570904,Rutherford Appleton Laboratory,,14274.0,kpWHhsUAAAAJ,{'indices'},Raman spectroscopy|RCAHQQR,Pavel Matousek,,4517.0,67,36,208,125,1,0
+570905,Tennessee Technological University,,278.0,3wSz_yoAAAAJ,{'indices'},Chemistry,Andrew F Callender,,138.0,5,4,5,3,1,0
+570906,Lithium ion battery consultant,,2696.0,ScmTVB8AAAAJ,{'indices'},solid-state battery|energy storage|low-cobalt cathode materials,Larry Beck,,485.0,25,13,28,18,1,0
 570907,Northeastern University,,5653.0,6xr9l5EAAAAJ,{'indices'},Chemistry and chemical engineering|materials science and engineering|nanotechnology|nanomedicine|supramolecular chemistry,Hicham Fenniri,,2072.0,41,25,80,52,0,0
 570908,University of Michigan,,714.0,M7U1VMAAAAAJ,{'indices'},,Nadder Sahar,,289.0,11,10,11,10,0,0
 570909,"Post-doctoral Fellow, IBBR",,654.0,A1ivkZwAAAAJ,{'indices'},,Jennifer Tullman Arbogast,,473.0,8,7,8,7,0,0
