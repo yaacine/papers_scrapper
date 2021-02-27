@@ -30,6 +30,26 @@ def write_publication(publication_dict, file_name):
     update_last_publication_index(COUNTER_CONFIG_FILE)
 
 
+def write_publication_with_ids(publication_dict, file_name):
+    # os.makedirs(os.path.dirname(file_name), exist_ok=True)
+    next_index = get_next_clean_publication_index_ids(
+        COUNTER_CONFIG_FILE)
+
+    # get the old index of the item to reuse the same one 
+    old_index = publication_dict['Unnamed: 0.1']
+    del publication_dict['Unnamed: 0.1']
+    array_of_single_publication = [publication_dict]
+
+
+    df = pd.DataFrame(array_of_single_publication, index=[old_index])
+    needs_header = not file_has_header(file_name)
+    print("needs header ===> " + str(needs_header))
+    df.to_csv(file_name, mode='a', header=needs_header)
+    update_last_clean_publication_index_ids(COUNTER_CONFIG_FILE)
+
+
+
+
 def file_has_header(filename):
     sniffer = csv.Sniffer()
     sample_bytes = 2048
@@ -87,6 +107,17 @@ def get_next_publication_index(config_file_name):
     last_index = authorinfo["last_index"]
     print(last_index)
     return int(last_index) + 1
+
+def get_next_clean_publication_index_ids(config_file_name):
+    """
+        It gets the next index in a given csv file
+    """
+    config_object = ConfigParser()
+    config_object.read(config_file_name)
+    authorinfo = config_object["PUBLICATIONINFO"]
+    last_index = authorinfo["last_index_ids"]
+    print(last_index)
+    return int(last_index) + 1
  
 
 def get_next_citation_index(config_file_name):
@@ -136,6 +167,19 @@ def update_last_publication_index(config_file_name):
     authorinfo = config_object["PUBLICATIONINFO"]
     last_index = authorinfo["last_index"]
     authorinfo["last_index"] = str(int(last_index) + 1)
+    with open(config_file_name, 'w') as conf:
+        config_object.write(conf)
+
+
+def update_last_clean_publication_index_ids(config_file_name):
+    """
+        It updtes the last index of the author
+    """
+    config_object = ConfigParser()
+    config_object.read(config_file_name)
+    authorinfo = config_object["PUBLICATIONINFO"]
+    last_index = authorinfo["last_index_ids"]
+    authorinfo["last_index_ids"] = str(int(last_index) + 1)
     with open(config_file_name, 'w') as conf:
         config_object.write(conf)
 
@@ -253,4 +297,4 @@ def get_publications_dataframe(file_name):
 
 
 def update_publications_dataframe(file_name, dataframe):
-    dataframe.to_csv(file_name, mode='w', header=False)
+    dataframe.to_csv(file_name, mode='w', header=True , index= False)
