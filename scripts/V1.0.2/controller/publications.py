@@ -42,10 +42,8 @@ def get_papers_for_author(author_id):
     publications_list = filled_publications['publications']
     nbpubs_counter = 0
     for publication in publications_list:
-        scholarly.pprint(publication)
         filled_publication = scholarly.fill(publication)
         # register_coauthering(author_id , filled_author['scholar_id'])
-        print(filled_publication)
         mydict = publication_to_dict(filled_publication)
         write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
         nbpubs_counter += 1
@@ -98,7 +96,6 @@ def get_papers_from_paper_citations(paper_title: str):
     target_paper_generator = scholarly.search_pubs(
         paper_title)  # search by title as a keyword
     target_paper = next(target_paper_generator)  # get the first result
-    print(target_paper)
     print('##########################')
     publications_generator = scholarly.citedby(target_paper)
     try:
@@ -107,10 +104,6 @@ def get_papers_from_paper_citations(paper_title: str):
             filled_publication = scholarly.fill(publication)
             mydict = publication_to_dict(filled_publication)
             write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
-            print("=====>target")
-            print(target_paper['citedby_url'])
-            print("=====>sourcce")
-            print(mydict['citedby_url'])
             register_citation(target_paper['citedby_url'], mydict['citedby_url'])
 
     except Exception as e:
