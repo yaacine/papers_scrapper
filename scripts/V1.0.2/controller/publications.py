@@ -30,7 +30,7 @@ CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
 
 NB_MAX_PAPERS_PER_AUTHOR = 25
-
+NB_MAX_CITATIONS_PER_PAPERS = 25
 
 def get_papers_for_author(author_id):
     '''
@@ -101,14 +101,16 @@ def get_papers_from_paper_citations(paper_title: str):
     print('##########################')
     publications_generator = scholarly.citedby(target_paper)
     try:
-        while True:
+        citations_count= 0
+        while citations_count<=NB_MAX_CITATIONS_PER_PAPERS:
+            
             publication = next(publications_generator)
             # filled_publication = scholarly.fill(publication)
             mydict = publication_to_dict(publication)
             write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
             register_citation(
                 target_paper['citedby_url'], mydict['citedby_url'])
-
+            citations_count+=1
     except Exception as e:
         raise e
 
