@@ -43,8 +43,7 @@ def get_papers_for_author(author_id):
     nbpubs_counter = 0
     for publication in publications_list:
         filled_publication = scholarly.fill(publication)
-        # register_coauthering(author_id , filled_author['scholar_id'])
-        mydict = publication_to_dict(filled_publication)
+        mydict = tiny_publication_to_dict(filled_publication)
         write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
         nbpubs_counter += 1
         print("nbpubs_counter =====>")
@@ -92,10 +91,13 @@ def get_papers_from_paper_citations(paper_title: str):
     os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT), exist_ok=True)
 
     open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
-
+    print("=======> getting the rarget pater generator")
     target_paper_generator = scholarly.search_pubs(
         paper_title)  # search by title as a keyword
+
+    print("=======> getting the rarget pater")
     target_paper = next(target_paper_generator)  # get the first result
+
     print('##########################')
     publications_generator = scholarly.citedby(target_paper)
     try:
@@ -104,7 +106,8 @@ def get_papers_from_paper_citations(paper_title: str):
             filled_publication = scholarly.fill(publication)
             mydict = publication_to_dict(filled_publication)
             write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
-            register_citation(target_paper['citedby_url'], mydict['citedby_url'])
+            register_citation(
+                target_paper['citedby_url'], mydict['citedby_url'])
 
     except Exception as e:
         raise e
@@ -137,6 +140,104 @@ def register_citation(cited_paper, paper):
 
 
 def publication_to_dict(publication):
+    publication_dict = {}
+    if 'title' in publication['bib'].keys():
+        publication_dict['title'] = publication['bib']['title'].replace(
+            ',', '.')
+    else:
+        publication_dict['title'] = ''
+
+    if 'pub_year' in publication['bib'].keys():
+        publication_dict['pub_year'] = publication['bib']['pub_year']
+    else:
+        publication_dict['pub_year'] = ''
+
+    if 'author' in publication['bib'].keys():
+        publication_dict['author'] = publication['bib']['author']
+    else:
+        publication_dict['author'] = ''
+
+    if 'author_id' in publication['bib'].keys():
+        publication_dict['author_id'] = publication['bib']['author_id']
+    else:
+        publication_dict['author_id'] = ''
+
+    if 'volume' in publication['bib'].keys():
+        publication_dict['volume'] = publication['bib']['volume']
+    else:
+        publication_dict['volume'] = ''
+
+    if 'journal' in publication['bib'].keys():
+        publication_dict['journal'] = publication['bib']['journal']
+    else:
+        publication_dict['journal'] = ''
+
+    if 'number' in publication['bib'].keys():
+        publication_dict['number'] = publication['bib']['number']
+    else:
+        publication_dict['number'] = ''
+
+    if 'pages' in publication['bib'].keys():
+        publication_dict['pages'] = publication['bib']['pages']
+    else:
+        publication_dict['pages'] = ''
+
+    if 'publisher' in publication['bib'].keys():
+        publication_dict['publisher'] = publication['bib'][
+            'publisher'].replace(',', '.')
+    else:
+        publication_dict['publisher'] = ''
+
+    if 'abstract' in publication['bib'].keys():
+        publication_dict['abstract'] = publication['bib']['abstract'].replace(
+            ',', '.')
+    else:
+        publication_dict['abstract'] = ''
+
+    if 'filled' in publication.keys():
+        publication_dict['filled'] = publication['filled']
+    else:
+        publication_dict['filled'] = ''
+
+    if 'author_pub_id' in publication.keys():
+        publication_dict['author_pub_id'] = publication['author_pub_id']
+    else:
+        publication_dict['author_pub_id'] = ''
+
+    if 'num_citations' in publication.keys():
+        publication_dict['num_citations'] = publication['num_citations']
+    else:
+        publication_dict['num_citations'] = ''
+    if 'pub_url' in publication.keys():
+        publication_dict['pub_url'] = publication['pub_url']
+    else:
+        publication_dict['pub_url'] = ''
+    if 'cites_id' in publication.keys():
+        publication_dict['cites_id'] = publication['cites_id']
+    else:
+        publication_dict['cites_id'] = ''
+    if 'citedby_url' in publication.keys():
+        publication_dict['citedby_url'] = publication['citedby_url']
+    else:
+        publication_dict['citedby_url'] = ''
+    if 'author_id' in publication.keys():
+        print("###########")
+        print(publication['author_id'])
+        publication_dict['author_id'] = ' | '.join(publication['author_id'])
+    else:
+        publication_dict['author_id'] = ''
+    if 'eprint_url' in publication.keys():
+        publication_dict['eprint_url'] = publication['eprint_url']
+    else:
+        publication_dict['eprint_url'] = ''
+    publication_dict['got_citations'] = 0
+    publication_dict['got_author_ids'] = 0
+    publication_dict['author_ids'] = 0
+    # if 'cites_per_year' in publication.keys(): publication_dict['cites_per_year'] = ' | '.join('='.join((key,val)) for (key,val) in publication['cites_per_year'] )
+    # else: publication_dict['cites_per_year'] =''
+    return publication_dict
+
+def tiny_publication_to_dict(publication):
     publication_dict = {}
     if 'title' in publication['bib'].keys():
         publication_dict['title'] = publication['bib']['title'].replace(
@@ -200,26 +301,38 @@ def publication_to_dict(publication):
         publication_dict['num_citations'] = publication['num_citations']
     else:
         publication_dict['num_citations'] = ''
+
     if 'pub_url' in publication.keys():
         publication_dict['pub_url'] = publication['pub_url']
     else:
         publication_dict['pub_url'] = ''
+
     if 'cites_id' in publication.keys():
         publication_dict['cites_id'] = publication['cites_id']
     else:
         publication_dict['cites_id'] = ''
+
     if 'citedby_url' in publication.keys():
         publication_dict['citedby_url'] = publication['citedby_url']
     else:
         publication_dict['citedby_url'] = ''
+
+    if 'gsrank' in publication.keys():
+        publication_dict['gsrank'] = publication['gsrank']
+    else:
+        publication_dict['gsrank'] = ''
+
     if 'author_id' in publication.keys():
+
         publication_dict['author_id'] = ' | '.join(publication['author_id'])
     else:
         publication_dict['author_id'] = ''
+
     if 'eprint_url' in publication.keys():
         publication_dict['eprint_url'] = publication['eprint_url']
     else:
         publication_dict['eprint_url'] = ''
+
     publication_dict['got_citations'] = 0
     publication_dict['got_author_ids'] = 0
     publication_dict['author_ids'] = 0
