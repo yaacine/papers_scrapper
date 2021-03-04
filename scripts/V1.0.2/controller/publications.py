@@ -80,18 +80,7 @@ def get_papers_from_paper_citations(paper_title: str):
         it registers the found papers in articles folder and registres the citation 
         relationship in the citations folder 
     """
-    # create the file
-    now = datetime.now()
-    current_time = now.strftime("%H:%M:%S")
-
-    publication_file_name_output = 'citations_articles' + \
-        str(now).replace(' ', '_')+'.csv'
-    PUBLICATIONS_CSV_FILE_OUTPUT = os.path.join(
-        'scripts', 'V1.0.2', 'datasets', 'articles', publication_file_name_output)
-    os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT), exist_ok=True)
-
-    open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
-    print("=======> getting the rarget pater generator")
+   
     target_paper_generator = scholarly.search_pubs(
         paper_title)  # search by title as a keyword
 
@@ -117,6 +106,18 @@ def get_papers_from_paper_citations(paper_title: str):
 
 def extract_papers_from_citations():
     # TODO: define this function that goes throughout the fetched authors and
+     # create the file
+    now = datetime.now()
+    current_time = now.strftime("%H:%M:%S")
+
+    publication_file_name_output = 'citations_articles' + \
+        str(now).replace(' ', '_')+'.csv'
+    PUBLICATIONS_CSV_FILE_OUTPUT = os.path.join(
+        'scripts', 'V1.0.2', 'datasets', 'articles', publication_file_name_output)
+    os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT), exist_ok=True)
+
+    open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
+    
     # gets the coauthors
     df = get_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT)
     for index, row in df.iterrows():
