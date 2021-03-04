@@ -121,15 +121,13 @@ def extract_papers_from_citations():
         if row['got_citations'] == 0:
             print(row['got_citations'])
             try:
-                row['got_citations'] = 1
+                df.at[index, 'got_citations'] = 1
                 get_papers_from_paper_citations(row['title'])
                 update_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT, df)
             except Exception as e:
                 print("====>>>> Exception raised ")
                 update_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT, df)
                 raise e
-            get_papers_from_paper_citations(row['title'])
-            row['got_citations'] = 1
     update_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT, df)
 
 

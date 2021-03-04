@@ -7,9 +7,9 @@ import sys
 
 print("Started connection to tor !")
 
-pg = ProxyGenerator()
-pg.Tor_Internal(tor_cmd='tor')
-scholarly.use_proxy(pg)
+# pg = ProxyGenerator()
+# pg.Tor_Internal(tor_cmd='tor')
+# scholarly.use_proxy(pg)
 
 
 print("Connection to tor done successfully !")
