@@ -103,8 +103,8 @@ def get_papers_from_paper_citations(paper_title: str):
     try:
         while True:
             publication = next(publications_generator)
-            filled_publication = scholarly.fill(publication)
-            mydict = publication_to_dict(filled_publication)
+            # filled_publication = scholarly.fill(publication)
+            mydict = publication_to_dict(publication)
             write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
             register_citation(
                 target_paper['citedby_url'], mydict['citedby_url'])
@@ -125,6 +125,7 @@ def extract_papers_from_citations():
                 get_papers_from_paper_citations(row['title'])
                 update_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT, df)
             except Exception as e:
+                print("====>>>> Exception raised ")
                 update_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT, df)
                 raise e
             get_papers_from_paper_citations(row['title'])
