@@ -24,7 +24,7 @@ os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT), exist_ok=True)
 print('file created')
 
 PUBLICATIONS_CSV_FILE_INPUT = 'scripts/V1.0.2/datasets/articles/articles4.csv'
-AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors06:58:07.csv'
+AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors2021-01-11_07:18:03.279576.csv'
 CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
 
