@@ -15,11 +15,11 @@ now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 
 publication_file_name_output = 'articles'+str(now).replace(' ', '_')+'.csv'
-PUBLICATIONS_CSV_FILE_OUTPUT = os.path.join(
-    'scripts', 'V1.0.2', 'datasets', 'articles', publication_file_name_output)
-# create the file if is does not exist
-print(PUBLICATIONS_CSV_FILE_OUTPUT)
-os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT), exist_ok=True)
+# PUBLICATIONS_CSV_FILE_OUTPUT = os.path.join(
+#     'scripts', 'V1.0.2', 'datasets', 'articles', publication_file_name_output)
+# # create the file if is does not exist
+# print(PUBLICATIONS_CSV_FILE_OUTPUT)
+# os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT), exist_ok=True)
 
 print('file created')
 
