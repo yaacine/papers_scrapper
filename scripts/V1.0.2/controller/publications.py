@@ -25,11 +25,11 @@ print('file created')
 
 PUBLICATIONS_CSV_FILE_INPUT = 'scripts/V1.0.2/datasets/articles/articles2.csv'
 # AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors3.csv'
-AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors08:23:48.csv'
+AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors2021-01-12_07:06:26.074788.csv'
 CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
 
-NB_MAX_PAPERS_PER_AUTHOR = 25
+NB_MAX_PAPERS_PER_AUTHOR = 10
 
 
 def get_papers_for_author(author_id):
