@@ -15,6 +15,7 @@ now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 
 publication_file_name_output = 'articles'+str(now).replace(' ', '_')+'.csv'
+PUBLICATIONS_CSV_FILE_OUTPUT = ""
 PUBLICATIONS_CSV_FILE_OUTPUT = os.path.join(
     'scripts', 'V1.0.2', 'datasets', 'articles', publication_file_name_output)
 # create the file if is does not exist
@@ -29,7 +30,8 @@ CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
 
 NB_MAX_PAPERS_PER_AUTHOR = 25
-NB_MAX_CITATIONS_PER_PAPERS = 25
+NB_MAX_CITATIONS_PER_PAPERS = 10
+
 
 def get_papers_for_author(author_id):
     '''
@@ -79,7 +81,7 @@ def get_papers_from_paper_citations(paper_title: str):
         it registers the found papers in articles folder and registres the citation 
         relationship in the citations folder 
     """
-   
+
     target_paper_generator = scholarly.search_pubs(
         paper_title)  # search by title as a keyword
 
@@ -89,23 +91,23 @@ def get_papers_from_paper_citations(paper_title: str):
     print('##########################')
     publications_generator = scholarly.citedby(target_paper)
     try:
-        citations_count= 0
-        while citations_count<=NB_MAX_CITATIONS_PER_PAPERS:
-            
-            publication = next(publications_generator)
-            # filled_publication = scholarly.fill(publication)
-            mydict = publication_to_dict(publication)
-            write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
-            register_citation(
-                target_paper['citedby_url'], mydict['citedby_url'])
-            citations_count+=1
+        citations_count = 0
+        # while citations_count <= NB_MAX_CITATIONS_PER_PAPERS:
+
+        publication = next(publications_generator)
+        # filled_publication = scholarly.fill(publication)
+        mydict = publication_to_dict(publication)
+        write_publication(mydict, PUBLICATIONS_CSV_FILE_OUTPUT)
+        register_citation(
+            target_paper['citedby_url'], mydict['citedby_url'])
+        citations_count += 1
     except Exception as e:
         raise e
 
 
 def extract_papers_from_citations():
     # TODO: define this function that goes throughout the fetched authors and
-     # create the file
+    # create the file
     now = datetime.now()
     current_time = now.strftime("%H:%M:%S")
 
@@ -116,7 +118,7 @@ def extract_papers_from_citations():
     os.makedirs(os.path.dirname(PUBLICATIONS_CSV_FILE_OUTPUT), exist_ok=True)
 
     open(PUBLICATIONS_CSV_FILE_OUTPUT, 'w')
-    
+
     # gets the coauthors
     df = get_publications_dataframe(PUBLICATIONS_CSV_FILE_INPUT)
     for index, row in df.iterrows():
@@ -237,6 +239,7 @@ def publication_to_dict(publication):
     # if 'cites_per_year' in publication.keys(): publication_dict['cites_per_year'] = ' | '.join('='.join((key,val)) for (key,val) in publication['cites_per_year'] )
     # else: publication_dict['cites_per_year'] =''
     return publication_dict
+
 
 def tiny_publication_to_dict(publication):
     publication_dict = {}
