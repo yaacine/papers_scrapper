@@ -251,6 +251,7 @@ def update_last_scrapped_author_id_coauthoring(config_file_name, author_id):
 def remove_duplicates_authors(file_name):
     df_dirty = pd.read_csv(file_name)
     df_clean = df_dirty.drop_duplicates(subset=['scholar_id'])
+    df_clean.to_csv(file_name, mode='w', header=True , index= False)
 
 
 def insert_co_authering(id1, id2, file_name):
