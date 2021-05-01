@@ -44,7 +44,7 @@ import pandas as pd
 # authors22:34:10.csv --> 9
 
 
-AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/ben_m/authors_la_suite/bk12_coauthors_01.csv'
+AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/ben_m/authors_la_suite/bk16_coauthors_01.csv'
 
 
 # scripts/V1.0.2/datasets/ben_m/authors_la_suite/bk12_coauthors_01.csv --> 1 
