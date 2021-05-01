@@ -1,0 +1,1009 @@
+,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url_picture,citedby5y,hindex,hindex5y,i10index,i10index5y,got_publications,got_coauthors
+427718,"Professor of computer science, University of Montreal, Mila, IVADO, CIFAR",,377188,kukA0LcAAAAJ,{'indices'},,Yoshua Bengio,,333509,179,162,618,544,0,0
+427719,Facebook AI Research,,88479,kbN88gsAAAAJ,{'indices'},,Leon Bottou,,68811,73,59,139,105,0,0
+427720,Interactions Corp,,51973,s8bAY0kAAAAJ,{'indices'},,Patrick Haffner,,37451,35,22,74,36,0,0
+427721,UC Berkeley,,38628,NHIpV98AAAAJ,{'indices'},,Bernhard Boser,,18405,61,36,173,106,0,0
+427722,Rutgers University,,24335,6KgM0OkAAAAJ,{'indices'},,Richard E. Howard,,11214,56,24,166,51,0,0
+427723,"Research Scientist, Google",,37879,0nPi5YYAAAAJ,{'indices'},,Pierre Sermanet,,34768,23,20,32,27,0,0
+427724,Facebook,,31023,NbXF7T8AAAAJ,{'indices'},,Marc'Aurelio Ranzato,,24071,50,47,75,73,0,0
+427725,"Emeritus Prof. Comp Sci, U.Toronto & Engineering Fellow, Google",,425873,JicYPdAAAAAJ,{'indices'},,Geoffrey Hinton,,305479,162,116,368,268,0,0
+427726,"Research Scientist, New York University",,8567,u3u16tgAAAAJ,{'indices'},,Clement Farabet,,6878,19,17,21,21,0,0
+427727,DeepMind,,11551,SSTIBK0AAAAJ,{'indices'},,Michael Mathieu,,10266,15,15,16,16,0,0
+427728,Microsoft Research,,21762,akrkYU0AAAAJ,{'indices'},,Patrice Simard,,12049,50,33,120,76,0,0
+427729,DeepMind,,80662,sGFyDIUAAAAJ,{'indices'},,koray kavukcuoglu,,75594,65,64,84,78,0,0
+427730,MACOM Technology Solutions Inc.,,7799,TGpo3KAAAAAJ,{'indices'},,Eduard Sackinger,,3786,21,14,30,16,0,0
+427731,Imagen Technologies,,17098,ETU-ePAAAAAJ,{'indices'},,Sumit Chopra,,14880,30,29,42,40,0,0
+427732,"Courant Institute of Mathematical Sciences, New York University",,16564,L4bNmsMAAAAJ,{'indices'},,Joan Bruna,,15817,31,31,48,46,0,0
+427733,Google DeepMind,,13074,Q0YEc-QAAAAJ,{'indices'},,Raia Hadsell,,11572,32,27,48,42,0,0
+427734,Facebook AI Research,,13177,u3-FxUgAAAAJ,{'indices'},,Arthur Szlam,,11792,41,34,71,64,0,0
+427735,"Google Research, NY",,65549,U_IVY50AAAAJ,{'indices'},,Corinna Cortes,,35900,55,40,99,76,0,0
+427736,Research scientist at Facebook AI Research,,6233,1T2Xh68AAAAJ,{'indices'},,Camille Couprie,,5089,16,15,23,20,0,0
+427737,"Research Scientist, DeepMind. Professor of Computer Science, New York University",,77636,GgQ9GEkAAAAJ,{'indices'},,Rob Fergus,,56821,71,63,110,100,0,0
+427738,Director at Bytedance Inc.,,30079,HWFvq_wAAAAJ,{'indices'},,Yang Jianchao,,19828,64,54,204,162,0,0
+427739,Lenovo Research and previously Microsoft Research,,28778,rCGsLtcAAAAJ,{'indices'},,"Yong Rui, Fellow of ACM, IEEE, IAPR,...",,10349,80,50,233,171,0,0
+427740,"NEU, Professor; FIEEE, FSPIE, FOSA, FIAPR",,19649,h-JEcQ8AAAAJ,{'indices'},,Yun Raymond Fu,,14680,69,59,263,232,0,0
+427741,"Group Chief Scientist, SEA；NUS",,71787,DNuiPHwAAAAJ,{'indices'},,Shuicheng Yan @ Sea AI Labs (SAIL),,46077,115,97,766,558,0,0
+427742,UII,,14966,-bp44DoAAAAJ,{'indices'},,Xiang Sean Zhou,,5133,50,30,209,87,0,0
+427743,"Professor of Electrical Engineering and Computer Science, Northwestern University",,17556,zAlz89wAAAAJ,{'indices'},,Ying Wu,,7464,66,38,137,95,0,0
+427744,"Professor of Electrical and Computer Engineering, University of Illinois",,20350,18O0OAwAAAAJ,{'indices'},,Mark Hasegawa-Johnson,,7135,48,33,238,116,0,0
+427745,Startup nation,,7902,yuXLVPEAAAAJ,{'indices'},,Ira Cohen,,2561,37,27,67,45,0,0
+427746,Huawei Cloud & AI,,26469,61b6eYkAAAAJ,{'indices'},,"Qi Tian, IEEE Fellow, Chief Scientist in...",,20296,78,63,378,312,0,0
+427747,MIT-IBM Watson AI Lab,,4850,r21asW4AAAAJ,{'indices'},,SHIYU CHANG,,4593,34,33,63,57,0,0
+427748,"Univ. of California, Irvine",,24515,MTZaRW4AAAAJ,{'indices'},,sharad mehrotra,,5957,66,35,204,93,0,0
+427749,"Donald Biggar Willet Professor, University of Illinois at Urbana-Champagn",,35709,dY7OSl0AAAAJ,{'indices'},,Narendra Ahuja,,10838,82,45,312,132,0,0
+427750,Google NYC,,6393,S-hBSfIAAAAJ,{'indices'},,Liangliang Cao,,3541,40,31,79,57,0,0
+427751,Michigan State University,,15658,HnQ2gqMAAAAJ,{'indices'},,Juyang Weng,,2559,52,20,146,42,0,0
+427752,Leiden University,,11032,q6Aq5XMAAAAJ,{'indices'},,Michael Lew,,4233,40,19,81,37,0,0
+427753,Xi'an Jiaotong University,,26100,x2xdU7gAAAAJ,{'indices'},,Yihong Gong,,11622,67,43,208,134,0,0
+427754,Eightfold.ai,,9331,a7QvIKUAAAAJ,{'indices'},,Ashutosh Garg,,3278,38,24,89,52,0,0
+427755,University of Oregon | UIUC,,2349,WBvt5A8AAAAJ,{'indices'},,Humphrey Shi,,2342,20,20,27,27,0,0
+427756,"Apple, Inc.",,2250,xW-IxnwAAAAJ,{'indices'},,Hao Tang,,1285,26,22,54,40,0,0
+427757,"Professor of Electrical and Computer Engineering, Queen's University",,8516,4ktZehkAAAAJ,{'indices'},,Steven Blostein,,2091,33,15,82,23,0,0
+427758,"KU Leuven - PSI, Belgium",,53982,EuFF9kUAAAAJ,{'indices'},,Tinne Tuytelaars,,25303,64,45,163,117,0,0
+427759,ETH Zurich (previously at KU Leuven),,12821,u3MwH5kAAAAJ,{'indices'},,Radu Timofte,,11359,44,42,130,123,0,0
+427760,"Director of Science, Microsoft HoloLens; Professor of Computer Science, ETH Zurich",,36419,YYH0BjEAAAAJ,{'indices'},,Marc Pollefeys,,17963,98,73,378,277,0,0
+427761,University of Oxford,,244689,UZ5wscMAAAAJ,{'indices'},,Andrew Zisserman,,144179,165,104,516,365,0,0
+427762,"Professor for Computer Vision, RWTH Aachen University",,22277,ZcULDB0AAAAJ,{'indices'},,Bastian Leibe,,10646,66,48,136,112,0,0
+427763,ETH Zurich,,2642,T51W57YAAAAJ,{'indices'},,Dengxin Dai,,2312,28,25,41,38,0,0
+427764,ETH Zurich,,30495,qjrp4S0AAAAJ,{'indices'},,Herbert Bay,,14352,14,11,15,12,0,0
+427765,"Professor of Computer Science, Christian-Albrechts-University of Kiel, Germany",,10500,xgjKDqAAAAAJ,{'indices'},,Reinhard Koch,,2798,47,27,135,62,0,0
+427766,ZHAW Zurich University of Applied Science,,8654,EstsI9oAAAAJ,{'indices'},,Helmut Grabner,,3840,31,20,53,32,0,0
+427767,"Professor of Photogrammetry and Remote Sensing, ETH Zurich",,16838,FZuNgqIAAAAJ,{'indices'},,Konrad Schindler,,11156,69,52,136,118,0,0
+427768,"Professor of Machine Learning, University of Edinburgh",,56795,rvKJDbIAAAAJ,{'indices'},,Chris Williams,,33612,57,40,140,85,0,0
+427769,"Principal Researcher, Machine Learning Group, Microsoft Research Cambridge",,28733,GYksTEEAAAAJ,{'indices'},,John Winn,,17144,50,34,83,62,0,0
+427770,Research Scientist at Google,,16371,4QvYJ00AAAAJ,{'indices'},,Vittorio Ferrari,,8892,59,47,108,93,0,0
+427771,"Director, Esri R&D Center Zurich",,5464,Mkf-G5wAAAAJ,{'indices'},,Pascal Mueller,,1742,24,16,36,22,0,0
+427772,"Laboratory of Experimental Psychology, University of Leuven (K.U. Leuven)",,14011,BjwCO0IAAAAJ,{'indices'},,Johan Wagemans,,7439,58,37,261,187,0,0
+427773,Research Scientist at Google Research,,5628,VCBBx24AAAAJ,{'indices'},,Jordi Pont-Tuset,,5273,22,21,27,25,0,0
+427774,Pix4D SA,,8495,G7cEGOIAAAAJ,{'indices'},,Christoph Strecha,,4614,25,20,37,26,0,0
+427775,"PostDoc Researcher, Computer Vision Lab, ETH Zurich",,1590,haqET7QAAAAJ,{'indices'},,Hayko Riemenschneider,,1170,18,16,26,20,0,0
+427776,National University of Singapore,,2560,-LJCZMMAAAAJ,{'indices'},,Angela Yao,,1538,22,19,25,24,0,0
+427777,Nanjing University,,10229,HEuN8PcAAAAJ,{'indices'},,Limin Wang,,8766,34,33,50,49,0,0
+427778,"Professor,University of Western Sydney & Chief Scientist, Digital Health CRC",,28120,Q3Do9UMAAAAJ,{'indices'},,Federico Girosi,,5125,48,26,83,48,0,0
+427779,"Professor of Neuroscience, Georgetown University",,12445,IS1Di9MAAAAJ,{'indices'},,Maximilian Riesenhuber,,3820,31,24,53,33,0,0
+427780,MaLGa Machine Learning Genoa Center - Università degli Studi di Genova,,7600,quJBh1EAAAAJ,{'indices'},,Lorenzo Rosasco,,5764,42,37,107,90,0,0
+427781,Chief Scientist and President,,136343,JYt9T_sAAAAJ,{'indices'},,Christof Koch,,48349,155,89,612,372,0,0
+427782,"Duke University, MIT",,44406,R94cBVgAAAAJ,{'indices'},,Sayan Mukherjee,,21639,55,39,116,98,0,0
+427783,Istituto Italiano di Tecnologia & University College London,,24356,lcOacs8AAAAJ,{'indices'},,Massimiliano Pontil,,10873,69,48,142,114,0,0
+427784,"MIT, Google",,10980,qbjHRA8AAAAJ,{'indices'},,Ryan M. Rifkin,,2688,28,17,43,23,0,0
+427785,"Professor in Computer Science, University of Basel ",,20261,HKLgZpYAAAAJ,{'indices'},,Thomas Vetter,,6261,52,33,119,72,0,0
+427786,Director at Max Planck Institute for Biological Cybernetics,,34541,34eszXwAAAAJ,{'indices'},,Heinrich H. Bülthoff,,11876,91,52,447,277,0,0
+427787,"Professor of Psychology, Cornell University",,15635,Ddfev5kAAAAJ,{'indices'},,Shimon Edelman,,3086,54,32,134,55,0,0
+427788,"formerly ITC-irst, now PAT",,8569,Y70_PxYAAAAJ,{'indices'},,Roberto Brunelli,,1437,25,11,32,11,0,0
+427789,"Picower Professor of Neuroscience, Massachusetts Institute of Technology",,47169,hv8jgk8AAAAJ,{'indices'},,Earl K. Miller,,16310,77,58,125,107,0,0
+427790,INSEAD,,10777,GEbzNGIAAAAJ,{'indices'},,Theodoros Evgeniou,,4448,33,22,49,34,0,0
+427791,"Professor for Human Neurobiology, Bremen University",,10472,CBq-OJwAAAAJ,{'indices'},,Manfred Fahle,,2180,47,21,130,56,0,0
+427792,"Researcher, MERL",,58933,h-V4QaMAAAAJ,{'indices'},,Michael Jones,,20619,36,22,63,45,0,0
+427793,"Professor, Children's Hospital, Harvard Medical School",,16660,WxZ_6nsAAAAJ,{'indices'},,Gabriel Kreiman,,6203,37,28,63,50,0,0
+427794,"Perceiving Systems, Max Planck Institute for Intelligent Systems",,4199,vBnTQbAAAAAJ,{'indices'},,Huei-han Jhuang,,2840,8,6,8,6,0,0
+427795,"professor of computer science, dibris, università degli studi di genova",,13294,sm7utHwAAAAJ,{'indices'},,alessandro verri,,2782,45,25,94,42,0,0
+427796,The School of Computer Science at Tel Aviv University,,35815,UbFrXTsAAAAJ,{'indices'},,Lior Wolf,,17644,58,50,154,126,0,0
+427797,"Research Staff Member, IBM Research",,6652,n5vSK6YAAAAJ,{'indices'},,David Beymer,,1553,32,17,62,36,0,0
+427798,Stanford,,122300,7K34d7cAAAAJ,{'indices'},,Sebastian Thrun,,45573,156,94,432,318,0,0
+427799,"Professor for Photogrammetry & Robotics, University of Bonn",,18376,8vib2lAAAAAJ,{'indices'},,Cyrill Stachniss,,10268,62,44,165,131,0,0
+427800,University of Washington and NVIDIA,,71263,DqXsbPAAAAAJ,{'indices'},,Dieter Fox,,25310,113,75,259,207,0,0
+427801,Sapienza University of Rome,,12059,yD-SFG4AAAAJ,{'indices'},,Giorgio Grisetti,,6469,39,28,78,56,0,0
+427802,"Stanford University, Carnegie Mellon University, University of Freiburg, University of Bonn",,16052,7MyEIhAAAAAJ,{'indices'},,Dirk Haehnel,,5083,45,30,58,43,0,0
+427803,"Professor of Computer Science, University of Bonn",,10962,f4fmRWwAAAAJ,{'indices'},,Armin Cremers,,2416,39,22,131,42,0,0
+427804,"Professor of Computer Science, University of Bonn, Germany",,8581,lqjRbXgAAAAJ,{'indices'},,Maren Bennewitz,,3979,37,27,77,46,0,0
+427805,Senior Researcher Fraunhofer FKIE,,9004,l8JriWkAAAAJ,{'indices'},,Dirk Schulz,,1961,33,18,54,28,0,0
+427806,Robotics at Google/X,,9930,w7NaTD0AAAAJ,{'indices'},,Jürgen Sturm,,7047,37,28,51,44,0,0
+427807,Google Research,,3752,uX9yGmAAAAAJ,{'indices'},,Christian Plagemann,,1776,30,21,56,38,0,0
+427808,Georgia Tech,,23186,-JPZ21IAAAAJ,{'indices'},,seth hutchinson,,7476,47,26,137,68,0,0
+427809,Magazino,,5108,Ak8GBEAAAAAJ,{'indices'},,Rainer Kümmerle,,3237,21,17,27,21,0,0
+427810,"Lecturer in Mobile Robotics, University of Freiburg, Germany",,2248,bNsSYfYAAAAJ,{'indices'},,Gian Diego Tipaldi,,1454,27,22,41,32,0,0
+427811,Rice University,,29529,Q6pxNZYAAAAJ,{'indices'},,Lydia E. Kavraki,,9997,73,39,203,134,0,0
+427812,"Professor, Georgia Tech",,26031,ZxXBaswAAAAJ,{'indices'},,Frank Dellaert,,9800,68,46,183,126,0,0
+427813,"Professor of Robotics, Carnegie Mellon",,22680,4fvo61oAAAAJ,{'indices'},,Howie Choset,,9587,67,43,260,180,0,0
+427814,Northwestern University,,11148,yCpbkPAAAAAJ,{'indices'},,Kevin Lynch,,4227,44,28,107,60,0,0
+427815,"Senior Systems Scientist, Carnegie Mellon University",,8731,rQoKPUsAAAAJ,{'indices'},,George Kantor,,3587,37,25,86,50,0,0
+427816,KUKA Robotics R&D,,2006,JMLsE6EAAAAJ,{'indices'},,Patrick Pfaff,,883,18,14,22,15,0,0
+427817,DLR and Technical University Munich,,3988,SuOUxjUAAAAJ,{'indices'},,Rudolph Triebel,,1829,28,19,51,36,0,0
+427818,University of Oxford,,74437,JD8v9fkAAAAJ,{'indices'},,Michael Wooldridge,,14067,95,44,363,186,0,0
+427819,"Professor of Computer Science, University of Oxford",,10713,0Z4sWCoAAAAJ,{'indices'},,Alex Rogers,,5170,56,36,163,108,0,0
+427820,"Professor of Artificial Intelligence, University of Southampton",,8573,PVZnzdsAAAAJ,{'indices'},,Sarvapali D. (Gopal) Ramchurn,,3888,42,32,108,91,0,0
+427821,Professor of Artificial Intelligence,,20005,Wz-D9CwAAAAJ,{'indices'},,Carles Sierra,,3484,60,26,216,69,0,0
+427822,University of Southampton,,3134,TIuriUgAAAAJ,{'indices'},,Enrico Gerding,,1475,33,21,71,41,0,0
+427823,"NYU, MIT",,8484,puV7nmQAAAAJ,{'indices'},,Peyman Faratin,,1132,28,15,44,18,0,0
+427824,"Associate Professor of Artificial Intelligence, University of Southampton",,1565,6TuZKj4AAAAJ,{'indices'},,Sebastian Stein,,987,21,16,35,28,0,0
+427825,Researcher,,2907,WOsd0lIAAAAJ,{'indices'},,Perukrishnen Vytelingum,,1138,19,13,26,14,0,0
+427826,"Professor of Computer Science, University of Southampton",,6178,8Rt0X9AAAAAJ,{'indices'},,Timothy Norman,,1481,39,19,108,42,0,0
+427827,"Lecturer, Computer Science, Loughborough University",,2741,KqRKHv4AAAAJ,{'indices'},,Shaheen Fatima,,637,23,12,35,17,0,0
+427828,New York University Abu Dhabi,,2536,eoBU6GwAAAAJ,{'indices'},,Talal Rahwan,,1427,28,21,47,43,0,0
+427829,"Associate Professor in Computer Science, University of Warwick",,1547,YBQai3gAAAAJ,{'indices'},,Long Tran-Thanh,,1150,20,15,38,31,0,0
+427830,"Department of Informatics, King's College London",,13150,mKVcy8sAAAAJ,{'indices'},,Michael Luck,,2265,54,24,197,61,0,0
+427831,"University of Lincoln, School of Computer Science",,16116,L9z6PakAAAAJ,{'indices'},,Simon Parsons,,3388,59,24,223,82,0,0
+427832,"Professor of Computer Science, University of Oxford",,28819,wTAM67UAAAAJ,{'indices'},,Nigel Shadbolt,,6779,75,38,324,132,0,0
+427833,University of Southamton,,2140,Gy8ggwQAAAAJ,{'indices'},,W. T. Luke Teacy,,648,19,13,25,15,0,0
+427834,"assistant professor of Computer Science, University of Verona",,3850,KHAIAA8AAAAJ,{'indices'},,Alessandro Farinelli,,1765,28,21,71,45,0,0
+427835,"Associate Professor, Co-Director of the Smart Systems Group, Heriot-Watt University, Edinburgh",,4487,fHzHjJIAAAAJ,{'indices'},,Valentin Robu,,2278,35,26,53,48,0,0
+427836,"Department of Informatics, King's College London",,1246,nL-zXO4AAAAJ,{'indices'},,Maria Polukarov,,682,18,12,33,15,0,0
+427837,University of Warsaw,,1746,YgykRA0AAAAJ,{'indices'},,Tomasz Michalak,,1152,22,19,45,35,0,0
+427838,,,12277,hzPq7jUAAAAJ,{'indices'},,Chuong B. Do,,5532,39,29,55,48,0,0
+427839,"Professor of Computer Science, University of Toronto; Director, Chief Data Scientist, UHN",,20015,xoNrEqUAAAAJ,{'indices'},,Michael Brudno,,8772,57,40,102,86,0,0
+427840,Stanford University,,153497,YZYne64AAAAJ,{'indices'},,Michael Snyder,,67167,175,114,615,487,0,0
+427841,"Faculty Investigator, HudsonAlpha Institute for Biotechnology",,34819,f2_R5B0AAAAJ,{'indices'},,Greg Cooper,,15735,49,40,76,69,0,0
+427842,"Bren Professor of Computational Biology, Caltech",,79970,DKfEcuEAAAAJ,{'indices'},,Lior Pachter,,41556,66,47,141,109,0,0
+427843,Google,,9598,_7bx8GYAAAAJ,{'indices'},,Eugene Davydov,,3834,15,12,15,12,0,0
+427844,"Assistant Professor, Dept. of Genetics, Dept. of Computer Science, Stanford University",,33913,T2vp1pgAAAAJ,{'indices'},,Anshul Kundaje,,25261,50,47,89,84,0,0
+427845,"Illumina, 10x Genomics, Stanford University Department of Computer Science",,13687,tA97_jAAAAAJ,{'indices'},,Sofia Kyriazopoulou-Panagiotopoulou,,9450,11,10,11,10,0,0
+427846,"Associate Professor, Bakar Computational Health Sciences Institute, UCSF",,8277,n0Tc-dkAAAAJ,{'indices'},,Marina Sirota,,5031,25,24,44,41,0,0
+427847,"Lead AI Scientist, PMCC UHN; CIFAR AI Chair, Vector Institute; Assistant Professor, U of Toronto",,3065,37FDILIAAAAJ,{'indices'},,Bo Wang,,2769,22,21,35,31,0,0
+427848,"Senior Scientist, Lawrence Berkeley National Laboratory, USA",,42857,h5BKBHkAAAAJ,{'indices'},,Inna Dubchak,,13660,65,40,100,77,0,0
+427849,"Stanford University, MIT",,503,StNh8KoAAAAJ,{'indices'},,Victoria Popic,,394,6,6,5,5,0,0
+427850,HudsonAlpha Institute for Biotechnology,,176452,uNSng0gAAAAJ,{'indices'},,Richard M. Myers,,64791,160,98,425,311,0,0
+427851,Natera Inc,,2548,7dAISKYAAAAJ,{'indices'},,Raheleh Salari,,2069,22,17,32,28,0,0
+427852,"Graduate Student in Biomedical Informatics, Stanford University",,2977,2jZMD1EAAAAJ,{'indices'},,Daniel Newburger,,1026,12,10,13,10,0,0
+427853,"Postdoctoral Fellow in Bioinformatics, Peter MacCallum Cancer Centre",,3765,gLLeuYcAAAAJ,{'indices'},,David Goode,,2070,21,20,26,26,0,0
+427854,Apple Inc.,,2821,2EasRdEAAAAJ,{'indices'},,Junjie Zhu,,2794,9,9,9,9,0,0
+427855,"School of Medicine and Surgery, University of Milano-Bicocca, Milano, Italy",,1107,wd38_50AAAAJ,{'indices'},,Daniele Ramazzotti,,1089,14,14,18,18,0,0
+427856,"Assistant Professor, University of Michigan",,24300,yAqEpxMAAAAJ,{'indices'},,Alan P Boyle,,15083,28,28,36,34,0,0
+427857,"Stanford University, The Chinese University of Hong Kong",,935,KlYBaWsAAAAJ,{'indices'},,Lin Huang,,429,14,12,16,12,0,0
+427858,Michigan State University,,14457,WtzKMWAAAAAJ,{'indices'},,Jiliang Tang,,12646,59,57,144,139,0,0
+427859,Pennsylvania State University,,5061,cdT_WMMAAAAJ,{'indices'},,Suhang Wang,,5007,29,29,56,56,0,0
+427860,"Associate Professor of Computer Science and Engineering, Texas A&M University",,9439,pcCS60IAAAAJ,{'indices'},,"Xia ""Ben"" Hu",,8293,41,40,93,90,0,0
+427861,"Assistant Professor of Computer Science, Illinois Institute of Technology",,2749,-6bAV2cAAAAJ,{'indices'},,Kai Shu,,2730,20,20,25,25,0,0
+427862,"University of Southern California, Information Sciences Institute",,4210,u-8h3HcAAAAJ,{'indices'},,Fred Morstatter,,3589,22,22,38,34,0,0
+427863,Osaka University,,20697,pmq9ejIAAAAJ,{'indices'},,Hiroshi Motoda,,7874,45,26,137,56,0,0
+427864,,,7523,Uex-uzMAAAAJ,{'indices'},,Lei Tang,,4352,35,28,43,38,0,0
+427865,"Assistant Professor, University of Virginia",,3074,uY6ek7sAAAAJ,{'indices'},,Jundong Li,,3053,27,27,41,41,0,0
+427866,Syracuse University,,3253,l0h7wL0AAAAJ,{'indices'},,Reza Zafarani,,2649,25,24,37,32,0,0
+427867,Assistant Professor,,19088,60IAq-sAAAAJ,{'indices'},,Manoranjan Dash,,7738,36,27,91,62,0,0
+427868,"Associate Professor, School of Computing, National University of Singapore",,10752,ChKAuRAAAAAJ,{'indices'},,Rudy Setiono,,2952,41,26,73,44,0,0
+427869,Jerry L. Maulden-Entergy Endowed Chair and Distinguished Professor of Information Science,,2881,V9PGXjMAAAAJ,{'indices'},,Nitin Agarwal,,1387,24,19,58,36,0,0
+427870,LinkedIn,,4858,e4SLWj8AAAAJ,{'indices'},,Huiji Gao,,3444,26,24,31,30,0,0
+427871,"Department of Computer Science, Binghamton University",,10018,bRCoY7EAAAAJ,{'indices'},,Lei Yu,,4334,18,16,24,18,0,0
+427872,Google Inc.,,4666,uAYJbGYAAAAJ,{'indices'},,Zheng Zhao,,2733,25,22,36,30,0,0
+427873,Twitter,,1344,LmdywcUAAAAJ,{'indices'},,Shamanth Kumar,,945,14,12,17,13,0,0
+427874,LinkedIn,,1407,b4yuAqAAAAAJ,{'indices'},,Mohammad Ali Abbasi,,1078,10,10,12,10,0,0
+427875,Airbnb,,940,r2BP6FsAAAAJ,{'indices'},,Liang Wu,,921,16,16,21,21,0,0
+427876,"PhD Candidate at Computer Science and Engineering, Arizona State University",,70159,3Y-Ix1EAAAAJ,{'indices'},,Xufei Wang,,38058,118,85,1101,798,0,0
+427877,"Distinguished Research Staff Member, IBM T. J. Watson Research Center",,59454,x_wsduUAAAAJ,{'indices'},,Charu Aggarwal,,29638,126,74,342,289,0,0
+427878,"Professor Emeritus of Surgery, University of Washington",,15102,W63m4r8AAAAJ,{'indices'},,Richard Satava,,4358,62,33,146,70,0,0
+427879,University of Washington and Seattle Children's Hospital,,4505,JYIGs_MAAAAJ,{'indices'},,Thomas Lendvay,,2549,40,30,82,66,0,0
+427880,Microsoft,,17549,bkALdvsAAAAJ,{'indices'},,Zicheng Liu,,9171,63,42,209,141,0,0
+427881,"Professor of Mathematical Neuroscience, Inria. Co-Editor-in-Chief, J. Math. Neuro. Assoc. Ed. SIIMS",,50963,_PhjyLoAAAAJ,{'indices'},,Olivier Faugeras,,5848,99,36,313,108,0,0
+427882,Microsoft Research,,11226,PfSHhIIAAAAJ,{'indices'},,cha zhang,,5890,49,36,138,85,0,0
+427883,"Director, Applied Research Center (ARC), Tencent PCG",,3177,4oXBp9UAAAAJ,{'indices'},,Ying Shan,,988,31,20,48,28,0,0
+427884,Microsoft,,10232,wcZX6CgAAAAJ,{'indices'},,Liwei He,,2841,51,28,88,68,0,0
+427885,Facebook,,46204,YAtwLpwAAAAJ,{'indices'},,Michael F Cohen,,13132,93,55,456,233,0,0
+427886,"Sr. Director, Apple",,28948,YdNmnJAAAAAJ,{'indices'},,Alex Acero,,10951,74,42,328,148,0,0
+427887,Microsoft Research,,10416,aLsUH7MAAAAJ,{'indices'},,Dinei Florencio,,4931,55,38,142,98,0,0
+427888,"Vice President and Chief Scientist, Wormpex AI Research, IEEE & IAPR Fellow",,12872,7SgUlggAAAAJ,{'indices'},,Gang Hua,,8685,58,45,147,119,0,0
+427889,State University of New York at Buffalo,,14802,fJ7seq0AAAAJ,{'indices'},,Junsong Yuan,,10198,58,46,189,157,0,0
+427890,Microsoft,,8046,Qee1AwMAAAAJ,{'indices'},,Ross Cutler,,2800,42,29,93,75,0,0
+427891,University of Wollongong,,6759,mZLzsdgAAAAJ,{'indices'},,Wanqing Li,,5214,40,34,96,70,0,0
+427892,independent researcher,,9922,EdjwXCkAAAAJ,{'indices'},,QT Luong,,1293,31,13,47,16,0,0
+427893,Inria Research Director - Athena Project Team Leader,,28246,UDRtJsEAAAAJ,{'indices'},,Rachid Deriche,,5455,75,33,229,101,0,0
+427894,"Baidu Research/Professor of Computer Science, University of Kentucky",,14500,yveq40QAAAAJ,{'indices'},,Ruigang Yang,,6053,61,40,146,100,0,0
+427895,nVidia Research,,6560,qqSucBkAAAAJ,{'indices'},,Charles Loop,,1944,31,19,51,29,0,0
+427896,Microsoft Research,,4922,M_fwZg0AAAAJ,{'indices'},,Qin Cai,,1206,18,15,20,17,0,0
+427897,Microsoft Research,,835,TvVwFB4AAAAJ,{'indices'},,Sasa Junuzovic,,536,15,12,16,12,0,0
+427898,Amazon,,7307,pIWTAtwAAAAJ,{'indices'},,Jasha Droppo,,4086,43,27,102,58,0,0
+427899,"Professor of Electrical Engineering and Computer Science, Northwestern University",,17556,zAlz89wAAAAJ,{'indices'},,Ying Wu,,7464,66,38,137,95,0,0
+427900,"UC Berkeley, Google",,38612,8R35rCwAAAAJ,{'indices'},,Sergey Levine,,37824,93,91,233,233,0,0
+427901,"Research Scientist, OpenAI",,22845,itSa94cAAAAJ,{'indices'},,John Schulman,,22353,37,37,48,48,0,0
+427902,"Professor, UC Berkeley and UCSF",,22855,8fztli4AAAAJ,{'indices'},,Ken Goldberg,,10671,77,49,283,174,0,0
+427903,"Embodied Intelligence, UC Berkeley",,7929,EMDboA4AAAAJ,{'indices'},,Yan Duan,,7763,20,19,22,22,0,0
+427904,Founding engineer @ Ike / SW @ Nuro,,5465,xOWBOKQAAAAJ,{'indices'},,Sachin Patil,,3911,38,30,76,65,0,0
+427905,Netflix Research,,5278,HBztuGIAAAAJ,{'indices'},,Rein Houthooft,,5140,11,9,11,9,0,0
+427906,"Professor of Computer Science, U.C. Berkeley",,138076,bh-uRFMAAAAJ,{'indices'},,Trevor Darrell,,103131,132,98,367,274,0,0
+427907,Co-Founder and Chief Scientist of OpenAI,,226704,x04W_mMAAAAJ,{'indices'},,Ilya Sutskever,,214044,58,57,77,74,0,0
+427908,Google Brain,,3907,iVLAQysAAAAJ,{'indices'},,Jonathan Ho,,3693,15,14,16,16,0,0
+427909,Technion,,3671,kppa2vgAAAAJ,{'indices'},,Aviv Tamar,,3585,25,24,36,34,0,0
+427910,"Professor Electrical Engineering and Computer Science, UC Berkeley",,16136,a5nY-pYAAAAJ,{'indices'},,Alexandre Bayen,,8156,56,44,191,143,0,0
+427911,UC Berkeley,,4942,Vzr1RukAAAAJ,{'indices'},,Igor Mordatch,,4149,32,28,42,40,0,0
+427912,Co-Founder of OpenAI,,27365,XCZpOcAAAAAJ,{'indices'},,Wojciech Zaremba,,26610,30,29,38,35,0,0
+427913,"PhD student of Computer Science, University of California, Berkeley",,1691,8-p9CLsAAAAJ,{'indices'},,Alex X. Lee,,1480,13,12,13,13,0,0
+427914,Ike Robotics,,8625,VjsNXysAAAAJ,{'indices'},,Jur van den Berg,,5070,43,34,66,60,0,0
+427915,UC Berkeley,,1652,jERkdhIAAAAJ,{'indices'},,Gregory Kahn,,1608,12,12,13,13,0,0
+427916,"CEO and Founder, insitro",,92105,5Iqe53IAAAAJ,{'indices'},,Daphne Koller,,37532,145,83,297,236,0,0
+427917,"Apple.  Previously Khosla Ventures, Baidu SVAIL, Stanford PhD",,17847,bLUllHEAAAAJ,{'indices'},,Adam Coates,,13659,31,29,40,38,0,0
+427918,"Professor of Computer Science, University of California, Berkeley",,89941,2oy3OXYAAAAJ,{'indices'},,Stuart Russell,,31246,79,52,223,144,0,0
+427919,Graduate Student,,889,4mVPFQ8AAAAJ,{'indices'},,Dylan Hadfield-Menell,,873,14,14,18,18,0,0
+427920,"Professor, Department of Computer Science, University of Waikato",,86976,dUV_NvIAAAAJ,{'indices'},,Eibe Frank,,34813,56,47,96,84,0,0
+427921,"Professor of Computer Science, University of Waikato, New Zealand",,114771,BSFdGw0AAAAJ,{'indices'},,Ian H. Witten,,37187,84,51,315,128,0,0
+427922,"Professor of computer science, University of Montreal, Mila, IVADO, CIFAR",,377188,kukA0LcAAAAJ,{'indices'},,Yoshua Bengio,,333509,179,162,618,544,0,0
+427923,Université de Montréal,,103572,km6CP8cAAAAJ,{'indices'},,Aaron Courville,,98022,76,68,151,145,0,0
+427924,Google Brain & Mila,,40885,U89FHq4AAAAJ,{'indices'},,Hugo Larochelle,,34751,54,50,93,89,0,0
+427925,"CSE, The University of Washington",,89664,3_u1jHQAAAAJ,{'indices'},,Richard Szeliski,,28411,124,65,323,236,0,0
+427926,"Professor of Computer Science, University of Rochester",,32783,WxQyOYQAAAAJ,{'indices'},,Henry Kautz,,6550,79,41,177,119,0,0
+427927,Professor at Electrical Engineering Dept (ESAT-SCD) KULeuven,,53309,Swa4FrsAAAAJ,{'indices'},,Joos Vandewalle,,15431,86,43,359,102,0,0
+427928,KU Leuven ESAT-Stadius,,116970,qws2WIMAAAAJ,{'indices'},,De Moor Bart,,36512,138,73,875,375,0,0
+427929,Uppsala University,,3071,8WJkJRkAAAAJ,{'indices'},,Kristiaan Pelckmans,,1237,27,16,53,32,0,0
+427930,KU Leuven,,32509,P_bfB7sAAAAJ,{'indices'},,Sabine Van Huffel,,12963,86,47,479,301,0,0
+427931,"Associate Professor of Electrical Engineering, Universitas Katolik Indonesia Atma Jaya",,14084,2YrtFM4AAAAJ,{'indices'},,Lukas,,5776,14,11,17,12,0,0
+427932,"General Manager, AI Fund - Colombia",,1469,kA1h41sAAAAJ,{'indices'},,Carlos Alzate,,816,20,13,28,19,0,0
+427933,"Researcher, KU Leuven",,759,JRLG3D8AAAAJ,{'indices'},,Rocco Langone,,538,17,13,22,17,0,0
+427934,Istanbul Technical University,,2159,tjv7hI4AAAAJ,{'indices'},,Müştak E. Yalçın,,542,19,10,31,10,0,0
+427935,"Associate Professor, Shanghai Jiao Tong University",,1744,DR-gBcEAAAAJ,{'indices'},,Xiaolin Huang (黄晓霖),,1513,22,20,53,44,0,0
+427936,"Assistant Professor, Maastricht University",,741,sOSxU7sAAAAJ,{'indices'},,Siamak Mehrkanoon,,607,18,17,25,24,0,0
+427937,"Associate professor, KU Leuven",,16694,IC7ghFwAAAAJ,{'indices'},,Bart Baesens,,9309,66,50,166,138,0,0
+427938,Associate Professor of Statistics and Industrial Manufacturing & Systems Engineering,,1177,sXaqlJMAAAAJ,{'indices'},,Kris De Brabanter,,676,16,13,23,18,0,0
+427939,"Research Scientist at Qatar Computing Research Institute (QCRI), Qatar Foundation",,1137,CfwEb1EAAAAJ,{'indices'},,Raghvendra Mall,,955,19,16,30,27,0,0
+427940,KULeuven,,17685,S8D8NAkAAAAJ,{'indices'},,Lieven De Lathauwer,,8965,58,44,140,100,0,0
+427941,KU Leuven,,11471,9XduCpwAAAAJ,{'indices'},,Jan Vanthienen,,5396,48,33,139,91,0,0
+427942,"Data Scientist, Everis",,1529,xnPtYxwAAAAJ,{'indices'},,Jan Luts,,726,17,13,23,16,0,0
+427943,Vlerick Business School,,5855,xtH9QNgAAAAJ,{'indices'},,Stijn Viaene,,2659,33,24,62,36,0,0
+427944,Bosch Research,,469,0TOaAVoAAAAJ,{'indices'},,Tillmann Falck,,213,10,7,10,6,0,0
+427945,KU Leuven,,1325,eS-e_ZIAAAAJ,{'indices'},,Peter Karsmakers,,877,20,14,23,20,0,0
+427946,KBC Bank Applied Data Analytical Modelling. PhD KU Leuven,,1069,w1XCC-sAAAAJ,{'indices'},,Fabian Ojeda,,491,9,8,8,8,0,0
+427947,"Chief Scientist, W. M. Keck Observatory",,8015,hnpb8SgAAAAJ,{'indices'},,John O'Meara,,4373,47,36,87,76,0,0
+427948,Instituto de Astronomía UNAM,,7694,6mtMwdQAAAAJ,{'indices'},,J. Jesús González,,2179,32,21,58,38,0,0
+427949,Durham University,,6479,1AQs2j4AAAAJ,{'indices'},,Michele Fumagalli,,4617,47,39,103,99,0,0
+427950,"Professor of Astrophysics, Swinburne University of Technology",,14605,bc2a_OUAAAAJ,{'indices'},,Michael Murphy,,5678,62,40,161,121,0,0
+427951,audEERING GmbH,,12450,72yq_tkAAAAJ,{'indices'},,Florian Eyben,,8239,47,40,106,76,0,0
+427952,Nuance Communications,,6408,fGHc1v8AAAAJ,{'indices'},,Felix Weninger,,4813,37,29,83,60,0,0
+427953,"BMW AG, audEERING",,6213,N9kZaXEAAAAJ,{'indices'},,Martin Wöllmer,,3464,32,24,59,36,0,0
+427954,University of Augsburg / FAU Erlangen,,11845,-6MBiKgAAAAJ,{'indices'},,Anton Batliner,,5012,48,32,164,71,0,0
+427955,Huawei Technologies Research & Development (UK) Ltd,,2683,S998M7cAAAAJ,{'indices'},,Zixing Zhang,,2364,27,26,62,60,0,0
+427956,King's College London,,2538,qKcMcPoAAAAJ,{'indices'},,Nicholas Cummins,,2390,25,25,57,57,0,0
+427957,Apple Inc.,,3294,uSiUYiUAAAAJ,{'indices'},,Erik Marchi,,2845,24,22,44,39,0,0
+427958,"Computer Science Department 5 (Pattern Recognition), Friedrich-Alexander University Erlangen",,8145,_gYLnIgAAAAJ,{'indices'},,Stefan Steidl,,4357,41,32,86,56,0,0
+427959,"Associate Professor, Université Grenoble Alpes, LIG, France",,4073,9CskMcsAAAAJ,{'indices'},,Fabien Ringeval,,3603,27,25,47,44,0,0
+427960,"Professor, Imperial College London / AI Scientific Research Lead, Facebook London",,37277,ygpxbK8AAAAJ,{'indices'},,Maja Pantic,,20132,86,71,276,221,0,0
+427961,"Psychology, Queen's University",,13614,SGICx_MAAAAJ,{'indices'},,Roddy Cowie,,5475,47,33,102,62,0,0
+427962,"Professor in Automatic Human Behaviour Understanding, University of Nottingham",,11991,SRs5RFEAAAAJ,{'indices'},,Michel Valstar,,7705,42,38,83,75,0,0
+427963,"audEERING, Germany",,1476,KuyHuN8AAAAJ,{'indices'},,Jun Deng,,1331,23,20,34,33,0,0
+427964,University of Augsburg,,786,fHQwc60AAAAJ,{'indices'},,Alice Baird,,784,11,11,12,12,0,0
+427965,"JSPS Postdoctoral Research Fellow, The University of Tokyo, Technische Universität München",,776,6Ceaa30AAAAJ,{'indices'},,"Kun Qian 钱昆 (Dr.-Ing., SMIEEE)",,765,16,16,24,23,0,0
+427966,University of Augsburg & Technische Universität München,,631,OvKHt2wAAAAJ,{'indices'},,Simone Hantke,,580,11,11,13,13,0,0
+427967,,,1937,qR0MoH4AAAAJ,{'indices'},,dino seppi,,684,15,11,19,12,0,0
+427968,Harman Becker Automotive Systems GmbH,,1195,B86ELHAAAAAJ,{'indices'},,Jürgen Geiger,,768,19,13,33,17,0,0
+427969,"Professor, Imperial College London",,14912,QKOH5iYAAAAJ,{'indices'},,Stefanos Zafeiriou,,11944,58,47,175,152,0,0
+427970,"LIMSI-CNRS, Professor Paris-Sorbonne IV",,6422,TYStBt0AAAAJ,{'indices'},,Laurence Devillers,,2695,39,22,101,43,0,0
+427971,"Google Senior Fellow & SVP, Google Research and Health",,170780,NMS69lQAAAAJ,{'indices'},,Jeff Dean,,119492,84,61,234,155,0,0
+427972,Google Inc.,,33720,AVPTxiwAAAAJ,{'indices'},,Matthieu Devin,,31740,18,13,24,18,0,0
+427973,Google Inc.,,57387,TKvd_Z4AAAAJ,{'indices'},,Kai Chen,,50309,31,21,53,42,0,0
+427974,"Research Scientist, Google Brain",,79456,vfT6-XIAAAAJ,{'indices'},,Quoc V. Le,,72212,85,81,143,137,0,0
+427975,Google DeepMind,,36512,17fLjgQAAAAJ,{'indices'},,Andrew Senior,,26435,71,54,169,130,0,0
+427976,Google Research,,99119,HBtozdUAAAAJ,{'indices'},,Greg Corrado,,90821,50,47,68,66,0,0
+427977,Research Scientist at Google DeepMind,,102525,NkzyCvUAAAAJ,{'indices'},,Oriol Vinyals,,98332,75,71,118,105,0,0
+427978,Facebook,,31023,NbXF7T8AAAAJ,{'indices'},,Marc'Aurelio Ranzato,,24071,50,47,75,73,0,0
+427979,"Principal Scientist, Google",,80351,T7uctwYAAAAJ,{'indices'},,Vincent Vanhoucke,,74612,37,33,56,52,0,0
+427980,"Founder and CEO, Clarifai",,23439,a2KklUoAAAAJ,{'indices'},,Matthew Zeiler,,21187,14,13,15,13,0,0
+427981,"Distinguished Researcher, Waymo",,53332,T04c3fwAAAAJ,{'indices'},,Dragomir Anguelov,,47335,46,37,75,68,0,0
+427982,"Staff Research Scientist, Google Brain",,67726,wfGiqXEAAAAJ,{'indices'},,Dumitru Erhan,,63484,41,39,48,48,0,0
+427983,Google Research,,106570,3QeF7mAAAAAJ,{'indices'},,Christian Szegedy,,103393,22,21,29,23,0,0
+427984,"Research Scientist, Google DeepMind",,48416,jEANvfgAAAAJ,{'indices'},,Scott Reed,,46759,25,24,31,28,0,0
+427985,"Principal Scientist, Google",,80351,T7uctwYAAAAJ,{'indices'},,Vincent Vanhoucke,,74612,37,33,56,52,0,0
+427986,"Research Scientist, Google",,37879,0nPi5YYAAAAJ,{'indices'},,Pierre Sermanet,,34768,23,20,32,27,0,0
+427987,"VP, Alibaba Group",,82959,mu5Y2rYAAAAJ,{'indices'},,Yangqing Jia,,77599,41,37,55,50,0,0
+427988,Sr. Research Scientist at Amazon Robotics AI,,3683,RCTeTV0AAAAJ,{'indices'},,Tomasz Malisiewicz,,2223,18,15,26,22,0,0
+427989,VP of Autonomy @Wayve.ai,,9649,WuJckpkAAAAJ,{'indices'},,Vijay Badrinarayanan,,9274,16,16,25,23,0,0
+427990,"PhD Student of Computer Science, UNC Chapel Hill",,44779,yFMX138AAAAJ,{'indices'},,Wei Liu,,43325,14,13,15,14,0,0
+427991,"Professor of Computer Science, Cornell University and Cornell Tech",,76980,ORr4XJYAAAAJ,{'indices'},,Serge Belongie,,47270,92,70,193,163,0,0
+427992,Research Scientist at Facebook Reality Labs,,735,FrQGs28AAAAJ,{'indices'},,Daniel DeTone,,727,8,8,8,8,0,0
+427993,Computer Vision and Machine Learning,,2271,VkLsSZIAAAAJ,{'indices'},,Carolina Galleguillos,,856,10,9,10,9,0,0
+427994,Waymo LLC,,975,ji6BSBoAAAAJ,{'indices'},,Zhao Chen,,961,17,17,18,18,0,0
+427995,"Director of Engineering, Google AI",,19182,fWd88tEAAAAJ,{'indices'},,Hartwig Adam,,18014,34,31,68,61,0,0
+427996,University of Oxford,,48446,bRT7t28AAAAJ,{'indices'},,Andrea Vedaldi,,39527,70,67,136,127,0,0
+427997,"Research Scientist, Google",,3142,uWPUSEgAAAAJ,{'indices'},,Chen-Yu Lee,,2908,12,11,13,12,0,0
+427998,"Google, Inc.",,3760,2W_RLEMAAAAJ,{'indices'},,David Petrou,,2539,28,23,57,42,0,0
+427999,"Professor of Computer Science, University of North Carolina at Chapel Hill",,54891,jjEht8wAAAAJ,{'indices'},,Alexander C Berg,,44613,51,47,66,65,0,0
+428000,Google & University of Washington,,42942,rfNgY3UAAAAJ,{'indices'},,Sameer Agarwal,,21687,27,20,39,29,0,0
+428001,"Google Research, Brain Team; University of Colorado",,15237,lmjR_qMAAAAJ,{'indices'},,Michael Mozer,,4886,62,35,149,90,0,0
+428002,"Department of Linguistics, Northwestern University",,3840,ftAHCaUAAAAJ,{'indices'},,Matt Goldrick,,1823,29,24,59,45,0,0
+428003,"Reader, Department of Linguistics and English Language, University of Edinburgh",,1632,VcfsCqoAAAAJ,{'indices'},,Jennifer Culbertson,,1124,18,16,24,22,0,0
+428004,"Emeritus Prof. Comp Sci, U.Toronto & Engineering Fellow, Google",,425873,JicYPdAAAAAJ,{'indices'},,Geoffrey Hinton,,305479,162,116,368,268,0,0
+428005,"Chief AI Officer, Citadel",,55872,GQWTo4MAAAAJ,{'indices'},,Li Deng,,38549,96,69,409,236,0,0
+428006,"AI Lab, JD.COM (京东AI研究院); IEEE/CAAI Fellow",,24659,W5WbqgoAAAAJ,{'indices'},,Xiaodong He (何晓冬),,22019,61,53,138,116,0,0
+428007,"Cognitive Science, Johns Hopkins University",,3137,_anNJOEAAAAJ,{'indices'},,Colin Wilson,,1326,23,18,30,25,0,0
+428008,Northeastern University,,3590,6XX0V-gAAAAJ,{'indices'},,Iris Berent,,1248,30,19,52,33,0,0
+428009,"Professor of Computer Science, University of Colorado, Boulder",,13933,eIYoeT4AAAAJ,{'indices'},,clayton lewis,,2786,43,20,91,32,0,0
+428010,"Professor of Linguistics, New York University",,2321,i8jvUgUAAAAJ,{'indices'},,Lisa Davidson,,1052,25,20,36,26,0,0
+428011,Facebook AI Research,,15662,8rDNIMsAAAAJ,{'indices'},,Scott Wen-tau Yih,,10383,55,41,95,84,0,0
+428012,"Professor of Developmental Linguistics, University of Edinburgh",,13259,k3W5l3EAAAAJ,{'indices'},,Antonella Sorace,,5343,51,37,91,71,0,0
+428013,NYU,,623,XpEr2UEAAAAJ,{'indices'},,"""Adam Buchwald""",,304,16,10,20,12,0,0
+428014,"Research Associate, University of Pennsylvania, Lecturer, Johns Hopkins University",,120,fE5LvDsAAAAJ,{'indices'},,Joan Chen-Main,,25,7,4,5,0,0,0
+428015,"Professor of Cognitive Psychology, Ecole des Hautes Etudes en Sciences Sociales, Paris",,17853,94c1abIAAAAJ,{'indices'},,Emmanuel Dupoux,,6836,64,44,147,116,0,0
+428016,"Linguistics Department, University of Georgia",,3809,sqUEF0MAAAAJ,{'indices'},,John Hale,,1998,23,19,32,24,0,0
+428017,"Professor of Cognitive Science, Johns Hopkins University",,7565,adTFl-kAAAAJ,{'indices'},,brenda rapp,,2449,47,26,95,66,0,0
+428018,The Johns Hopkins Applied Physics Laboratory,,484,oDqzUnYAAAAJ,{'indices'},,Michael Wolmetz,,243,8,6,8,6,0,0
+428019,"Professor of Cognitive Science, Johns Hopkins University",,4437,_eFQ-QIAAAAJ,{'indices'},,Geraldine Legendre,,1314,33,17,67,31,0,0
+428020,Professor of Computer Science and Software Engineering,,3388,LB5QBY4AAAAJ,{'indices'},,Matthew R. Boutell,,1479,19,10,25,10,0,0
+428021,Sr. Researcher at Microsoft Cloud & AI,,3043,c5KJsIgAAAAJ,{'indices'},,Quanzeng You,,2904,24,23,34,32,0,0
+428022,IBM T. J. Watson Research,,8489,TYmV4V8AAAAJ,{'indices'},,Dhiraj Joshi,,2965,24,19,43,30,0,0
+428023,Google NYC,,6393,S-hBSfIAAAAJ,{'indices'},,Liangliang Cao,,3541,40,31,79,57,0,0
+428024,"Software Engineer, Google",,10193,-RFj-kYAAAAJ,{'indices'},,Andrew Gallagher,,4293,54,33,167,97,0,0
+428025,"AI Research, JD.COM; IEEE & IAPR Fellow",,18583,7Yq4wf4AAAAJ,{'indices'},,Tao Mei,,13853,72,60,264,204,0,0
+428026,Google,,1654,2LwbQtMAAAAJ,{'indices'},,Yuncheng Li,,1597,18,18,23,23,0,0
+428027,"Professor of Computer Science and Engineering, SUNY at Buffalo",,9979,w2HXPUUAAAAJ,{'indices'},,Chang Wen Chen,,4866,46,33,211,112,0,0
+428028,"University of Illinois, Urbana-Champaign",,170003,rGF6-WkAAAAJ,{'indices'},,Thomas S. Huang,,52732,162,86,979,442,0,0
+428029,"Professor of Computer Science, University of Rochester",,32783,WxQyOYQAAAAJ,{'indices'},,Henry Kautz,,6550,79,41,177,119,0,0
+428030,Director at Bytedance Inc.,,30079,HWFvq_wAAAAJ,{'indices'},,Yang Jianchao,,19828,64,54,204,162,0,0
+428031,University of Rochester,,15905,hkrLyCUAAAAJ,{'indices'},,Kevin Parker,,4152,67,32,213,109,0,0
+428032,University of Sydney,,20109,7Hdu5k4AAAAJ,{'indices'},,"Dong Xu, IEEE Fellow, Chair in Comp...",,12263,66,52,145,124,0,0
+428033,"Senior Principal Scientist, Adobe Research",,10582,DQOT0OMAAAAJ,{'indices'},,Hailin Jin,,7068,50,36,137,105,0,0
+428034,Apple Inc.,,428,YGNgQSgAAAAJ,{'indices'},,Yu Wang,,420,13,12,15,15,0,0
+428035,"Abel Bliss Professor of Computer Science, University of Illinois",,152129,Kv9AbjMAAAAJ,{'indices'},,Jiawei Han,,55169,179,111,885,658,0,0
+428036,Amazon Web Services,,337,Qtn-ZlIAAAAJ,{'indices'},,Haofu Liao,,335,11,11,13,13,0,0
+428037,Assistant Professor of Computer Science at College of William and Mary,,406,0qBjVmQAAAAJ,{'indices'},,Tianran Hu,,399,12,12,12,12,0,0
+428038,University of Rochester,,441,B1EhbCsAAAAJ,{'indices'},,Jianbo Yuan,,403,11,11,13,13,0,0
+428039,University of Rochester,,288,sIAxgd0AAAAJ,{'indices'},,Yang Feng,,282,10,10,10,10,0,0
+428040,ArsenalBio,,96937,e0VXX60AAAAJ,{'indices'},,Tarjei S. Mikkelsen,,41308,61,54,83,75,0,0
+428041,"Massachusetts General Hospital, Harvard Medical School",,73188,L8V_WAkAAAAJ,{'indices'},,Vamsi Mootha,,39294,82,69,154,145,0,0
+428042,"Professor of Pathology, Harvard University",,101628,RNWfk1QAAAAJ,{'indices'},,Bradley Bernstein,,57515,99,88,154,137,0,0
+428043,"Researcher, Kuaishou Tech; NVIDIA; UCI; CAS",,1579,2hjYfqIAAAAJ,{'indices'},,Wentao Zhu,,1535,14,13,18,17,0,0
+428044,"University of California Irvine, Brigham Young University",,861,w1KbK7UAAAAJ,{'indices'},,Jacob Biesinger,,510,10,10,10,10,0,0
+428045,Max Planck Institute for Molecular Genetics/ Harvard University,,63868,8ArX12gAAAAJ,{'indices'},,Alexander Meissner,,30186,85,74,160,151,0,0
+428046,"Faculty of Medicine, University of Freiburg",,28917,x5bquwoAAAAJ,{'indices'},,Manching Ku,,13795,27,23,31,29,0,0
+428047,"Professor, Princeton Neuroscience Institute and Computer Science Dept.",,34606,BD8llAEAAAAJ,{'indices'},,H Sebastian Seung,,15920,69,48,131,105,0,0
+428048,Tencent,,948,ygovHrsAAAAJ,{'indices'},,Yifei Chen,,874,6,6,5,5,0,0
+428049,"Professor of Computer Science, MIT and Broad Institute",,118562,lsYXBx8AAAAJ,{'indices'},,Manolis Kellis,,68845,122,110,245,236,0,0
+428050,"University of California, Irvine",,842,Y3Rajn8AAAAJ,{'indices'},,Yi Li,,810,10,10,11,10,0,0
+428051,"Baylor College of Medicine, Rice University, ShanghaiTech",,26469,KoTMigEAAAAJ,{'indices'},,Erez Lieberman Aiden,,17431,34,34,42,42,0,0
+428052,Linkedin,,723,wO3j6JIAAAAJ,{'indices'},,Lingjie Weng,,500,7,7,7,7,0,0
+428053,"Department of Mathematics, Hong Kong University of Science and Technology",,572,o_XPUgEAAAAJ,{'indices'},,Gui-Bo Ye,,380,9,8,9,8,0,0
+428054,"Professor of Computer Science, UC Irvine",,8892,BRMbGhgAAAAJ,{'indices'},,Chen Li,,2958,45,27,93,56,0,0
+428055,"Software Engineer, Google",,14736,DJjqtbYAAAAJ,{'indices'},,William Brockman,,5084,10,10,10,10,0,0
+428056,"University of California, Irvine",,3099,iWU4sIIAAAAJ,{'indices'},,Yongsheng Shi,,1804,22,21,28,27,0,0
+428057,Yale School of Medicine,,11608,Cp_G5UwAAAAJ,{'indices'},,Chris Cotsapas,,7150,35,33,51,47,0,0
+428058,Harvard Medical School; Broad Institute of MIT and Harvard,,111147,MtP3DAgAAAAJ,{'indices'},,Steven A McCarroll,,65467,101,92,181,175,0,0
+428059,"Senior Computational Biologist, Broad Institute",,59162,tiovJ-EAAAAJ,{'indices'},,Stephen Schaffner,,17752,59,46,116,84,0,0
+428060,University of Massachusetts,,3215,f_a-v7YAAAAJ,{'indices'},,Bryan Horling,,427,26,7,37,5,0,0
+428061,"Senior Research Scientist, Computer Science, University of Massachusetts Amherst",,5580,56qcx4MAAAAJ,{'indices'},,Daniel D. Corkill,,553,25,12,48,13,0,0
+428062,"Associate Professor of Computer & Information Science, University of Delaware",,10057,8odG5jkAAAAJ,{'indices'},,Keith Decker,,1147,46,17,79,22,0,0
+428063,"Professor of Computer Science, Hunter College and The Grad Center, CUNY",,1819,rDo_DcgAAAAJ,{'indices'},,Anita Raja,,283,19,9,29,8,0,0
+428064,"Professor of Computer Science, University of Tulsa",,1529,No-tOxoAAAAJ,{'indices'},,Roger Mailler,,224,19,7,24,5,0,0
+428065,University of Edinburgh and British University in Dubai,,1490,R7ngExMAAAAJ,{'indices'},,Sherief Abdallah,,624,20,15,29,19,0,0
+428066,"Angel Jordan University Professor of Computer Science, Carnegie Mellon University",,26752,0DpK1EMAAAAJ,{'indices'},,Tuomas Sandholm,,7378,86,47,273,163,0,0
+428067,Tsinghua University,,830,LjxqXycAAAAJ,{'indices'},,Chongjie zhang,,517,14,13,26,18,0,0
+428068,Nanyang Technological University,,3866,PEEpuNwAAAAJ,{'indices'},,Bo An,,2819,34,30,97,83,0,0
+428069,"Professor of Computer Science, University of Massachusetts Amherst",,12511,q_n7d6EAAAAJ,{'indices'},,Shlomo Zilberstein,,3584,55,29,158,94,0,0
+428070,"Professor of Electrical & Computer and Biomedical Engineering, Boston University, Boston MA 02215",,11134,BW3ZfSYAAAAJ,{'indices'},,"Nawab, Syed Hamid",,2882,31,18,56,22,0,0
+428071,"Nanyang Assistant Professor, Nanyang Technological University, Singapore",,3607,eXgoTXMAAAAJ,{'indices'},,Han Yu,,2859,33,26,70,67,0,0
+428072,Nanyang Technological University,,8645,fmXGRJgAAAAJ,{'indices'},,Chunyan Miao,,5669,45,37,191,138,0,0
+428073,Nanyang Technological University,,4502,EA2T_lwAAAAJ,{'indices'},,Zhiqi Shen,,2625,35,26,104,65,0,0
+428074,UFRGS,,5945,K6Z40w0AAAAJ,{'indices'},,Ana Bazzan,,2513,39,24,113,52,0,0
+428075,"Associate Professor of Computer Science, University of Virginia",,6800,NaVxc4wAAAAJ,{'indices'},,Marty Humphrey,,1785,43,17,96,29,0,0
+428076,"Director CRCS Center  @Harvard; Director ""AI for Social Good"" @Google India Research",,29194,YOVZiJkAAAAJ,{'indices'},,Milind Tambe,,10889,86,51,363,218,0,0
+428077,"Associate Professor, Cognitive Science, Johns Hopkins University",,1239,8hA9VGUAAAAJ,{'indices'},,Kyle Rawlins,,756,17,15,26,19,0,0
+428078,"University of Massachusetts, Amherst",,97,2g1wLLMAAAAJ,{'indices'},,Yoonheui Kim,,31,4,3,4,1,0,0
+428079,Raytheon Technologies Research Center,,354,zmNFj_EAAAAJ,{'indices'},,Hala Mostafa,,202,8,5,6,3,0,0
+428080,"AI Research, JD.COM; IEEE & IAPR Fellow",,18583,7Yq4wf4AAAAJ,{'indices'},,Tao Mei,,13853,72,60,264,204,0,0
+428081,"Univ. of California, Irvine",,24515,MTZaRW4AAAAJ,{'indices'},,sharad mehrotra,,5957,66,35,204,93,0,0
+428082,Microsoft,,10232,wcZX6CgAAAAJ,{'indices'},,Liwei He,,2841,51,28,88,68,0,0
+428083,The University of Sydney,,59269,RwlJNLcAAAAJ,{'indices'},,Dacheng Tao,,43490,127,107,669,587,0,0
+428084,previously Microsoft Research,,5542,7Yc6yssAAAAJ,{'indices'},,Ting Yao,,5306,37,35,61,57,0,0
+428085,"Computer Science, University of Central Florida",,11833,Nut-uvoAAAAJ,{'indices'},,Guo-Jun Qi,,8376,50,39,106,83,0,0
+428086,Alibaba DAMO Academy,,20480,6G-l4o0AAAAJ,{'indices'},,Xian-Sheng Hua (华先胜)(IEEE Fellow),,8974,75,46,345,229,0,0
+428087,Microsoft,,8046,Qee1AwMAAAAJ,{'indices'},,Ross Cutler,,2800,42,29,93,75,0,0
+428088,"Senior Principal Research Manager, Microsoft (Microsoft Research Asia, China)",,32312,5EQfAFIAAAAJ,{'indices'},,Xing Xie 谢幸,,20006,84,65,266,224,0,0
+428089,Sourcecode Capital,,68831,u6wmNbQAAAAJ,{'indices'},,HongJiang Zhang (张宏江）,,15144,132,59,486,233,0,0
+428090,"Professor of Electrical Engineering and Computer Science, Columbia University",,58744,OMVTRscAAAAJ,{'indices'},,Shih-Fu Chang,,19435,118,67,506,283,0,0
+428091,"Professor of Computer Science, Zhejiang University",,12910,1RD7UJAAAAAJ,{'indices'},,Yueting Zhuang,,6838,54,42,260,129,0,0
+428092,Huawei Cloud & AI,,26469,61b6eYkAAAAJ,{'indices'},,"Qi Tian, IEEE Fellow, Chief Scientist in...",,20296,78,63,378,312,0,0
+428093,"Professor, Hangzhou Dianzi University",,6829,3XTEwtAAAAAJ,{'indices'},,Jun Yu(俞俊),,5830,37,35,86,76,0,0
+428094,"Professor, University of Science and Technology of China",,2614,QW0ad4sAAAAJ,{'indices'},,Defu Lian 连德富,,2441,24,23,41,40,0,0
+428095,Harbin Institute of Technology,,7757,aOMFNFsAAAAJ,{'indices'},,Hongxun Yao,,4732,46,34,140,85,0,0
+428096,Microsoft Research,,10416,aLsUH7MAAAAJ,{'indices'},,Dinei Florencio,,4931,55,38,142,98,0,0
+428097,"Vice President of AI & Chief Scientist, Huawei Cloud",,9038,B-d1EHAAAAAJ,{'indices'},,Nicholas Jing Yuan 袁晶,,6794,38,36,59,58,0,0
+428098,"Professor of Computer Science, Peking University",,45732,b0vWahYAAAAJ,{'indices'},,Wen Gao（高文）,,18915,97,62,764,371,0,0
+428099,"Professor, Institute of Automation, Chinese Academy of Sciences",,16951,hI9NRDkAAAAJ,{'indices'},,Changsheng Xu,,9509,68,47,272,175,0,0
+428100,"Staff Scientist, National Center for Biotechnology Information",,26302,q8_c-7UAAAAJ,{'indices'},,Aron Marchler-Bauer,,12630,38,22,51,35,0,0
+428101,National Center for Biotechnology Information,,9289,OBypxNEAAAAJ,{'indices'},,Lianyi Han,,5883,34,19,53,34,0,0
+428102,"Professor of Chemistry, University of Virginia",,57066,EKlbimUAAAAJ,{'indices'},,Donald F Hunt,,10597,126,53,402,216,0,0
+428103,"Research Professor of Physics, Washington University",,6510,CATJfPoAAAAJ,{'indices'},,Walter Binns,,2285,42,27,103,46,0,0
+428104,,,11785,rjtSqjcAAAAJ,{'indices'},,Anna Panchenko,,4835,47,31,89,68,0,0
+428105,"Professor of Chemistry and Biomolecular Chemistry, U. Of Wisconsin",,23509,uwPGIjcAAAAJ,{'indices'},,Joshua J. Coon,,11892,73,57,234,207,0,0
+428106,"Staff Scientist, NCBI, NLM, NIH",,112987,eK0R0a4AAAAJ,{'indices'},,Thomas L. Madden,,35469,39,30,45,34,0,0
+428107,"Department of Biostatistics, Harvard School of Public Health",,60875,yFncM6AAAAAJ,{'indices'},,Curtis Huttenhower,,50737,100,89,202,185,0,0
+428108,"Staff Scientist, National Center for Biotechnology Information, NIH",,48894,kcw8ES0AAAAJ,{'indices'},,Daniel Haft,,18167,65,51,87,82,0,0
+428109,"professor of radiology, university of chicago",,28105,YAgmYI8AAAAJ,{'indices'},,Michael Vannier,,4883,85,30,303,89,0,0
+428110,Sivome LLC,,719,UBvhRHgAAAAJ,{'indices'},,Viswanadham Sridhara,,283,13,9,14,8,0,0
+428111,OLDP/OPQ/CDER/FDA,,1266,51AloIEAAAAJ,{'indices'},,Xiang Yu,,719,21,15,26,24,0,0
+428112,Simons Foundation,,21771,-kJ9gf0AAAAJ,{'indices'},,Ron Edgar,,7866,21,17,24,18,0,0
+428113,"NCBI, NLM, NIH",,20133,dFRNgSgAAAAJ,{'indices'},,Tanya Barrett,,8879,30,21,34,24,0,0
+428114,University of Pennsylvania,,466,uxW5BHoAAAAJ,{'indices'},,Anatoly Dryga,,247,8,7,8,7,0,0
+428115,National Institutes of Health,,22005,jQ7J538AAAAJ,{'indices'},,Gregory Schuler,,3941,35,21,47,30,0,0
+428116,"Director of Research, The University of Chicago",,18413,4976QooAAAAJ,{'indices'},,Ravinesh A. Kumar,,8275,53,35,316,192,0,0
+428117,"Professor of Biophysics, IVRI Izatnagar Bareilly",,1428,B96NmjUAAAAJ,{'indices'},,Praveen Singh,,555,16,12,17,14,0,0
+428118,Shenzhen University / The University of British Columbia,,39904,ajvCoo4AAAAJ,{'indices'},,Victor C. M. Leung,,25846,94,76,677,459,0,0
+428119,Dalian University of Technology,,6243,Xq8A1xcAAAAJ,{'indices'},,Nan Zhao (赵楠),,5829,42,39,100,92,0,0
+428120,北京邮电大学,,4554,Wf6PfoAAAAAJ,{'indices'},,hong ji,,3223,31,26,93,69,0,0
+428121,北京,,1308,9H3ySsAAAAAJ,{'indices'},,Li Zhu (朱力),,1078,19,16,26,25,0,0
+428122,"Assistant Professor, University of Glasgow",,1888,T0z9Ui8AAAAJ,{'indices'},,Shengrong Bu,,1362,19,18,21,20,0,0
+428123,Beijing University of Posts and Telecommunications,,1961,RWqQ6sMAAAAJ,{'indices'},,Tao Huang,,1799,20,18,48,40,0,0
+428124,"Chongqing University of Posts and Telecommunications, Carleton University",,2201,xQiZNjgAAAAJ,{'indices'},,Chengchao Liang (梁承超),,2093,15,15,22,21,0,0
+428125,Beijing University of Posts and Telecommunications,,1849,sT5_96EAAAAJ,{'indices'},,Renchao Xie,,1503,19,18,32,30,0,0
+428126,Carleton University,,1565,N0U7s7AAAAAJ,{'indices'},,Ying (Tiffany) He,,1555,18,18,23,23,0,0
+428127,Waseda University,,7718,1tEDvaUAAAAJ,{'indices'},,Jiang Liu,,6208,41,38,135,116,0,0
+428128,Shenzhen university,,2724,p8f4CuUAAAAJ,{'indices'},,qiao yan,,2213,18,16,34,19,0,0
+428129,"Professor, Beijing University of Technology",,993,oTiZZdoAAAAJ,{'indices'},,Pengbo Si,,706,17,13,23,17,0,0
+428130,"Associate Professor, Beijing university of posts and telecommunications",,1793,shMnj4EAAAAJ,{'indices'},,Haipeng Yao,,1676,21,21,47,41,0,0
+428131,Shanghai Maritime University,,2805,8Foh_qEAAAAJ,{'indices'},,Shengming Jiang,,1001,23,15,51,29,0,0
+428132,South China University of Technology,,1072,TtzTiTQAAAAJ,{'indices'},,Quansheng Guan,,668,16,13,25,20,0,0
+428133,Carleton University,,6705,of_arqMAAAAJ,{'indices'},,Minyi Huang,,3701,32,27,71,47,0,0
+428134,Research Scientist at the Communications Research Centre Canada (CRC),,58933,kXnNE0cAAAAJ,{'indices'},,Jun Li (Ph.D. Carleton University),,30827,106,75,1090,712,0,0
+428135,University of Houston,,46646,ty7wIXoAAAAJ,{'indices'},,Zhu Han,,31665,107,82,587,510,0,0
+428136,Carleton University,,9973,PUT-52IAAAAJ,{'indices'},,Peter X. Liu,,5446,55,38,153,110,0,0
+428137,"Professor, Electrical & Computer Engineering, Cornell University",,11966,em7o4kwAAAAJ,{'indices'},,Vikram Krishnamurthy,,3698,58,30,202,95,0,0
+428138,UC Berkeley,,38628,NHIpV98AAAAJ,{'indices'},,Bernhard Boser,,18405,61,36,173,106,0,0
+428139,University of Science and Technology of China ; Rutgers University (Adjunct Visiting Professor),,11167,qfbPQ1YAAAAJ,{'indices'},,Yanyong Zhang,,4759,46,34,94,65,0,0
+428140,NEC Laboratories America,,10677,yIkgW-cAAAAJ,{'indices'},,Hans Peter Graf,,4346,50,25,109,55,0,0
+428141,"Professor Electrical Engineering & Biological Studies, University of Notre Dame",,9501,39vyUQkAAAAJ,{'indices'},,Gregory Timp,,1701,45,24,104,43,0,0
+428142,"Chief AI Scientist at Facebook & Silver Professor at the Courant Institute, New York University",,187076,WLN3QrAAAAAJ,{'indices'},,Yann LeCun,,149492,126,103,294,237,0,0
+428143,Peking University,,2187,IFX5C-cAAAAJ,{'indices'},,Chenren Xu (许辰人),,1904,19,18,24,24,0,0
+428144,Physicist NIST,,3523,wDVmWHEAAAAJ,{'indices'},,Robert Schwall,,621,30,13,59,16,0,0
+428145,"Professor, Northwestern University",,13316,jmERpL4AAAAJ,{'indices'},,Sara A. Solla,,6074,38,25,65,38,0,0
+428146,Professor of Physics,,29588,xBO4WpMAAAAJ,{'indices'},,Arthur Hebard,,5973,70,31,200,68,0,0
+428147,Duke University,,11154,JNd8RnAAAAAJ,{'indices'},,Harold U Baranger,,2428,57,26,132,61,0,0
+428148,Natl Taiwan Univ. Bell Laboratories,,17318,SPy33uAAAAAJ,{'indices'},,M. Hong,,2769,68,23,275,75,0,0
+428149,University of Delaware,,7277,CA7UDc8AAAAJ,{'indices'},,Keith Goossen,,900,48,13,124,18,0,0
+428150,University of Southern California,,11933,yWheh3oAAAAJ,{'indices'},,A.F.J. Levi,,1670,55,18,165,32,0,0
+428151,"Professor of Physics, Oberlin College",,3788,U6KNzKIAAAAJ,{'indices'},,John H. Scofield,,1062,25,15,30,19,0,0
+428152,Freelance science writer,,6747,TENnO_EAAAAJ,{'indices'},,Don Monroe,,1064,35,13,60,21,0,0
+428153,MACOM Technology Solutions Inc.,,7799,TGpo3KAAAAAJ,{'indices'},,Eduard Sackinger,,3786,21,14,30,16,0,0
+428154,"Lecturer, The Open University",,3180,W2pvAfEAAAAJ,{'indices'},,Jane Bromley,,2310,13,8,15,6,0,0
+428155,"Professor of Materials Science, Cornell University",,24376,zfMlC4oAAAAJ,{'indices'},,Bruce van Dover,,2384,69,26,196,72,0,0
+428156,"Dir. Wireless Comms. Research Dept., Bell Labs, Alcatel-Lucent",,31829,ApQt28MAAAAJ,{'indices'},,Reinaldo A. Valenzuela,,5650,61,33,147,70,0,0
+428157,UC Berkeley,,61212,d97bGd8AAAAJ,{'indices'},,Alexei A. Efros,,41869,79,67,127,117,0,0
+428158,"Assistant Professor,  Carnegie Mellon University",,23671,UdpacsMAAAAJ,{'indices'},,Jun-Yan Zhu,,23366,29,28,35,34,0,0
+428159,"Senior Research Scientist, MIT;  MIT Director MIT-IBM Watson AI Lab; Director MIT Quest Corporate",,42672,FNhl50sAAAAJ,{'indices'},,Aude Oliva,,26319,71,60,116,104,0,0
+428160,"Professor of Computer Science, MIT",,74507,8cxDHS4AAAAJ,{'indices'},,Antonio Torralba,,46443,108,89,201,182,0,0
+428161,"Research Scientist, Adobe",,4726,LW8ze_UAAAAJ,{'indices'},,Richard Zhang,,4676,14,13,16,16,0,0
+428162,"Professor of Vision Science, MIT",,52406,todsDfQAAAAJ,{'indices'},,Edward H Adelson,,12958,84,51,180,116,0,0
+428163,"Senior Research Scientist, Google",,8009,_MEuWIMAAAAJ,{'indices'},,Dilip Krishnan,,6544,29,25,35,30,0,0
+428164,UC Berkeley,,9301,hHkuxSUAAAAJ,{'indices'},,Taesung Park,,9251,6,6,5,5,0,0
+428165,"PhD student, UC Berkeley",,12004,yA4rb60AAAAJ,{'indices'},,Tinghui Zhou,,11724,13,13,13,13,0,0
+428166,"Research Scientist, Adobe",,1955,3M9mssIAAAAJ,{'indices'},,Zoya Bylinskii (Gavrilov),,1807,13,13,13,13,0,0
+428167,"Ph.D. student, MIT",,3036,OsP7JHAAAAAJ,{'indices'},,Yonglong Tian,,2881,16,16,17,17,0,0
+428168,"Professor of Computer Science, MIT",,77517,0zZnyMEAAAAJ,{'indices'},,William T. Freeman,,30311,118,81,312,242,0,0
+428169,"AutoX, Inc.",,18036,vuKz6WcAAAAJ,{'indices'},,Jianxiong Xiao,,15096,38,35,51,46,0,0
+428170,"Professor of Computer Science, U.C. Berkeley",,138076,bh-uRFMAAAAJ,{'indices'},,Trevor Darrell,,103131,132,98,367,274,0,0
+428171,"Georgia Tech, Facebook AI Research",,23434,ijpYJQwAAAAJ,{'indices'},,Devi Parikh,,20405,60,57,136,123,0,0
+428172,DeepMind,,2765,1JQDH_AAAAAJ,{'indices'},,Daniel Zoran,,2197,17,16,21,20,0,0
+428173,Adobe Research,,6334,0B8uuBkAAAAJ,{'indices'},,Oliver Wang,,5320,35,31,64,57,0,0
+428174,Adobe Research,,20876,B_FTboQAAAAJ,{'indices'},,Eli Shechtman,,12290,49,43,86,84,0,0
+428175,UC Berkeley,,10177,nABXo3sAAAAJ,{'indices'},,Eric Tzeng,,9317,17,17,20,20,0,0
+428176,Boston University & MIT-IBM Watson AI Lab,,25622,9xDADY4AAAAJ,{'indices'},,Kate Saenko,,22884,60,55,111,99,0,0
+428177,"Professor of Neural Science, New York University",,6860,fKsY32YAAAAJ,{'indices'},,Bijan Pesaran,,2673,31,23,55,44,0,0
+428178,"Distinguished Professor of Physics and Neurobiology, UCSD",,23228,hYlrJuAAAAAJ,{'indices'},,David Kleinfeld,,8271,80,50,183,137,0,0
+428179,"Professor, Dept. of Psychology, Hunter College, CUNY",,3440,7xtc3igAAAAJ,{'indices'},,Ofer Tchernichovski,,1528,26,19,38,31,0,0
+428180,"Professor of Neuroscience, California Institute of Technology",,44019,dStlpmoAAAAJ,{'indices'},,Richard Andersen,,8125,102,48,225,140,0,0
+428181,"Professor of Physics and Astronomy, Rutgers University",,5593,pnVpHL0AAAAJ,{'indices'},,Anirvan M. Sengupta,,1221,35,20,57,28,0,0
+428182,"Columbia University, Boston University",,8650,NiafcgoAAAAJ,{'indices'},,Robert L Kleinberg,,2722,50,28,125,67,0,0
+428183,"Professor of Neuroscience, Massachusetts Institute of Technology (MIT)",,10142,nelvBCQAAAAJ,{'indices'},,Michale S Fee,,3626,48,32,65,59,0,0
+428184,"Professor,  ex Canada Research Chair, Statistics, Queen's Univ., Kingston",,11809,kl9XzJgAAAAJ,{'indices'},,David J Thomson,,2948,44,20,97,41,0,0
+428185,"Xi'an Jiaotong-Liverpool University, Department of Physics",,645,Fae1xu0AAAAJ,{'indices'},,Pascal Grange,,408,10,6,10,3,0,0
+428186,"Assistant Professor, Communication Science and Disorders, University of Pittsburgh",,2179,VJdkP-QAAAAJ,{'indices'},,Jason W Bohland,,959,15,12,19,14,0,0
+428187,"Group Leader, HHMI, Janelia Farm Research Campus",,60495,HTuwJ_EAAAAJ,{'indices'},,svoboda k and svoboda karel,,25865,112,79,172,163,0,0
+428188,"Michael Raskin Andrews, LLC",,21676,DPN1D6H0DZ8C,{'indices'},,MR Andrews,,3688,24,16,27,18,0,0
+428189,"Professor of Neuroscience, NYU Medical School",,69458,RR2nf7kAAAAJ,{'indices'},,Rodolfo R. Llinas,,8872,130,46,422,169,0,0
+428190,"Professor and BC LEEF Chair, Director BCNI Institute, SFU and UBC, Vancouver, Canada.",,9310,8gaDiggAAAAJ,{'indices'},,Urs Ribary,,1973,36,19,56,33,0,0
+428191,"University Colorado, Denver",,3017,zLHo8tgAAAAJ,{'indices'},,Eugene Kronberg,,1013,20,14,24,16,0,0
+428192,"Investigator, Allen Institute for Brain Science",,25283,xWhtmvAAAAAJ,{'indices'},,Michael Hawrylycz,,15360,47,41,77,67,0,0
+428193,"University of Warwick, Department of Psychology",,1027,q3Y7vQsAAAAJ,{'indices'},,Olga Feher,,569,8,8,8,8,0,0
+428194,University of California at Santa Barbara,,7365,cxseOKEAAAAJ,{'indices'},,Bassam Bamieh,,2229,36,21,88,42,0,0
+428195,"Neurosurgery Professor, Center for Ultrasound Functional Neurosurgery, SoniModul",,7840,o01tMbQAAAAJ,{'indices'},,Daniel Jeanmonod,,2879,43,24,65,41,0,0
+428196,"Professeur des universités, Université Paris Nanterre",,1181,FTSOoEEAAAAJ,{'indices'},,Sébastien Derégnaucourt,,454,18,13,21,15,0,0
+428197,"Professor of Computer Science, Heriot-Watt University, Edinburgh",,18459,6jNgTK4AAAAJ,{'indices'},,David Corne,,4760,52,29,156,69,0,0
+428198,"Professor in Decision Sciences & Alan Turing Fellow, The University of Manchester",,4519,Ya3hxoEAAAAJ,{'indices'},,Julia Handl,,1444,26,17,38,26,0,0
+428199,University of Liverpool,,56613,DOrAFFEAAAAJ,{'indices'},,Douglas Kell,,17900,116,67,465,269,0,0
+428200,"University of Birmingham, UK",,19486,oE2lZlAAAAAJ,{'indices'},,Warwick Dunn,,10106,61,48,123,107,0,0
+428201,"College Manager, College of Natural Sciences",,2867,3dT3UTwAAAAJ,{'indices'},,Antony Halsall,,1548,12,8,12,7,0,0
+428202,"Professor, Biostatistics & Clinical Data Science, School of Science, Edith Cowan University",,14084,M3_zZwUAAAAJ,{'indices'},,David Broadhurst,,6946,48,39,73,68,0,0
+428203,"Department of Biochemistry and Systems Biology, ISMIB, University of Liverpool",,36393,Dszi0U8AAAAJ,{'indices'},,Roy Goodacre,,17264,96,64,375,275,0,0
+428204,"FNRS Research Director, IRIDIA, Université Libre de Bruxelles",,119591,PwYT6EMAAAAJ,{'indices'},,Marco Dorigo,,33760,109,64,335,222,0,0
+428205,"Imperial College, London",,37824,gyBADL4AAAAJ,{'indices'},,Ian D Wilson,,13022,86,51,391,157,0,0
+428206,"Head of Research, Lucerne University of Applied Sciences and Arts",,51284,GW8tPekAAAAJ,{'indices'},,Eckart Zitzler,,18878,57,35,95,67,0,0
+428207,"Computer Officer, MIB & School of Chemistry, University of Manchester",,1555,rjGvYzMAAAAJ,{'indices'},,Steve O'Hagan,,899,15,15,20,19,0,0
+428208,"Senior Lecturer at The University of Manchester, UK",,374,0OymvgcAAAAJ,{'indices'},,Richard Allmendinger,,258,12,9,13,9,0,0
+428209,"Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State University",,156226,paTAXiIAAAAJ,{'indices'},,Kalyanmoy Deb,,63939,122,77,573,413,0,0
+428210,"Professor of Computer Engineering, ETH Zurich",,61213,OaAKHewAAAAJ,{'indices'},,Lothar Thiele,,21941,86,50,362,201,0,0
+428211,Department of Chemistry,,1783,3-aSsPIAAAAJ,{'indices'},,Mark Platt,,1042,27,19,45,37,0,0
+428212,"Professor of Cancer Genomics and Data Science, University of Manchester",,29281,gt9DERIAAAAJ,{'indices'},,David C Wedge,,23598,57,54,100,92,0,0
+428213,"Professor of Molecular Biology, University of Manchester",,13006,fRg9XLwAAAAJ,{'indices'},,Simon Lovell,,5495,36,25,63,46,0,0
+428214,University of Southampton,,5157,DBDLLYQAAAAJ,{'indices'},,Richard A. Watson,,1512,35,18,71,31,0,0
+428215,"Head of Bioimaging, GlaxoSmithKline",,8336,UdJBwJMAAAAJ,{'indices'},,Dr Andrew W Nicholls,,4148,30,17,45,24,0,0
+428216,Edge Hill University,,305,QCqywjEAAAAJ,{'indices'},,Robert Lyon,,299,8,8,7,6,0,0
+428217,"Technical University of Denmark, DTU Compute",,6541,6Y_3isIAAAAJ,{'indices'},,Jan Larsen,,2268,43,26,116,50,0,0
+428218,"Associate Professor, DTU Compute, Technical University of Denmark",,6031,9cagBQYAAAAJ,{'indices'},,Finn Årup Nielsen,,2621,34,22,54,33,0,0
+428219,Professor of medical biophysics,,10876,XB_kBoQAAAAJ,{'indices'},,Stephen Strother,,3357,55,30,152,83,0,0
+428220,"Section for Cognitive Systems, Technical University of Denmark",,3817,RQonsgMAAAAJ,{'indices'},,Morten Mørup,,1950,27,21,59,42,0,0
+428221,"Biology, Univ of Copenhagen, Genomic Medicine, Rigshospitalet and Technical University of Denmark",,11246,7VAwhzUAAAAJ,{'indices'},,Ole Winther,,7745,49,40,122,92,0,0
+428222,"Danish Research for Magnetic Resonance, Copenhagen University Hospital Hvidovre",,5294,2SFcdW0AAAAJ,{'indices'},,Kristoffer Hougaard Madsen,,2990,30,24,59,53,0,0
+428223,"Neurobiology Research Unit, Rigshospitalet",,6334,dBR97SAAAAAJ,{'indices'},,Claus Svarer,,2738,47,29,106,75,0,0
+428224,Novo Nordisk A/S,,714,_ug9GaoAAAAJ,{'indices'},,Carsten Stahlhut,,459,10,8,10,8,0,0
+428225,"Signal Processing R&D, Widex (Hearing Aids)",,4410,lr2VY9YAAAAJ,{'indices'},,Magnus Nørgaard,,894,17,10,28,10,0,0
+428226,"Centre for Neuropsychiatric Schizophrenia Research, Mental Health Centre Glostrup, Denmark",,10787,cP8Y1ewAAAAJ,{'indices'},,Egill Rostrup,,4187,59,36,131,107,0,0
+428227,"Professor of Mathematics, San Diego State University",,18388,NW6S4b4AAAAJ,{'indices'},,Peter Salamon,,6016,55,37,132,78,0,0
+428228,"Rigshospitalet, Copenhagen University, Denmark",,29366,SAuaHZ0AAAAJ,{'indices'},,Olaf B. Paulson,,5766,94,38,325,134,0,0
+428229,Technical University of Denmark,,4717,9N7hwcwAAAAJ,{'indices'},,Ole Ravn,,1159,21,12,38,17,0,0
+428230,"Senior Research Scientist, Bispebjerg Hospital",,4747,5i93vvkAAAAJ,{'indices'},,Peter Alshede Philipsen,,2486,36,26,87,65,0,0
+428231,"Senior Research Officer, National Research Council Canada",,6626,AzjgnpsAAAAJ,{'indices'},,Cyril Goutte,,2546,37,22,72,38,0,0
+428232,Industry Fellow DTU Entrepreneurship,,476,qR0gmxIAAAAJ,{'indices'},,"Michael Kai Petersen, PhD",,269,9,8,8,6,0,0
+428233,"Associate Professor, Cognitive Systems, DTU Compute, Technical University of Denmark",,1236,EztREm4AAAAJ,{'indices'},,Jakob Eg Larsen,,857,16,15,23,20,0,0
+428234,"Professor of Psychiatry, Copenhagen University & Consultant Psychiatry West, Slagelse",,1933,5TtQ_yUAAAAJ,{'indices'},,Sidse M Arnfred,,802,21,15,42,20,0,0
+428235,Waymo,,1579,zGuKpwQAAAAJ,{'indices'},,Arkadiusz Stopczynski,,1291,18,16,19,17,0,0
+428236,Technical University of Denmark,,2450,IjF4ExkAAAAJ,{'indices'},,Mikkel N. Schmidt,,1265,24,16,39,28,0,0
+428237,"Optum; Charlottesville, VA.  Formerly IBM, Austin, TX.",,38547,SsNoxCoAAAAJ,{'indices'},,Rick Hamilton II,,21385,70,52,1062,590,0,0
+428238,IBM,,13645,yBbR79QAAAAJ,{'indices'},,Paul A Moskowitz,,3807,62,34,175,91,0,0
+428239,IBM Research,,1874,JI1pCocAAAAJ,{'indices'},,James Kozloski,,1019,23,17,41,27,0,0
+428240,IBM T.J. Watson Research Center,,3514,f-0eNrMAAAAJ,{'indices'},,Maja Vukovic,,2104,24,19,73,49,0,0
+428241,Co-founder & CTO,,2655,7puE-78AAAAJ,{'indices'},,Ashish Kundu,,1607,25,20,57,44,0,0
+428242,"Ressearcher, IBM T.J. Watson",,18506,hDnjeooAAAAJ,{'indices'},,Dimitri Kanevsky,,7829,70,45,215,155,0,0
+428243,"IBM Research, Queen's University, Canada",,1038,lHXu6nkAAAAJ,{'indices'},,"Kommy Weldemariam, Master Inventor...",,739,17,13,36,23,0,0
+428244,AMD Research,,8490,WlSlofgAAAAJ,{'indices'},,Valentina Salapura,,4950,36,29,235,171,0,0
+428245,retired@Minneapolis,,11243,e5yN9ewAAAAJ,{'indices'},,Thomas Erickson,,2557,49,25,113,64,0,0
+428246,IBM,,4114,89tPMzQAAAAJ,{'indices'},,Lisa Seacat DeLuca,,3126,28,24,104,80,0,0
+428247,"Evan Pugh University Professor, Pennsylvania State University",,28757,wC7o_VAAAAAJ,{'indices'},,Akhlesh Lakhtakia,,6635,71,31,668,166,0,0
+428248,"CNRS, UCSD, Paul Sabatier university, CerCo, TMBI, Institute of Noetic Sciences",,26181,Wmxh4LkAAAAJ,{'indices'},,Arnaud Delorme,,14656,45,38,77,66,0,0
+428249,"CNRS Researcher (CR1), Cerco (CNRS-UT3), TMBI (Univ. Toulouse)",,3618,fkzUZ-oAAAAJ,{'indices'},,Timothée Masquelier,,2630,24,22,31,29,0,0
+428250,"Research Director, CNRS, CerCo, ANITI, TMBI, Univ. Toulouse",,12622,1pwyaYgAAAAJ,{'indices'},,Rufin VanRullen,,6011,49,38,102,84,0,0
+428251,Oxford Centre for Computational Neuroscience and University of Warwick,,98552,4tIgOKsAAAAJ,{'indices'},,Edmund T Rolls,,24165,166,78,523,354,0,0
+428252,Brainchip Inc,,1010,YWyq-6cAAAAJ,{'indices'},,Sébastien Crouzet,,693,10,10,10,10,0,0
+428253,"CNRS Researcher, CRCA (CNRS-UT3), TMBI (Univ. Toulouse)",,4721,x5FiTjQAAAAJ,{'indices'},,Jacques Gautrais,,1878,35,23,48,36,0,0
+428254,Professeur Université Pierre et Marie Curie,,5302,ne6KP6YAAAAJ,{'indices'},,Michel Imbert,,523,31,12,57,14,0,0
+428255,"CNRS Research Director (DR2), CerCo (CNRS-UT3), TMBI (Univ. Toulouse)",,2481,Rq1TC_0AAAAJ,{'indices'},,Yves TROTTER,,578,23,13,37,18,0,0
+428256,CNRS & Ecole normale supérieure,,3520,5hZVAoAAAAAJ,{'indices'},,Daniel Pressnitzer,,1523,33,23,63,49,0,0
+428257,"Research fellow - CNRS, IRIT, TMBI (Univ. Toulouse)",,1646,IdBfqCwAAAAJ,{'indices'},,Marc J-M. Macé,,642,18,13,22,14,0,0
+428258,"CNRS Researcher (CR1), Cerco (CNRS-UT3), TMBI (Univ. Toulouse)",,3208,AmzveXIAAAAJ,{'indices'},,Simona Celebrini,,663,17,11,19,12,0,0
+428259,"CerCo, CNRS",,336,0YpVSZMAAAAJ,{'indices'},,Adrien Brilhault,,188,5,4,5,4,0,0
+428260,"Senior Lecturer, Institute of Neuroscience and Psychology, University of Glasgow",,5382,REViqVUAAAAJ,{'indices'},,Guillaume Rousselet,,2611,40,31,48,42,0,0
+428261,University of St Andrews,,60286,1kt2b0wAAAAJ,{'indices'},,David Perrett,,16336,125,72,291,234,0,0
+428262,"CNRS, IPAL, IRIT, Cherchons pour Voir, TMBI (Univ. Toulouse)",,2028,OVUHrMAAAAAJ,{'indices'},,"Christophe Jouffrais, PhD, Senior rese...",,1211,25,19,48,36,0,0
+428263,INT (UMR 7289) / CNRS - Aix-Marseille Université,,2630,TVyUV38AAAAJ,{'indices'},,Laurent Perrinet,,1289,24,17,41,24,0,0
+428264,"SARC, School of Arts, English and Languages, Queen's University Belfast",,650,cCE7MiMAAAAJ,{'indices'},,Trevor R. Agus,,445,13,12,15,14,0,0
+428265,"Research Director, Institut ∂’Alembert (Sorbonne Université, CNRS)",,3804,KBJXqecAAAAJ,{'indices'},,Brian FG Katz,,2084,31,23,87,62,0,0
+428266,Department of Computer Science (University of Tehran),,880,tK6cb1AAAAAJ,{'indices'},,Mohammad Ganjtabesh,,830,12,11,12,11,0,0
+428267,"CNRS Research Director (DR2), Cerco (CNRS-UT3), TMBI (Univ. Toulouse)",,4238,1yJkTi4AAAAJ,{'indices'},,Emmanuel J. Barbeau,,2248,38,29,72,59,0,0
+428268,Beihang University,,1745,gGqnRJsAAAAJ,{'indices'},,Xia Mao,,1134,22,16,47,30,0,0
+428269,Knexus Research,,488,DFxCAE8AAAAJ,{'indices'},,Michael W. Floyd,,315,12,9,13,9,0,0
+428270,Drexel University,,2047,wdnc2IsAAAAJ,{'indices'},,Rosina Weber,,699,20,9,42,9,0,0
+428271,University of Maryland,,20697,fez4ulcAAAAJ,{'indices'},,Dana Nau,,4525,62,26,204,70,0,0
+428272,"Professor of Computer Science, U.S. Naval Academy",,1266,IB3-oE0AAAAJ,{'indices'},,Luke McDowell,,316,19,10,23,11,0,0
+428273,Palo Alto Research Center,,1033,sHcFH0YAAAAJ,{'indices'},,Matt Klenk,,510,17,11,27,16,0,0
+428274,"PhD Student, Lehigh University",,251,dRshFvYAAAAJ,{'indices'},,ULIT JAIDEE,,120,7,7,7,7,0,0
+428275,"Bloomberg Distinguished Professor, Johns Hopkins University",,235057,sUVeH-4AAAAJ,{'indices'},,Steven Salzberg,,120487,145,101,295,235,0,0
+428276,"full professor Computer Science, Tilburg University",,4230,sB4vyswAAAAJ,{'indices'},,Pieter Spronck,,1769,33,21,73,44,0,0
+428277,Google Inc.,,164,9k31iVQAAAAJ,{'indices'},,David C. Uthus,,94,6,5,6,2,0,0
+428278,"Associate Professor, Department of EECS, University of Central Florida",,3611,087P6LMAAAAJ,{'indices'},,Gita Sukthankar,,1820,28,18,71,41,0,0
+428279,"Professor of Biomedical Engineering, Computer Science and Bioinformatics, Boston University",,44408,SBNZBMUAAAAJ,{'indices'},,Simon Kasif,,10845,53,30,121,62,0,0
+428280,"Professor of Computer Science, University of Western Ontario",,9274,eFJ_tVsAAAAJ,{'indices'},,Charles X. Ling,,4033,42,27,104,52,0,0
+428281,"Assoc. Prof. of Computer Science, University of Auckland",,6848,LGbGGxUAAAAJ,{'indices'},,Ian Watson,,1423,30,16,59,20,0,0
+428282,"Professor of Computer Science, Free University of Bozen-Bolzano",,20301,vK7a7K8AAAAJ,{'indices'},,Francesco Ricci,,11210,54,38,189,118,0,0
+428283,"Associate Professor Emerita of Computer Science, Ohio University",,1734,zeBniq4AAAAJ,{'indices'},,Cindy Marling,,831,21,16,32,23,0,0
+428284,"Professor of Computer Science and Statistics, Purdue University",,9490,6CTPn44AAAAJ,{'indices'},,Jennifer Neville,,4154,40,27,88,61,0,0
+428285,Adobe Research,,3871,_Dc6lbQAAAAJ,{'indices'},,Ryan A. Rossi,,3372,33,29,70,61,0,0
+428286,"Computer Engineering, King Fahd University or Petroleum & Minerals",,812,9i7W9koAAAAJ,{'indices'},,Mohammed Houssaini Sqalli,,394,14,9,19,9,0,0
+428287,IBM,,5488,d-Wad6EAAAAJ,{'indices'},,J. William Murdock,,2581,26,18,55,36,0,0
+428288,"Chief AI Officer@WeBank, Chair Prof.@HKUST, IJCAI President 2017-19, AAAI-21 General Chair",,66074,1LxWZLQAAAAJ,{'indices'},,Qiang Yang (杨强）,,38157,111,74,457,313,0,0
+428289,"Senior Investigator, Cancer Data Science Lab, National Cancer Institute, NIH",,19072,O8wbTncAAAAJ,{'indices'},,Cenk Sahinalp,,8938,52,38,111,85,0,0
+428290,Assistant Professor at University of California - Davis,,32928,yTTJKNQAAAAJ,{'indices'},,Fereydoun Hormozdiari,,21530,40,33,55,52,0,0
+428291,"Director, Englander Institute for Precision Medicine, Weill Cornell Medicine",,25567,IP7KtcQAAAAJ,{'indices'},,Olivier Elemento,,21309,77,68,213,204,0,0
+428292,"Professor of Genome Sciences, University of Washington",,162319,kwJHmyMAAAAJ,{'indices'},,Evan Eichler,,69043,171,116,432,370,0,0
+428293,"Computational Oncology, Memorial Sloan Kettering Cancer Center",,507,lHM6ZCwAAAAJ,{'indices'},,Pegah Khosravi,,416,9,9,9,9,0,0
+428294,Memorial Sloan Kettering Cancer Center,,3787,oBK7mFEAAAAJ,{'indices'},,The Phuong Dao,,2386,16,16,21,20,0,0
+428295,Assistant Professor at University of British Columbia,,2382,UcJU-z8AAAAJ,{'indices'},,Faraz Hach,,1637,21,19,28,26,0,0
+428296,"Bilkent University, Ankara, Turkey",,48586,wo5_FngAAAAJ,{'indices'},,Can Alkan,,27790,55,44,85,78,0,0
+428297,"Professor of Computer Science, Princeton University",,36208,GhvZjJUAAAAJ,{'indices'},,Ben Raphael,,26934,56,50,108,97,0,0
+428298,Google,,912,kdyalCwAAAAJ,{'indices'},,Ehsan Kazemi,,819,13,12,14,13,0,0
+428299,Massachusetts Institute of Technology,,660,xhQ-t1UAAAAJ,{'indices'},,Deniz Yorukoglu,,364,10,9,10,9,0,0
+428300,"Post Doctoral Fellow, University of British Columbia",,9305,_-vDPMQAAAAJ,{'indices'},,Andrew McPherson,,6633,30,27,37,36,0,0
+428301,Natera Inc,,2548,7dAISKYAAAAJ,{'indices'},,Raheleh Salari,,2069,22,17,32,28,0,0
+428302,"Stanford University, MIT",,503,StNh8KoAAAAJ,{'indices'},,Victoria Popic,,394,6,6,5,5,0,0
+428303,"PhD Candidate, Weill Cornell Medicine",,153,rbpHutAAAAAJ,{'indices'},,Camir Ricketts,,153,5,5,5,5,0,0
+428304,European Bioinfomatics Institute,,48670,RlUI4SMAAAAJ,{'indices'},,Laura Clarke,,24669,50,45,65,63,0,0
+428305,Baylor College of Medicine,,46535,1Z8SOakAAAAJ,{'indices'},,Fuli Yu,,22322,35,30,52,46,0,0
+428306,"Associate Professor of Molecular and Cellular Biology, University of Arizona",,6534,BVYbQKkAAAAJ,{'indices'},,Ryan Gutenkunst,,3664,28,23,37,35,0,0
+428307,"Associate Professor, McGill University",,28271,0wQ8O80AAAAJ,{'indices'},,Simon Gravel,,18334,32,28,43,40,0,0
+428308,"Professor of Human Genetics, University of Utah",,78999,9XnituQAAAAJ,{'indices'},,Gabor T Marth,,53308,50,43,83,70,0,0
+428309,"Assistant Professor Open Data, Delft University of Technology",,5087,qmAD2KcAAAAJ,{'indices'},,Anneke Zuiderwijk - van Eijk,,4188,29,25,48,41,0,0
+428310,"Professor of Public Administration & Digitalisation, Leiden University",,1796,CYiwiDcAAAAJ,{'indices'},,Bram Klievink,,1128,20,18,36,24,0,0
+428311,"Professor, Digital Governance, University of the Aegean, Greece",,5430,ha97fGMAAAAJ,{'indices'},,Yannis Charalabidis,,3539,34,24,95,63,0,0
+428312,"Professor of Digital Governance, University of Bradford",,9717,kQLnbqsAAAAJ,{'indices'},,Vishanth Weerakkody,,6435,51,39,131,102,0,0
+428313,"Professor of Digital Marketing and Innovation, Swansea University",,23564,SQ_uDYIAAAAJ,{'indices'},,Yogesh K. Dwivedi,,19087,82,75,300,253,0,0
+428314,TNO,,793,vPRKSDYAAAAJ,{'indices'},,Anne Fleur van Veenstra,,475,14,11,23,15,0,0
+428315,"Professor, Nottingham Business School",,3788,yUV0xwgAAAAJ,{'indices'},,George Kuk,,1448,22,18,31,21,0,0
+428316,"Professor for E-Government, University of Koblenz-Landau",,3758,QvZLlC8AAAAJ,{'indices'},,Maria A. Wimmer,,1154,30,18,92,38,0,0
+428317,Wuhan University,,457,Of644_IAAAAJ,{'indices'},,Yiwei Gong,,333,11,9,11,8,0,0
+428318,"Professor of Infromation and Communication Technology, Delft University of Technology",,5822,gEnxTlEAAAAJ,{'indices'},,Yao-Hua Tan,,1579,35,17,120,40,0,0
+428319,"Assistant Professor, Delft University of Technology",,1281,fUmUfVkAAAAJ,{'indices'},,Haiko van der Voort,,944,13,12,15,13,0,0
+428320,"Assistant Professor, Delft University of Technology",,731,TUxwXkEAAAAJ,{'indices'},,Jolien Ubacht,,685,8,7,6,5,0,0
+428321,Researcher in Informatics at Örebro University,,754,vPYRYLMAAAAJ,{'indices'},,Iryna Susha,,649,13,12,14,13,0,0
+428322,"Phd Candidate, Delft University",,566,kV0f5YcAAAAJ,{'indices'},,Ricardo Matheus,,445,13,11,17,13,0,0
+428323,"Professor, University of Washington",,7621,363jklIAAAAJ,{'indices'},,Hans Jochen Scholl,,4332,38,25,77,53,0,0
+428324,"Assistant Professor, Utrecht University",,588,JEmkfmsAAAAJ,{'indices'},,Sietse Overbeek,,295,12,9,17,8,0,0
+428325,"Professor in Digital Marketing and Head of International Business, Marketing and Branding",,10011,Ax6fYwQAAAAJ,{'indices'},,"Nripendra P. Rana, PhD, SFHEA",,9492,49,47,116,113,0,0
+428326,TU Delft,,229,n5Yc8zUAAAAJ,{'indices'},,Paul Brous,,224,10,10,10,10,0,0
+428327,"Faculty of Technology, Policy and Management, Delft University of Technology",,2947,10ckFqYAAAAJ,{'indices'},,Joris Hulstijn,,722,25,13,64,23,0,0
+428328,"Postdoc Researcher, University of the Aegean",,554,CuBsGUcAAAAJ,{'indices'},,Charalampos Alexopoulos,,506,12,11,14,13,0,0
+428329,"University of Bologna, Italy",,5826,909_HP8AAAAJ,{'indices'},,Silvia Bernardini,,2423,29,22,43,34,0,0
+428330,"Full professor in linguistics, Università di Pisa",,5695,IRmgHlUAAAAJ,{'indices'},,ALESSANDRO LENCI,,2987,35,23,108,64,0,0
+428331,"Research Scientist, DeepMind",,2451,BMgUIC0AAAAJ,{'indices'},,Angeliki Lazaridou,,2295,21,20,30,30,0,0
+428332,"Senior scientist, Manager, Amazon AWS",,2857,pGf2XBwAAAAJ,{'indices'},,Georgiana Dinu,,2237,17,13,22,18,0,0
+428333,Naver Labs Europe,,2316,uU3rQI8AAAAJ,{'indices'},,Germán Kruszewski,,2093,13,13,15,14,0,0
+428334,University of Trento,,2449,bMavvosAAAAJ,{'indices'},,Raffaella Bernardi,,1717,19,14,31,20,0,0
+428335,"Professor of Corpus Linguistics, FAU Erlangen-Nürnberg",,5591,OTn4ZMAAAAAJ,{'indices'},,Stefan Evert,,2431,36,24,75,49,0,0
+428336,"Department of Psychology, University of Milano-Bicocca",,2273,ztm4vPgAAAAJ,{'indices'},,Marco Marelli,,1811,20,18,35,32,0,0
+428337,University of Osnabrück,,3206,Oyb3NYgAAAAJ,{'indices'},,Elia Bruni,,2836,16,15,18,17,0,0
+428338,"ICREA Research Professor, Universitat Pompeu Fabra",,1990,NFJ9kUEAAAAJ,{'indices'},,Gemma Boleda,,1289,22,16,44,27,0,0
+428339,"Professor of Computational Linguistics, Queen Mary University",,10750,89aa1X0AAAAJ,{'indices'},,Massimo Poesio,,3432,53,32,173,79,0,0
+428340,"Loria, CNRS",,622,eGZWAekAAAAJ,{'indices'},,Denis Paperno,,520,12,12,16,14,0,0
+428341,"Director (✝2015), Lexical Computing Ltd",,12712,O6_44PwAAAAJ,{'indices'},,Adam Kilgarriff,,4664,50,30,117,69,0,0
+428342,"Assistant Professor of Psychology and Data Science, New York University",,4714,vspmOX8AAAAJ,{'indices'},,Brenden Lake,,4541,16,15,23,21,0,0
+428343,Facebook,,285,8PE1wjQAAAAJ,{'indices'},,Eugene Kharitonov,,247,11,10,13,11,0,0
+428344,Facebook AI Research and CoML,,84,jYN2eXEAAAAJ,{'indices'},,rahma chaabouni,,83,6,6,4,3,0,0
+428345,"Researcher, Fondazione Bruno Kessler",,4168,Y5cnBycAAAAJ,{'indices'},,Luisa Bentivogli,,2484,26,19,43,31,0,0
+428346,University of Trento,,474,r74QddMAAAAJ,{'indices'},,Nghia The Pham,,376,7,7,7,7,0,0
+428347,Harvard Medical School,,10399,4v73L2AAAAAJ,{'indices'},,Artem Sokolov,,7409,20,18,26,21,0,0
+428348,Ribon Therapeutics,,4101,37lwQxMAAAAJ,{'indices'},,Mario Niepel,,2522,28,24,35,33,0,0
+428349,Harvard Medical School,,35519,wS6Ii_cAAAAJ,{'indices'},,Peter K. Sorger,,13641,100,58,204,173,0,0
+428350,"NantHealth, Inc.",,4731,kIQKK6UAAAAJ,{'indices'},,Yulia Newton,,4688,15,15,17,17,0,0
+428351,Columbia ,,30751,NxBuRgcAAAAJ,{'indices'},,Andrea Califano,,14643,75,57,180,135,0,0
+428352,"Scientific Director, UC Santa Cruz Genomics Institute, University of California, Santa Cruz",,238152,S2OjOvYAAAAJ,{'indices'},,David Haussler,,103204,171,114,352,268,0,0
+428353,"PhD Student, UCSC-Bioinformatics",,1973,ZD6asmgAAAAJ,{'indices'},,vladislav uzunangelov,,1696,13,12,13,12,0,0
+428354,University of Florida,,3934,m2i3aHwAAAAJ,{'indices'},,Kiley Graim,,3622,11,11,12,12,0,0
+428355,Genentech,,1825,_ABF-_QAAAAJ,{'indices'},,Marc Hafner,,1575,20,20,27,26,0,0
+428356,"Assistant Professor of Chemical Engineering, University of Southern California",,1583,B1WsZjsAAAAJ,{'indices'},,Nicholas A Graham,,1152,16,14,19,17,0,0
+428357,"Assistant Professor, University of Minnesota",,1567,hmvHbL8AAAAJ,{'indices'},,Justin M. Drake,,1067,19,18,22,20,0,0
+428358,Professor of Medicine and Cellular and Molecular Biology,,58409,k9B2zgsAAAAJ,{'indices'},,Matthew Ellis,,31493,97,75,265,207,0,0
+428359,Anthem Inc.,,23250,VfUdus8AAAAJ,{'indices'},,Theodore Goldstein,,15245,24,18,36,25,0,0
+428360,"UCSD, San Diego Supercomputer Center",,2683,GHX6SGYAAAAJ,{'indices'},,MANO R MAURYA,,1296,27,19,38,32,0,0
+428361,Dow Chemical Company,,581,JhDsXwgAAAAJ,{'indices'},,Pradeep Suresh,,222,10,7,10,6,0,0
+428362,Intel,,261,zLW3YIAAAAAJ,{'indices'},,Venkata Sai Pavan Kumar Akkisetty,,93,6,5,6,4,0,0
+428363,PSE for SPEED; KAIST; Texas A&M University,,19625,zpXSGaIAAAAJ,{'indices'},,Rafiqul Gani,,9071,68,48,282,186,0,0
+428364,Oak Ridge National Laboratory,,1479,z0RgXQoAAAAJ,{'indices'},,Kris Villez,,870,22,16,39,28,0,0
+428365,University of Minnesota,,6683,xshINGsAAAAJ,{'indices'},,Aditya Bhan,,4716,44,38,92,85,0,0
+428366,"Purdue University, Intel, Bayer",,262,3K5TvGgAAAAJ,{'indices'},,Aviral Shukla,,106,6,5,6,3,0,0
+428367,Lund University,,9434,OZIadUUAAAAJ,{'indices'},,Karl-Erik Arzen,,2448,39,22,96,37,0,0
+428368,Idaho National Laboratory,,1358,Iwce1soAAAAJ,{'indices'},,Craig Rieger,,935,16,14,23,19,0,0
+428369,"Prof. Automatic Control, Lund university, Sweden",,1000,lwmHmKgAAAAJ,{'indices'},,Charlotta Johnsson,,549,16,11,28,12,0,0
+428370,Imperial College,,24948,Cvv27xEAAAAJ,{'indices'},,Nilay Shah,,15546,79,58,330,249,0,0
+428371,Columbia University,,36,dUp4EZgAAAAJ,{'indices'},,Zhizun Zhang,,34,3,3,2,2,0,0
+428372,"Professor in Automatic Control, Lund University",,27073,qzGsdrQAAAAJ,{'indices'},,Tore Hägglund,,8291,53,33,120,77,0,0
+428373,"Columbia University, Brookhaven National Laboratory",,7677,aYHtwgYAAAAJ,{'indices'},,Oleg Gang,,3955,43,30,94,65,0,0
+428374,University of Michigan - Ann Arbor,,222,BRl557sAAAAJ,{'indices'},,Thi Vo,,203,5,5,5,5,0,0
+428375,Professor of Biomedical Engineering and Chemical & Biochemical Engineering,,7019,HwnPxTMAAAAJ,{'indices'},,Ioannis (Yannis) P. Androulakis,,2670,42,26,137,82,0,0
+428376,"Professor of Chemical Engineering, University of South Carolina",,4974,xEx5mT0AAAAJ,{'indices'},,Jochen Lauterbach,,1460,39,18,88,42,0,0
+428377,Universidad Anáhuac Querétaro,,157,hIQs7x0AAAAJ,{'indices'},,Isaac Monroy Chora,,91,7,6,3,2,0,0
+428378,"Associate Professor, Chemical Engineering Department, Universitat Politècnica de Catalunya",,2283,mM0F0SMAAAAJ,{'indices'},,Moisès Graells,,1275,26,18,58,33,0,0
+428379,"Associate Professor, CU Boulder / Chief Scientist, NREL",,6186,a5ZHSRsAAAAJ,{'indices'},,Bri-Mathias Hodge,,5319,41,39,108,98,0,0
+428380,University of Virginia,,8958,MNJ-E9UAAAAJ,{'indices'},,Anil Vullikanti (V. S. Anil Kumar),,3685,39,25,100,67,0,0
+428381,"Research Professor,   Biocomplexity Institute, University of Virginia",,7121,XG2aNyYAAAAJ,{'indices'},,S. S. Ravi,,1903,41,24,107,53,0,0
+428382,"Professor, BioComplexity Institute & Initiative, University of Virginia",,13143,OEjgtVsAAAAJ,{'indices'},,Stephen Eubank,,4216,37,27,76,59,0,0
+428383,"Biocomplexity Institute and Initiative, Dept. of Computer Science, University of Virginia",,3626,wuKMx_kAAAAJ,{'indices'},,Christopher L. Barrett,,926,32,17,60,29,0,0
+428384,"Biocomplexity Institute and Initiative, University of Virginia",,7965,RNHJqvcAAAAJ,{'indices'},,Daniel J. Rosenkrantz,,1268,39,18,83,29,0,0
+428385,"Senior Research Scientist, Virginia Tech",,2333,7u8xsKMAAAAJ,{'indices'},,Keith R Bisset,,873,27,17,47,29,0,0
+428386,"Biocomplexity, University of Virginia",,3178,iBoF0nYAAAAJ,{'indices'},,Bryan Lewis,,1999,25,19,40,35,0,0
+428387,"Professor of Computer Science, University of Maryland",,14942,sPzla6IAAAAJ,{'indices'},,Aravind Srinivasan,,5630,61,34,149,105,0,0
+428388,"Professor, University of Virginia",,3108,em5k9PgAAAAJ,{'indices'},,Achla Marathe,,1586,27,19,56,33,0,0
+428389,University of Virginia,,1243,NuZ3UOIAAAAJ,{'indices'},,Jiangzhuo Chen,,741,19,15,30,22,0,0
+428390,"Biocomplexity Institute and Initiative, University of Virginia",,1412,qEXn1-8AAAAJ,{'indices'},,Samarth Swarup,,874,19,16,31,24,0,0
+428391,"Biocomplexity Institute and Initiative, University of Virginia",,1077,i978YfcAAAAJ,{'indices'},,Chris J. Kuhlman,,696,18,13,26,18,0,0
+428392,"Professor of Mathematics, University of Kaiserslautern",,2766,j6eVlwsAAAAJ,{'indices'},,Sven Krumke,,723,28,15,61,26,0,0
+428393,Texas A&M University - Kingsville,,1734,C9anqj8AAAAJ,{'indices'},,Maleq Khan,,729,19,16,31,21,0,0
+428394,Carnegie Mellon Unviersity,,9820,_vjPh4UAAAAJ,{'indices'},,R Ravi,,2478,52,25,151,82,0,0
+428395,"Research Scientist, Biocomplexity Institute, Univ. of Virginia",,390,kVvcbN0AAAAJ,{'indices'},,Srinivasan Venkatramanan,,368,10,9,11,9,0,0
+428396,"Thomas L. Phillips Professor; Director, @SanghaniCtrVT, Virginia Tech",,9416,fMJwG7MAAAAJ,{'indices'},,Naren Ramakrishnan,,5133,53,37,201,130,0,0
+428397,"Professor, Computer Science, Northeastern University",,5196,WEQF9DgAAAAJ,{'indices'},,Ravi Sundaram,,2199,34,21,60,36,0,0
+428398,"Biocomplexity Institute & Initiative, University of Virginia",,634,qaLuzFIAAAAJ,{'indices'},,Abhijin Adiga,,533,13,11,18,13,0,0
+428399,Johns Hopkins Center for Health Security,,1514,OSrbWZ0AAAAJ,{'indices'},,Caitlin Rivers,,1275,16,15,20,19,0,0
+428400,"Professor of Computer Science and Engineering, Aalto University",,65863,5m2QIMQAAAAJ,{'indices'},,Erkki Oja,,13582,73,35,221,87,0,0
+428401,"Department of Computer Science and Engineering, Shanghai Jiao Tong University",,955,Yewd61kAAAAJ,{'indices'},,SHIKUI TU,,801,16,15,24,17,0,0
+428402,"Professor of Cognitive Science and Computer Science, Johns Hopkins University",,62531,FJ-huxgAAAAJ,{'indices'},,Alan Yuille,,34106,109,75,373,259,0,0
+428403,"Associate Professor, Chinese Academy of Sciences",,4484,SyfRzpEAAAAJ,{'indices'},,Zhi-Yong Liu,,3082,31,25,84,60,0,0
+428404,"Professor of Electrical Engineering and Computer Sciences and Professor of Statistics, UC Berkeley",,204810,yxUduqMAAAAJ,{'indices'},,Michael I. Jordan,,95414,178,124,608,467,0,0
+428405,The Chinese University of Hong Kong,,20095,MXvC7tkAAAAJ,{'indices'},,Irwin King,,11314,64,45,237,151,0,0
+428406,"Professor of Computer Science and Engineering, Lappeenranta-Lahti University of Technology (LUT)",,5027,0FEARkUAAAAJ,{'indices'},,Heikki Kälviäinen,,1801,31,18,80,34,0,0
+428407,Citadel LLC,,191,s3dUf_EAAAAJ,{'indices'},,Lei Shi,,92,6,3,5,3,0,0
+428408,"Research Fellow, University of Queensland",,528,6qKZtMQAAAAJ,{'indices'},,Xuelei Hu,,271,11,8,11,6,0,0
+428409,,,59306,cH2eTqAAAAAJ,{'indices'},,Amari S*,,14085,102,49,364,165,0,0
+428410,"Emeritus Prof. Comp Sci, U.Toronto & Engineering Fellow, Google",,425873,JicYPdAAAAAJ,{'indices'},,Geoffrey Hinton,,305479,162,116,368,268,0,0
+428411,City University of Hong Kong,,8124,AjuxtsEAAAAJ,{'indices'},,Chuangyin Dang,,4270,44,34,115,78,0,0
+428412,"Department of Computer Science, The University of Manchester",,2808,-pGdSi4AAAAJ,{'indices'},,Ke Chen,,1215,27,18,57,35,0,0
+428413,"Professor, Institute of Technoglogy Management, National Chung Hsing University",,1220,QCWu-0AAAAAJ,{'indices'},,John Sum,,353,18,10,33,11,0,0
+428414,"Professor of Computer Science, University of California, Los Angeles",,105183,bAipNH8AAAAJ,{'indices'},,Judea Pearl,,32543,105,64,327,188,0,0
+428415,"Professor of National Lab of Radar Signal Processing, Xidian University",,2299,Y6RTaMQAAAAJ,{'indices'},,Lan Du,,1432,25,22,50,35,0,0
+428416,Nara Institute of Science and Technology,,1506,_EqD1gUAAAAJ,{'indices'},,Kazushi IKEDA,,849,18,13,41,23,0,0
+428417,IBM,,12917,QQVlcOUAAAAJ,{'indices'},,hamid pirahesh,,1850,45,19,75,33,0,0
+428418,"Professor of Computer Science, ETH Zürich, Switzerland",,23720,fkNjVcIAAAAJ,{'indices'},,Gustavo Alonso,,5276,75,40,230,118,0,0
+428419,"Professor of Computer Science, UC Santa Barbara",,20829,tNmIw4MAAAAJ,{'indices'},,Amr El Abbadi,,5038,73,35,256,103,0,0
+428420,"Distinguished Professor of Computer Science, UCSB",,27552,XcaEg-cAAAAJ,{'indices'},,Divyakant Agrawal,,7739,83,43,368,164,0,0
+428421,"Manager of Disruptive Information Management Architectures, IBM Almaden Research Center",,12385,wUkamYwAAAAJ,{'indices'},,Guy Lohman,,2959,56,29,117,78,0,0
+428422,Google,,2920,crbl5UMAAAAJ,{'indices'},,Mehmet Altinel,,356,17,8,20,8,0,0
+428423,University of Massachusetts Amherst,,12431,e9qUUSgAAAAJ,{'indices'},,Laura Haas,,2593,48,23,80,38,0,0
+428424,Google,,4487,5Ec8ENMAAAAJ,{'indices'},,Sailesh Krishnamurthy,,1203,23,16,28,19,0,0
+428425,"Professor  of Computer Science, University of Cyprus",,4823,-vDufqgAAAAJ,{'indices'},,George Samaras,,1185,33,16,107,39,0,0
+428426,Professor of Computer Science at Yale University,,37587,-YvgZDEAAAAJ,{'indices'},,A Silberschatz,,5978,85,30,274,81,0,0
+428427,"Technical Fellow, Microsoft Research",,135230,XPdhXUUAAAAJ,{'indices'},,Rakesh Agrawal,,28606,111,55,342,206,0,0
+428428,HKUST,,8438,SqAsppUAAAAJ,{'indices'},,Qiong Luo,,2434,36,24,79,46,0,0
+428429,Researcher at INRIA SACLAY-Île de France -  France,,2212,AQJggUwAAAAJ,{'indices'},,Luc Bouganim,,476,24,12,45,17,0,0
+428430,Inria,,19424,Vj0m2A0AAAAJ,{'indices'},,Patrick Valduriez,,4069,56,26,203,65,0,0
+428431,IBM Watson Technology Group,,482,j0I7vSkAAAAJ,{'indices'},,Ru Fang,,228,11,8,14,5,0,0
+428432,Google,,24638,H-VmFU4AAAAJ,{'indices'},,Jeffrey Naughton,,4579,79,38,202,110,0,0
+428433,"Jim Gray Professor of Computer Science, UC Berkeley",,47232,uFJi3IUAAAAJ,{'indices'},,Joseph Hellerstein,,12388,96,55,220,138,0,0
+428434,Google,,3714,JzoifEMAAAAJ,{'indices'},,Fatma Ozcan,,1335,29,17,60,29,0,0
+428435,ITU,,596,JTmMb3kAAAAJ,{'indices'},,Pınar Tözün,,408,13,12,15,13,0,0
+428436,Humboldt-Universität zu Berlin,,6455,yVGyEzIAAAAJ,{'indices'},,Johann-Christoph Freytag,,1811,30,16,63,27,0,0
+428437,"Senior Scientist, Institute for Infocomm Research",,2205,Hji1uWQAAAAJ,{'indices'},,Wu Min,,1633,21,19,35,31,0,0
+428438,Nanyang Technological University,,5336,jVn0wDMAAAAJ,{'indices'},,Chee Keong KWOH,,3121,37,26,108,70,0,0
+428439,"Institute of Data Science and School of Computing, National University of Singapore",,4676,_wsommYAAAAJ,{'indices'},,See-Kiong Ng,,1825,34,23,73,38,0,0
+428440,"Distinguished Professor, University of Illinois at Chicago",,70914,Kt1bjZoAAAAJ,{'indices'},,Bing Liu,,37284,97,75,253,192,0,0
+428441,Baidu Research,,980,X341DZYAAAAJ,{'indices'},,Peng Yang,,808,14,13,18,17,0,0
+428442,Monash University,,7795,TNy6B64AAAAJ,{'indices'},,Shonali Krishnaswamy,,3706,39,26,104,53,0,0
+428443,Tencent,,5442,HPeX_YcAAAAJ,{'indices'},,Peilin Zhao,,4394,35,35,81,77,0,0
+428444,"Professor of Computer Science, University of Illinons at Chicago",,135852,D0lL1r0AAAAJ,{'indices'},,Philip S. Yu,,54380,169,98,1163,780,0,0
+428445,Lead Data Scientist at AIDA Technologies,,1281,SYoqG6QAAAAJ,{'indices'},,Minh Nhut Nguyen,,1041,13,8,15,8,0,0
+428446,"Associate Professor, School of Information Science and Technology, ShanghaiTech University",,1759,evC66XkAAAAJ,{'indices'},,Jie Zheng,,1093,21,16,41,29,0,0
+428447,Nanyang Technological University,,12553,WFFamJkAAAAJ,{'indices'},,Gao Cong,,8078,57,47,137,114,0,0
+428448,"Alibaba-NTU Singapore Joint Research Institute, Nanyang Technological University",,1109,IY24geQAAAAJ,{'indices'},,Yong Liu,,1027,12,12,12,12,0,0
+428449,"Professor, Department of Computer Science, National University of Singapore",,12844,8PCrLgwAAAAJ,{'indices'},,Wee Sun Lee,,5518,48,34,95,71,0,0
+428450,Nanyang Technological University,,886,GxMZygQAAAAJ,{'indices'},,Jian-Ping Mei,,665,13,12,19,15,0,0
+428451,"Head of Data Science, EY Advisory Pte Ltd, Singapore",,1365,n9wYYn8AAAAJ,{'indices'},,Hong Cao (曹鸿),,995,19,14,26,19,0,0
+428452,"PhD Student, Nanyang Technological University",,366,5zVp10IAAAAJ,{'indices'},,Ali Ezzat,,366,6,6,6,6,0,0
+428453,Institute for Infocomm Research,,1253,AgbeqGkAAAAJ,{'indices'},,Chuan-Sheng Foo,,871,14,13,17,16,0,0
+428454,"Professor of Data Mining, Tsinghua University",,17757,n1zDCkQAAAAJ,{'indices'},,Tang Jie,,10874,66,52,227,188,0,0
+428455,"Department of Chemistry, Southern University of Science and Technology",,2208,L6ZWnJ8AAAAJ,{'indices'},,Chris Soon Heng Tan,,768,23,14,28,15,0,0
+428456,Nanyang Technological University,,645,7B8-COsAAAAJ,{'indices'},,Tuan-Anh Nguyen Pham,,631,8,8,8,8,0,0
+428457,AMD Research,,8490,WlSlofgAAAAJ,{'indices'},,Valentina Salapura,,4950,36,29,235,171,0,0
+428458,"Distinguished Engineer, IBM Corp.",,6752,UJAoE-AAAAAJ,{'indices'},,Eric M. Schwarz,,2949,38,28,144,87,0,0
+428459,Facebook,,7895,TkEeRsoAAAAJ,{'indices'},,Maged M Michael,,3186,39,26,101,68,0,0
+428460,IBM,,4963,E2kFvGAAAAAJ,{'indices'},,Erik Altman,,1638,32,24,74,47,0,0
+428461,IBM,,1753,-9VIKakAAAAJ,{'indices'},,John-David Wellman,,519,21,14,33,17,0,0
+428462,Researcher at IBM T.J. Watson Research Center,,4362,aSyndx8AAAAJ,{'indices'},,Alexandre Eichenberger,,1787,33,21,85,56,0,0
+428463,"IBM, TU Delft",,7785,tXuF72wAAAAJ,{'indices'},,H Peter Hofstee,,1551,37,16,104,44,0,0
+428464,Global Supercomputing Corporation,,6774,3HuPmuAAAAAJ,{'indices'},,Kemal Ebcioglu,,1702,35,22,59,30,0,0
+428465,"Haley Family Professor of Computer Science, Harvard University",,17157,vXHA_XYAAAAJ,{'indices'},,David Brooks,,6171,56,39,144,103,0,0
+428466,GE Research,,5759,B23LNnMAAAAJ,{'indices'},,Abhinav Saxena,,3563,42,30,71,60,0,0
+428467,"Schlumberger, Software Technology and Innovation Center",,3714,RC3TO0EAAAAJ,{'indices'},,Jose Celaya,,2080,31,25,54,41,0,0
+428468,Palo Alto Research Center,,10103,TM0Y6I8AAAAJ,{'indices'},,Bhaskar Saha,,5342,47,33,154,110,0,0
+428469,"Senior Scientist at NASA Ames Research Center (KBR, Inc)",,1044,OzMg9VMAAAAJ,{'indices'},,Chetan S. Kulkarni,,712,17,14,28,21,0,0
+428470,Auburn University,,18740,XhLlc7MAAAAJ,{'indices'},,Pradeep Lall,,9426,48,33,191,115,0,0
+428471,"Principal Applied AI Research Scientist, PARC",,2560,H29lcbkAAAAJ,{'indices'},,Matthew J. Daigle,,1291,28,20,66,38,0,0
+428472,"Data Scientist and Machine Learning, Intuit",,2424,ZdF5iTsAAAAJ,{'indices'},,Shankar Sankararaman,,1834,29,24,47,43,0,0
+428473,GE Global Research Center,,3032,-eUJEuAAAAAJ,{'indices'},,"Weizhong Yan, PhD, PE",,1898,26,18,72,41,0,0
+428474,"Independent Consultant, Former Chief Scientist at GE Global Research",,11441,w3qWSHoAAAAJ,{'indices'},,Piero P. Bonissone,,2822,57,27,170,68,0,0
+428475,"AI Scientist, Software Technology Innovation Center, Schlumberger",,1603,65YthzIAAAAJ,{'indices'},,Indranil Roychoudhury,,911,24,17,45,28,0,0
+428476,Cornelius Vanderbilt Professor of Engineering; Professor of  Computer Science and Engineering,,13610,-m5wrTkAAAAJ,{'indices'},,Gautam Biswas,,4634,56,32,276,111,0,0
+428477,Auburn University,,525,VfcsGqMAAAAJ,{'indices'},,Ryan Lowe,,238,13,9,16,8,0,0
+428478,"Professor of Mechancial Engineering, University of California at Berkeley",,12692,G-xTgkgAAAAJ,{'indices'},,Alice M. AGOGINO,,4759,53,29,188,79,0,0
+428479,University of Chile,,4063,1SHHThYAAAAJ,{'indices'},,Marcos Orchard,,2413,32,26,68,58,0,0
+428480,Arizona State University,,3881,DFp1dCEAAAAJ,{'indices'},,Yongming Liu,,2566,35,28,80,73,0,0
+428481,"Auburn University, Department of Mechanical Engineering",,10279,a7KZTE4AAAAJ,{'indices'},,Jeffrey C. Suhling,,4459,54,35,189,111,0,0
+428482,University of Granada,,602,yfkiBCcAAAAJ,{'indices'},,JUAN CHIACHIO RUANO,,497,11,11,14,12,0,0
+428483,Gas Technology Institute,,276,6FFsymMAAAAJ,{'indices'},,Tishun Peng,,230,8,7,7,5,0,0
+428484,University of Maryland College Park,,616,y6PeCh0AAAAJ,{'indices'},,Nishad K Patil,,316,11,7,11,7,0,0
+428485,"Senior Machine Learning Researcher, GE Global Research",,1316,WXYKyqgAAAAJ,{'indices'},,Feng (Fred) Xue,,583,20,12,26,16,0,0
+428486,"Associate Professor, Queen Mary University of London",,12041,mncnnOAAAAAJ,{'indices'},,Maged Elkashlan,,10660,55,51,137,124,0,0
+428487,Assistant Professor in Queen Mary University of London,,7198,FxLf7ZAAAAAJ,{'indices'},,Yuanwei Liu,,7120,40,39,84,83,0,0
+428488,King's College London,,1937,pgHOKSQAAAAJ,{'indices'},,Yansha Deng,,1910,24,24,53,53,0,0
+428489,"Associate Professor at Tsinghua University, IEEEFellow",,9954,_VDYtKMAAAAJ,{'indices'},,Feifei Gao,,6962,52,45,180,143,0,0
+428490,Assistant Professor in Queen Mary University of London,,2860,pPiFJ2EAAAAJ,{'indices'},,Cunhua Pan,,2813,29,28,60,60,0,0
+428491,"University of Manchester, Fellow of IEEE, Web of Science Highly Cited Researcher",,27639,V-nB8scAAAAJ,{'indices'},,Zhiguo Ding,,24902,80,73,305,278,0,0
+428492,National University of Singapore,,4212,EOAeH98AAAAJ,{'indices'},,Hari Krishna Garg,,1271,26,16,51,23,0,0
+428493,Southeast University,,1103,7Th-e2wAAAAJ,{'indices'},,Hong Ren,,1084,17,17,24,24,0,0
+428494,"Durham University, UK",,3093,1xfh33oAAAAJ,{'indices'},,Hongjian Sun,,2368,29,26,53,44,0,0
+428495,"Aristotle University of Thessaloniki, Greece",,22578,7FZ1r94AAAAJ,{'indices'},,George K. Karagiannidis,,15013,82,62,281,224,0,0
+428496,"Professor, University of Science and Technology Beijing",,7543,B3oYgSIAAAAJ,{'indices'},,Haijun Zhang,,6948,39,36,100,96,0,0
+428497,"IEEE Fellow & Highly Cited Researcher, UESTC, China",,33271,HybIiJ8AAAAJ,{'indices'},,Ying-Chang Liang,,14725,87,62,321,217,0,0
+428498,"Research Associate, Shenzhen University, China",,1032,rfhrifoAAAAJ,{'indices'},,Hong Xing,,972,16,15,20,19,0,0
+428499,"Chair of Telecommunications, University of Southampton",,56520,p0jnEW0AAAAJ,{'indices'},,L Hanzo,,27221,95,71,926,495,0,0
+428500,"Professor of Queen's Uni. Belfast, Research Chair - Royal Academy of Engineering",,11740,PwsDdmEAAAAJ,{'indices'},,Trung Q. Duong,,9459,60,52,224,187,0,0
+428501,Northumbria University,,1621,4VwoNj0AAAAJ,{'indices'},,Kezhi Wang,,1567,22,22,37,36,0,0
+428502,King's College London,,740,0UGoMJEAAAAJ,{'indices'},,Stergios Stotas,,317,6,6,6,6,0,0
+428503,Ngee Ann Polytechnic,,342,oKcjhngAAAAJ,{'indices'},,The-Hanh Pham,,131,8,6,8,4,0,0
+428504,Dalian University of Technology,,6243,Xq8A1xcAAAAJ,{'indices'},,Nan Zhao (赵楠),,5829,42,39,100,92,0,0
+428505,Postdoctoral Researcher in Queen Mary University of London,,181,E_mERHMAAAAJ,{'indices'},,Wenqiang Yi,,180,6,6,5,5,0,0
+428506,Aalborg University/ Milestone Systems,,2030,EqjkO6sAAAAJ,{'indices'},,Kamal Nasrollahi,,1748,22,21,44,39,0,0
+428507,"Associate professor, Aalborg University",,815,WqLUZY8AAAAJ,{'indices'},,Rikke Gade,,701,11,10,12,11,0,0
+428508,"Distinguished Professor ECE, Univ California, San Diego, Director CVRR and LISA Labs",,30084,LkONrRAAAAAJ,{'indices'},,Mohan Trivedi,,12927,83,57,372,204,0,0
+428509,"PhD fellow, Aalborg University",,1315,OuMmK7kAAAAJ,{'indices'},,Andreas Møgelmose,,1029,16,14,20,19,0,0
+428510,"Associate Professor, Aalborg University",,1035,LnazFM0AAAAJ,{'indices'},,Michael Boelstoft Holte,,446,14,11,15,11,0,0
+428511,"Full Professor, ICREA Academia, University of Barcelona, Computer Vision Center UAB, ELLIS Fellow",,7511,oI6AIkMAAAAJ,{'indices'},,Sergio Escalera,,5700,47,39,147,122,0,0
+428512,Lund University,,7349,tClxJM4AAAAJ,{'indices'},,Volker Krueger,,2247,30,19,59,36,0,0
+428513,RadioAnalyzer,,403,BolyVGAAAAAJ,{'indices'},,Mohammad A. Haque,,345,13,11,18,12,0,0
+428514,"Postdoc, Aalborg University",,221,yYLn6okAAAAJ,{'indices'},,Chris H. Bahnsen,,197,7,7,6,6,0,0
+428515,"Professor of Computer Vision & Graphics,  University of Surrey",,10574,vTIYTNQAAAAJ,{'indices'},,Adrian Hilton,,3529,44,27,151,83,0,0
+428516,"Universitat Autònoma de Barcelona, Computer Vision Center",,4065,Lphp7WUAAAAJ,{'indices'},,Jordi Gonzàlez,,2141,34,24,81,46,0,0
+428517,PostDoc at Aalborg University's Visual Analysis and Perception Laboratory,,257,p2f_-EcAAAAJ,{'indices'},,Mark Philip Philipsen,,250,6,6,5,4,0,0
+428518,PhD Fellow at Aalborg University,,315,ghSME2gAAAAJ,{'indices'},,Morten Bornø Jensen,,306,6,6,6,5,0,0
+428519,"Professor of Computer Vision, iCV Research Lab, Institute of Technology, University of Tartu",,4029,6gN67JAAAAAJ,{'indices'},,Gholamreza Anbarjafari (Shahab),,2868,27,26,74,69,0,0
+428520,Research Assistant,,267,eVvzLowAAAAJ,{'indices'},,Ramin Irani,,254,8,8,8,8,0,0
+428521,"Associate Professor, lektor, Aalborg University",,1217,YJBJR6wAAAAJ,{'indices'},,Claus Brøndgaard Madsen,,289,20,9,36,9,0,0
+428522,"Postdoc at Department for Materials and Production, Aalborg University",,493,FYF56ZcAAAAJ,{'indices'},,Rasmus S. Andersen,,464,10,9,10,9,0,0
+428523,"Researcher, machine learning group at UiT the Arctic University of Norway",,173,ONvqLPYAAAAJ,{'indices'},,Huamin Ren,,97,6,5,6,3,0,0
+428524,"Professor Emeritus, Ulster University",,3777,U5bPoGgAAAAJ,{'indices'},,Professor Paul Mc Kevitt,,1602,22,13,50,15,0,0
+428525,"Assoc. Prof. of Computer Science and AI, ESAIP, Universit´e d’Angers;",,533,hl8Jyr4AAAAJ,{'indices'},,Pejman Rasti,,508,13,13,18,18,0,0
+428526,"Professor of Computer Science, University of Waikato",,36289,PEv3OQUAAAAJ,{'indices'},,Bernhard Pfahringer,,18214,52,40,114,85,0,0
+428527,University of Waikato,,82246,0rwvyVEAAAAJ,{'indices'},,Geoffrey Holmes,,33240,52,42,103,76,0,0
+428528,École Polytechnique,,5400,4gNCRFAAAAAJ,{'indices'},,Jesse Read,,4019,30,28,44,40,0,0
+428529,"Professor, Faculty of Economics, University of Porto",,17212,jjoTZfoAAAAJ,{'indices'},,Joao Gama,,10862,58,45,204,149,0,0
+428530,Universitat Politècnica de Catalunya,,5714,rOr0CbMAAAAJ,{'indices'},,Ricard Gavaldà,,2860,31,20,73,36,0,0
+428531,University of Helsinki,,5519,yyXBot4AAAAJ,{'indices'},,Indrė Žliobaitė,,4353,33,28,53,43,0,0
+428532,"Senior Research Fellow, Department of Computer Science, University of Waikato",,817,DYVIl8oAAAAJ,{'indices'},,Heitor Murilo Gomes,,792,13,12,17,16,0,0
+428533,Microsoft Research,,3354,AT83JzIAAAAJ,{'indices'},,Philipp Kranen,,1993,17,12,19,13,0,0
+428534,"Télécom Paris, Institut Polytechnique de Paris",,1135,EFFJOMkAAAAJ,{'indices'},,Talel Abdessalem,,775,16,11,26,14,0,0
+428535,"Professor of Computer Science, Ludwig-Maximilians-Universität München (LMU Munich), Germany",,10957,0fOi9KkAAAAJ,{'indices'},,Thomas Seidl,,4345,48,30,146,83,0,0
+428536,"Deloitte Analytics Institute, Germany",,2072,HYJWiL8AAAAJ,{'indices'},,Hardy Kremer,,1257,12,8,13,6,0,0
+428537,"Senior Researcher, ISI Foundation",,2292,R0JCEqMAAAAJ,{'indices'},,Gianmarco De Francisci Morales,,1921,21,20,40,36,0,0
+428538,Tencent Medical AI Lab,,22371,QvAC0OEAAAAJ,{'indices'},,Wei Fan,,11001,64,48,185,142,0,0
+428539,"Programa de Pós-Graduação em Informática (PPGIa), Pontifícia Universidade Católica do Paraná",,762,ir58bWkAAAAJ,{'indices'},,Jean Paul Barddal,,747,12,12,13,13,0,0
+428540,"Professor, Department of Computer Science, University of Waikato",,86976,dUV_NvIAAAAJ,{'indices'},,Eibe Frank,,34813,56,47,96,84,0,0
+428541,Eindhoven University of Technology,,8680,F0uFT_kAAAAJ,{'indices'},,Mykola Pechenizkiy,,5605,40,31,113,74,0,0
+428542,Pontificia Universidade Católica do Paraná,,1521,LjsK1HgAAAAJ,{'indices'},,Fabrício Enembreck,,1047,17,13,39,19,0,0
+428543,Universidad de Málaga,,737,S3vv9DgAAAAJ,{'indices'},,Manuel Baena García,,436,8,5,6,2,0,0
+428544,Universidad de Málaga,,967,fbvI_T4AAAAJ,{'indices'},,José del Campo Ávila,,621,10,7,11,7,0,0
+428545,"Catedrático de Lenguajes y Sistemas Informáticos, Universidad de Málaga",,1252,MIh0zKgAAAAJ,{'indices'},,Rafael Morales-Bueno,,673,14,7,19,7,0,0
+428546,"Professor or Radiology, New York University School of Medicine",,9171,jXurNNoAAAAJ,{'indices'},,Yulin Ge,,3146,44,31,69,57,0,0
+428547,"Chairman of Neurosurgery, NYU School of Medicine",,8776,XdNdxfQAAAAJ,{'indices'},,John G. Golfinos,,3793,44,33,95,70,0,0
+428548,"Director, Zilkha Neurogenetic Institute, University of Southern California",,51423,GqI1Ma4AAAAJ,{'indices'},,Berislav Zlokovic,,24038,107,71,259,195,0,0
+428549,"Assistant Professor, USC Stevens Neuroimaging and Informatics Institute",,982,aHdy93UAAAAJ,{'indices'},,Farshid Sepehrband,,886,14,13,20,17,0,0
+428550,University of Southern California,,4131,AF-q73IAAAAJ,{'indices'},,Melanie D. Sweeney,,4025,18,18,20,20,0,0
+428551,Huntington Medical Research Institutes,,7006,aQY05pkAAAAJ,{'indices'},,Michael Harrington,,2948,39,24,90,40,0,0
+428552,Chancellor's Fellow & UK DRI Group Leader,,4210,dRTfpRoAAAAJ,{'indices'},,Axel Montagne,,3841,29,26,34,32,0,0
+428553,Stanford University,,76430,CwIqWgIAAAAJ,{'indices'},,"Max Wintermark, MD, MAS",,48747,82,62,320,281,0,0
+428554,"Director, 4D Quantitative Imaging Lab, Keck Medical Center of USC",,1159,Sd4hREoAAAAJ,{'indices'},,Darryl Hwang,,869,17,17,23,23,0,0
+428555,"Professor of Electrical and Computer Engineering, University of Southern California",,7749,HdgP06oAAAAJ,{'indices'},,Krishna S Nayak,,3614,44,31,118,83,0,0
+428556,"Assistant Professor, Loma Linda University",,1832,S6lx9-sAAAAJ,{'indices'},,Samuel Barnes,,1479,15,13,16,14,0,0
+428557,"Medical Doctor, University of Southern California",,236,yb2x6csAAAAJ,{'indices'},,Giuseppe Barisano,,234,7,7,5,5,0,0
+428558,Children's Hospital Los Angeles,,165,ONqW-ScAAAAJ,{'indices'},,Niharika Gajawelli,,138,5,5,4,4,0,0
+428559,Yale University,,856,0mnwAzQAAAAJ,{'indices'},,Sophie Chheang,,342,6,5,5,5,0,0
+428560,"Genoa, Milan, New York",,12576,KEU-ZaEAAAAJ,{'indices'},,Matilde Inglese,,6511,55,39,135,103,0,0
+428561,University of Southern California,,4792,YNXb7hAAAAAJ,{'indices'},,Steven Cen,,3018,34,26,70,57,0,0
+428562,"Vice Chair of Clinical Affairs, Emory University School of Medicine",,2464,KmZFgDcAAAAJ,{'indices'},,"Amit Saindane, MD, MBA",,1728,25,23,39,36,0,0
+428563,University of Southern California,,1697,FPFVDJYAAAAJ,{'indices'},,Matthew R. Halliday,,1571,7,7,6,6,0,0
+428564,"Professor of Bioengineering, Radiology, University of Pennsylvania",,3544,1x2nwykAAAAJ,{'indices'},,Rahim Rizi,,1410,30,17,77,33,0,0
+428565,"Lab of Neuro Imaging, Stevens Neuroimaging and Informatics Institute, Keck School of Medicine of USC",,772,R5Jr4-UAAAAJ,{'indices'},,Ryan P. Cabeen,,669,17,15,27,26,0,0
+428566,"Emeritus Professor of Computer Science, University of Ottawa",,6427,mFbRWwMAAAAJ,{'indices'},,Stanislaw Szpakowicz,,2705,35,21,96,36,0,0
+428567,Dalhousie University - Researcher,,353,jIUXpdoAAAAJ,{'indices'},,Erico N de Souza,,318,9,8,8,8,0,0
+428568,University of Alberta,,11619,3_002c0AAAAJ,{'indices'},,Robert Holte,,3513,42,25,107,58,0,0
+428569,University of Ottawa (Computer Science),,6248,66pwIBcAAAAJ,{'indices'},,Diana Inkpen,,3750,37,29,94,69,0,0
+428570,"Professor of Computer Science, University of Victoria",,4702,g_D5hzcAAAAJ,{'indices'},,David G Goodenough,,1118,26,12,76,17,0,0
+428571,National Research Council Canada,,6105,PDSU_EIAAAAJ,{'indices'},,Svetlana Kiritchenko,,4949,33,30,40,38,0,0
+428572,Professor,,5957,CZ_Pd3YAAAAJ,{'indices'},,Gregory Kersten,,1038,41,16,98,32,0,0
+428573,"Professor of Software Engineering and Computer Science, University of Ottawa, Canada",,7439,1sqvSQkAAAAJ,{'indices'},,Timothy Lethbridge,,2177,37,22,116,52,0,0
+428574,"Assistant Professor, Institute of Computing Science, Poznan University of Technology",,2210,6DISHLIAAAAJ,{'indices'},,Szymon Wilk,,965,25,16,45,25,0,0
+428575,National Research Council,,1209,18Jyo3oAAAAJ,{'indices'},,Jiang Su,,477,16,11,17,11,0,0
+428576,"Professor of Computer Science, University of Western Ontario",,9274,eFJ_tVsAAAAJ,{'indices'},,Charles X. Ling,,4033,42,27,104,52,0,0
+428577,"Professor of Computer Science, Federal University of Lavras",,1520,fOSxeRIAAAAJ,{'indices'},,Ahmed Ali Abdalla Esmin,,699,14,11,21,11,0,0
+428578,Team Lead at Innodata Labs,,3240,7L89jZIAAAAJ,{'indices'},,David Nadeau,,1685,10,7,10,5,0,0
+428579,Technological University Dublin,,948,DqWlsvgAAAAJ,{'indices'},,Dympna O'Sullivan,,666,16,14,24,17,0,0
+428580,"Professor of Computer Science, State University of Ceará",,1261,9VrXXEYAAAAJ,{'indices'},,Dr Jerffeson Teixeira de Souza,,670,19,12,32,22,0,0
+428581,"Istituto di Scienza e Tecnologie dell'Informazione, Consiglio Nazionale delle Ricerche (ISTI-CNR)",,25763,WZBcZV4AAAAJ,{'indices'},,Fabrizio Sebastiani,,9693,43,27,92,54,0,0
+428582,Ronin Institute,,24794,-B4voPsAAAAJ,{'indices'},,Peter Turney,,10333,44,33,70,44,0,0
+428583,"Professor of Artificial Intelligence, Department of Computer Science, University of Bristol",,13124,o9ggd4sAAAAJ,{'indices'},,Peter Flach,,5349,56,35,143,90,0,0
+428584,Nottingham University,,917,cQBrGaIAAAAJ,{'indices'},,Venanzio Capretta,,267,15,8,22,7,0,0
+428585,"Director, Navy Center for Applied Research in AI, Naval Research Laboratory",,19588,V6bim9AAAAAJ,{'indices'},,David W. Aha,,5121,51,26,169,86,0,0
+428586,Vienna University of Economics and Business (WU - Wirtschaftsuniversität Wien),,12734,R-SmVOYAAAAJ,{'indices'},,Axel Polleres,,3780,59,32,168,96,0,0
+428587,Coherent Knowledge,,10263,oc50gmEAAAAJ,{'indices'},,Benjamin Grosof,,1499,36,12,63,16,0,0
+428588,"Principal Researcher and Leader of the Semantic Web Laboratory, National Research Council Canada",,8182,exJPwRQAAAAJ,{'indices'},,Harold Boley,,1915,35,16,83,26,0,0
+428589,"STI Innsbruck, University Innsbruck",,36944,MKgl6f4AAAAJ,{'indices'},,Dieter Fensel,,5135,80,28,275,80,0,0
+428590,"Emeritus Professor of Computer Science, Stony Brook University",,7727,6DDwarUAAAAJ,{'indices'},,David Scott Warren,,791,43,15,92,21,0,0
+428591,"Professor of Computer Science, Assoc. Dean of Research, College of Engr. & Applied Sciences",,5814,FgfwY_UAAAAJ,{'indices'},,IV Ramakrishnan,,1094,42,17,126,35,0,0
+428592,"Professor, Arizona State University",,2658,P9IivpwAAAAJ,{'indices'},,Hasan Davulcu,,896,28,15,52,19,0,0
+428593,Stony Brook University,,1577,84-hNncAAAAJ,{'indices'},,Paul Fodor,,764,14,9,17,9,0,0
+428594,"Professor für Informatik, Universität Freiburg",,10793,wzKbqkcAAAAJ,{'indices'},,Georg Lausen,,2712,40,22,83,32,0,0
+428595,"SINTEF AS / University of Oslo, Norway",,5480,-B2n3KsAAAAJ,{'indices'},,Dumitru Roman,,961,29,15,55,19,0,0
+428596,IBM research AI,,357,nO12Ns8AAAAJ,{'indices'},,Hui Wan,,109,6,5,6,3,0,0
+428597,Birkbeck University of London and Oxford-Man Institute of Quantitative Finance,,4909,GfDVWmEAAAAJ,{'indices'},,Andrea Calì,,1474,28,17,55,25,0,0
+428598,"Professor of Informatics, University of Oxford",,25325,i72_SkUAAAAJ,{'indices'},,Georg Gottlob,,6214,79,41,255,126,0,0
+428599,,,13361,SrzM-boAAAAJ,{'indices'},,David Martin,,2742,44,22,62,28,0,0
+428600,"Professor of Computer Science, University of Zurich",,11882,ZYNjTykAAAAJ,{'indices'},,Abraham Bernstein,,3840,55,33,136,82,0,0
+428601,"Senior Lecturer, University of Portsmouth",,4823,L8mziwoAAAAJ,{'indices'},,Dr. Jacek Kopecký,,925,22,13,37,14,0,0
+428602,"University of the West of England, Bristol",,1083,k3bLaFAAAAAJ,{'indices'},,Steve Battle,,161,13,7,16,5,0,0
+428603,"Professor of Computer Science, Stony Brook University",,3670,YGDOoXAAAAAJ,{'indices'},,C.R. Ramakrishnan,,636,32,13,72,19,0,0
+428604,"Principal Engineer, Raytheon BBN Technologies",,8354,egNY03WW9woJ,{'indices'},,Mike Dean,,2352,20,12,29,13,0,0
+428605,New York University,,15057,sSzAlq0AAAAJ,{'indices'},,Juliana Freire,,5796,59,37,158,102,0,0
+428606,"CNRS Research Director (DRCE2), CerCo (CNRS-UT3), TMBI (Univ. Toulouse), France, BrainChip Inc",,20294,uR-7ex4AAAAJ,{'indices'},,Simon J. Thorpe,,6358,59,39,108,82,0,0
+428607,Chief Scientist and President,,136343,JYt9T_sAAAAJ,{'indices'},,Christof Koch,,48349,155,89,612,372,0,0
+428608,"CNRS, UCSD, Paul Sabatier university, CerCo, TMBI, Institute of Noetic Sciences",,26181,Wmxh4LkAAAAJ,{'indices'},,Arnaud Delorme,,14656,45,38,77,66,0,0
+428609,"CNRS Researcher (CR1), Cerco (CNRS-UT3), TMBI (Univ. Toulouse)",,3550,jaEkolUAAAAJ,{'indices'},,Leila Reddy,,1426,18,15,22,21,0,0
+428610,"Associate Professor, CNRS and Université de Paris",,663,6k0FSRwAAAAJ,{'indices'},,Laura Dugué,,558,10,9,10,9,0,0
+428611,Scientist at Kernel; Visitor at Caltech,,2321,gXSgHdkAAAAJ,{'indices'},,Julien Dubois,,1677,15,15,17,16,0,0
+428612,"University of Muenster, Institute of Psychology",,5121,KeT84ZAAAAAJ,{'indices'},,Niko Busch,,2987,32,23,57,44,0,0
+428613,"Professor of Computer Science, Stanford University",,120844,rDfyQnIAAAAJ,{'indices'},,Li Fei-Fei,,95141,113,99,257,247,0,0
+428614,California Institute of Technology,,101356,j29kMCwAAAAJ,{'indices'},,Pietro Perona,,48761,106,68,284,191,0,0
+428615,"Senior Research Fellow, Glendon College, Research Professor, Dartmouth College",,24682,F7JpbeQAAAAJ,{'indices'},,Patrick Cavanagh,,6886,76,41,232,131,0,0
+428616,"CNRS, Centre de Recherche Cerveau et Cognition",,1193,0SlPWloAAAAJ,{'indices'},,Benedikt Zoefel,,937,11,11,16,14,0,0
+428617,"CNRS Researcher, CRCA (CNRS-UT3), TMBI (Univ. Toulouse)",,4721,x5FiTjQAAAAJ,{'indices'},,Jacques Gautrais,,1878,35,23,48,36,0,0
+428618,"UT3 Pr of Physical and Rehabilitation Medicine, CHU Rangueil, ToNIC (Inserm-UT3), TMBI (Univ",,3591,h9SIjfYAAAAJ,{'indices'},,Philippe MARQUE,,1733,29,20,46,38,0,0
+428619,"Associate Professor, University of Sydney",,2702,6dfA060AAAAJ,{'indices'},,Thomas A Carlson,,1651,28,21,48,39,0,0
+428620,"Institute of Brain and Psychological Sciences, Sichuan Normal University, Chengdu, China",,724,oKfmheAAAAAJ,{'indices'},,Jan Drewes,,471,10,10,13,12,0,0
+428621,"CNRS Postdoc Fellow, Cerco (CNRS-UT3), TMBI (Univ. Toulouse)",,266,-kPULlcAAAAJ,{'indices'},,Douglas McLelland,,153,10,6,10,6,0,0
+428622,Konya N.E. University,,244,gWTFi7cAAAAJ,{'indices'},,Barkin Ilhan,,195,6,4,5,3,0,0
+428623,"Psychology, University of Aberdeen, UK",,614,ZqrwF1kAAAAJ,{'indices'},,Ramakrishna Chakravarthi,,347,12,12,14,14,0,0
+428624,"Postdoctoral Research Associate, University of New South Wales",,224,3GoY4jgAAAAJ,{'indices'},,Roger Koenig-Robert,,174,8,7,7,4,0,0
+428625,"School of Psychology, University of Birmingham",,28675,ADvWcoUAAAAJ,{'indices'},,Ole Jensen,,16025,74,62,168,153,0,0
+428626,"Professor of Networks and Control, Loughborough University",,5476,7HXwJqEAAAAJ,{'indices'},,Shuang-Hua Yang,,2509,33,20,94,45,0,0
+428627,Senior Lecturer/ Deputy Director (Teaching),,376,HqrO8SwAAAAJ,{'indices'},,Raj Prasanna,,255,9,7,9,5,0,0
+428628,"Computer Science, Loughborough University",,7030,QGP7CAsAAAAJ,{'indices'},,Christian Dawson,,2890,26,20,49,29,0,0
+428629,"Institute for Risk and Disaster Reduction, University College London",,13630,F6l81zAAAAAJ,{'indices'},,Prof. David E. Alexander,,6730,51,35,142,90,0,0
+428630,"Associate Professor, NTU Singapore",,21249,ilSYpW0AAAAJ,{'indices'},,Erik Cambria,,18466,80,70,191,184,0,0
+428631,"Assistant Professor, Singapore University of Technology and Design",,10141,oS6gRc4AAAAJ,{'indices'},,Soujanya Poria,,9481,48,46,72,71,0,0
+428632,"Professor of Computational Neuroscience and Functional Neurosurgery, University of Oxford",,2445,IKBvzyIAAAAJ,{'indices'},,Newton Howard,,1852,22,20,48,36,0,0
+428633,Professor of Computer Science,,1600,nNUMrBAAAAAJ,{'indices'},,Muaz A Niazi,,1042,18,15,28,20,0,0
+428634,Instituto Politécnico Nacional,,9606,g-dRTkQAAAAJ,{'indices'},,Alexander Gelbukh,,5747,47,33,179,86,0,0
+428635,"Professor of Electrical and Electronic Engineering, Xi'an Jiaotong Liverpool University",,3996,3l5B0joAAAAJ,{'indices'},,Kaizhu Huang,,2599,33,24,72,62,0,0
+428636,MIT Media Lab,,5618,5l9YJ0oAAAAJ,{'indices'},,Catherine Havasi,,3637,25,19,34,25,0,0
+428637,"Nottingham Trent University, Nottingham, UK",,1532,L8em2YoAAAAJ,{'indices'},,"Mufti Mahmud, PhD",,1337,21,19,45,38,0,0
+428638,University of Glasgow,,365,5gARpmIAAAAJ,{'indices'},,Kia Dashtipour,,362,9,9,9,9,0,0
+428639,University of Strathclyde,,1819,Tf4L8gsAAAAJ,{'indices'},,Erfu Yang,,1227,20,18,50,30,0,0
+428640,University of strathclyde,,3728,4sgYVXsAAAAJ,{'indices'},,Tariq Durrani,,756,30,14,83,20,0,0
+428641,Xi'an Jiaotong-Liverpool University,,425,CVHB5acAAAAJ,{'indices'},,Andrew K Abel,,361,12,10,12,10,0,0
+428642,"Anhui University, University of York",,3952,0qaDapcAAAAJ,{'indices'},,Bin Luo,,1963,24,19,90,60,0,0
+428643,UNIVPM,,5686,mZZoZEkAAAAJ,{'indices'},,Francesco Piazza,,2171,33,22,137,57,0,0
+428644,Università di Pisa,,235,rXjlS1sAAAAJ,{'indices'},,Thomas Mazzocco,,126,4,4,4,4,0,0
+428645,University of Strathclyde,,4476,iDWqOW8AAAAJ,{'indices'},,john soraghan,,2358,34,24,114,64,0,0
+428646,"Full Professor in Electrical Engineering, Università Politecnica delle Marche",,3647,QbUXIwEAAAAJ,{'indices'},,stefano squartini,,2776,29,26,85,57,0,0
+428647,"Full Professor, Sorbonne Universite, ISIR-UPMC, CNRS",,5444,AKdzMWUAAAAJ,{'indices'},,Mohamed Chetouani,,3857,35,29,92,74,0,0
+428648,"Associate professor, College of Computer Science and Engineering, Taibah University",,500,2xVCOkAAAAAJ,{'indices'},,Ahmad Hawalah,,442,9,7,9,6,0,0
+428649,"Associate Professor of Computer Science, Università della Campania ""Luigi Vanvitelli"" and IIASS",,3907,GohgpCYAAAAJ,{'indices'},,Anna Esposito,,1966,33,21,99,56,0,0
+428650,"Department of Computer Science and Technology, Tsinghua University",,5549,HXnkIkwAAAAJ,{'indices'},,Huaping Liu（刘华平）,,4044,36,30,122,87,0,0
+428651,"Senior Investigator, Cancer Data Science Lab, National Cancer Institute. NIH",,26894,o-6rUfoAAAAJ,{'indices'},,Sridhar Hannenhalli,,5604,48,29,95,68,0,0
+428652,"Chief, Cancer Data Science Lab (CDSL), NCI/NIH",,22676,L3KXa3cAAAAJ,{'indices'},,Eytan Ruppin,,10857,77,55,230,154,0,0
+428653,Dana-Farber Cancer Institute,,750,HMHils8AAAAJ,{'indices'},,Shengqing (Stan) Gu,,588,9,9,9,9,0,0
+428654,"National Cancer Institute (NCI), National Institutes of Health (NIH)",,335,EnQLoZQAAAAJ,{'indices'},,Nishanth Ulhas Nair,,196,10,7,10,4,0,0
+428655,"UCSD, Distinguished Professor and Chair, Dept. Pharmacology, AD Basic Science Moores Cancer Center",,62526,GS9Nhz0AAAAJ,{'indices'},,"J. Silvio Gutkind,  Ph.D.",,16612,127,66,448,316,0,0
+428656,"Professor, Data Science, Dana-Farber and Harvard University",,51640,8XNfVucAAAAJ,{'indices'},,Xiaole Shirley Liu,,28945,97,77,206,182,0,0
+428657,"Director, EMBL-EBI",,155360,ftd3UB0AAAAJ,{'indices'},,Ewan Birney,,56397,123,82,234,182,0,0
+428658,"Director, Professor of Program in Bioinformatics and Integrative Biology, University of",,57494,-o3I0zUAAAAJ,{'indices'},,Zhiping Weng,,27938,100,75,239,199,0,0
+428659,EMBL-EBI,,66048,4Q9xIP0AAAAJ,{'indices'},,Ian Dunham,,22222,69,41,141,80,0,0
+428660,"Professor of Electrical Engineering, Princeton University",,27929,MV8KGT0AAAAJ,{'indices'},,Sharad Malik,,5112,67,35,206,86,0,0
+428661,Microsoft Research,,13720,rillZYsAAAAJ,{'indices'},,Lidong Zhou,,4551,45,36,117,70,0,0
+428662,Tesla,,10616,XnhYW0MAAAAJ,{'indices'},,Matthew Moskewicz,,5486,19,13,29,17,0,0
+428663,Microsoft Research,,7335,RM9mfYUAAAAJ,{'indices'},,Manuel Costa,,3430,37,25,59,46,0,0
+428664,University of Cambridge,,50628,qnMs-XYAAAAJ,{'indices'},,Jon Crowcroft,,13565,94,53,397,203,0,0
+428665,"Partner Researcher, Microsoft Research",,23484,0z_G4VkAAAAJ,{'indices'},,Miguel Castro,,6761,51,29,73,51,0,0
+428666,"Distinguished Engineer, Microsoft Research",,34284,gCTw_j4AAAAJ,{'indices'},,"Antony ""Ant"" Rowstron",,5709,55,32,107,62,0,0
+428667,Google,,45139,q34R9psAAAAJ,{'indices'},,Paul Barham,,32015,42,30,70,52,0,0
+428668,"Associate Professor of Computer Science, Columbia University",,5125,JJ9AvbAAAAAJ,{'indices'},,Junfeng Yang,,2786,32,25,49,45,0,0
+428669,Princeton University,,10407,S_jYB2sAAAAJ,{'indices'},,Aarti Gupta,,4399,47,24,185,104,0,0
+428670,Icahn School of Medicine at Mount Sinai,,98730,9BuR3BEAAAAJ,{'indices'},,Zahi Fayad,,50532,112,73,408,311,0,0
+428671,"Professor of Clinical Cardiology, University of Edinburgh",,10918,2eQHZaIAAAAJ,{'indices'},,Marc Dweck,,9643,50,49,140,132,0,0
+428672,Centro Nacional de Investigaciones Cardiovasculares (CNIC),,312222,cn1lDPMAAAAJ,{'indices'},,Valentin Fuster,,97872,206,114,1194,623,0,0
+428673,Mass General Hospital / Harvard Medical School,,10719,ipuOvUMAAAAJ,{'indices'},,Ahmed Tawakol,,5413,46,39,102,84,0,0
+428674,University of Cambridge,,13989,jxO7LeoAAAAJ,{'indices'},,Tim Fryer,,5318,60,40,135,105,0,0
+428675,University of Cambridge,,1924,7BOEa30AAAAJ,{'indices'},,Jason Tarkin,,1612,17,16,24,21,0,0
+428676,Icahn School of Medicine at Mount Sinai,,6816,w7CblzMAAAAJ,{'indices'},,Venkatesh Mani,,3122,48,30,89,63,0,0
+428677,University of Cambridge,,26178,KZBlBDEAAAAJ,{'indices'},,Professor Anthony P. Davenport,,10863,80,43,249,114,0,0
+428678,University of Bristol,,2292,Hs_5QfkAAAAJ,{'indices'},,Dr Nikhil  V Joshi,,1778,15,15,19,17,0,0
+428679,Cambridge,,22849,RD9yeK4AAAAJ,{'indices'},,martin Bennett,,9029,82,50,177,140,0,0
+428680,Icahn School of Medicine at Mount Sinai,,4040,3f63EbgAAAAJ,{'indices'},,Claudia Calcagno,,2597,34,27,56,51,0,0
+428681,Mount Sinai,,7522,6NEizSYAAAAJ,{'indices'},,SAMEER BANSILAL,,4888,32,26,51,46,0,0
+428682,,,587,FNzLASsAAAAJ,{'indices'},,Chowdhury mm,,554,13,11,13,12,0,0
+428683,Cambridge,,1721,zILR5f0AAAAJ,{'indices'},,Joseph Cheriyan,,1188,22,19,29,27,0,0
+428684,"Professor of Cardiology, University of Edinburgh",,18469,ywZ6fqgAAAAJ,{'indices'},,Nicholas L Mills,,11869,69,56,157,146,0,0
+428685,London School of Hygiene and Tropical Medicine,,7550,goOn-g0AAAAJ,{'indices'},,Anoop S. V. Shah,,6606,40,40,78,76,0,0
+428686,Harvard Medical School / M.G.H,,4454,2HuFxsAAAAAJ,{'indices'},,David Izquierdo Garcia,,3013,33,29,49,47,0,0
+428687,University of Michigan Cardiovascular Center,,1144,qEce7twAAAAJ,{'indices'},,Hamed Emami,,962,17,16,24,23,0,0
+428688,"Consultant Clinical Scientist, Cambridge University Hospitals, Cambridge, UK",,11034,v3V6xgwAAAAJ,{'indices'},,Martin J. Graves,,4111,55,30,165,104,0,0
+428689,University of Edinburgh,,3758,ga_3UAgAAAAJ,{'indices'},,Michelle C Williams,,3082,28,27,53,51,0,0
+428690,KU Leuven (University of Leuven),,17522,FGCYpVMAAAAJ,{'indices'},,Georges Gielen,,4648,64,32,308,119,0,0
+428691,"Senior Manager and Sr. Technical Staff Member, IBM Research, India",,1357,GTdWrSIAAAAJ,{'indices'},,Amith Singhee,,536,16,11,22,13,0,0
+428692,National University of Singapore,,20205,syCMBRIAAAAJ,{'indices'},,Tsuhan Chen,,6909,70,39,286,116,0,0
+428693,"E. F. Johnson Professor, Electrical & Computer Engineering, University of Minnesota",,5538,5ymYOOEAAAAJ,{'indices'},,Ramesh Harjani,,1467,38,18,112,43,0,0
+428694,,,10661,M441iZ8AAAAJ,{'indices'},,Karem Sakallah,,2181,49,22,124,41,0,0
+428695,Research Staff Member at IBM Research,,3202,CMn_5ToAAAAJ,{'indices'},,Gi-Joon Nam,,1486,30,16,55,33,0,0
+428696,"Cadence Design Systems, Pittsburgh, PA",,551,E8ICEhYAAAAJ,{'indices'},,Wangyang (Lucas) Zhang,,276,14,10,16,10,0,0
+428697,Hanyang University,,1111,YPT98zwAAAAJ,{'indices'},,Jungwook Choi,,985,16,14,23,19,0,0
+428698,HHMI Janelia Research Center,,35439,_LPYA_EAAAAJ,{'indices'},,Saul A. Kravitz,,6660,22,14,26,15,0,0
+428699,"Professor of Electrical and Computer Engineering, University of Virginia",,9523,I7a8pr0AAAAJ,{'indices'},,Benton Calhoun,,4025,44,29,111,86,0,0
+428700,"Tanoto Professor and Head of ECE, Carnegie Mellon University",,18845,Mm-vQM8AAAAJ,{'indices'},,Lawrence Pileggi,,3628,69,30,245,93,0,0
+428701,"Bredt Family Professor of Engineering, University of Michigan",,31727,d1KEK84AAAAJ,{'indices'},,Trevor Mudge,,8386,76,40,285,120,0,0
+428702,"Associate Professor of Computer Science, ENSTA Paris",,3268,IgZwd6MAAAAJ,{'indices'},,Goran Frehse,,1596,21,19,37,29,0,0
+428703,Carnegie Mellon University,,29844,AFgYa68AAAAJ,{'indices'},,Randal Bryant,,3907,56,22,146,46,0,0
+428704,"Professor of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign",,10457,u6GT7eoAAAAJ,{'indices'},,Naresh Shanbhag,,3020,52,27,165,73,0,0
+428705,University of Alberta,,15363,vQh8WdcAAAAJ,{'indices'},,Jack Tuszyński,,6822,58,39,306,189,0,0
+428706,"Chief AI Scientist at Facebook & Silver Professor at the Courant Institute, New York University",,187076,WLN3QrAAAAAJ,{'indices'},,Yann LeCun,,149492,126,103,294,237,0,0
+428707,"Research Scientist, Google",,37879,0nPi5YYAAAAJ,{'indices'},,Pierre Sermanet,,34768,23,20,32,27,0,0
+428708,"Research Scientist, DeepMind. Professor of Computer Science, New York University",,77636,GgQ9GEkAAAAJ,{'indices'},,Rob Fergus,,56821,71,63,110,100,0,0
+428709,,,9570,uRlPu-4AAAAJ,{'indices'},,David Eigen,,8471,12,12,13,12,0,0
+428710,Research scientist at Facebook AI Research,,6233,1T2Xh68AAAAJ,{'indices'},,Camille Couprie,,5089,16,15,23,20,0,0
+428711,Facebook AI Research,,3345,bX__wkYAAAAJ,{'indices'},,Mikael Henaff,,3102,14,14,17,17,0,0
+428712,Facebook AI Research,,31972,36ofBJgAAAAJ,{'indices'},,Soumith Chintala,,31242,26,26,30,30,0,0
+428713,Facebook,,31023,NbXF7T8AAAAJ,{'indices'},,Marc'Aurelio Ranzato,,24071,50,47,75,73,0,0
+428714,Imagen Technologies,,17098,ETU-ePAAAAAJ,{'indices'},,Sumit Chopra,,14880,30,29,42,40,0,0
+428715,New York University,,2829,l-mlF7YAAAAJ,{'indices'},,Anna Choromanska,,2671,19,19,25,24,0,0
+428716,"Professor of Mathematics, NYU Shanghai and  Courant Institute of Mathematical Sciences, New York",,6696,8sGC5D4AAAAJ,{'indices'},,Gerard BEN AROUS,,3366,42,26,87,57,0,0
+428717,Google Brain,,2501,EC4o-1oAAAAJ,{'indices'},,Ross Goroshin,,2366,11,10,11,10,0,0
+428718,DeepMind,,80662,sGFyDIUAAAAJ,{'indices'},,koray kavukcuoglu,,75594,65,64,84,78,0,0
+428719,Facebook AI Research,,7454,GfcBlpUAAAAJ,{'indices'},,Y-Lan Boureau,,4671,19,19,23,22,0,0
+428720,Google Brain,,2909,vIGcvLsAAAAJ,{'indices'},,Nicolas Vasilache,,1737,26,20,37,31,0,0
+428721,Facebook AI Research,,647,VJ8Qd6sAAAAJ,{'indices'},,Serkan Piantino,,566,9,9,8,8,0,0
+428722,Facebook AI Research,,29814,32w7x1cAAAAJ,{'indices'},,Ronan Collobert,,22541,45,40,83,78,0,0
+428723,"Courant Institute of Mathematical Sciences, New York University",,16564,L4bNmsMAAAAJ,{'indices'},,Joan Bruna,,15817,31,31,48,46,0,0
+428724,Facebook AI Research,,13177,u3-FxUgAAAAJ,{'indices'},,Arthur Szlam,,11792,41,34,71,64,0,0
+428725,Research Scientist at Google DeepMind,,3188,YCPycGAAAAAJ,{'indices'},,Pablo Sprechmann,,2244,23,21,31,25,0,0
