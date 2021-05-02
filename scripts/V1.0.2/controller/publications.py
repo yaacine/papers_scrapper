@@ -14,7 +14,7 @@ print("now =", now)
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 
-publication_file_name_output = 'articles'+str(now).replace(' ', '_')+'.csv'
+publication_file_name_output = 'bk_articles'+str(now).replace(' ', '_')+'.csv'
 PUBLICATIONS_CSV_FILE_OUTPUT = ""
 PUBLICATIONS_CSV_FILE_OUTPUT = os.path.join(
     'scripts', 'V1.0.2', 'datasets', 'articles', publication_file_name_output)
@@ -26,11 +26,11 @@ print('file created')
 
 PUBLICATIONS_CSV_FILE_INPUT = 'scripts/V1.0.2/datasets/articles/articles2.csv'
 # AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors3.csv'
-AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/authors/authors2021-01-11_16:32:32.669588.csv'
+AUTHORS_CSV_FILE = 'scripts/V1.0.2/datasets/ben_m/authors_la_suite/bk12_authors.csv'
 CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
 
-NB_MAX_PAPERS_PER_AUTHOR = 25
+NB_MAX_PAPERS_PER_AUTHOR = 10
 NB_MAX_CITATIONS_PER_PAPERS = 10
 
 
