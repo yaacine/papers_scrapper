@@ -47,7 +47,7 @@ import pandas as pd
 AUTHORS_CSV_FILE_INPUT_INTERESTS = 'scripts/V1.0.2/datasets/ben_m/authors_la_suite/bk16_coauthors_01.csv'
 
 
-# scripts/V1.0.2/datasets/ben_m/authors_la_suite/bk12_coauthors_01.csv --> 1
+# scripts/V1.0.2/datasets/ben_m/authors_la_suite/bk12_coauthors_01.csv --> 1 
 # scripts/V1.0.2/datasets/ben_m/authors_la_suite/bk13_coauthors_01.csv --> 2
 # scripts/V1.0.2/datasets/ben_m/authors_la_suite/bk14_coauthors.csv --> 3
 # scripts/V1.0.2/datasets/ben_m/authors_la_suite/bk16_coauthors_01.csv --> 4
