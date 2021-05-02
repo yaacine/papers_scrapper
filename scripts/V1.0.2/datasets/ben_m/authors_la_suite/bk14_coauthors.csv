@@ -3,7 +3,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641458,Otto-von-Guericke Universität Magdeburg,,78967.0,KnnmEP4AAAAJ,{'indices'},Marketing|Structural Equation Modeling|Consumer Behavior|PLS|Research Methods,Marko Sarstedt,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KnnmEP4AAAAJ&citpid=9,69610.0,70,66,120,113,0,0
 641459,The University of Houston,,65643.0,SykbscsAAAAJ,{'indices'},Diffusion/Implementation/Acceptance of IT|Measuring Satisfaction|Structural Equation Modeling|Partial Least Squares Analyses,Wynne Chin,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=SykbscsAAAAJ&citpid=3,32207.0,64,47,97,78,0,0
 641460,Technische Universität Kaiserslautern,,5586.0,ZaVrhs8AAAAJ,{'indices'},Entrepreneurial Marketing|Partial Least Squares|Digital Marketing,Georg Fassott,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZaVrhs8AAAAJ&citpid=1,2310.0,24,14,31,16,0,0
-641461,Beihang University,,3454.0,rC-FHA4AAAAJ,{'indices'},,Huiwen Wang,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZaVrhs8AAAAJ&citpid=1,2339.0,19,18,35,31,0,0
+641461,Beihang University,,3454.0,rC-FHA4AAAAJ,{'indices'},error,Huiwen Wang,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZaVrhs8AAAAJ&citpid=1,2339.0,19,18,35,31,0,0
 641462,"Professor of Statistics, ESSEC Business School",,13999.0,Pn7LTYIAAAAJ,{'indices'},Statistics in Business and Industry,Vincenzo ESPOSITO VINZI,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Pn7LTYIAAAAJ&citpid=4,8249.0,28,22,50,35,0,0
 641463,"Associate Professor of Communication, Brand and Urban Creative Cultures, Universidad de Los Andes",,1597.0,Bhp3eugAAAAJ,{'indices'},Communication|Branding|Brand Image|Sponsorship|Methodology,Bradley Wilson,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Pn7LTYIAAAAJ&citpid=4,930.0,16,14,22,18,0,0
 641464,University of Twente,,445.0,ZPXMVcIAAAAJ,{'indices'},Structural equation modeling|Partial Least Squares Path Modeling|Composite modeling|Confirmatory Composite Analysis,Florian Schuberth,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZPXMVcIAAAAJ&citpid=3,444.0,9,9,9,9,0,0
@@ -56,7 +56,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641511,Michigan State University,,390.0,EPUJyN0AAAAJ,{'indices'},,Carmen Richardson,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EPUJyN0AAAAJ&citpid=2,384.0,8,8,8,8,0,0
 641512,Arizona State University,,64.0,t0Z9XTEAAAAJ,{'indices'},Creativity|Design|Technology|Teacher Education|Educational Reform,Melissa Warr,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=t0Z9XTEAAAAJ&citpid=2,63.0,5,5,1,1,0,0
 641513,"Professor of Curriculum and Educational Technology, College of William & Mary",,7202.0,PuXjAm4AAAAJ,{'indices'},Technological Pedagogical Content Knowledge|Curriculum-based Technology Integration,Judi Harris,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PuXjAm4AAAAJ&citpid=2,2972.0,39,20,87,35,0,0
-641514,Western Oregon University,,1557.0,MUbbifMAAAAJ,{'indices'},,Mark Girod,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PuXjAm4AAAAJ&citpid=2,624.0,19,11,23,13,0,0
+641514,Western Oregon University,,1557.0,MUbbifMAAAAJ,{'indices'},,Mark Girod,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EPUJyN0AAAAJ&citpid=2,624.0,19,11,23,13,0,0
 641515,"Department of Media and Information, Michigan State University",,6782.0,J2cm5CQAAAAJ,{'indices'},meditation|yoga|presence|interactivity|interoceptive awareness,Carrie Heeter,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=J2cm5CQAAAAJ&citpid=2,2303.0,31,18,68,31,0,0
 641516,"Summit Professor of Learning Technologies, Kent State University",,5140.0,P6DOX8QAAAAJ,{'indices'},Educational Technology,Richard E. Ferdig,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=P6DOX8QAAAAJ&citpid=2,2001.0,35,22,66,43,0,0
 641517,Stanford University,,4002.0,jNkKWXEAAAAJ,{'indices'},Medical device design|Human Biomechanics|Traumatic Brain Injury,David Camarillo,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jNkKWXEAAAAJ&citpid=2,2800.0,31,29,57,54,0,0
@@ -69,7 +69,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641524,"Professor of Robotics and Computer Science, Carnegie Mellon University",,15997.0,D_JpQnAAAAAJ,{'indices'},Robotics|Robotic Manipulation|Motion Planning,Matthew T. Mason,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=D_JpQnAAAAAJ&citpid=2,4243.0,51,30,167,105,0,0
 641525,Intuitive Surgical,,4562.0,JyiZxY0AAAAJ,{'indices'},Robotics|Control Theory|Teleoperation|Haptics|Surgical Robotics,Nicola Diolaiti,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JyiZxY0AAAAJ&citpid=2,3323.0,33,30,47,42,0,0
 641526,"Professor of ECE, Purdue University",,8326.0,OiVOAHMAAAAJ,{'indices'},haptics|psychophysics,Hong Z Tan,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=OiVOAHMAAAAJ&citpid=9,2738.0,49,28,133,76,0,0
-641527,Open Source Robotics Foundation,,12018.0,fMDLYCUAAAAJ,{'indices'},,Morgan Quigley,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=OiVOAHMAAAAJ&citpid=9,7515.0,23,19,30,24,0,0
+641527,Open Source Robotics Foundation,,12018.0,fMDLYCUAAAAJ,{'indices'},,Morgan Quigley,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EPUJyN0AAAAJ&citpid=2,7515.0,23,19,30,24,0,0
 641528,Substance Lab Limited,,2794.0,fjrKXowAAAAJ,{'indices'},Multisensory Integration|Crossmodal Attention|Psychophysics,Cristy Ho,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fjrKXowAAAAJ&citpid=2,1064.0,25,18,35,31,0,0
 641529,"Professor of Robotics and Automatic Control, Univ. Bologna",,9114.0,OWaE_ZEAAAAJ,{'indices'},Robotics|Automatic Control,Claudio Melchiorri,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=OWaE_ZEAAAAJ&citpid=2,3448.0,47,29,156,88,0,0
 641530,Stanford,,123944.0,7K34d7cAAAAJ,{'indices'},Artificial Intelligence|Robotics,Sebastian Thrun,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7K34d7cAAAAJ&citpid=3,47009.0,157,94,432,320,0,0
@@ -84,7 +84,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641539,S.V.UNIVERSITY,,42.0,f52BELkAAAAJ,{'indices'},IOT|Cloud computing|Wireless Sensor Networks|Software Engineering,Dr.Sathish Kuppani,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=f52BELkAAAAJ&citpid=3,28.0,3,3,2,1,0,0
 641540,"Associate Professor of Information Systems, ESSEC Business School",,3383.0,nlFH5o4AAAAJ,{'indices'},mobile payments|platforms|digital innovation|digital strategy|digital ecosystems,Jan Ondrus,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nlFH5o4AAAAJ&citpid=6,1824.0,21,17,31,21,0,0
 641541,University of Applied Sciences of Southern Switzerland (SUPSI),,910.0,ROFL7VIAAAAJ,{'indices'},eBusiness|mobile business|innovation|technology adoptiona and diffusion|business intelligence,Giovanni Camponovo,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nlFH5o4AAAAJ&citpid=6,189.0,14,7,17,5,0,0
-641542,"HEG-Arc, HES-SO // University of Applied Sciences Western Switzerland",,388.0,jXfbX30AAAAJ,{'indices'},,Boris Fritscher,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nlFH5o4AAAAJ&citpid=6,265.0,9,8,9,8,0,0
+641542,"HEG-Arc, HES-SO // University of Applied Sciences Western Switzerland",,388.0,jXfbX30AAAAJ,{'indices'},,Boris Fritscher,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EPUJyN0AAAAJ&citpid=2,265.0,9,8,9,8,0,0
 641543,Professor of Digital Strategy & Innovation,,13688.0,RFzKNrYAAAAJ,{'indices'},Innovation management|digital strategy|business model innovation,Christopher Tucci,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RFzKNrYAAAAJ&citpid=2,7243.0,26,21,49,35,0,0
 641544,University of Applied Sciences of Western Switzerland,,288.0,2eNq3DQAAAAJ,{'indices'},design science|project management|business model|information systems,Riccardo Bonazzi,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RFzKNrYAAAAJ&citpid=2,194.0,8,7,6,6,0,0
 641545,University of Applied Sciences and Arts Western Switzerland (HES-SO Valais-Wallis),,137.0,DmWUaRgAAAAJ,{'indices'},Information Privacy|Mobile TAM|Semantic Web|Information Systems,Zhan Liu,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=DmWUaRgAAAAJ&citpid=2,102.0,7,6,5,4,0,0
@@ -108,14 +108,14 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641563,London Business School,,2197.0,XKCvnmgAAAAJ,{'indices'},Innovation|Operations Management|Entrepreneurship,Kamalini Ramdas,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4ZckX2kAAAAJ&citpid=2,836.0,16,15,19,18,0,0
 641564,"Assistant Professor of Management Science, Moore School of Business, University of South Carolina",,228.0,GMGQBosAAAAJ,{'indices'},Process Models of Innovation|Innovation Tournaments|Ideation|Entrepreneurship|Auctions,Joel Wooten,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=GMGQBosAAAAJ&citpid=2,197.0,4,4,2,2,0,0
 641565,"Professor in mechanical engineering, Technical University of Denmark",,42835.0,t-nTDu4AAAAJ,{'indices'},Structural optimization|topology optimization|inverse problems|computational mechanics|solid mechanics,Ole Sigmund,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=t-nTDu4AAAAJ&citpid=2,23364.0,80,68,234,202,0,0
-641566,,,5861.0,07sbkLsAAAAJ,{'indices'},,Robert Haber,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=t-nTDu4AAAAJ&citpid=2,1367.0,38,17,66,31,0,0
+641566,,,5861.0,07sbkLsAAAAJ,{'indices'},,Robert Haber,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=v7qEv8YAAAAJ&citpid=2,1367.0,38,17,66,31,0,0
 641567,"Professor of Mechanical  Engineering, Michigan State University",,4311.0,LBtgYwYAAAAJ,{'indices'},Optimization,Alejandro R Diaz,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LBtgYwYAAAAJ&citpid=2,1241.0,28,17,58,24,0,0
 641568,"University of Michigan, Toyota Central R&D Labs",,29050.0,MI_-OHkAAAAJ,{'indices'},Computational Mechanics|Structural Optimization|CAE,Noboru Kikuchi,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MI_-OHkAAAAJ&citpid=2,7797.0,69,36,181,83,0,0
 641569,"Assoc. Prof., Mech. Engng. Dept., Instituto Superior Tecnico, Universidade de Lisboa, Portugal",,3932.0,AKrKVMEAAAAJ,{'indices'},Computational Mechanics|Material Optimization|Structural Optimization,Jose M. Guedes,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MI_-OHkAAAAJ&citpid=2,1585.0,21,16,31,23,0,0
 641570,Lisbon OR Lisboa OR Ann Arbor OR Lyngby,,2824.0,tVhoXsYAAAAJ,{'indices'},Structural Optimization|Computational Mechanics,Helder C Rodrigues,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=tVhoXsYAAAAJ&citpid=5,1184.0,26,18,44,25,0,0
 641571,"professor of operations research, Technion, israel Institute of technology",,28709.0,5exbYaoAAAAJ,{'indices'},optimization|operations research,a ben tal,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=tVhoXsYAAAAJ&citpid=5,12290.0,59,38,130,74,0,0
 641572,Louisiana State University,,3056.0,KLgjch8AAAAJ,{'indices'},Applied Mathematics|materials science|photonics|fracture|multi-scale methods,Robert Lipton,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KLgjch8AAAAJ&citpid=2,1084.0,28,17,72,33,0,0
-641573,Illinois,,6491.0,dVrhQWkAAAAJ,{'indices'},,Tortorelli,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KLgjch8AAAAJ&citpid=2,2943.0,42,24,90,47,0,0
+641573,Illinois,,6491.0,dVrhQWkAAAAJ,{'indices'},,Tortorelli,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=v7qEv8YAAAAJ&citpid=2,2943.0,42,24,90,47,0,0
 641574,"Associate Professor, University of Connecticut",,1625.0,V0EWu8kAAAAJ,{'indices'},Shape and topology optimization|topology optimization for manufacturability|design of material systems,Julian Norato,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=V0EWu8kAAAAJ&citpid=7,1242.0,17,17,21,21,0,0
 641575,"IDMEC, Instituto Superior Técnico, Universidade de Lisboa",,886.0,v8SMNZIAAAAJ,{'indices'},vibration|acoustics|force identification|cork composite|topology optimization,Miguel de Matos Neves,https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=v8SMNZIAAAAJ&citpid=2,425.0,12,10,15,11,0,0
 641576,"Professor i Biomekanik, Aalborg Universitet",,6050.0,BXNEOscAAAAJ,{'indices'},Biomechanics|Digital Human Modeling|Ergonomics|Optimization,John Rasmussen,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BXNEOscAAAAJ&citpid=4,2817.0,33,24,90,51,0,0
@@ -125,7 +125,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641580,"University of Birmingham, UK",,3952.0,hizPCIIAAAAJ,{'indices'},Optimization|numerical analysis,Michal Kocvara,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hizPCIIAAAAJ&citpid=2,1137.0,34,18,57,34,0,0
 641581,"Professor, Department of Materials and Production, Aalborg University",,4059.0,1TusNToAAAAJ,{'indices'},Structural Optimization|Composite Structures|Wind Energy|Computational Mechanics,Erik Lund,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1TusNToAAAAJ&citpid=4,1972.0,32,25,70,50,0,0
 641582,"Associate Professor, Technion - Israel Institute of Technology",,1150.0,kC34CxQAAAAJ,{'indices'},Structural Optimization|Topology Optimization,Oded Amir,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kC34CxQAAAAJ&citpid=4,937.0,20,19,30,30,0,0
-641583,"Professor of Computational Vibroacoustics, Technical University of Denmark",,6005.0,eSq9TLEAAAAJ,{'indices'},,Jakob Søndergaard Jensen,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kC34CxQAAAAJ&citpid=4,3270.0,37,28,63,50,0,0
+641583,"Professor of Computational Vibroacoustics, Technical University of Denmark",,6005.0,eSq9TLEAAAAJ,{'indices'},,Jakob Søndergaard Jensen,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=v7qEv8YAAAAJ&citpid=2,3270.0,37,28,63,50,0,0
 641584,"Professor of Biomedical Engineering, Columbia University",,13159.0,4YmqmjoAAAAJ,{'indices'},bioengineering,Christopher R. Jacobs,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kC34CxQAAAAJ&citpid=4,4295.0,62,40,118,86,0,0
 641585,Carnegie Mellon University,,25863.0,MoFbcc0AAAAJ,{'indices'},Human-Computer Interaction|HCI|Usable Privacy and Security|Mobile computing|Social Computing,Jason Hong,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MoFbcc0AAAAJ&citpid=3,10407.0,73,53,163,127,0,0
 641586,User Experience Research at Google,,15759.0,wTCe1mUAAAAJ,{'indices'},Human-Computer Interaction|Usable Security|Online Privacy|Usable Privacy and Security|Ubiquitous Computing,Sunny Consolvo,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=wTCe1mUAAAAJ&citpid=2,6450.0,52,41,75,62,0,0
@@ -157,11 +157,11 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641612,"Professor of Robotics, Polytechnic Institute, Purdue University",,3141.0,9q5lihUAAAAJ,{'indices'},Robotics|Mechatronics|Cyber-Physical Systems|Precision Agriculture|Robotic Materials,Richard M Voyles,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9q5lihUAAAAJ&citpid=3,1172.0,25,17,59,28,0,0
 641613,"Professor of Computer Science at ETH Zürich, Adjunct Professor of ECE at CMU, Cylab Fellow",,68654.0,n-Oret4AAAAJ,{'indices'},Security|Networking|Internet Security|Internet Architecture|Computer Security,Adrian Perrig,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=n-Oret4AAAAJ&citpid=3,18833.0,99,67,236,192,0,0
 641614,U.A. & Helen Whitaker Professor of ECE & Director of CMU-Africa,,18748.0,3IdSGX8AAAAJ,{'indices'},Pattern Recognition|Signal Processing|Image Processing|Data Storage|Error Control Coding,B. V. K. Vijaya Kumar,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3IdSGX8AAAAJ&citpid=5,5572.0,62,36,278,111,0,0
-641615,Intuit Inc,,1990.0,bDJWbG0AAAAJ,{'indices'},,Cem Ünsal,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3IdSGX8AAAAJ&citpid=5,330.0,18,10,20,11,0,0
+641615,Intuit Inc,,1990.0,bDJWbG0AAAAJ,{'indices'},,Cem Ünsal,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=v7qEv8YAAAAJ&citpid=2,330.0,18,10,20,11,0,0
 641616,"Professor of ECE, Carnegie Mellon University",,8292.0,ppVNXUsAAAAJ,{'indices'},Wireless communications|data networks|power networks|information theory,Rohit Negi,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3IdSGX8AAAAJ&citpid=5,2886.0,33,21,73,32,0,0
 641617,The University of Texas at Austin,,8172.0,MRHzTAIAAAAJ,{'indices'},Energy-aware Computing|Low Power Design|Design Automation|Dark Silicon|Machine Learning,Diana Marculescu,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MRHzTAIAAAAJ&citpid=3,2934.0,49,29,141,79,0,0
 641618,The University of Texas at Austin,,14103.0,ZCmYP5cAAAAJ,{'indices'},embedded systems|cyber-physical systems|biological systems|social networks,Radu Marculescu,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZCmYP5cAAAAJ&citpid=1,3784.0,57,32,150,95,0,0
-641619,"Principal Research Scientist, General Dynamics MS | Viz",,862.0,daRrOG4AAAAJ,{'indices'},,Michael W. Bigrigg,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZCmYP5cAAAAJ&citpid=1,176.0,11,7,14,6,0,0
+641619,"Principal Research Scientist, General Dynamics MS | Viz",,862.0,daRrOG4AAAAJ,{'indices'},,Michael W. Bigrigg,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=v7qEv8YAAAAJ&citpid=2,176.0,11,7,14,6,0,0
 641620,University of Florida,,18584.0,sDRLr8gAAAAJ,{'indices'},networking|communications|video coding|signal processing|computer vision,Dapeng Oliver Wu,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sDRLr8gAAAAJ&citpid=2,8585.0,55,41,249,164,0,0
 641621,Professor Universidad Catolica de Chile,,3168.0,gOVVRk4AAAAJ,{'indices'},Machine learning|computer vision|robotics,Alvaro Soto,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gOVVRk4AAAAJ&citpid=2,1473.0,28,23,67,39,0,0
 641622,"Associate Professor (with tenure), Department of Computer Science, National University of Singapore",,2196.0,2P-Q09UAAAAJ,{'indices'},Gaussian Processes|Bayesian Optimization|Multi-Robot Systems|Probabilistic Machine Learning|Computational Sustainability,Bryan Kian Hsiang Low,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2P-Q09UAAAAJ&citpid=5,1438.0,28,24,51,43,0,0
@@ -239,7 +239,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641694,"Professor and Director of the Computational Foundry, Swansea University, Wales, UK",,22191.0,m6AAw9wAAAAJ,{'indices'},Human Computer Interaction|Physicality|Creativity|Community Technology|Human-Data Interaction,Alan Dix,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=mqk-uZAAAAAJ&citpid=6,4980.0,51,24,215,64,0,0
 641695,"Dean, College of Engineering, Northeastern University",,58529.0,gb8sbdcAAAAJ,{'indices'},Human-Computer Interaction|Mobile and Ubiquitous Computing,Gregory D. Abowd,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gb8sbdcAAAAJ&citpid=3,12883.0,87,46,284,167,0,0
 641696,"Associate Professor, Birmingham City University",,487.0,Xqn6s-AAAAAJ,{'indices'},Assistive Technology|Accessibility|Human-Computer Interaction|HCI,Chris Creed,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Xqn6s-AAAAAJ&citpid=3,215.0,10,7,10,6,0,0
-641697,University of Birmingham,,1409.0,9KywR_cAAAAJ,{'indices'},,Robert Hendley,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Xqn6s-AAAAAJ&citpid=3,786.0,17,12,24,13,0,0
+641697,University of Birmingham,,1409.0,9KywR_cAAAAJ,{'indices'},,Robert Hendley,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=v7qEv8YAAAAJ&citpid=2,786.0,17,12,24,13,0,0
 641698,"Emeritus Professor of Educational Technology, The Open University",,22642.0,0KzFF40AAAAJ,{'indices'},Educational Technology|Learning Sciences|STEM learning|human computer interaction,Mike Sharples,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0KzFF40AAAAJ&citpid=3,9150.0,63,41,180,103,0,0
 641699,University College Dublin,,959.0,egypvvYAAAAJ,{'indices'},Human Computer Interaction|Speech Interfaces|Psycholinguistics|Behaviour Change|Statistics,Benjamin R Cowan,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=egypvvYAAAAJ&citpid=4,823.0,15,14,21,17,0,0
 641700,University of Central Lancashire,,5080.0,gT-BtGYAAAAJ,{'indices'},Human Computer Interaction|Child Computer Interaction,Janet C Read,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gT-BtGYAAAAJ&citpid=3,2608.0,32,25,102,66,0,0
@@ -297,7 +297,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641752,"Professor, Information Systems, University of Hawaii",,5114.0,IoQT0bMAAAAJ,{'indices'},Information Systems|Development|DIffusion|Organizational Change,Elizabeth Davidson,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=IoQT0bMAAAAJ&citpid=3,2416.0,29,20,56,36,0,0
 641753,"Professor of Information Systems, Bar-Ilan University",,1644.0,WswKQ2AAAAAJ,{'indices'},Information Systems|Computer-mediated Communications|mHealth|Distributed Artificial Intelligence|Knowledge Management,David G. Schwartz,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WswKQ2AAAAAJ&citpid=3,525.0,21,11,36,13,0,0
 641754,"Professor of Anthropology, Stanford University",,39562.0,oS90Hm0AAAAJ,{'indices'},Archaeology|Neolithic of Europe and the Middle East|Archaeological theory and method,Ian Hodder,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WswKQ2AAAAAJ&citpid=3,11883.0,86,51,232,142,0,0
-641755,University College London,,3862.0,PHvJ4ZMAAAAJ,{'indices'},,Victor Buchli,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WswKQ2AAAAAJ&citpid=3,1441.0,23,17,36,24,0,0
+641755,University College London,,3862.0,PHvJ4ZMAAAAJ,{'indices'},,Victor Buchli,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BSFdGw0AAAAJ&citpid=3,1441.0,23,17,36,24,0,0
 641756,"SUNY Distinguished Professor, Binghamton University",,6914.0,3jvyfJoAAAAJ,{'indices'},archaeology|Southwestern United States|Marxism|archaeology of the contemporary|historic archaeology,Randall H McGuire,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3jvyfJoAAAAJ&citpid=4,2192.0,40,22,85,42,0,0
 641757,Professor in Performance and New Media,,2585.0,_m1Q5M4AAAAJ,{'indices'},New Media|HCI|Presence Research|Documentation|Archiving,gabriella giannachi,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_m1Q5M4AAAAJ&citpid=2,1466.0,22,21,33,26,0,0
 641758,"Professor of archaeology, UiT - The Arctic University of Norway",,6301.0,fFl84vUAAAAJ,{'indices'},Arctic archaeology|material culture studies|archaeological theory|contemporary archaeology|heritage,Bjørnar Julius Olsen,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fFl84vUAAAAJ&citpid=4,2877.0,35,25,71,39,0,0
@@ -323,7 +323,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641778,"Professor of Chemical Engineering, MIchigan Technological University",,5672.0,6mbngggAAAAJ,{'indices'},sustainability|biofuels conversion|waste plastic conversion|environmental fate and transport,David Shonnard,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6mbngggAAAAJ&citpid=1,2582.0,39,27,84,64,0,0
 641779,"Associate Professor, Aarhus University",,2593.0,5JHqo2oAAAAJ,{'indices'},Sustainable Design|Sustainable Manufacturing|Visual Analytics|Engineering design,Devarajan Ramanujan,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5JHqo2oAAAAJ&citpid=3,2187.0,13,12,15,13,0,0
 641780,"Arthur F. Thurnau Professor, University of Michigan",,5841.0,2-Au_HkAAAAJ,{'indices'},Sustainable Design|Manufacturing|Water,Steven Skerlos,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5JHqo2oAAAAJ&citpid=3,3137.0,37,29,85,52,0,0
-641781,"Professor of Materials Engineering, Purdue University",,4927.0,Jy3PAecAAAAJ,{'indices'},,Carol Handwerker,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5JHqo2oAAAAJ&citpid=3,1476.0,33,19,85,33,0,0
+641781,"Professor of Materials Engineering, Purdue University",,4927.0,Jy3PAecAAAAJ,{'indices'},,Carol Handwerker,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=akIcHq8AAAAJ&citpid=4,1476.0,33,19,85,33,0,0
 641782,"Associate Professor, College of Economics and Management, Beijing University of Technology",,849.0,K41Z9RUAAAAJ,{'indices'},Complexity economics|Resource and environmental economics|Sustainable supply chains|Metaheuristics|Complex network,Chao Wang 王超,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=K41Z9RUAAAAJ&citpid=3,827.0,14,14,20,19,0,0
 641783,"Associate Professor, Civil and Environmental Engineering, University of South Florida",,4211.0,TSIs8G0AAAAJ,{'indices'},Sustainability Assessment|Green Engineering|Process Modeling|System Modeling|Water-Energy Nexus,Qiong (Jane) Zhang,https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=TSIs8G0AAAAJ&citpid=2,2853.0,32,29,66,59,0,0
 641784,University of Oklahoma,,301.0,45udssEAAAAJ,{'indices'},sustainable manufacturing|manufacturing scheduling|smart grid|life cycle assessment|machine design,Hao Zhang 张浩,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=45udssEAAAAJ&citpid=4,287.0,8,7,6,6,0,0
@@ -340,7 +340,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641795,"Professor of Information Systems, Stevens Institute of Technology",,5251.0,fpbxFMoAAAAJ,{'indices'},Information Systems|Business Process Management,Edward A Stohr,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kdyRvDgAAAAJ&citpid=3,860.0,31,14,59,18,0,0
 641796,"Professor of Computer Information Systems, Georgia State University",,22506.0,BaMD2NgAAAAJ,{'indices'},IT project management|escalation|project risk|project status reporting|bad news reporting,Mark Keil,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BaMD2NgAAAAJ&citpid=3,7113.0,67,43,119,98,0,0
 641797,"Prodessor of Information Systems, University of Colorado, Colorado Springs, co",,1570.0,vXMhzAkAAAAJ,{'indices'},Virtual teams|User engagement in software design,margaret beranek,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BaMD2NgAAAAJ&citpid=3,324.0,13,7,16,5,0,0
-641798,Duquesne University,,911.0,pIMPs6UAAAAJ,{'indices'},,Kathleen S. Hartzel,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BaMD2NgAAAAJ&citpid=3,171.0,11,6,11,5,0,0
+641798,Duquesne University,,911.0,pIMPs6UAAAAJ,{'indices'},,Kathleen S. Hartzel,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=819xCSkAAAAJ&citpid=2,171.0,11,6,11,5,0,0
 641799,"Martin V. Smith School of Business and Economics, CSU Channel Islands",,12797.0,rEY59ssAAAAJ,{'indices'},MIS|e-commerce|innovation|service science|design science,Minder Chen,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rEY59ssAAAAJ&citpid=2,4924.0,40,27,302,121,0,0
 641800,"Keio University, Faculty of Policy Management　慶應義塾大学総合政策学部",,814.0,2gaGm68AAAAJ,{'indices'},Management of Information Systems,Jiro Kokuryo 國領二郎,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2gaGm68AAAAJ&citpid=2,187.0,13,7,18,5,0,0
 641801,"Professor of Information Systems, Harbin Institute of Technology",,17918.0,p8YrZKsAAAAJ,{'indices'},mobile applications|e-health|e-learning|information systems,doug vogel,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2gaGm68AAAAJ&citpid=2,4251.0,63,32,171,74,0,0
@@ -365,7 +365,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641820,"STAIR Lab, Chiba Institute of Technology",,1565.0,5hIe8OoAAAAJ,{'indices'},Knowledge Graph|Link Analysis|Data Mining|Machine Learning|Artificial Intelligence,Masashi Shimbo,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zbAcjbgAAAAJ&citpid=2,895.0,21,14,27,19,0,0
 641821,"Faculty of Computing and Information Technology in Rabigh, King Abdulaziz University",,169.0,b5kr6FAAAAAJ,{'indices'},Services System|Business Intelligence,Arif Bramantoro,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=b5kr6FAAAAAJ&citpid=1,76.0,6,5,5,1,0,0
 641822,Kyoto University,,18033.0,BL9EACgAAAAJ,{'indices'},Social Robotics|Human-Robot Interaction|Intelligent Robotics,Takayuki Kanda,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BL9EACgAAAAJ&citpid=2,9002.0,72,49,245,170,0,0
-641823,,,34945.0,2trZ2IYAAAAJ,{'indices'},,Clifford Nass,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BL9EACgAAAAJ&citpid=2,12775.0,74,49,172,112,0,0
+641823,,,34945.0,2trZ2IYAAAAJ,{'indices'},,Clifford Nass,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=819xCSkAAAAJ&citpid=2,12775.0,74,49,172,112,0,0
 641824,NTT RESONANT,,676.0,NILKxCIAAAAJ,{'indices'},Artificial Intelligence|Natural Language Processing|Deep Learning|Recommender Systems|Semantic Web,makoto nakatsuji,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NILKxCIAAAAJ&citpid=6,382.0,15,12,17,15,0,0
 641825,"Professor of Computer Science, University of California, Los Angeles",,12371.0,LsuWoRoAAAAJ,{'indices'},Artificial Intelligence,Richard E. Korf,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NILKxCIAAAAJ&citpid=6,2477.0,54,23,104,57,0,0
 641826,"Associate Professor of Chemical Engineering, Rutgers University",,3677.0,tSsdVLQAAAAJ,{'indices'},Process systems engineering|particle technology,Rohit Ramachandran,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=tSsdVLQAAAAJ&citpid=1,2517.0,38,29,78,70,0,0
@@ -380,14 +380,14 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641835,Rutgers University,,3704.0,OoPE0EwAAAAJ,{'indices'},Nanomedicine for gene silencing and infection control,Charles M. Roth,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=OoPE0EwAAAAJ&citpid=1,1334.0,31,17,57,30,0,0
 641836,Senior Scientist at Merck & Co.,,256.0,hc89h6kAAAAJ,{'indices'},Pharmaceutical Manufacturing|Process Modeling|Formulation|Continuous Manufacturing,Manuel Sebastian Escotet-Espinoza,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hc89h6kAAAAJ&citpid=1,251.0,11,11,11,11,0,0
 641837,"Rutgers University, USA",,20393.0,qRXl3WYAAAAJ,{'indices'},Process monitoring and control|Continuous pharmaceutical manufacturing,Ravendra Singh,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hc89h6kAAAAJ&citpid=1,10624.0,60,41,425,223,0,0
-641838,University of Pittsburgh,,1400.0,-ggLW3oAAAAJ,{'indices'},,Ipsita Banerjee,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hc89h6kAAAAJ&citpid=1,883.0,22,17,35,26,0,0
+641838,University of Pittsburgh,,1400.0,-ggLW3oAAAAJ,{'indices'},,Ipsita Banerjee,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nh21DQwAAAAJ&citpid=2,883.0,22,17,35,26,0,0
 641839,Takeda Pharmaceutical,,591.0,0mP1RkIAAAAJ,{'indices'},pharmaceutical manufacturing|powder techonology|solids unit operation|continuous manufacturing|chemical engineering,Yijie Gao,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hc89h6kAAAAJ&citpid=1,382.0,10,9,10,9,0,0
 641840,"Senior Scientist, Pfizer Inc.",,486.0,kxKfhnUAAAAJ,{'indices'},process systems engineering|mathematical modeling|optimization|continuous pharmaceutical manufacturing,Zilong Wang,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kxKfhnUAAAAJ&citpid=1,368.0,9,9,8,8,0,0
 641841,"Postdoctoral Associate, Dept. of Chemical and Biochemical Engineering. Rutgers University",,359.0,Q34hkCUAAAAJ,{'indices'},Spectroscopy|Near infrared|Process Analytical Technology|Chemometrics,Andrés D. Román,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Q34hkCUAAAAJ&citpid=6,352.0,12,12,15,15,0,0
 641842,GAMS Development Corporation,,208.0,nDGw89wAAAAJ,{'indices'},Process systems engineering|chemical engineering|optimization|machine learning,Atharv Bhosekar,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nDGw89wAAAAJ&citpid=1,208.0,2,2,1,1,0,0
 641843,"Pharmacometric Scientist, Novartis",,767.0,RGQt8Z0AAAAJ,{'indices'},Computational Medicine|Pharmacometrics|Process Engineering|Numerical Techniques|Machine Learning,Anwesha Chaudhury,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RGQt8Z0AAAAJ&citpid=8,489.0,17,15,19,16,0,0
 641844,postdoc of university of minnesota,,229.0,W9Y8pEIAAAAJ,{'indices'},system biology|process engineering|fermentation|optimization,hong yang,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=W9Y8pEIAAAAJ&citpid=4,94.0,7,4,7,4,0,0
-641845,Aspen Technology,,98.0,wJZLnVcAAAAJ,{'indices'},,Nihar Sahay,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=W9Y8pEIAAAAJ&citpid=4,81.0,6,6,4,3,0,0
+641845,Aspen Technology,,98.0,wJZLnVcAAAAJ,{'indices'},,Nihar Sahay,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nh21DQwAAAAJ&citpid=2,81.0,6,6,4,3,0,0
 641846,"Associate Professor of Design Strategy, School of Management - Politecnico di Milano",,2198.0,Qm6WamUAAAAJ,{'indices'},Design Strategy|Design Thinking|Design Management|Innovation Management,Claudio Dell'Era,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Qm6WamUAAAAJ&citpid=2,1577.0,25,22,40,38,0,0
 641847,Politecnico di Torino,,2205.0,nBt3qaQAAAAJ,{'indices'},Innovation|Entrepreneurship|Project management,Paolo Landoni,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nBt3qaQAAAAJ&citpid=3,1669.0,20,18,35,33,0,0
 641848,Politecnico di Milano,,963.0,oji8dyAAAAAJ,{'indices'},innovation management|leadership|project management,Tommaso Buganza,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oji8dyAAAAAJ&citpid=1,628.0,16,16,20,20,0,0
@@ -407,7 +407,7 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 641862,"Assistant Professor, Politecnico di Milano",,226.0,rMpLRxoAAAAJ,{'indices'},,Elena Pellizzoni,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rMpLRxoAAAAJ&citpid=1,220.0,8,8,7,7,0,0
 641863,"Assistant Professor, Politecnico di Milano",,163.0,AV-yOl0AAAAJ,{'indices'},Design Thinking|Design Management|Technology Development|Innovation Management,Stefano Magistretti,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=AV-yOl0AAAAJ&citpid=7,163.0,8,8,7,7,0,0
 641864,"Full Professor, Politecnico di Milano and Honorary Researcher, University of Lancaster",,8266.0,_5bPYVgAAAAJ,{'indices'},Innovation Management - Technology Strategy,Federico Frattini,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_5bPYVgAAAAJ&citpid=2,5806.0,44,36,82,72,0,0
-641865,,,5024.0,7RVX4tUAAAAJ,{'indices'},,Keith Goffin,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_5bPYVgAAAAJ&citpid=2,2118.0,34,23,49,39,0,0
+641865,,,5024.0,7RVX4tUAAAAJ,{'indices'},,Keith Goffin,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rMpLRxoAAAAJ&citpid=1,2118.0,34,23,49,39,0,0
 641866,Ghent University - Department of Educational Studies,,13140.0,fXuhM0YAAAAJ,{'indices'},ICT and design|innovation|curriculum & effectiveness,Johan van Braak,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fXuhM0YAAAAJ&citpid=3,8191.0,51,44,82,69,0,0
 641867,Hoogleraar Universiteit Gent,,19736.0,ND7o9rwAAAAJ,{'indices'},Innovation|higher education|performance indicators|online learning|mathematics,Martin Valcke,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ND7o9rwAAAAJ&citpid=2,10291.0,65,50,209,163,0,0
 641868,National Institute for Curriculum Development,,3639.0,JRIfna0AAAAJ,{'indices'},Education|ICT|TPACK|21st century skills,Petra Fisser,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JRIfna0AAAAJ&citpid=2,2846.0,21,19,34,24,0,0
@@ -3388,6 +3388,8 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 644843,Lecturer in Mechanical Engineering,,653.0,WuzpleoAAAAJ,{'indices'},Mechanics of Advanced Materials|Finite-Element Analysis|Bone Tissue|Biomaterials|Experimental and Computational Biomechanics,Dr Adel Abdel-Wahab,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WuzpleoAAAAJ&citpid=3,470.0,11,9,12,9,0,0
 644844,"Wolfson School of Mechanical, Electrical and Manufacturing Engineering, Loughborough University",,899.0,_2ydawYAAAAJ,{'indices'},error,James Flint,nan,514.0,15,12,25,14,0,0
 644845,"Professor of Vibration Engineering, Loughborough University",,1993.0,XH11W_oAAAAJ,{'indices'},error,Steve Rothberg,nan,800.0,25,14,52,28,0,0
+644844,"Wolfson School of Mechanical, Electrical and Manufacturing Engineering, Loughborough University",,899.0,_2ydawYAAAAJ,{'indices'},Electronics|Radio frequency Engineering|Computational Electromagnetics|Acoustics|Arrays,James Flint,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_2ydawYAAAAJ&citpid=2,514.0,15,12,25,14,0,0
+644845,"Professor of Vibration Engineering, Loughborough University",,1993.0,XH11W_oAAAAJ,{'indices'},vibration|laser vibrometry|laser speckle|acoustics|powertrain,Steve Rothberg,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XH11W_oAAAAJ&citpid=2,800.0,25,14,52,28,0,0
 644846,"Reader in Sports Engineering and Biomechanics, Wolfson School, Loughborough University",,1011.0,kPR6ZScAAAAJ,{'indices'},sports engineering|biomechanics|artificial turf|running|golf,Steph Forrester,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kPR6ZScAAAAJ&citpid=2,665.0,18,15,29,23,0,0
 644847,Centre de Recherche en Gestion Ecole Polytechnique,,5977.0,EpSYz_sAAAAJ,{'indices'},Innovation Strategy|Innovation management|Project Management|organizational learning|project organizing,christophe midler,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EpSYz_sAAAAJ&citpid=2,1966.0,37,24,84,39,0,0
 644848,Université de Montpellier,,892.0,n3BQD_YAAAAJ,{'indices'},,Sophie MIGNON,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EpSYz_sAAAAJ&citpid=2,410.0,13,11,15,11,0,0
@@ -5447,6 +5449,480 @@ Unnamed: 0,affiliation,email_domain,citedby,scholar_id,filled,interests,name,url
 646902,NVIDIA Research,,221.0,TCYAoF8AAAAJ,{'indices'},nonlinear control|manipulation|grasping|machine learning|robotic hands,Karl Van Wyk,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PmpjruUAAAAJ&citpid=3,218.0,9,9,8,7,0,0
 646903,National Instiute of Standards and Technology,,2505.0,awNOAaYAAAAJ,{'indices'},robotics,Joseph Falco,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=awNOAaYAAAAJ&citpid=2,1622.0,18,13,31,23,0,0
 646904,"Department of Mechanical, Manufacturing and Biomedical Engineering, School of Engineering, Trinity",,848.0,KI8up_IAAAAJ,{'indices'},Aeroacoustics|Metamaterials|Environmental Noise|Landing Gear Noise|Airframe Noise,Dr. Gareth J. Bennett,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KI8up_IAAAAJ&citpid=3,684.0,16,14,30,24,0,0
+646431,Consultant,,2893.0,coHeHk8AAAAJ,{'indices'},nan,Yishay Mor,nan,1636.0,29,21,54,35,0,0
+646432,Massey University,,1527.0,bEvkthsAAAAJ,{'indices'},nan,Lucila Carvalho,nan,1031.0,21,17,33,26,0,0
+646433,Universidade Federal de Santa Catarina,,1560.0,Oa3q6zYAAAAJ,{'indices'},nan,Alice T. Cybis Pereira,nan,765.0,13,7,25,5,0,0
+646434,UFSC / NGD - LDU,,1304.0,WUVOgQEAAAAJ,{'indices'},nan,eugenio merino,nan,820.0,17,13,34,17,0,0
+646435,"Professor Of Mechanical Engineering, Belo Horizonte, Centro Federal de Educação Tecnológica de Minas",,108.0,ygGW-WkAAAAJ,{'indices'},nan,Artur Caron Mottin,nan,106.0,4,4,2,2,0,0
+646436,"Pesquisador, CDTN",,1104.0,Jo99UPcAAAAJ,{'indices'},nan,Fernando Soares Lameiras,nan,457.0,16,10,26,11,0,0
+646437,Universidade do Estado de Minas Gerais - UEMG,,54.0,nwwgarwAAAAJ,{'indices'},nan,Rosemary Bom Conselho Sales,nan,49.0,4,4,2,2,0,0
+646438,Queen's University Belfast,,687.0,5XzzROgAAAAJ,{'indices'},nan,Matthew Rodger,nan,526.0,17,16,23,19,0,0
+646439,"PhD Candidate, Sonic Arts Research Centre, Queen's University Belfast",,195.0,BK9vKVgAAAAJ,{'indices'},nan,Cavan Fyans,nan,98.0,7,6,6,4,0,0
+646440,Queen's University Belfast,,74.0,SfPt7u4AAAAJ,{'indices'},nan,John Frederick Dyer,nan,72.0,4,4,4,4,0,0
+646441,Queen's University Belfast,,1423.0,p-fDhmsAAAAJ,{'indices'},nan,Maarten van Walstijn,nan,608.0,19,15,42,21,0,0
+646442,University of Bristol,,306.0,t_vvNfcAAAAJ,{'indices'},nan,Peter Bennett,nan,196.0,11,8,12,6,0,0
+646443,Queen Mary University of London,,154.0,UXWpcQ4AAAAJ,{'indices'},nan,Laurel S. Pardue,nan,87.0,8,6,6,2,0,0
+646444,Queen's University Belfast,,285.0,2GrPo3gAAAAJ,{'indices'},nan,Simon Waters,nan,116.0,7,5,6,3,0,0
+646445,University of Huddersfield,,118.0,1gvtW3MAAAAJ,{'indices'},nan,Owen Green,nan,87.0,6,6,4,2,0,0
+646446,"Reader (Assoc. Prof.), Queen Mary University of London",,1474.0,9Je-3c4AAAAJ,{'indices'},nan,Andrew McPherson,nan,1243.0,22,19,44,38,0,0
+646447,"Ableton AG, DE",,108.0,iW5jFDsAAAAJ,{'indices'},nan,S. M. Astrid Bin,nan,108.0,6,6,3,3,0,0
+646448,"Lecturer, University of Auckland",,398.0,cMZilz4AAAAJ,{'indices'},nan,Fabio Morreale,nan,351.0,13,12,14,13,0,0
+646449,"Professor - McGill University, INRIA International Chair",,9333.0,ati0WrYAAAAJ,{'indices'},nan,Marcelo M. Wanderley,nan,3524.0,43,28,130,76,0,0
+646450,"Associate Professor of Computer Science, University of Wisconsin–Madison",,6804.0,VGr54BoAAAAJ,{'indices'},nan,Bilge Mutlu,nan,4858.0,44,39,95,87,0,0
+646451,"PhD in Industrial Design, KAIST",,31.0,u_Zj1tUAAAAJ,{'indices'},nan,Jae-eul Bae,nan,19.0,3,3,2,0,0,0
+646452,"Professor, Technische Hochschule Mittelhessen",,1141.0,vLMQS2gAAAAJ,{'indices'},nan,Alexander Kloes,nan,591.0,17,12,35,18,0,0
+646453,"Institute for Semiconductor Technology and Nanoelectronics, Technische Universität Darmstadt",,178.0,32ZoS5sAAAAJ,{'indices'},nan,Tillmann Krauss,nan,124.0,8,7,7,5,0,0
+646454,"Center for nanoscience and nanotechnology, University Paris-Saclay",,1426.0,EBxC4NgAAAAJ,{'indices'},nan,Laurie E. Calvet,nan,270.0,15,8,19,8,0,0
+646455,"JCap, LLC",,2347.0,s1XwQJgAAAAJ,{'indices'},nan,John Peter Snyder,nan,518.0,20,11,32,13,0,0
+646456,"NanoP, TH Mittelhessen",,68.0,tGdaMRYAAAAJ,{'indices'},nan,Fabian Horst,nan,68.0,4,4,2,2,0,0
+646457,TU Dresden,,2944.0,UsPA86sAAAAJ,{'indices'},nan,Jens Lienig,nan,1400.0,25,16,47,27,0,0
+646458,"Professor of EDA, Reutlingen University",,201.0,5ZYcTs8AAAAJ,{'indices'},nan,Jürgen Scheible,nan,142.0,7,6,5,2,0,0
+646459,"Department of Electronic Engineering, Universitat Rovira i Virgili, Spain",,6074.0,iG5al8gAAAAJ,{'indices'},nan,Benjamin Iniguez,nan,2190.0,39,22,122,68,0,0
+646460,"Reasearch Assistant, Technische Hochschule Mittelhessen (THM)",,223.0,oTkfqZ4AAAAJ,{'indices'},nan,Michael Graef,nan,186.0,7,7,7,6,0,0
+646461,Jawaharlal Nehru Centre for Advanced Scientific Research,,344.0,bappKYMAAAAJ,{'indices'},nan,Prof.  K. R. Sreenivas,nan,138.0,10,7,10,6,0,0
+646462,"Skill Team lead, R&D",,35.0,5DI_mPwAAAAJ,{'indices'},nan,saharash khare,nan,19.0,1,1,1,1,0,0
+646463,"Ring Family Chair, Professor, Georgia Tech",,1685.0,PCkWY_cAAAAJ,{'indices'},nan,Devesh Ranjan,nan,1158.0,21,19,40,36,0,0
+646464,Teva Pharmaceuticals,,376.0,e5Z9_Z4AAAAJ,{'indices'},nan,Rakesh Khilwani,nan,297.0,6,5,5,5,0,0
+646465,"Indian Institute of Technology, Banaras Hindu University, Varanasi",,96.0,r-LanUwAAAAJ,{'indices'},nan,Ajeet Pratap Singh,nan,96.0,6,6,3,3,0,0
+646466,"Pós-doc em Comunicação, Universidade de São Paulo",,100.0,uH_d3mYAAAAJ,{'indices'},nan,Arlete dos Santos Petry,nan,54.0,7,5,3,0,0,0
+646467,Doutor em Tecnologias da Inteligência e Design Digital - PUC-SP,,28.0,n0GCZSEAAAAJ,{'indices'},nan,Nilson Valdevino Soares,nan,17.0,3,3,0,0,0,0
+646468,"Professor do Departamento de Design, Universidade Federal do Paraná",,626.0,BqIGyNcAAAAJ,{'indices'},nan,André Luiz Battaiola,nan,231.0,11,7,13,4,0,0
+646469,"Associate Professor with Habilitation, Universidade Aberta",,1543.0,_sMGYcgAAAAJ,{'indices'},nan,Leonel Morgado,nan,820.0,20,13,45,23,0,0
+646470,Professor  de Comunicação da  Universidade de São Paulo,,696.0,uR7icI0AAAAJ,{'indices'},nan,Eneus Trindade,nan,379.0,13,10,21,11,0,0
+646471,"co-founder, Casthalia studio",,68.0,ion1VT0AAAAJ,{'indices'},nan,Ana Beatriz Bahia,nan,39.0,4,3,2,1,0,0
+646472,University of Aveiro,,804.0,sGRN2lYAAAAJ,{'indices'},nan,Nelson Zagalo,nan,395.0,15,10,25,10,0,0
+646473,"Professor de Ciências da Comunicação, Universidade Fernando Pessoa",,264.0,qfmF53UAAAAJ,{'indices'},nan,Rui Torres,nan,118.0,9,6,9,1,0,0
+646474,"Professor of Visualisation, University of Warwick, UK",,7066.0,11l-_ssAAAAJ,{'indices'},nan,Alan Chalmers,nan,2510.0,39,23,156,63,0,0
+646475,Universidade do Minho,,835.0,ND_A6S4AAAAJ,{'indices'},nan,Luís Gonzaga Magalhães,nan,544.0,15,14,25,18,0,0
+646476,"Associate Professor, Instituto Politécnico do Cávado e do Ave",,507.0,4KLwVNsAAAAJ,{'indices'},nan,Nuno Feixa Rodrigues,nan,308.0,11,7,14,6,0,0
+646477,Universidade Estadual de Campinas,,128.0,pLxoGjoAAAAJ,{'indices'},nan,Hermes Renato Hildebrand,nan,68.0,7,5,3,0,0,0
+646478,ISCTE-IUL,,297.0,nfpwPjoAAAAJ,{'indices'},nan,Filipe Santos,nan,60.0,7,4,6,1,0,0
+646479,KU Leuven,,2605.0,MXucHioAAAAJ,{'indices'},nan,Ann Heylighen,nan,1316.0,26,19,79,41,0,0
+646480,University of California Berkeley,,222.0,XpNVuwQAAAAJ,{'indices'},nan,W. Mike MARTIN Professor Emeritus A...,nan,73.0,8,5,6,1,0,0
+646481,"Professor, Director, NJ Institute for Food, Nutrition and Health, Rutgers University",,19200.0,uFZJ02IAAAAJ,{'indices'},nan,Maria Gloria Dominguez-Bello,nan,14345.0,44,33,100,72,0,0
+646482,"Assistant Professor, Sejong University, South Korea",,2549.0,P7jhc5kAAAAJ,{'indices'},nan,Hakdong Shin,nan,2191.0,23,21,42,31,0,0
+646483,"Professor of Civil, Architectural and Environmental Engineering ",,3189.0,GjHZZYUAAAAJ,{'indices'},nan,Atila Novoselac,nan,2112.0,32,27,62,56,0,0
+646484,"Professor of Biology, University of Puerto Rico",,761.0,0cAateUAAAAJ,{'indices'},nan,Jean F Ruiz Calderon,nan,686.0,6,6,6,6,0,0
+646485,"Professor of Medicine and Microbiology, Rutgers University",,132678.0,gr50sj4AAAAJ,{'indices'},nan,Martin Blaser,nan,41146.0,175,87,764,433,0,0
+646486,Universidade Federal do ABC,,924.0,ynba_pwAAAAJ,{'indices'},nan,Luciana Campos Paulino,nan,433.0,15,10,16,11,0,0
+646487,"Professor Titular da Faculdade de Ciências Agrárias, Universidade Federal do Amazonas",,895.0,5_4ld1cAAAAJ,{'indices'},nan,Henrique dos Santos Pereira,nan,569.0,16,13,26,16,0,0
+646488,University of California San Diego,,11100.0,2-wJAwYAAAAJ,{'indices'},nan,Sejin Song,nan,10309.0,32,31,42,42,0,0
+646489,University of Puerto Rico Rio Piedras,,96.0,4CCBWy4AAAAJ,{'indices'},nan,Rafael A. Rios,nan,78.0,4,2,2,2,0,0
+646490,"Director, Center for Microbiome Innovation; Professor, Pediatrics, Bioengineering and CSE, UCSD",,247671.0,_e3QL94AAAAJ,{'indices'},nan,Rob Knight,nan,183182.0,197,175,590,554,0,0
+646491,Università di Milano-Bicocca,,203.0,Qqm-G84AAAAJ,{'indices'},nan,matteo bianchin,nan,123.0,7,5,5,4,0,0
+646492,"Professor of Mathematics, University of Puerto Rico, Rio Piedras Piedras",,6997.0,BR9_VOoAAAAJ,{'indices'},nan,LUIS PERICCHI,nan,3139.0,33,20,61,33,0,0
+646493,"Associate Professor, University of Puerto Rico School of Medicine",,1212.0,vkcHVwEAAAAJ,{'indices'},nan,Filipa Godoy-Vitorino,nan,998.0,15,14,18,17,0,0
+646494,UCSD,,29589.0,IsfIfVsAAAAJ,{'indices'},nan,Pieter C Dorrestein,nan,21781.0,86,66,288,265,0,0
+646495,Arizona State University,,5586.0,mjkV0pUAAAAJ,{'indices'},nan,Qiyun Zhu,nan,5479.0,23,21,33,32,0,0
+646496,University of California San Diego,,1618.0,W-r-GrQAAAAJ,{'indices'},nan,Chris Callewaert,nan,1561.0,16,16,17,17,0,0
+646497,"Professor, Dept of Civil, Arch. & Environmental Engineering, University of Texas at",,3439.0,_ADgNg0AAAAJ,{'indices'},nan,Kerry Kinney,nan,1598.0,31,21,68,40,0,0
+646498,"Research Associate, University of Texas at Austin",,892.0,1Qt_IXwAAAAJ,{'indices'},nan,Juan P Maestre,nan,475.0,15,15,21,19,0,0
+646499,International Institute of Earthquake Engineering and Seismology,,2398.0,rjbN6aIAAAAJ,{'indices'},nan,Mohsen Ghafory-Ashtiany,nan,1133.0,24,19,52,38,0,0
+646500,"EMU, Famagusta, North Cyprus / IIEES and Univ. of Tehran",,1619.0,8SMAVOEAAAAJ,{'indices'},nan,Mahmood Hosseini,nan,1078.0,16,13,34,24,0,0
+646501,"associate professor, Aalto University School of Arts Design and Architecture",,3681.0,qmwAC9UAAAAJ,{'indices'},nan,Tuuli Mattelmäki,nan,1786.0,28,23,51,31,0,0
+646502,,,6856.0,eHHGFZIAAAAJ,{'indices'},nan,Ilpo Koskinen,nan,2928.0,29,19,60,33,0,0
+646503,Aalto University,,528.0,H1eOAWIAAAAJ,{'indices'},nan,Salu Ylirisku,nan,231.0,11,8,13,5,0,0
+646504,PhD Candidate,,305.0,ISdlNAkAAAAJ,{'indices'},nan,Mari Holopainen,nan,198.0,8,6,8,5,0,0
+646505,Aalto University,,662.0,hbDlIA0AAAAJ,{'indices'},nan,Miia Carola Jaatinen,nan,318.0,13,9,15,9,0,0
+646506,"Doctoral candidate, Aalto University School of Art, Design and Architecture",,401.0,xyEV3R8AAAAJ,{'indices'},nan,Anna Salmi,nan,99.0,11,5,13,2,0,0
+646507,Microsoft Research Cambridge,,3367.0,0CoGnkAAAAAJ,{'indices'},nan,Siân Lindley,nan,1872.0,30,24,53,41,0,0
+646508,Unicamp / PUC Minas / Rutgers University,,1411.0,z6x6oM0AAAAJ,{'indices'},nan,Luiz Ramos,nan,603.0,12,9,14,9,0,0
+646509,"Professor of Mechanical and Aerospace Engineering, Rutgers University",,2002.0,SINRnoIAAAAJ,{'indices'},nan,Hae Chang Gea,nan,757.0,24,16,38,20,0,0
+646510,University of Nairobi,,1013.0,XEsxQy4AAAAJ,{'indices'},nan,Madara Ogot,nan,358.0,15,10,25,11,0,0
+646511,Corning Incorporated,,306.0,xv5j_I0AAAAJ,{'indices'},nan,Jiandong Meng,nan,151.0,5,4,2,2,0,0
+646512,"Department of Mechanical and Aerospace Engineering, University of Central Florida, Orlando, Florida",,972.0,c5690yMAAAAJ,{'indices'},nan,Sagnik Mazumdar,nan,443.0,13,9,15,8,0,0
+646513,Prudential Financial,,2371.0,9XkgHEUAAAAJ,{'indices'},nan,Sastry Isukapalli,nan,991.0,20,15,28,20,0,0
+646514,"Associate Professor of Mechanical Engineering, National Taiwan University of Science and Technology",,393.0,ONXqSWkAAAAJ,{'indices'},nan,Po Ting Lin,nan,254.0,10,8,11,7,0,0
+646515,Brigham Young University,,730.0,VwSks3oAAAAJ,{'indices'},nan,Douglas Cook,nan,567.0,17,14,23,21,0,0
+646516,"Professor Associado de Design, Universidade Federal do Rio Grande do Sul - UFRGS",,5263.0,5cf8d40AAAAJ,{'indices'},nan,Régio Pierre da Silva,nan,2261.0,26,21,110,55,0,0
+646517,Universidade Federal do Rio Grande do Sul,,35.0,4zpo9rsAAAAJ,{'indices'},nan,Fernando Batista Bruno,nan,27.0,4,3,0,0,0,0
+646518,"Laboratório de Design e Seleção de Materiais, Universidade Federal do Rio Grande do Sul",,477.0,OKst0LMAAAAJ,{'indices'},nan,Fabio Pinto da Silva,nan,318.0,9,9,9,8,0,0
+646519,Professor,,953.0,Vn7HQQwAAAAJ,{'indices'},nan,Underléa M. Bruscato,nan,653.0,18,15,27,21,0,0
+646520,"Professor of Interactive Intelligence TU Delft, and Explainable AI at Leiden University",,9835.0,khyi_HIAAAAJ,{'indices'},nan,Catholijn M. Jonker,nan,3476.0,49,28,204,98,0,0
+646521,"Retired, Michigan State University",,36543.0,phLXLWIAAAAJ,{'indices'},nan,Charles Steinfield,nan,13904.0,59,32,111,65,0,0
+646522,S. V. NATIONAL INSTITUTE OF TECHNOLOGY,,16266.0,4NoqGCEAAAAJ,{'indices'},nan,Dr. R. Venkata Rao,nan,11698.0,59,50,136,120,0,0
+646523,"Cracow University of Technology, Politechnika Krakowska",,1216.0,W43KHCIAAAAJ,{'indices'},nan,Paweł Ocłoń,nan,1074.0,18,17,36,32,0,0
+646524,"Data Science, AI and Machine Learning Consulting, Mechatr. Eng. (PUCPR) and Electr. Eng. (UFPR)",,13951.0,0X7VkC4AAAAJ,{'indices'},nan,Leandro dos Santos Coelho,nan,7796.0,61,46,225,152,0,0
+646525,"Professor, Mechanical Engineering, PUCPR and Electrical Engineering, UFPR",,5098.0,LFw9rFYAAAAJ,{'indices'},nan,Viviana Cocco Mariani,nan,3002.0,38,30,89,66,0,0
+646526,"Professor in Mechanical Engg., MMCOE,SPPU,Pune",,78.0,72YBzDQAAAAJ,{'indices'},nan,R.J.Yadav,nan,59.0,6,5,2,1,0,0
+646527,Nidec Control Techniques,,466.0,Bi_fciQAAAAJ,{'indices'},nan,James Scoltock,nan,376.0,9,9,8,7,0,0
+646528,"Senior Lecturer, The University of Manchester",,824.0,TGOGxnIAAAAJ,{'indices'},nan,Dr Rebecca Todd,nan,605.0,15,14,18,15,0,0
+646529,"Senior Scientist, ABB Corporate Research",,761.0,DTgh3pIAAAAJ,{'indices'},nan,Panagiotis (Panos) Kakosimos,nan,564.0,13,12,16,13,0,0
+646530,"Research Associate, University of Manchester",,87.0,uejFyp0AAAAJ,{'indices'},nan,Alejandro Villarruel-Parra,nan,69.0,6,4,3,3,0,0
+646531,The University of Manchester,,195.0,72LH3uMAAAAJ,{'indices'},nan,Md Rishad Ahmed,nan,186.0,6,6,5,5,0,0
+646532,"Associate Professor in Interaction Design, KTH",,2394.0,kzZWAf0AAAAJ,{'indices'},nan,Madeline Balaam,nan,1965.0,25,22,58,50,0,0
+646533,"Center for Research on Population and Health, American University of Beirut",,2582.0,UE1-7uoAAAAJ,{'indices'},nan,Hala Ghattas,nan,1546.0,26,21,42,36,0,0
+646534,Assistant Research Professor @ Center for Research on Population and Health,,819.0,PLLPyqwAAAAJ,{'indices'},nan,Chaza Akik,nan,602.0,13,13,14,14,0,0
+646535,Monash University,,12276.0,YULFeN0AAAAJ,{'indices'},nan,Patrick Olivier,nan,8065.0,55,43,202,158,0,0
+646536,"University of Siegen, Fraunhofer FIT, International Institute for Socio-Informatics (IISI)",,11038.0,6GTX5ZoAAAAJ,{'indices'},nan,Volker Wulf,nan,4606.0,51,34,184,104,0,0
+646537,"wissentschaftlicher Mitarbeiter, University of Siegen",,928.0,56ketR8AAAAJ,{'indices'},nan,Konstantin Aal,nan,860.0,17,17,22,22,0,0
+646538,"NorSC, Northumbria University",,664.0,TJE7Ee4AAAAJ,{'indices'},nan,Kyle Montague,nan,604.0,15,15,22,20,0,0
+646539,"Assistant Professor, Newcastle University Open Lab",,689.0,EOe35MoAAAAJ,{'indices'},nan,Vasilis Vlachokyriakos,nan,618.0,12,12,17,16,0,0
+646540,"wiss. Mitarbeiterin, Universität Siegen",,454.0,YzyEW5kAAAAJ,{'indices'},nan,Anne Weibert,nan,377.0,12,11,14,13,0,0
+646541,"information school, university of washington",,8231.0,ud1uQLAAAAAJ,{'indices'},nan,Karen E Fisher,nan,3047.0,40,26,77,50,0,0
+646542,University of Toronto,,1336.0,Ji2o32AAAAAJ,{'indices'},nan,Syed Ishtiaque Ahmed,nan,1166.0,21,19,38,33,0,0
+646543,"Professor of Health Psychology and Planetary Health, Twente University",,5995.0,bmSwuBkAAAAJ,{'indices'},nan,Vera Araújo-Soares,nan,4601.0,36,32,93,78,0,0
+646544,"Associate Lecturer in Public Health, Newcastle University",,620.0,fZkTkegAAAAJ,{'indices'},nan,Dr. Balsam Ahmad,nan,338.0,11,10,11,10,0,0
+646545,"Senior Engineer, Samsung AI Center - Cambridge",,585.0,4N-DHfgAAAAJ,{'indices'},nan,Andrew Garbett,nan,509.0,13,12,15,14,0,0
+646546,"Department of Urban and Regional Planning and Geo-information Management (PGM), ITC, University of",,94.0,a66NPQ0AAAAJ,{'indices'},nan,Ana Maria Bustamante Duarte,nan,94.0,5,5,3,3,0,0
+646547,"Senior Researcher, Microsoft Research Cambridge",,1328.0,UjbEYJQAAAAJ,{'indices'},nan,Anja Thieme,nan,1073.0,20,19,32,31,0,0
+646548,University Kuala Lumpur,,408.0,4OgDuVMAAAAJ,{'indices'},nan,Eiad Yafi,nan,373.0,11,10,12,10,0,0
+646549,"Assistant Professor of Computer Science, American University of Beirut",,2089.0,Fe8iIHMAAAAJ,{'indices'},nan,Shady Elbassuoni,nan,1397.0,20,17,29,21,0,0
+646550,University of Siegen,,156.0,t7LEYUkAAAAJ,{'indices'},nan,Max Krüger,nan,111.0,4,4,1,1,0,0
+646551,"Open Lab, School of Computing Science, Newcastle University",,518.0,n_GWHugAAAAJ,{'indices'},nan,Clara Crivellaro,nan,496.0,11,11,14,13,0,0
+646552,"Research and Development Engineer, Refrigerants, Honeywell",,197.0,0BuysZoAAAAJ,{'indices'},nan,Nilesh Purohit,nan,196.0,8,8,8,8,0,0
+646553,"Assistant Professor Mechanical Engineering, IITRAM Ahmedabad",,144.0,-KLOuZkAAAAJ,{'indices'},nan,dileep kumar Gupta,nan,121.0,6,6,5,5,0,0
+646554,"Birla Institute of Technology and Science, Pilani",,15541.0,RAF6I7AAAAAJ,{'indices'},nan,Simarpreet Singh,nan,7903.0,47,34,282,160,0,0
+646555,Technical University of Denmark,,693.0,OuzDbHUAAAAJ,{'indices'},nan,Paride Gullo,nan,691.0,13,13,22,22,0,0
+646556,"birla institute of technology & science, pilani",,48.0,OhQNP8MAAAAJ,{'indices'},nan,Kapil Choudhary,nan,48.0,3,3,1,1,0,0
+646557,Oak Ridge National Laboratory,,1145.0,7JD_coYAAAAJ,{'indices'},nan,Brian Fricke,nan,632.0,17,14,26,16,0,0
+646558,Associate Professor,,216.0,O79FCiMAAAAJ,{'indices'},nan,Ashish Nayyar,nan,213.0,9,9,8,8,0,0
+646559,"Postdoctoral Researcher- ARO, Volcani center, Ministry of Agriculture and Rural Development, Isreal",,418.0,znqw4JcAAAAJ,{'indices'},nan,Sanjeev Jakhar,nan,412.0,13,13,15,15,0,0
+646560,"Professor of Computer Science and Engineering,  Halıcıoğlu Data Science Institute, UC San Diego",,22985.0,I1w51gUAAAAJ,{'indices'},nan,Rajesh K. Gupta,nan,6751.0,71,38,247,123,0,0
+646561,"Professor, Vice-Director of Mechanical Engineering Bachelor, Jaume I University",,2174.0,XYLuezYAAAAJ,{'indices'},nan,Rodrigo Llopis,nan,1622.0,28,21,54,50,0,0
+646562,,,988.0,J2YS-gIAAAAJ,{'indices'},nan,Lorenzo Guiducci,nan,657.0,14,14,17,16,0,0
+646563,Max Planck Institute of Colloids and Interfaces,,49023.0,SPGHUcoAAAAJ,{'indices'},nan,Peter Fratzl,nan,20953.0,113,65,462,369,0,0
+646564,"MorphoPhysics Group, Department of Chemistry and Physics of Materials, University of Salzburg",,4836.0,ZZ6QgWAAAAAJ,{'indices'},nan,John W. C. Dunlop,nan,3315.0,37,31,65,59,0,0
+646565,Institut für Holztechnologie Dresden,,1226.0,SMj95C4AAAAJ,{'indices'},nan,Markus Rüggeberg,nan,903.0,18,17,28,26,0,0
+646566,TU Dresden,,20743.0,fpMUT34AAAAJ,{'indices'},nan,Christoph Neinhuis,nan,8668.0,49,36,115,96,0,0
+646567,"Dept. of Chemistry, McGill University",,4032.0,x13ZapkAAAAJ,{'indices'},nan,Matthew Harrington,nan,2787.0,26,25,46,44,0,0
+646568,"Martin Luther University Halle-Wittenberg, Biomedical Materials Group",,6993.0,jvjdJd4AAAAJ,{'indices'},nan,"Thomas Groth, PhD",nan,2618.0,43,24,132,87,0,0
+646569,martin luther university,,305.0,Ex3jD-YAAAAJ,{'indices'},nan,neha aggarwal,nan,187.0,6,6,6,5,0,0
+646570,max planck institute for colloids and interfaces,,3930.0,9zefHxEAAAAJ,{'indices'},nan,luca bertinetti,nan,2609.0,38,27,77,68,0,0
+646571,Association la Voûte Nubienne,,504.0,KW8KaKwAAAAJ,{'indices'},nan,Sébastien Turcaud,nan,374.0,6,6,5,5,0,0
+646572,"School of Engineering and Applied Sciences, Harvard University",,15742.0,PV2jwkUAAAAJ,{'indices'},nan,James C. Weaver,nan,10963.0,63,50,130,120,0,0
+646573,Delft University of Technology,,272.0,-NAsV6kAAAAJ,{'indices'},nan,Emad Yaghmaei,nan,271.0,7,7,6,6,0,0
+646574,University of Sussex,,249.0,9RhhWc8AAAAJ,{'indices'},nan,Emeline Brule,nan,247.0,8,8,7,7,0,0
+646575,"Sorbonne Université, CNRS, ISIR",,2708.0,W4R1-ogAAAAJ,{'indices'},nan,Gilles Bailly,nan,1738.0,27,21,44,36,0,0
+646576,Institut Mines-Télécom / Télécom SudParis,,698.0,duMiJP0AAAAJ,{'indices'},nan,Patrick Horain,nan,87.0,13,5,18,3,0,0
+646577,"CNRS - ISIR, Sorbonne University",,12471.0,n9ZNrsEAAAAJ,{'indices'},nan,Catherine Pelachaud,nan,3846.0,53,31,208,116,0,0
+646578,"VP for Research, Intelligent Voice, Emeritus senior researcher, CNRS-SAMOVAR, Institut Mines-Telecom",,4952.0,NakTCiYAAAAJ,{'indices'},nan,Gérard CHOLLET,nan,1258.0,36,20,130,30,0,0
+646579,"CNRS, IPAL, IRIT, Cherchons pour Voir, TMBI (Univ. Toulouse)",,2082.0,OVUHrMAAAAAJ,{'indices'},nan,"Christophe Jouffrais, PhD, Senior rese...",nan,1262.0,26,20,49,38,0,0
+646580,"Assistant Professor - ENAC, Toulouse, France",,854.0,k3uleUIyFjMC,{'indices'},nan,Anke M. Brock,nan,725.0,16,15,21,18,0,0
+646581,"Associate Professor of Computer Science, Università della Campania ""Luigi Vanvitelli"" and IIASS",,3957.0,GohgpCYAAAAJ,{'indices'},nan,Anna Esposito,nan,2008.0,33,21,101,58,0,0
+646582,"CNRS Research Engineer (IR1), IRIT (CNRS-UT3), TMBI (Univ. Toulouse)",,720.0,Nnvhfj4AAAAJ,{'indices'},nan,bernard Oriola,nan,411.0,13,11,21,12,0,0
+646583,"Associate Professor, Telecom ParisTech",,285.0,T6yOqMcAAAAJ,{'indices'},nan,Jean-Claude Moissinac,nan,86.0,9,4,6,2,0,0
+646584,LNCC,,1821.0,aFytRX0AAAAJ,{'indices'},nan,Frederic Valentin,nan,727.0,22,15,39,22,0,0
+646585,University of Michigan / Toyota Research Institute - North America,,1065.0,MA6NjQkAAAAJ,{'indices'},nan,Karim Hamza,nan,496.0,16,13,25,16,0,0
+646586,"Mechanical Engineering Department, American University in Cairo",,1241.0,1Iv1558AAAAJ,{'indices'},nan,Ashraf Nassef,nan,510.0,20,12,37,18,0,0
+646587,"Professor of Mechanical Engineering at University of Michigan, Ann Arbor",,4489.0,eISb-7sAAAAJ,{'indices'},nan,Kazuhiro Saitou,nan,1432.0,34,19,84,34,0,0
+646588,"Professor and Director (MMRI), McMaster University",,6763.0,X8eOTIoAAAAJ,{'indices'},nan,Stephen Veldhuis,nan,3846.0,42,32,100,90,0,0
+646589,"Professor of Robotics dynamics and control, Cairo University & Former Vice President  E-JUST",,755.0,RWWY_80AAAAJ,{'indices'},nan,Said M. Megahed,nan,373.0,13,10,17,11,0,0
+646590,"NLPR/LIAMA, Institute of Automation, Chinese Academy of Sciences",,6940.0,Npo7kokAAAAJ,{'indices'},nan,Bao-Gang Hu (胡包钢),nan,2721.0,41,27,104,60,0,0
+646591,"Professor in Industrial Design, Queesland University of Technology, Brisbane, Australia",,2164.0,k12AAjkAAAAJ,{'indices'},nan,Vesna Popovic,nan,971.0,24,17,55,31,0,0
+646592,Queensland University of Technology,,1744.0,8qsL-AIAAAAJ,{'indices'},nan,Amanda Beatson,nan,1101.0,18,16,25,22,0,0
+646593,Queensland University of Technology,,192.0,gMRfVz4AAAAJ,{'indices'},nan,Lisa Stafford,nan,188.0,7,7,5,4,0,0
+646594,"School of Design, Queensland University of Technology",,1417.0,3ubD3akAAAAJ,{'indices'},nan,Professor Alethea Blackler,nan,693.0,21,15,33,26,0,0
+646595,"Professor of Social Policy, The University of Queensland",,3844.0,2Vx2JWEAAAAJ,{'indices'},nan,Greg Marston,nan,2071.0,30,25,74,52,0,0
+646596,Queensland University of Technology,,715.0,_LEWgEcAAAAJ,{'indices'},nan,Ben Kraal,nan,346.0,12,10,13,10,0,0
+646597,"Associate Professor, Creative Industries Faculty, Queensland University of Technology",,901.0,yNhNCk0AAAAJ,{'indices'},nan,Barbara Adkins,nan,383.0,16,9,28,9,0,0
+646598,"Professor, Queensland University of Technology, Brisbane, Australia",,5386.0,dOd9NHsAAAAJ,{'indices'},nan,Judy Drennan,nan,3053.0,34,27,63,51,0,0
+646599,University of Auckland,,4.0,RyRdeD0AAAAJ,{'indices'},nan,Carla Amaral,nan,4.0,1,1,0,0,0,0
+646600,Parahyangan Catholic University,,84.0,EAybSIgAAAAJ,{'indices'},nan,Thedy Yogasara,nan,70.0,4,4,2,1,0,0
+646601,"Associate Professor in Architecture, Queensland University of Technology",,433.0,OKsOFmsAAAAJ,{'indices'},nan,Dr Glenda Amayo Caldwell,nan,363.0,12,10,13,10,0,0
+646602,Professor Design Innovation | Director Design Innovation Research Lab,,1700.0,9c6FG9EAAAAJ,{'indices'},nan,Cara Wrigley,nan,1494.0,25,21,47,40,0,0
+646603,University of Canberra,,180.0,YtXElFEAAAAJ,{'indices'},nan,Gudur Raghavendra Reddy,nan,110.0,7,6,5,5,0,0
+646604,RMIT,,63.0,rYYN42oAAAAJ,{'indices'},nan,Gretchen Coombs,nan,52.0,4,4,1,1,0,0
+646605,QUT,,92.0,qyNqXr4AAAAJ,{'indices'},nan,Manuela Taboada,nan,74.0,4,4,2,2,0,0
+646606,University of Technology Sydney,,1282.0,NchFs3QAAAAJ,{'indices'},nan,sam bucolo,nan,713.0,17,13,33,17,0,0
+646607,"Associate Professor, Architecture, School of Design, Queensland University of Technology",,727.0,9xovWWgAAAAJ,{'indices'},nan,Veronica Garcia-Hansen,nan,561.0,12,12,16,13,0,0
+646608,CQUniversity,,533.0,CV32z7oAAAAJ,{'indices'},nan,Maria O'Reilly,nan,324.0,13,11,17,13,0,0
+646609,"Professor & Associate Dean, QUT Creative Industries Faculty",,428.0,z2A2xzQAAAAJ,{'indices'},nan,Gene Moyle,nan,260.0,7,7,7,7,0,0
+646610,Assistant Professor at York University,,45.0,4CpRVdsAAAAJ,{'indices'},nan,Shital Desai,nan,43.0,4,4,1,1,0,0
+646611,"Berkeley, Intel",,2072.0,cG0h9hkAAAAJ,{'indices'},nan,Elizabeth Goodman,nan,927.0,17,13,21,14,0,0
+646612,"Professor of Cultural Economy, University of South Australia",,5531.0,FJar-5YAAAAJ,{'indices'},nan,Justin O'Connor,nan,2241.0,30,23,46,35,0,0
+646613,UCL CASA,,70.0,CKqcXwEAAAAJ,{'indices'},nan,Duncan Wilson,nan,32.0,5,4,2,0,0,0
+646614,"Professor of Computer Science, Director of Research at Electronic Visualization Lab, UIC",,6836.0,s8e4QnsAAAAJ,{'indices'},nan,Andrew Johnson,nan,2144.0,46,22,133,51,0,0
+646615,"Professor of Computer Science, University of Hawaiʻi at Mānoa, and University of Illinois at Chicago",,16482.0,5KgriYAAAAAJ,{'indices'},nan,Jason Leigh,nan,2919.0,51,25,151,63,0,0
+646616,"NASA's Scientific Visualization Studio, Goddard Space Flight Center",,51765.0,LkauQ-AAAAAJ,{'indices'},nan,Mark U SubbaRao,nan,13876.0,53,35,67,50,0,0
+646617,"Associate Professor of Computer Science, University of Illinois at Chicago",,1013.0,xPCVtawAAAAJ,{'indices'},nan,G. Elisabeta Marai,nan,644.0,17,15,32,24,0,0
+646618,"Museum of Science and Industry, Chicago",,1044.0,eKMi82EAAAAJ,{'indices'},nan,Aaron Price,nan,598.0,15,11,21,11,0,0
+646619,"Associate Professor, Indiana University",,134.0,he-4Me8AAAAJ,{'indices'},nan,Margaret Dolinsky,nan,19.0,5,2,3,0,0,0
+646620,University at Buffalo,,917.0,xfVhh_sAAAAJ,{'indices'},nan,Dave Pape,nan,110.0,14,4,21,2,0,0
+646621,"Ph.D. Candidate, Electronic Visualization Laboratory, University of Illinois at",,446.0,mj2pCFAAAAAJ,{'indices'},nan,Arthur Nishimoto,nan,381.0,6,5,4,4,0,0
+646622,University of Illinois at Chicago,,109.0,Sc5oqQkAAAAJ,{'indices'},nan,Kyle Reese Almryde,nan,85.0,7,6,5,2,0,0
+646623,University of North Texas,,1814.0,nsuVDWMAAAAJ,{'indices'},nan,ruth west,nan,546.0,11,7,15,7,0,0
+646624,University of Southern California,,1841.0,gfQpRigAAAAJ,{'indices'},nan,Jacquelyn Morie,nan,701.0,21,14,35,20,0,0
+646625,"Associate Professor of Geography, Montana State University",,1001.0,HsIVfcYAAAAJ,{'indices'},nan,Jamie McEvoy,nan,797.0,15,14,21,19,0,0
+646626,Conservation Science Partners,,423.0,1A03vVMAAAAJ,{'indices'},nan,Shelley Crausbay,nan,339.0,12,11,12,11,0,0
+646627,"Assistant Professor of Biology & Environmental Studies, Reed College",,441.0,556uscgAAAAJ,{'indices'},nan,Aaron Ramirez,nan,402.0,7,7,6,6,0,0
+646628,"Assistant Professor, University of California Irvine",,435.0,kVoSdycAAAAJ,{'indices'},nan,Nicola Ulibarri,nan,414.0,12,12,12,12,0,0
+646629,"Associate Professor of Economics, Emerson College",,351.0,BAQGYz0AAAAJ,{'indices'},nan,Nejem Raheem,nan,256.0,8,7,8,7,0,0
+646630,"Climate Change Ecologist, North America Science, The Nature Conservancy",,6806.0,hXcyQhgAAAAJ,{'indices'},nan,Kimberly R. Hall,nan,2667.0,19,16,29,22,0,0
+646631,Wildlife Conservation Society,,1098.0,l0aVCCYAAAAJ,{'indices'},nan,Molly Cross,nan,792.0,13,11,14,12,0,0
+646632,University of Colorado - Boulder,,848.0,d2BBo1cAAAAJ,{'indices'},nan,Cassandra Brooks,nan,751.0,17,16,23,22,0,0
+646633,U.S. Geological Survey,,8346.0,HqL1E2EAAAAJ,{'indices'},nan,Jason Dunham,nan,3727.0,50,37,105,88,0,0
+646634,"Lead Design Research Investigator, Stanford d.school",,964.0,g00nzW4AAAAJ,{'indices'},nan,Adam Royalty,nan,811.0,17,15,19,18,0,0
+646635,"Conservation International, Center for Oceans",,3966.0,s_AYbqsAAAAJ,{'indices'},nan,John N. (Jack) Kittinger,nan,3336.0,39,33,63,61,0,0
+646636,University of Victoria,,6761.0,3DUsAKIAAAAJ,{'indices'},nan,Natalie Ban,nan,5008.0,49,41,96,94,0,0
+646637,David and Lucile Packard Foundation,,2488.0,Q1VvPqgAAAAJ,{'indices'},nan,Margaret Caldwell,nan,1539.0,21,19,26,22,0,0
+646638,"Associate Professor, Social Ecology, Stanford University",,3303.0,3zd2A2UAAAAJ,{'indices'},nan,Nicole M. Ardoin,nan,2480.0,29,27,51,48,0,0
+646639,Stanford University,,517.0,xldpxvcAAAAJ,{'indices'},nan,John Zachary Koehn,nan,450.0,8,8,8,8,0,0
+646640,San Francisco Estuary Institute,,2377.0,0MpB_JUAAAAJ,{'indices'},nan,Melissa Foley,nan,1363.0,23,21,29,29,0,0
+646641,Oregon State University,,3605.0,7knx2zEAAAAJ,{'indices'},nan,Hannah Gosnell,nan,2166.0,27,25,40,35,0,0
+646642,Scientist at US Geological Survey and Professor at Virginia Tech,,16190.0,KTkhFpIAAAAJ,{'indices'},nan,Paul L. Angermeier,nan,4434.0,58,32,115,86,0,0
+646643,"Assistant Professor, University of Vermont",,3221.0,fKiahyYAAAAJ,{'indices'},nan,Rachelle K. Gould,nan,2870.0,17,17,24,24,0,0
+646644,Independent Consultant,,42.0,nNX5W90AAAAJ,{'indices'},nan,Matt Biggar,nan,41.0,3,3,1,1,0,0
+646645,University of Technology Sydney,,556.0,UzrFPi0AAAAJ,{'indices'},nan,A. Baki Kocaballi,nan,502.0,11,10,12,11,0,0
+646646,RMIT University,,448.0,CejhbngAAAAJ,{'indices'},nan,Jonathan Duckworth,nan,309.0,13,9,14,9,0,0
+646647,"Yale University School of Medicine, Psychiatry and Neuroscience",,12367.0,Ix4hhOQAAAAJ,{'indices'},nan,Chiang-shan Ray Li,nan,6956.0,57,45,162,148,0,0
+646648,University of Birmingham,,3340.0,iswtssoAAAAJ,{'indices'},nan,Andrew Howes,nan,1267.0,33,18,66,31,0,0
+646649,University of Illinois,,3643.0,lf37ASAAAAAJ,{'indices'},nan,Alejandro Lleras,nan,1804.0,28,21,49,35,0,0
+646650,"Postdoc, Columbia University",,645.0,tbfWCDgAAAAJ,{'indices'},nan,Joshua I. Glaser,nan,568.0,11,11,13,12,0,0
+646651,"Health Data Scientist, Evidation Health",,688.0,-R0cHp4AAAAJ,{'indices'},nan,Eamon Caddigan,nan,380.0,7,7,7,7,0,0
+646652,Bath Centre for Pain Services,,1356.0,SXmv_HUAAAAJ,{'indices'},nan,Geoffrey B. Duggan,nan,786.0,17,14,19,15,0,0
+646653,Yale University,,1696.0,a1Bo3jEAAAAJ,{'indices'},nan,Sien Hu,nan,1399.0,26,22,43,43,0,0
+646654,Yale University,,2422.0,6VoMxawAAAAJ,{'indices'},nan,Jaime S Ide,nan,1527.0,24,21,47,39,0,0
+646655,IBM T.J. Watson Research Center,,5314.0,IaB4_j0AAAAJ,{'indices'},nan,Petros Zerfos,nan,1077.0,23,17,39,23,0,0
+646656,"Claire and Roland Schmitt Distinguished Professor, Rensselaer Polytechnic Institute",,17996.0,2OJOZTUAAAAJ,{'indices'},nan,Boleslaw Szymanski,nan,7294.0,61,37,316,138,0,0
+646657,IBM,,52.0,qZKEko0AAAAJ,{'indices'},nan,Dominic Harries,nan,32.0,5,3,0,0,0,0
+646658,Cardiff University - Crime & Security Research Institute,,5955.0,jKz-U3wAAAAJ,{'indices'},nan,Alun Preece,nan,1596.0,40,18,131,47,0,0
+646659,IBM Research,,7737.0,O3ysw6MAAAAJ,{'indices'},nan,Chatschik Bisdikian,nan,1667.0,45,18,112,37,0,0
+646660,IBM UK Ltd,,839.0,HjKAUZEAAAAJ,{'indices'},nan,John Ibbotson,nan,198.0,12,7,14,5,0,0
+646661,"Professor of Electrical & Computer Engineering, and Professor of Computer Science, UCLA",,62333.0,X2Qs7XYAAAAJ,{'indices'},nan,Mani Srivastava,nan,15500.0,108,59,354,195,0,0
+646662,"Professor in Computing Science, University of Aberdeen, UK",,3027.0,wAhC4McAAAAJ,{'indices'},nan,Wamberto Vasconcelos,nan,890.0,28,16,69,26,0,0
+646663,Research Staff Member,,631.0,R0cCxNkAAAAJ,{'indices'},nan,Geeth de Mel,nan,299.0,11,9,14,9,0,0
+646664,"Assistant Professor of Computer Engineering, King Fahd University of Petroleum and Minerals",,960.0,Zznw6wEAAAAJ,{'indices'},nan,Hosam Rowaihy,nan,264.0,15,7,16,7,0,0
+646665,"Professor of Computer Science, City University of New York (CUNY)",,10085.0,MfLLOyMAAAAJ,{'indices'},nan,Amotz Bar-Noy,nan,1973.0,50,23,129,53,0,0
+646666,"Honorary Research Fellow, Cardiff University, UK",,549.0,jfsu_TcAAAAJ,{'indices'},nan,Diego Pizzocaro,nan,183.0,14,8,17,7,0,0
+646667,Associate Professor (UPV),,765.0,i6DbIx4AAAAJ,{'indices'},nan,Mario Gómez Martínez,nan,196.0,13,6,19,4,0,0
+646668,Facebook,,618.0,ZPqZhnAAAAAJ,{'indices'},nan,Sahin Cem Geyik,nan,427.0,16,11,20,15,0,0
+646669,JHU Applied Physics Laboratory,,304.0,yuXkJrcAAAAJ,{'indices'},nan,Gene Whipps,nan,115.0,9,6,9,2,0,0
+646670,"Research Staff Member, IBM T. J. Watson Research Center",,1850.0,UIM7nGwAAAAJ,{'indices'},nan,Supriyo Chakraborty,nan,1473.0,21,19,39,32,0,0
+646671,"IBM Research, UK",,1367.0,GNtI7cIAAAAJ,{'indices'},nan,Dave Braines,nan,748.0,21,13,34,15,0,0
+646672,University of Brescia,,1322.0,v0mFZhoAAAAJ,{'indices'},nan,Federico Cerutti,nan,1020.0,16,14,31,24,0,0
+646673,"Department of Computer Science, University College London",,1259.0,zwhncjQAAAAJ,{'indices'},nan,Murat Sensoy,nan,661.0,19,11,29,14,0,0
+646674,"Research Scientist of Computer Science, IBM T. J. Watson Research Center",,4782.0,Z2jVWrwAAAAJ,{'indices'},nan,Mudhakar Srivatsa,nan,2508.0,36,27,107,71,0,0
+646675,"TU/e Electrical Engineering, ECO group",,1910.0,etR2gNUAAAAJ,{'indices'},nan,Ripalta (Patty) Stabile,nan,1191.0,18,14,27,22,0,0
+646676,"Associate professor, COBRA research institute, Eindhoven University of Technology",,10343.0,vsBEHOwAAAAJ,{'indices'},nan,Xaveer Leijtens,nan,2061.0,43,20,128,43,0,0
+646677,Technical University of Eindhoven,,3993.0,Jhpwx2kAAAAJ,{'indices'},nan,nicola calabretta,nan,1467.0,32,18,106,43,0,0
+646678,Eindhoven University of Technology,,414.0,5paciJgAAAAJ,{'indices'},nan,Stefano Di Lucente,nan,225.0,9,7,9,6,0,0
+646679,"Eindhoven University of Technology, The Netherlands",,16017.0,6l3VOfgAAAAJ,{'indices'},nan,Meint Smit,nan,4632.0,54,31,253,101,0,0
+646680,"Professor, Electrical Engineering, Eindhoven University of Technology",,4838.0,nPxQ6I0AAAAJ,{'indices'},nan,Martijn J. R. Heck,nan,3230.0,33,27,68,44,0,0
+646681,SMART Photonics,,1281.0,mDbE2rQAAAAJ,{'indices'},nan,Luc Augustin,nan,797.0,14,9,16,9,0,0
+646682,University of Cambridge,,1281.0,1yq7Ml8AAAAJ,{'indices'},nan,Qixiang Cheng,nan,1197.0,20,19,33,32,0,0
+646683,"Professor of Photonics, University of Cambridge",,11429.0,y3CYyPkAAAAJ,{'indices'},nan,Richard Penty,nan,4759.0,50,32,252,98,0,0
+646684,"PhD Researcher, Eindhoven University of Technology",,162.0,zaY-Tl0AAAAJ,{'indices'},nan,Prometheus Das Mahapatra,nan,126.0,6,6,5,4,0,0
+646685,Eindhoven University of Technology,,2216.0,zAY6ewsAAAAJ,{'indices'},nan,Zizheng Cao,nan,1397.0,25,20,61,42,0,0
+646686,Eindhoven University of Technology,,5584.0,znVTJLcAAAAJ,{'indices'},nan,Jun Luo,nan,1358.0,16,11,24,13,0,0
+646687,imec,,112.0,HCpbu-IAAAAJ,{'indices'},nan,Salvatore Polito,nan,85.0,6,5,2,2,0,0
+646688,Universidad Nacional de Colombia,,271.0,W-QLmREAAAAJ,{'indices'},nan,Karen Lange-Morales,nan,162.0,8,7,8,6,0,0
+646689,"Profesor Asistente TC, Pontificia Universidad Javeriana, Bogotá",,166.0,9TFRMp4AAAAJ,{'indices'},nan,Martha Helena Saravia-Pinilla,nan,107.0,5,4,4,4,0,0
+646690,Profesor de la Escuela de Diseño Industrial (Universidad Nacional de Colombia),,74.0,ZEGzZd0AAAAJ,{'indices'},nan,"Puentes-Lagos, David Ernesto",nan,45.0,4,4,3,2,0,0
+646691,University of the Witwatersrand,,2136.0,5GFmNO4AAAAJ,{'indices'},nan,Andrew Thatcher,nan,1243.0,23,18,37,26,0,0
+646692,"Assistant professor , Pontificia Universidad Javeriana",,38.0,J1RdP1QAAAAJ,{'indices'},nan,Carolina Daza Beltrán,nan,29.0,3,2,1,1,0,0
+646693,Universitat Politècnica de Catalunya. Department of Mechanical Engineering,,1157.0,Yui4OqoAAAAJ,{'indices'},nan,Carles Riba Romeva,nan,602.0,16,11,30,14,0,0
+646694,"Profesor Asistente, Departamento de Diseño, Facultad de Arquitectura y Diseño, Pontificia Universidad Javeriana, Bogotá, Colo",,88.0,g6AVJXcAAAAJ,{'indices'},nan,Ovidio Rincón Becerra,nan,58.0,5,4,3,2,0,0
+646695,"UC San Diego Design Lab, Coursera Instructor",,9156.0,BEHcR-IAAAAJ,{'indices'},nan,Scott Klemmer,nan,4037.0,41,32,84,56,0,0
+646696,"Director, Center for Microbiome Innovation; Professor, Pediatrics, Bioengineering and CSE, UCSD",,247671.0,_e3QL94AAAAJ,{'indices'},nan,Rob Knight,nan,183182.0,197,175,590,554,0,0
+646697,"Research Engineer, Adobe",,138.0,4pHDLy0AAAAJ,{'indices'},nan,C. Ailie Fraser,nan,135.0,7,7,6,6,0,0
+646698,Travr.se,,84.0,MotKyQcAAAAJ,{'indices'},nan,Catherine M. Hicks,nan,78.0,4,4,3,3,0,0
+646699,University of Illinois at Urbana-Champaign,,1443.0,h5ZyE5wAAAAJ,{'indices'},nan,Tianyin Xu,nan,1107.0,21,16,32,25,0,0
+646700,"Assistant Professor of Computer Science, Carnegie Mellon University",,1530.0,ZDatV6MAAAAJ,{'indices'},nan,Chinmay Kulkarni,nan,1098.0,17,15,21,16,0,0
+646701,"Professor of Computer Science, Harvard University",,7122.0,MnnERiQAAAAJ,{'indices'},nan,Krzysztof Gajos,nan,3879.0,44,34,74,62,0,0
+646702,"Neurologist, Computer Scientist, Massachusetts General Hospital, Harvard Medical School",,6799.0,zY6s1TsAAAAJ,{'indices'},nan,Anoopum S. Gupta,nan,3553.0,33,22,102,61,0,0
+646703,"Institut Polytechnique de Paris, Institut Mines-Telecom, Telecom SudParis",,5067.0,z_-5wSkAAAAJ,{'indices'},nan,Noel Crespi,nan,3520.0,34,28,132,76,0,0
+646704,France Telecom - Orange,,201.0,bBugQR8AAAAJ,{'indices'},nan,Nassim Laga,nan,55.0,9,4,9,0,0,0
+646705,Founder/DotsHook,,225.0,dEJr8okAAAAJ,{'indices'},nan,Sivasothy SHANMUGALINGAM,nan,134.0,8,3,5,3,0,0
+646706,,,11667.0,IbsODesAAAAJ,{'indices'},nan,Martin Tyas,nan,3579.0,55,28,155,81,0,0
+646707,"Professor of Extractive Metallurgy and Metals Recycling, Swinburne University of Technology",,2077.0,p6P73h0AAAAJ,{'indices'},nan,M Akbar RHAMDHANI,nan,1566.0,23,18,56,51,0,0
+646708,"Professor of Engineering, Swinburne University of Technology",,3296.0,v-_Eka0AAAAJ,{'indices'},nan,Geoffrey A. Brooks,nan,2237.0,31,24,86,70,0,0
+646709,University of Wollongong,,1652.0,AypIOVgAAAAJ,{'indices'},nan,"Monaghan, B.J.",nan,1016.0,24,18,57,42,0,0
+646710,Senior Lecturer at Macquarie University,,1918.0,7v6O4M0AAAAJ,{'indices'},nan,Nazmul Huda,nan,1764.0,24,23,47,47,0,0
+646711,"Scientist, CSIRO",,2624.0,iUht9sYAAAAJ,{'indices'},nan,Nawshad Haque,nan,2074.0,25,23,46,36,0,0
+646712,"CSIRO, Fluids Process Modelling",,1264.0,Ch8hBmAAAAAJ,{'indices'},nan,Peter Witt,nan,701.0,21,14,37,24,0,0
+646713,CSIRO,,697.0,T0INDAEAAAAJ,{'indices'},nan,gulizia s*,nan,501.0,14,12,17,13,0,0
+646714,CSIRO,,738.0,2vbrrJ8AAAAJ,{'indices'},nan,Darren Fraser,nan,567.0,14,12,15,12,0,0
+646715,Manisa Celal Bayar,,23.0,Wkrw3dMAAAAJ,{'indices'},nan,Ahu Celebi,nan,22.0,2,2,1,1,0,0
+646716,"Edwin G Burdette Professor of Civil Engineering, University of Tennessee",,10176.0,euQrOXgAAAAJ,{'indices'},nan,Baoshan Huang,nan,7568.0,56,48,181,167,0,0
+646717,Southeast University,,1849.0,S9IOvrcAAAAJ,{'indices'},nan,Qiao Dong,nan,1513.0,21,21,51,46,0,0
+646718,ARUP,,53.0,SvHyyugAAAAJ,{'indices'},nan,Xiaohu Fan,nan,37.0,5,4,1,1,0,0
+646719,University of Tennessee,,3474.0,L_m2caIAAAAJ,{'indices'},nan,Qiang He,nan,1738.0,36,24,62,53,0,0
+646720,"Paulette Goddard Chair, Digital Media & Learning Sciences, New York University",,12498.0,6n71IeYAAAAJ,{'indices'},nan,Jan L Plass,nan,6022.0,44,34,83,64,0,0
+646721,"The Graduate Center, CUNY",,4481.0,E_pYIzAAAAAJ,{'indices'},nan,Bruce Homer,nan,2945.0,29,23,49,37,0,0
+646722,"Professor of Computational Media, University of California Santa Cruz",,5647.0,0kVAdOIAAAAJ,{'indices'},nan,Katherine Isbister,nan,2855.0,32,26,91,65,0,0
+646723,"Professor of Computer Science, New York University",,16240.0,TGRPKRIAAAAJ,{'indices'},nan,Ken Perlin,nan,4952.0,45,28,97,65,0,0
+646724,NYU CREATE Lab,,1883.0,aWEP_QUAAAAJ,{'indices'},nan,"Elizabeth O. Hayward, PhD",nan,1395.0,12,11,13,11,0,0
+646725,Loughborough University,,111.0,XPfmxEsAAAAJ,{'indices'},nan,Dr. Andrew Johnson,nan,93.0,6,5,3,3,0,0
+646726,"Professor, University of Nottingham - Additive Manufacturing",,11722.0,E78iDZoAAAAJ,{'indices'},nan,Richard Hague,nan,9258.0,52,48,126,107,0,0
+646727,"Lecturer in Industrial and Product Design at the Loughborough Design School, Loughborough University",,471.0,0AYjnKIAAAAJ,{'indices'},nan,Dr Abby Paterson,nan,382.0,11,11,12,11,0,0
+646728,"School of Design & Creative Arts, Loughborough University",,3633.0,D-sg2JwAAAAJ,{'indices'},nan,Prof. Richard Bibb,nan,2093.0,31,23,57,48,0,0
+646729,"Professor of Mechanics of Materials, University of Nottingham",,8860.0,aCElnI0AAAAJ,{'indices'},nan,AC Long,nan,4221.0,50,33,139,88,0,0
+646730,"Professor, University of Nottingham",,9504.0,9B8LbxIAAAAJ,{'indices'},nan,Christopher Tuck,nan,8509.0,48,44,107,102,0,0
+646731,Assistant Professor at Rochester Institute of Technology,,953.0,cVEUHIIAAAAJ,{'indices'},nan,Roshan Lalintha Peiris,nan,663.0,15,11,19,13,0,0
+646732,"Art&Technology, Sogang University, Korea",,433.0,0goTlTsAAAAJ,{'indices'},nan,Yongsoon Choi,nan,258.0,10,7,10,6,0,0
+646733,Nanyang Technological University,,1031.0,Rog8AvUAAAAJ,{'indices'},nan,Owen Noel Newton Fernando,nan,583.0,17,12,34,15,0,0
+646734,"Assistant Professor, Cyprus University of Technology",,91.0,fXFbl4AAAAAJ,{'indices'},nan,Doros Polydorou,nan,54.0,5,4,3,2,0,0
+646735,Monash University Faculty of Engineering,,141.0,LTUF4ogAAAAJ,{'indices'},nan,Veronica Halupka,nan,88.0,6,5,3,2,0,0
+646736,"Adjunct Professor, Kyoto University",,4175.0,o6o5FwkAAAAJ,{'indices'},nan,Ryohei Nakatsu,nan,1178.0,29,17,75,27,0,0
+646737,University of Plymouth,,766.0,-jcQ3FkAAAAJ,{'indices'},nan,Hooman Samani,nan,524.0,15,12,24,15,0,0
+646738,"Senior Lecturer, University of Colombo School of Computing",,413.0,HT3a_VMAAAAJ,{'indices'},nan,Kasun Karunanayaka,nan,324.0,10,9,10,7,0,0
+646739,"Associate Professor, NSERC/Facebook Industrial Research Chair of Human-Machine Interaction",,9814.0,x3hvdTsAAAAJ,{'indices'},nan,Daniel Wigdor,nan,4949.0,54,40,119,99,0,0
+646740,"Director, Facebook Reality Labs",,10914.0,BXCGQXwAAAAJ,{'indices'},nan,Hrvoje Benko,nan,6588.0,57,47,133,118,0,0
+646741,"Assistant Professor, CMU HCII",,472.0,DBkNLiwAAAAJ,{'indices'},nan,David Lindlbauer,nan,419.0,13,12,16,16,0,0
+646742,"Assistant Professor, CMU HCII",,709.0,pP920LoAAAAJ,{'indices'},nan,Alexandra Ion,nan,658.0,11,11,11,11,0,0
+646743,"Media Interaction Lab, University of Applied Sciences Upper Austria",,4982.0,6b6-UeQAAAAJ,{'indices'},nan,Michael Haller,nan,2150.0,38,25,106,58,0,0
+646744,"Associate Professor of Computer Science, National University of Singapore",,3077.0,VfdLjCcAAAAJ,{'indices'},nan,Shengdong Zhao,nan,1708.0,30,25,54,48,0,0
+646745,"Researcher, Media Interaction Lab",,152.0,QvwKzS8AAAAJ,{'indices'},nan,Roland Aigner,nan,121.0,5,5,3,3,0,0
+646746,Singapore Polytechnic,,172.0,RasKsJAAAAAJ,{'indices'},nan,Jose Sepulveda,nan,61.0,6,4,5,3,0,0
+646747,"School of Creative Media, City University of Hong Kong",,358.0,VbajcAMAAAAJ,{'indices'},nan,Kening Zhu,nan,284.0,12,10,14,10,0,0
+646748,UNSW Sydney,,6.0,itV5SQUAAAAJ,{'indices'},nan,Belinda J Dunstan,nan,6.0,1,1,0,0,0,0
+646749,"Graduate Student, Dept. of Computer Science, University of Illinois, Urbana Champaign",,35.0,IJXtP88AAAAJ,{'indices'},nan,Manoj Krishnan,nan,14.0,2,2,1,0,0,0
+646750,National University of Singapore,,1062.0,IJt9bA4AAAAJ,{'indices'},nan,Natalie Pang,nan,938.0,15,15,26,22,0,0
+646751,RMIT University,,315.0,rkVt1QMAAAAJ,{'indices'},nan,Troy Innocent,nan,167.0,7,6,5,2,0,0
+646752,Swinburne University of Technology,,179.0,iwHjr60AAAAJ,{'indices'},nan,Brad Elphinstone,nan,178.0,9,8,8,8,0,0
+646753,Old Dominion University,,96.0,369I_-8AAAAJ,{'indices'},nan,Marc A. Ouellette,nan,58.0,5,4,2,0,0,0
+646754,"Professor of Rhetoric and Interactive Media & Game Development, WPI",,497.0,MhgvDYcAAAAJ,{'indices'},nan,Jennifer deWinter,nan,374.0,15,12,19,16,0,0
+646755,"associate professor of english, utah state university",,355.0,xW2yvfMAAAAJ,{'indices'},nan,ryan m moeller,nan,182.0,13,9,13,8,0,0
+646756,Swinburne University of Technologuy,,162.0,wUF8Xn8AAAAJ,{'indices'},nan,Mark Finn,nan,44.0,6,4,5,1,0,0
+646757,"Professor of Sociology, University of Salford",,3005.0,dt2JnCkAAAAJ,{'indices'},nan,Garry Crawford,nan,1367.0,20,16,26,21,0,0
+646758,"Sociologist, PhD",,309.0,zYZbpWUAAAAJ,{'indices'},nan,Daniel Muriel,nan,274.0,8,7,7,6,0,0
+646759,University of Arizona,,636.0,1cyTLh8AAAAJ,{'indices'},nan,Ken S. McAllister,nan,264.0,13,9,13,5,0,0
+646760,"Professor für Medienwissenschaft, HBK Braunschweig",,566.0,9-aPcCcAAAAJ,{'indices'},nan,Rolf Nohr,nan,222.0,12,7,19,4,0,0
+646761,"Center of Excellence: Game Culture Studies, Tampere University",,2089.0,S8v6H2EAAAAJ,{'indices'},nan,Thomas Apperley,nan,1293.0,17,15,29,23,0,0
+646762,,,422.0,DBcfPdEAAAAJ,{'indices'},nan,Alison Gazzard,nan,256.0,10,10,10,10,0,0
+646763,"assistant professor of innovation, entrepreneurship",,418.0,HlhHcIcAAAAJ,{'indices'},nan,Paola Pisano,nan,377.0,9,9,9,9,0,0
+646764,"Full Professor, Politecnico di Milano",,244.0,76KhE60AAAAJ,{'indices'},nan,Lucia Rampino,nan,160.0,6,5,3,2,0,0
+646765,"Professor of Strategic Management, University of Westminster",,1428.0,OYzmi84AAAAJ,{'indices'},nan,Alison Rieple,nan,818.0,18,16,29,20,0,0
+646766,"Enseignant / Chercheur, Université Paris Nanterre",,165.0,q7dS3I8AAAAJ,{'indices'},nan,Kamel Ben Youssef,nan,144.0,5,5,5,4,0,0
+646767,"Full Professor, PhD, University of Jaen, Department of Engineering Graphics, Design and Projects",,890.0,EVsZOJUAAAAJ,{'indices'},nan,José Ignacio Rojas Sola,nan,494.0,14,11,34,14,0,0
+646768,SINTEF,,3213.0,0Gd2uYMAAAAJ,{'indices'},nan,Asbjørn Følstad,nan,2344.0,26,22,45,35,0,0
+646769,"Professor, University of Oslo & Chief Scientist, SINTEF",,5180.0,lOSmypYAAAAJ,{'indices'},nan,Petter Bae Brandtzaeg,nan,3236.0,31,26,54,39,0,0
+646770,University of Oslo,,868.0,kKkwCfgAAAAJ,{'indices'},nan,Alma Leora Culén,nan,451.0,16,11,28,14,0,0
+646771,Østfold University College,,437.0,Kc2kQWQAAAAJ,{'indices'},nan,lin prøitz,nan,254.0,8,6,8,5,0,0
+646772,IT University of Copenhagen,,276.0,UhP1dScAAAAJ,{'indices'},nan,Anders Sundnes Løvlie,nan,175.0,11,9,12,5,0,0
+646773,Associate professor in journalism at Oslo Metropolitan University,,449.0,kkzo3ecAAAAJ,{'indices'},nan,Karoline Andrea Ihlebæk,nan,378.0,12,12,14,13,0,0
+646774,Interaction designer and design researcher,,123.0,X7jSH98AAAAJ,{'indices'},nan,Sigrun Lurås,nan,107.0,8,7,6,5,0,0
+646775,Oslo Metropolitan University,,849.0,ZEGkfbcAAAAJ,{'indices'},nan,dagny stuedahl,nan,388.0,17,11,27,15,0,0
+646776,"Professor of Design, RMIT University",,279.0,Z_-CLvcAAAAJ,{'indices'},nan,Laurene Vaughan,nan,158.0,8,6,6,3,0,0
+646777,University of Calgary,,4933.0,2G4p7e4AAAAJ,{'indices'},nan,Simon S. Park,nan,2767.0,29,24,76,62,0,0
+646778,"Associate Professor, Purdue University",,3260.0,ROylyrwAAAAJ,{'indices'},nan,Martin Byung-Guk Jun,nan,2094.0,28,25,56,47,0,0
+646779,Scientist - Polymer Materials Developer,,972.0,1RC1JN4AAAAJ,{'indices'},nan,Mehdi Mahmoodi,nan,673.0,13,11,16,12,0,0
+646780,"Associate Professor and Canada Research Chair in Nano Sensing Systems, Mechanical and Manufacturing",,1007.0,HfGWhG8AAAAJ,{'indices'},nan,Seonghwan (Sam) Kim,nan,584.0,18,13,33,18,0,0
+646781,"RBC Chair Nursing Oncology and Education, Princess Margret Cancer Care",,6814.0,nzSGem4AAAAJ,{'indices'},nan,Doris Howell,nan,4486.0,45,33,122,101,0,0
+646782,Princess Margaret Cancer Centre/University of Toronto,,10911.0,OfzKFSkAAAAJ,{'indices'},nan,Monika K. Krzyzanowska,nan,7238.0,46,38,115,102,0,0
+646783,"Adjunct Professor, University of Toronto",,485.0,64EiCA0AAAAJ,{'indices'},nan,Omid Shabestari,nan,236.0,9,8,9,5,0,0
+646784,Analog Devices Inc. | Univ. of Michigan | IIT Hyderabad,,264.0,gqjiQjAAAAAJ,{'indices'},nan,Sajal S Singh,nan,254.0,10,10,11,11,0,0
+646785,Ferdowsi University of Mashhad,,796.0,5FkiJd-ZasQC,{'indices'},nan,Hamid Moeenfard,nan,492.0,13,10,21,12,0,0
+646786,"Professor of Mechanical Engineering, Sharif University of Technology",,6480.0,WnN7Q6oAAAAJ,{'indices'},nan,Mohamad Taghi Ahmadian,nan,3684.0,38,29,112,90,0,0
+646787,"Assistant Research Scientist, University of Michigan",,587.0,oPaQ1lwAAAAJ,{'indices'},nan,Jae Yoong Cho,nan,375.0,14,11,14,13,0,0
+646788,University of Michigan,,186.0,SVe8xcQAAAAJ,{'indices'},nan,Mahdi M Sadeghi,nan,95.0,8,6,6,3,0,0
+646789,"Professor of EECS, University of Michigan",,26912.0,lZSTLr0AAAAJ,{'indices'},nan,Khalil Najafi,nan,6769.0,79,39,362,177,0,0
+646790,Professor of Transformative Education,,7352.0,xoOrm_IAAAAJ,{'indices'},nan,Peter Charles Sinclair Taylor,nan,2157.0,36,21,85,40,0,0
+646791,Professor University of Western Australia,,3161.0,77a_rl0AAAAJ,{'indices'},nan,Vaille Dawson,nan,1556.0,27,20,50,31,0,0
+646792,Kerrall Consulting,,242.0,_U6HSn8AAAAJ,{'indices'},nan,Allan Herrmann,nan,23.0,8,2,8,0,0,0
+646793,"Senior Lecturer, School of the Arts and Media, University of New South Wales, Australia",,719.0,MRp0AW8AAAAJ,{'indices'},nan,Brigid Costello,nan,311.0,12,11,15,11,0,0
+646794,"Dept of Computing, Macquarie University",,729.0,zETJIuoAAAAJ,{'indices'},nan,Malcolm Ryan,nan,337.0,12,9,16,8,0,0
+646795,"Research Professor, University of Central Florida",,41333.0,EwtQJBAAAAAJ,{'indices'},nan,Gerald Matthews,nan,16548.0,96,60,358,236,0,0
+646796,University of Central Florida,,194.0,7gaSjs8AAAAJ,{'indices'},nan,Jinchao Lin,nan,194.0,10,10,10,10,0,0
+646797,Air Force Research Laboratory,,1854.0,MTlMxosAAAAJ,{'indices'},nan,Gregory Funke,nan,1142.0,20,17,43,33,0,0
+646798,Air Force Research Lab,,2414.0,fob4-HkAAAAJ,{'indices'},nan,Gloria Calhoun,nan,862.0,21,15,50,24,0,0
+646799,"Founder, TBA",,25661.0,9EheoWAAAAAJ,{'indices'},nan,Richard D Roberts,nan,10830.0,70,50,159,116,0,0
+646800,"Assistant Professor, University of Alabama",,358.0,TYXPpusAAAAJ,{'indices'},nan,Kimberly Stowers,nan,355.0,11,11,11,11,0,0
+646801,U.S. Army Research Laboratory,,5163.0,gC88o24AAAAJ,{'indices'},nan,Jessie Y.C. Chen,nan,3698.0,28,23,78,54,0,0
+646802,Army Research Laboratory,,698.0,zLFCOWUAAAAJ,{'indices'},nan,Catherine Neubauer,nan,590.0,10,10,10,10,0,0
+646803,U.S. Army Research Laboratory,,346.0,pmWVou8AAAAJ,{'indices'},nan,Shan Lakhmani,nan,335.0,11,11,12,11,0,0
+646804,"Modeling & Simulation Ph.D. Student, University of Central Florida",,62.0,LuRBAzgAAAAJ,{'indices'},nan,Olivia B. Newton,nan,59.0,3,3,2,1,0,0
+646805,Principal Cognitive Engineer MITRE,,130.0,h1UPXOgAAAAJ,{'indices'},nan,Nicholas Kasdaglis PhD,nan,122.0,6,6,5,4,0,0
+646806,University of Central Florida,,34.0,sEe6qWsAAAAJ,{'indices'},nan,Valarie A. Yerdon,nan,34.0,3,3,1,1,0,0
+646807,,,8.0,h1WrfFcAAAAJ,{'indices'},nan,Avonie Parchment,nan,8.0,1,1,0,0,0,0
+646808,University of Central Florida,,353.0,sPqOtkIAAAAJ,{'indices'},nan,Grace Teo,nan,248.0,10,8,11,7,0,0
+646809,,,1576.0,B1nQe0oAAAAJ,{'indices'},nan,Linda Elliott,nan,557.0,20,11,44,16,0,0
+646810,phd tu delft,,298.0,Vy8HO4MAAAAJ,{'indices'},nan,Ekim Tan,nan,219.0,5,4,3,3,0,0
+646811,"Professor, Department of Civil Engineering, Western Norway University of Applied Sciences",,1100.0,IKGOJbUAAAAJ,{'indices'},nan,Akkelies van Nes,nan,714.0,17,14,33,22,0,0
+646812,Universiteit van Amsterdam,,2026.0,BQsazWcAAAAJ,{'indices'},nan,Marco te Brömmelstroet,nan,1508.0,24,23,38,35,0,0
+646813,"Florida Atlantic University, University of Ulster",,52030.0,-VlkX4YAAAAJ,{'indices'},nan,J A Scott Kelso,nan,10277.0,113,49,316,170,0,0
+646814,"MD,PhD Candidate",,513.0,oCqSdoMAAAAJ,{'indices'},nan,Alexander Jares,nan,467.0,10,9,10,9,0,0
+646815,Postdoc， Stony Brook University,,205.0,A1t8Ou4AAAAJ,{'indices'},nan,Xi CHEN,nan,204.0,7,7,7,7,0,0
+646816,Macau University of Science and Technology,,4429.0,gW8-C7EAAAAJ,{'indices'},nan,Elaine Lai-Han Leung,nan,2869.0,32,27,77,73,0,0
+646817,Stony Brook University,,4536.0,ogk7qj0AAAAJ,{'indices'},nan,J Peter Gergen,nan,555.0,34,14,47,24,0,0
+646818,"IDEKO, Member of BRTA",,440.0,m1-Tf5IAAAAJ,{'indices'},nan,David Barrenetxea,nan,261.0,12,9,14,8,0,0
+646819,"Professor, University of Stuttgart",,2604.0,p8pjnbcAAAAJ,{'indices'},nan,C. David Remy,nan,1919.0,27,23,56,50,0,0
+646820,"Professor of Biomedical Physiology & Kinesiology, Simon Fraser University",,6672.0,bCDdLsUAAAAJ,{'indices'},nan,Max Donelan,nan,3216.0,31,27,45,42,0,0
+646821,Queen's University,,601.0,WkxrLQYAAAAJ,{'indices'},nan,Jessica Selinger,nan,503.0,9,9,9,9,0,0
+646822,"Senior Scientist, National Renewable Energy Laboratory",,1658.0,P0zm0Q4AAAAJ,{'indices'},nan,Guido Bender,nan,996.0,24,20,48,38,0,0
+646823,"Professor of Mechanical Engineering, EPFL",,2707.0,7chTD9UAAAAJ,{'indices'},nan,Jamie Paik,nan,2372.0,30,28,58,55,0,0
+646824,Queen's University,,346.0,sD4p-n4AAAAJ,{'indices'},nan,Matthew A Robertson,nan,346.0,7,7,5,5,0,0
+646825,"Associate Professor of Kinesiology, University of Michigan",,1709.0,5pEJBM0AAAAJ,{'indices'},nan,Deanna Gates,nan,1213.0,22,20,34,32,0,0
+646826,Eindhoven University of Technology,,2079.0,zeFMckYAAAAJ,{'indices'},nan,Dan Lockton,nan,1326.0,20,18,37,28,0,0
+646827,"TU Delft || Principal investigator ParticipatoryCityMaking.nl, DESIGNSCAPES.eu, LDE PortCityFutures",,2760.0,HYUtrGkAAAAJ,{'indices'},nan,Ingrid Mulder,nan,1337.0,27,18,56,30,0,0
+646828,University of Colorado,,11207.0,aW3k5WMAAAAJ,{'indices'},nan,Max Boykoff,nan,6617.0,38,34,66,61,0,0
+646829,Oslo Metropolitan University,,581.0,9dm9SBwAAAAJ,{'indices'},nan,Erik Bohemia,nan,276.0,12,9,17,5,0,0
+646830,"Lecturer in Circular Economy and Data Analytics, University of Bradford",,237.0,XgnCV2cAAAAJ,{'indices'},nan,Simon Mair,nan,237.0,7,7,5,5,0,0
+646831,"School of Design, Aalto University, Finland",,1305.0,oABCHL4AAAAJ,{'indices'},nan,İdil Gaziulusoy,nan,1177.0,15,14,22,19,0,0
+646832,NTNU – Norwegian University of Science and Technology,,525.0,8aj76uUAAAAJ,{'indices'},nan,Ida Nilstad Pettersen,nan,404.0,13,12,16,12,0,0
+646833,"Professor in Design, College of Art Media and Design, Art + Design, Director of the Center for",,674.0,f7lRy6cAAAAJ,{'indices'},nan,Paolo Ciuccarelli,nan,476.0,12,10,17,10,0,0
+646834,researcher & design lead @ médialab | SciencesPo,,253.0,-HbvlJdY-gMC,{'indices'},nan,donato ricci,nan,174.0,7,6,4,3,0,0
+646835,"Senior Researcher, Trend Micro Inc.",,2793.0,ys0NdQQAAAAJ,{'indices'},nan,Federico Maggi,nan,2103.0,29,24,48,41,0,0
+646836,Politecnico di Milano,,3851.0,O2ndaqAAAAAJ,{'indices'},nan,Stefano Zanero,nan,2301.0,32,25,61,43,0,0
+646837,Professor of Speculative and Game Design at Lancaster University,,3701.0,5BWlhhgAAAAJ,{'indices'},nan,Paul Coulton,nan,1847.0,31,22,97,55,0,0
+646838,University of Central Lancashire,,386.0,HC2C3ooAAAAJ,{'indices'},nan,Dr Mark Lochrie,nan,238.0,9,7,9,6,0,0
+646839,"Senior Lecturer in Geographical Information Science, The University of Manchester",,339.0,vkm15hsAAAAJ,{'indices'},nan,Jonny Huck,nan,326.0,11,11,11,11,0,0
+646840,"PhD Student, LICA, Lancaster University",,136.0,rpcXF1AAAAAJ,{'indices'},nan,Dan Burnett,nan,100.0,8,5,7,5,0,0
+646841,"EEECS, Queen's University Belfast, UK; SCC, Lancaster University, UK.",,876.0,iyusNrsAAAAJ,{'indices'},nan,Maria Angela Ferrario,nan,634.0,17,13,29,20,0,0
+646842,Lancaster University,,580.0,urTiKJMAAAAJ,{'indices'},nan,Will Simm,nan,468.0,13,12,17,14,0,0
+646843,Lancaster University,,1036.0,AVAe7CYAAAAJ,{'indices'},nan,Emmanuel Tsekleves,nan,663.0,16,13,24,17,0,0
+646844,CSIRO's Data61,,9270.0,igMJAZwAAAAJ,{'indices'},nan,Jon Whittle,nan,4021.0,43,27,107,60,0,0
+646845,"Lancaster University,",,333.0,l9UsuMIAAAAJ,{'indices'},nan,Dr Stephen Forshaw,nan,309.0,9,8,9,7,0,0
+646846,Lancaster University,,516.0,a4-5WWoAAAAJ,{'indices'},nan,Ian Smith,nan,446.0,14,12,18,17,0,0
+646847,Lancaster University,,853.0,ieJKSxUAAAAJ,{'indices'},nan,Joseph Lindley,nan,816.0,15,15,22,22,0,0
+646848,BBC R&D,,64.0,rgjUaFgAAAAJ,{'indices'},nan,Ian Forrester,nan,56.0,5,4,2,2,0,0
+646849,University of the Arts London,,47.0,SBUqUjAAAAAJ,{'indices'},nan,Lara Salinas,nan,46.0,4,4,1,1,0,0
+646850,University of Primorska,,294.0,_g9YpKwAAAAJ,{'indices'},nan,Klen Čopič Pucihar,nan,227.0,9,9,9,8,0,0
+646851,Lancaster University,,55.0,Nw2XuDMAAAAJ,{'indices'},nan,Andy Darby,nan,55.0,4,4,1,1,0,0
+646852,Professor of GIScience,,2749.0,Q63KvFQAAAAJ,{'indices'},nan,(James) Duncan Whyatt,nan,1684.0,25,19,50,29,0,0
+646853,University of Nottingham,,7979.0,LX_P5GYAAAAJ,{'indices'},nan,Professor Andy Crabtree,nan,2669.0,45,30,92,65,0,0
+646854,"Grantham Research Institute, LSE",,620.0,-KNLQekAAAAJ,{'indices'},nan,Candice Howarth,nan,558.0,14,12,18,15,0,0
+646855,,,422.0,DBcfPdEAAAAJ,{'indices'},nan,Alison Gazzard,nan,256.0,10,10,10,10,0,0
+646856,"Lecturer, Lancaster University",,492.0,aAlHn1UAAAAJ,{'indices'},nan,Benjamin Neimark,nan,379.0,11,10,12,10,0,0
+646857,"Lecturer  - Visual Communication Design, Semarang State University",,219.0,UUMv0-YAAAAJ,{'indices'},nan,RAHINA NUGRAHANI,nan,195.0,5,5,2,2,0,0
+646858,Universitas Negeri Semarang,,46.0,EXkJnwYAAAAJ,{'indices'},nan,Nadia Sigi Prameswari,nan,45.0,4,4,1,1,0,0
+646859,Universitas Negeri Semarang,,55.0,XGci_TkAAAAJ,{'indices'},nan,Meina Febriani,nan,52.0,4,4,2,2,0,0
+646860,Universitas Negeri Semarang,,126.0,PxTTIsYAAAAJ,{'indices'},nan,Eko Sugiarto,nan,124.0,8,8,6,6,0,0
+646861,UNIVERSITAS NEGERI SEMARANG,,25.0,VRZaHZoAAAAJ,{'indices'},nan,RATIH AYU PRATIWININDYA,nan,25.0,3,3,0,0,0,0
+646862,Telkom University,,8.0,EgddT48AAAAJ,{'indices'},nan,"Arry Mustikawan BDes., M.Ds",nan,8.0,2,2,0,0,0,0
+646863,Universitas Negeri Semarang,,376.0,pJvOZncAAAAJ,{'indices'},nan,Sucihatiningsih Dian Wisika Prajanti,nan,335.0,10,10,11,10,0,0
+646864,Universitas Negeri Semarang,,197.0,Fe61wuoAAAAJ,{'indices'},nan,Suwito Eko Pramono,nan,183.0,6,6,6,6,0,0
+646865,Universitas Negeri Semarang,,14.0,-tNO_-IAAAAJ,{'indices'},nan,Lulut Indrianingrum,nan,13.0,3,3,0,0,0,0
+646866,"Professor, Aalborg University Business School",,2736.0,yWAFATIAAAAJ,{'indices'},nan,Christian Nielsen,nan,1640.0,25,23,47,40,0,0
+646867,"Assistant Professor, Università Politecnica delle Marche",,338.0,zT0dn1YAAAAJ,{'indices'},nan,Marco Montemari,nan,297.0,10,10,12,10,0,0
+646868,"Professor of Accounting and Finance, Macquarie Business School, Macquarie University",,12299.0,zKFxle4AAAAJ,{'indices'},nan,Dr. John Dumay,nan,9414.0,46,43,103,96,0,0
+646869,"Associate Professor, Ca' Foscari University of Venice",,1517.0,3kMvyyYAAAAJ,{'indices'},nan,Maurizio Massaro,nan,1463.0,18,18,29,28,0,0
+646870,"Professor, Aalborg Universitet",,6213.0,WV96BwcAAAAJ,{'indices'},nan,Per Nikolaj Bukh,nan,1806.0,30,19,42,30,0,0
+646871,"Professor, Aalborg University",,1657.0,dHT3G-wAAAAJ,{'indices'},nan,Charles Møller,nan,815.0,20,15,32,18,0,0
+646872,"Professor of Civil Engineering, University of Arkansas",,1265.0,-eirEKQAAAAJ,{'indices'},nan,Kevin D. Hall,nan,497.0,19,12,37,15,0,0
+646873,"Oklahoma State University, University of Arkansas, University of Delaware, Applied Pavement",,1506.0,OUcKeVkAAAAJ,{'indices'},nan,Qiang Li,nan,1274.0,20,17,32,26,0,0
+646874,Louisiana Transportation Research Center,,1677.0,Y1i1eFgAAAAJ,{'indices'},nan,Zhong Wu,nan,820.0,19,15,38,17,0,0
+646875,"Department of Civil and Environmental Engineering, University of Delaware",,2715.0,t0USjq0AAAAJ,{'indices'},nan,Sue McNeil,nan,972.0,27,17,66,29,0,0
+646876,"Assistant Professor, Faculty of Architecture & Ekistics, Jamia Millia Islamia, New Delhi (Central",,17.0,dAy-uagAAAAJ,{'indices'},nan,Nitesh Dogne,nan,16.0,3,3,0,0,0,0
+646877,"Professor MITS, Gwalior",,88.0,j6ptWzAAAAAJ,{'indices'},nan,Dr. R.K Pandit,nan,80.0,4,4,3,3,0,0
+646878,"Professor of Pervasive Computing, Birkbeck College, University of London",,3637.0,hUYJNNoAAAAJ,{'indices'},nan,George Roussos,nan,1350.0,33,20,65,39,0,0
+646879,Queen Mary University of London,,2156.0,YK0-nYAAAAAJ,{'indices'},nan,Prof. Nick Bryan-Kinns,nan,1128.0,26,18,57,41,0,0
+646880,"Senior Research Fellow, Computer Science, University of Nottingham",,1277.0,2tMhmgIAAAAJ,{'indices'},nan,Joe Marshall,nan,908.0,20,16,37,27,0,0
+646881,"Programme Director and Senior Lecturer, LCC, University of the Arts London",,140.0,Ml59Js0AAAAJ,{'indices'},nan,Zoetanya Sujon,nan,60.0,6,4,5,3,0,0
+646882,Simon Fraser University,,168.0,3twLm30AAAAJ,{'indices'},nan,Frédérik Lesage,nan,138.0,7,6,4,4,0,0
+646883,"School of Computer Science, University of Nottingham",,3207.0,nxEDBWgAAAAJ,{'indices'},nan,Stuart Reeves,nan,1853.0,27,23,60,43,0,0
+646884,"University of Nottingham, HORIZON Digital Economy Research",,864.0,XloIJjYAAAAJ,{'indices'},nan,Ansgar Koene,nan,438.0,16,12,23,15,0,0
+646885,The University of Edinburgh,,1948.0,xQGbSfMAAAAJ,{'indices'},nan,Michael Rovatsos,nan,736.0,22,11,42,12,0,0
+646886,PhD Student at Politecnico di Milano,,310.0,0-bQkfwAAAAJ,{'indices'},nan,Sofia Ceppi,nan,171.0,9,7,9,6,0,0
+646887,"Research Fellow, University of Nottingham",,83.0,m5xgThkAAAAJ,{'indices'},nan,Liz Dowthwaite,nan,83.0,5,5,2,2,0,0
+646888,"Professor of Entrepreneurship and Strategic Foresight, University of Lincoln, UK",,2043.0,WZBg-7sAAAAJ,{'indices'},nan,Ted Fuller,nan,709.0,20,13,37,18,0,0
+646889,HSAA & Mixed Reality Lab Nottingham,,1935.0,gD6OCAUAAAAJ,{'indices'},nan,Dr Holger Schnädelbach,nan,796.0,23,14,41,22,0,0
+646890,"Research Fellow, Mixed Reality Lab, University of Nottingham",,166.0,2Wr88hwAAAAJ,{'indices'},nan,Jocelyn Spence,nan,145.0,9,8,7,5,0,0
+646891,"Kookmin University, Loughborough University",,64.0,gBzvoicAAAAJ,{'indices'},nan,Hyosun Kwon,nan,52.0,5,4,3,2,0,0
+646892,"Professor of Computer Science, University of Nottingham",,26350.0,5PUo2n8AAAAJ,{'indices'},nan,Chris Greenhalgh,nan,3372.0,59,27,151,64,0,0
+646893,"Associate Professor, Computer Science, University of Nottingham",,3186.0,W0bH9IQAAAAJ,{'indices'},nan,Boriana Koleva,nan,1091.0,29,18,46,29,0,0
+646894,University of Nottingham,,323.0,sNAu67UAAAAJ,{'indices'},nan,adrian hazzard,nan,302.0,11,11,14,13,0,0
+646895,Blast Theory,,2179.0,kC_ZZbsAAAAJ,{'indices'},nan,Matt Adams,nan,583.0,18,12,25,16,0,0
+646896,The University of Nottingham,,21775.0,80XCmMgAAAAJ,{'indices'},nan,steve benford,nan,5803.0,73,36,276,141,0,0
+646897,"Associate Professor Mental Health & Digital Technology, NHIR Biomedical Research Centre,The",,756.0,3OCysYwAAAAJ,{'indices'},nan,Elvira Perez vallejos,nan,415.0,9,8,9,8,0,0
+646898,Trinity College Dublin,,156.0,_fI0zIIAAAAJ,{'indices'},nan,Conor McGinn,nan,148.0,7,7,4,3,0,0
+646899,Trinity College Dublin,,2852.0,AZQtUZ4AAAAJ,{'indices'},nan,G.E. O'Donnell,nan,2055.0,26,21,44,37,0,0
+646900,"Associate Professor, School of Mechanical and Manufacturing Engineering, Dublin City University",,932.0,ugnERyAAAAAJ,{'indices'},nan,Paul Young,nan,398.0,13,10,15,10,0,0
+646901,Imperial College London,,44.0,PmpjruUAAAAJ,{'indices'},nan,Aran Sena,nan,44.0,4,4,2,2,0,0
+646902,NVIDIA Research,,221.0,TCYAoF8AAAAJ,{'indices'},nan,Karl Van Wyk,nan,218.0,9,9,8,7,0,0
+646903,National Instiute of Standards and Technology,,2505.0,awNOAaYAAAAJ,{'indices'},nan,Joseph Falco,nan,1622.0,18,13,31,23,0,0
+646904,"Department of Mechanical, Manufacturing and Biomedical Engineering, School of Engineering, Trinity",,848.0,KI8up_IAAAAJ,{'indices'},nan,Dr. Gareth J. Bennett,nan,684.0,16,14,30,24,0,0
 646905,"Prof. of Mathematical Analysis, Politecnico di Torino",,1157.0,NJH19-IAAAAJ,{'indices'},nan,Anita Tabacco,nan,321.0,18,11,26,13,0,0
 646906,"Assistant Professor, University College Dublin",,505.0,nw2UkdcAAAAJ,{'indices'},nan,Donal Holland,nan,461.0,11,9,12,9,0,0
 646907,"Universitetslektor i fysik, docent i fysikens didaktik, Uppsala universitet",,40.0,uF8irn4AAAAJ,{'indices'},nan,Staffan Andersson,nan,9.0,4,2,1,0,0,0
