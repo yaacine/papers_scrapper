@@ -31,7 +31,9 @@ CITATIONS_CSV_FILE = 'scripts/V1.0.2/datasets/citations/citations.csv'
 COUNTER_CONFIG_FILE = "scripts/V1.0.2/datasets/counter.ini"
 
 NB_MAX_PAPERS_PER_AUTHOR = 10
+
 NB_MAX_CITATIONS_PER_PAPERS = 10
+
 
 
 def get_papers_for_author(author_id):
